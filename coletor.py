@@ -33,15 +33,26 @@ TERMOS_EXCLUSAO = [
     "derrota do governo", "investigado", "fraude", "oposição critica", "piora aprovação"
 ]
 
-# Imagens de reserva variadas e temáticas em alta definição
+# Imagens jornalísticas de apoio ricas em contexto (evitam logos feios)
 IMAGENS_PADRAO = {
     "eleicoes": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
     "economia": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
     "social": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
     "direitos": "https://images.unsplash.com/photo-1531206715517-5c0ba140b2b8?w=800&q=80",
     "ambiente": "https://images.unsplash.com/photo-1448375240586-882707db888b?w=800&q=80",
-    "geral": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80"
+    "geral": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80"
 }
+
+# Lista de imagens ou logotipos que NÃO devem ser aceitos como fotos
+IMAGENS_BLOQUEADAS = [
+    "agenciabrasil", "logo", "padrao", "placeholder", "default", "ebc-logo", "share_image", "avatar"
+]
+
+def eh_imagem_valida(url):
+    if not url or not url.startswith("http") or url.endswith(".ico") or url.endswith(".svg"):
+        return False
+    url_lower = url.lower()
+    return not any(bloq in url_lower for bloq in IMAGENS_BLOQUEADAS)
 
 def formatar_data(data_rfc):
     agora = datetime.now(FUSO_BRASILIA)
@@ -64,24 +75,28 @@ def formatar_data(data_rfc):
     except Exception:
         return agora.strftime("%Y-%m-%d"), "Recente", 0
 
-def buscar_og_image(url_noticia):
-    """Acessa a página original da reportagem e extrai a imagem real (og:image)."""
+def buscar_imagem_real(url_noticia):
+    """Extrai fotos reais descartando logos e banners genéricos de veículos."""
     try:
         req = urllib.request.Request(url_noticia, headers=HEADERS)
         with urllib.request.urlopen(req, timeout=3.5) as resp:
-            # Lê apenas os primeiros 50KB da página onde ficam as meta tags
-            html_parcial = resp.read(50000).decode('utf-8', errors='ignore')
+            html_parcial = resp.read(60000).decode('utf-8', errors='ignore')
             
-            # Procura por <meta property="og:image" content="..."
+            # 1. Procura og:image
             match = re.search(r'<meta[^>]+(?:property|name)=["\'](?:og:image|twitter:image)["\'][^>]+content=["\']([^"\']+)["\']', html_parcial, re.IGNORECASE)
             if not match:
-                # Variação com content antes de property
                 match = re.search(r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+(?:property|name)=["\'](?:og:image|twitter:image)["\']', html_parcial, re.IGNORECASE)
             
             if match:
                 url_img = match.group(1).strip()
-                if url_img.startswith("http") and not url_img.endswith(".ico"):
+                if eh_imagem_valida(url_img):
                     return url_img
+
+            # 2. Se a og:image foi bloqueada por ser logotipo, procura a 1ª foto com tag <img> real da notícia
+            fotos_corpo = re.findall(r'<img[^>]+src=["\']([^"\']+\.(?:jpg|jpeg|png|webp)[^"\']*)["\']', html_parcial, re.IGNORECASE)
+            for f in fotos_corpo:
+                if eh_imagem_valida(f):
+                    return f
     except Exception:
         pass
     return None
@@ -89,12 +104,16 @@ def buscar_og_image(url_noticia):
 def extrair_imagem_rss(item_elem, texto_html):
     enc = item_elem.find("enclosure")
     if enc is not None and enc.attrib.get("type", "").startswith("image"):
-        return enc.attrib.get("url")
+        url = enc.attrib.get("url")
+        if eh_imagem_valida(url):
+            return url
     
     if texto_html:
         match = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', texto_html, re.IGNORECASE)
         if match:
-            return match.group(1)
+            url = match.group(1)
+            if eh_imagem_valida(url):
+                return url
     return None
 
 def classificar_categoria(texto):
@@ -137,21 +156,9 @@ def extrair_veiculo(titulo, veiculo_padrao="Redação"):
         return partes[0].strip(), partes[1].strip()
     return titulo.strip(), veiculo_padrao
 
-# 1. Carregar histórico anterior
-historico = []
+novas = []
 titulos_existentes = []
 links_existentes = set()
-
-if os.path.exists(ARQUIVO_JSON):
-    try:
-        with open(ARQUIVO_JSON, "r", encoding="utf-8") as f:
-            historico = json.load(f)
-            links_existentes = {item.get("link") for item in historico if "link" in item}
-            titulos_existentes = [item.get("titulo", "").lower()[:35] for item in historico]
-    except Exception as e:
-        print(f"Aviso histórico: {e}")
-
-novas = []
 
 def processar_feed(url, veiculo_padrao=""):
     req = urllib.request.Request(url, headers=HEADERS)
@@ -186,14 +193,14 @@ def processar_feed(url, veiculo_padrao=""):
             regiao = classificar_regiao(f"{titulo_limpo} {resumo}")
             data_dia, tempo_str, horas_decorridas = formatar_data(pubdate)
 
-            # 1ª Tentativa: Imagem embutida no RSS
+            # 1. Tenta foto válida do feed
             img = extrair_imagem_rss(item, desc_raw)
             
-            # 2ª Tentativa: Buscar imagem real no site de origem (og:image)
+            # 2. Tenta foto da matéria descartando logos institucionais
             if not img:
-                img = buscar_og_image(link)
+                img = buscar_imagem_real(link)
 
-            # 3ª Tentativa: Imagem temática por categoria
+            # 3. Fallback inteligente temático
             if not img:
                 img = IMAGENS_PADRAO.get(cat_id, IMAGENS_PADRAO["geral"])
 
@@ -201,7 +208,7 @@ def processar_feed(url, veiculo_padrao=""):
             tempo_leitura = max(1, round(palavras / 25))
 
             novas.append({
-                "id": len(historico) + len(novas) + 1,
+                "id": len(novas) + 1,
                 "titulo": titulo_limpo,
                 "veiculo": veiculo,
                 "link": link,
@@ -218,12 +225,12 @@ def processar_feed(url, veiculo_padrao=""):
 
             links_existentes.add(link)
             titulos_existentes.append(titulo_chave)
-            if len(novas) >= 35:
+            if len(novas) >= 40:
                 break
     except Exception as e:
-        print(f"Erro ao ler feed {url[:40]}: {e}")
+        print(f"Erro ao ler feed: {e}")
 
-# Processar feeds
+# Prioriza os portais com fotos reais de qualidade primeiro
 for nome, feed in FEEDS_RSS_DIRETOS:
     processar_feed(feed, nome)
 
@@ -232,10 +239,7 @@ for busca in BUSCAS_GOOGLE:
     feed_url = f"https://news.google.com/rss/search?q={url_encoded}&hl=pt-BR&gl=BR&ceid=BR:pt-419"
     processar_feed(feed_url, "")
 
-# Recarrega dados com prioridade para as novas
-dados_finais = (novas + historico)[:120]
-
 with open(ARQUIVO_JSON, "w", encoding="utf-8") as f:
-    json.dump(dados_finais, f, ensure_ascii=False, indent=2)
+    json.dump(novas, f, ensure_ascii=False, indent=2)
 
-print(f"Sucesso: {len(novas)} novas reportagens processadas com busca real de imagem.")
+print(f"Sucesso: {len(novas)} reportagens processadas com fotos reais e sem logos!")
