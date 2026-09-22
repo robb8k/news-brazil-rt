@@ -12,10 +12,9 @@ FUSO_BRASILIA = timezone(timedelta(hours=-3))
 ARQUIVO_JSON = "noticias.json"
 
 HEADERS = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
 }
 
-# 1. Feeds Diretos de Mídia Independente e Agências Públicas
 FEEDS_RSS_DIRETOS = [
     ("Brasil de Fato", "https://www.brasildefato.com.br/feed/geral"),
     ("Agência Brasil", "https://agenciabrasil.ebc.com.br/rss/ultimasnoticias/feed.xml"),
@@ -23,26 +22,25 @@ FEEDS_RSS_DIRETOS = [
     ("Vermelho", "https://vermelho.org.br/feed/")
 ]
 
-# 2. Consultas Estruturadas no Google News com Foco em Realizações e Eleições
 BUSCAS_GOOGLE = [
     '("Governo Federal" OR "Lula" OR "Ministério") (investimento OR "novo PAC" OR "Minha Casa Minha Vida" OR emprego OR reajuste OR saúde OR SUS OR "Bolsa Família")',
     '("eleições" OR "campanha" OR "esquerda" OR "progressistas" OR "PT" OR "PSOL" OR "frente popular") (apoio OR proposta OR liderança OR avanço OR comício)',
     '("direitos trabalhistas" OR "MST" OR "movimentos sociais" OR "reforma agrária" OR "salário mínimo" OR "indígenas" OR "transição ecológica")'
 ]
 
-# Palavras-chave para descarte estrito (evitar narrativas contrárias)
 TERMOS_EXCLUSAO = [
     "escândalo", "corrupção", "crise política", "rombo", "rejeição bate recorde",
     "derrota do governo", "investigado", "fraude", "oposição critica", "piora aprovação"
 ]
 
+# Imagens de reserva variadas e temáticas em alta definição
 IMAGENS_PADRAO = {
-    "eleicoes": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=700&q=80",
-    "economia": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=700&q=80",
-    "social": "https://images.unsplash.com/photo-1577495508048-b635879837f1?w=700&q=80",
-    "direitos": "https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?w=700&q=80",
-    "ambiente": "https://images.unsplash.com/photo-1511497584788-87676104235f?w=700&q=80",
-    "geral": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=700&q=80"
+    "eleicoes": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
+    "economia": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
+    "social": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "direitos": "https://images.unsplash.com/photo-1531206715517-5c0ba140b2b8?w=800&q=80",
+    "ambiente": "https://images.unsplash.com/photo-1448375240586-882707db888b?w=800&q=80",
+    "geral": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80"
 }
 
 def formatar_data(data_rfc):
@@ -66,13 +64,33 @@ def formatar_data(data_rfc):
     except Exception:
         return agora.strftime("%Y-%m-%d"), "Recente", 0
 
-def extrair_imagem(item_elem, texto_html):
-    # Procura por enclosure
+def buscar_og_image(url_noticia):
+    """Acessa a página original da reportagem e extrai a imagem real (og:image)."""
+    try:
+        req = urllib.request.Request(url_noticia, headers=HEADERS)
+        with urllib.request.urlopen(req, timeout=3.5) as resp:
+            # Lê apenas os primeiros 50KB da página onde ficam as meta tags
+            html_parcial = resp.read(50000).decode('utf-8', errors='ignore')
+            
+            # Procura por <meta property="og:image" content="..."
+            match = re.search(r'<meta[^>]+(?:property|name)=["\'](?:og:image|twitter:image)["\'][^>]+content=["\']([^"\']+)["\']', html_parcial, re.IGNORECASE)
+            if not match:
+                # Variação com content antes de property
+                match = re.search(r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+(?:property|name)=["\'](?:og:image|twitter:image)["\']', html_parcial, re.IGNORECASE)
+            
+            if match:
+                url_img = match.group(1).strip()
+                if url_img.startswith("http") and not url_img.endswith(".ico"):
+                    return url_img
+    except Exception:
+        pass
+    return None
+
+def extrair_imagem_rss(item_elem, texto_html):
     enc = item_elem.find("enclosure")
     if enc is not None and enc.attrib.get("type", "").startswith("image"):
         return enc.attrib.get("url")
     
-    # Procura tag img no corpo html
     if texto_html:
         match = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', texto_html, re.IGNORECASE)
         if match:
@@ -119,7 +137,7 @@ def extrair_veiculo(titulo, veiculo_padrao="Redação"):
         return partes[0].strip(), partes[1].strip()
     return titulo.strip(), veiculo_padrao
 
-# Carregar histórico anterior
+# 1. Carregar histórico anterior
 historico = []
 titulos_existentes = []
 links_existentes = set()
@@ -135,7 +153,6 @@ if os.path.exists(ARQUIVO_JSON):
 
 novas = []
 
-# Função auxiliar de parsing
 def processar_feed(url, veiculo_padrao=""):
     req = urllib.request.Request(url, headers=HEADERS)
     try:
@@ -154,7 +171,6 @@ def processar_feed(url, veiculo_padrao=""):
             titulo_limpo, veiculo = extrair_veiculo(titulo_raw, veiculo_padrao or "Agência")
             titulo_chave = titulo_limpo.lower()[:35]
 
-            # Filtro semântico de exclusão
             texto_teste = f"{titulo_limpo} {desc_raw}".lower()
             if any(termo in texto_teste for termo in TERMOS_EXCLUSAO):
                 continue
@@ -169,9 +185,18 @@ def processar_feed(url, veiculo_padrao=""):
             cat_id, cat_nome = classificar_categoria(f"{titulo_limpo} {resumo}")
             regiao = classificar_regiao(f"{titulo_limpo} {resumo}")
             data_dia, tempo_str, horas_decorridas = formatar_data(pubdate)
-            img = extrair_imagem(item, desc_raw) or IMAGENS_PADRAO.get(cat_id, IMAGENS_PADRAO["geral"])
 
-            # Estimativa de leitura (palavras / 130)
+            # 1ª Tentativa: Imagem embutida no RSS
+            img = extrair_imagem_rss(item, desc_raw)
+            
+            # 2ª Tentativa: Buscar imagem real no site de origem (og:image)
+            if not img:
+                img = buscar_og_image(link)
+
+            # 3ª Tentativa: Imagem temática por categoria
+            if not img:
+                img = IMAGENS_PADRAO.get(cat_id, IMAGENS_PADRAO["geral"])
+
             palavras = len(f"{titulo_limpo} {resumo}".split())
             tempo_leitura = max(1, round(palavras / 25))
 
@@ -198,19 +223,19 @@ def processar_feed(url, veiculo_padrao=""):
     except Exception as e:
         print(f"Erro ao ler feed {url[:40]}: {e}")
 
-# Processar feeds independentes diretos
+# Processar feeds
 for nome, feed in FEEDS_RSS_DIRETOS:
     processar_feed(feed, nome)
 
-# Processar termos progressistas do Google News
 for busca in BUSCAS_GOOGLE:
     url_encoded = urllib.parse.quote(busca)
     feed_url = f"https://news.google.com/rss/search?q={url_encoded}&hl=pt-BR&gl=BR&ceid=BR:pt-419"
     processar_feed(feed_url, "")
 
+# Recarrega dados com prioridade para as novas
 dados_finais = (novas + historico)[:120]
 
 with open(ARQUIVO_JSON, "w", encoding="utf-8") as f:
     json.dump(dados_finais, f, ensure_ascii=False, indent=2)
 
-print(f"Sucesso: {len(novas)} novas matérias capturadas com filtro editorial.")
+print(f"Sucesso: {len(novas)} novas reportagens processadas com busca real de imagem.")
