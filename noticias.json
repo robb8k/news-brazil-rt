@@ -10,9 +10,9 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-09-21",
-    "hora": "Há 1h",
+    "hora": "Há 5h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 2,
@@ -25,9 +25,9 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-09-21",
-    "hora": "Há 1h",
+    "hora": "Há 6h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 3,
@@ -40,9 +40,9 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-09-21",
-    "hora": "Há 1h",
+    "hora": "Há 6h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 4,
@@ -55,9 +55,9 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-09-21",
-    "hora": "Há 2h",
+    "hora": "Há 6h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 5,
@@ -70,9 +70,9 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Sul",
     "data_dia": "2026-09-21",
-    "hora": "Há 2h",
+    "hora": "Há 7h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 6,
@@ -85,7 +85,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-09-21",
-    "hora": "Há 3h",
+    "hora": "Há 7h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -100,7 +100,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Sudeste",
     "data_dia": "2026-09-21",
-    "hora": "Há 3h",
+    "hora": "Há 7h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -115,7 +115,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-09-21",
-    "hora": "Há 3h",
+    "hora": "Há 8h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -130,7 +130,7 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-09-21",
-    "hora": "Há 3h",
+    "hora": "Há 8h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -145,9 +145,9 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-09-21",
-    "hora": "Há 2h",
+    "hora": "Há 7h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 11,
@@ -160,7 +160,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-09-21",
-    "hora": "Há 3h",
+    "hora": "Há 7h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -175,7 +175,7 @@
     "categoria_label": "✊ Direitos & Mobilização",
     "regiao": "Nacional",
     "data_dia": "2026-09-21",
-    "hora": "Há 3h",
+    "hora": "Há 8h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -190,7 +190,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Sul",
     "data_dia": "2026-09-21",
-    "hora": "Há 4h",
+    "hora": "Há 8h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -205,7 +205,7 @@
     "categoria_label": "📈 Conquistas & Economia",
     "regiao": "Norte",
     "data_dia": "2026-09-21",
-    "hora": "Há 4h",
+    "hora": "Há 9h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -220,7 +220,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-09-21",
-    "hora": "Há 5h",
+    "hora": "Há 10h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -235,7 +235,7 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-09-21",
-    "hora": "Há 6h",
+    "hora": "Há 10h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -250,7 +250,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-09-21",
-    "hora": "Há 6h",
+    "hora": "Há 10h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -265,7 +265,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-09-21",
-    "hora": "Há 6h",
+    "hora": "Há 11h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -280,9 +280,9 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-09-21",
-    "hora": "Há 2h",
+    "hora": "Há 6h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 20,
@@ -295,42 +295,12 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-09-21",
-    "hora": "Há 4h",
+    "hora": "Há 9h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
     "id": 21,
-    "titulo": "Reajustem a pobreza: Lula aumentou o valor do Bolsa Família, mas a linha de corte segue congelada",
-    "veiculo": "Estadão",
-    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOeENuemh3ZWZBVEwzYzU4bTUxeGtSQjZmR01VYjVfaEpGQUV5R0gzNzYyeG1lSnlscE5KSklTVERnSW9oS3RuN0VITkVOOTJvVHNTWlVnWTZkaEZSb1JTT2dZcC04ZDI1SnIzVE84aWUtVjRaRGpIZ1NnNnFyak9CcnlDUmUyR1RiVkNoSnEySU03N21idVZSTWJNcGs3X2JaUWdKNmNKTHVFVWpWZnFYeWZNMTVnTkVKTkdOd3BKYm1oT09PUXRoZHE4dk5hNDlHNmt0U01MaERyVklyelNjcXYzQUNqWWvSAewBQVVfeXFMUDJoWVQ4UkRYeFZrV1drdUd4V0NTMndITWlObXdrczVxVm1aM2YtMGJ2MjVEbnRheFVCMkJhY1V2NFMza2lvbzV6QWJYM2pTd2JzMUFNMjg2cUFId1VVUHUzYzg5Z3ZmOW14U1dWblpkeWNTaGwxRDIzNndabU5GT3FPamEzSDhXUGFhMTM1VW5ycW9melZrZ1BPRXRWQ2hwb3FYZmF2aWJNMG5zdmlLcWZMQzROZ1JobGo1bXFCNG9fMGp2bnlpcF9YWTdmcGdPYUNSMVpaQ0lSYVBYLVU2bjdkaFBicGZSa2EybHY?oc=5",
-    "resumo": "Reajustem a pobreza: Lula aumentou o valor do Bolsa Família, mas a linha de corte segue congelada  Estadão",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
-    "regiao": "Nacional",
-    "data_dia": "2026-09-21",
-    "hora": "Há 2h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": true
-  },
-  {
-    "id": 22,
-    "titulo": "Quaest: Lula retoma voto feminino e tem 56% entre quem recebe Bolsa Família",
-    "veiculo": "vermelho.org.br",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTTBPMmJyT29XWDRnWUtZZjV6R1R4aEFMVHlSLTdKaTVWWFlOXzUyR3h4UVRLYWtnQkZhNGJrQnJILXVZcWFORU9Lc1ZSWlJNQ1Jpb013RjM5MHR1NkN6ZXJmemNjU25kOHQ3Y1FXeDh4Y09jb3M3VGpoek5wT21jWlBEblpyMHJiYlV1dU9JSkRCWHBwMHBfdnpZMXlHQ3pHeFY5bFlPRG13cTVpSEE?oc=5",
-    "resumo": "Quaest: Lula retoma voto feminino e tem 56% entre quem recebe Bolsa Família  vermelho.org.br",
-    "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
-    "categoria": "eleicoes",
-    "categoria_label": "🗳️ Eleições & Campanhas",
-    "regiao": "Nacional",
-    "data_dia": "2026-09-21",
-    "hora": "Há 2h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": true
-  },
-  {
-    "id": 23,
     "titulo": "Lula anuncia reajuste de 15% no Bolsa Família, às vésperas da eleição",
     "veiculo": "BBC",
     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE53UWJUWUFHUlJ5UkcwQURPX19DQ1dKeldIWVpjaXp0bktWdldwUWdkYTBQYXJBVTdXalo0bk1MVldEUU9nR0M5UWU5Uzd1Q1BDa3ppcnM2Z2JQVVVRa0dYcFRtWdIBaEFVX3lxTE9kM3lzcTkzVThQOXZrU3FScXJsbFctc2MtMXN1b05vSjM3bzZtcWxtSGgzdGt4OXVkTXZuU0tlM3VlX0s4QU14WXE5ZmItcVdDWUF6bXRhSnFCMnY2UkVpTUlXd1lOU3dt?oc=5",
@@ -345,11 +315,11 @@
     "urgente": false
   },
   {
-    "id": 24,
-    "titulo": "No 64º COBEM, Ministério da Saúde aponta diretrizes para formação dos profissionais de medicina para o SUS",
-    "veiculo": "www.gov.br",
-    "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNRl9QQkJUM1NsSFhuUnB0bGpJQkxxNm45ZVc3QkdUTHNIQnBPVnNkMkRaaHhYc3d3OXEwMENBNmxQRGliQTZKVWUxRVB2UlNyUDhsTGVKZzJWQ3N3WXVUa19waTk3eThPZWI5V3RMQUxNWG55cWpZcGR0S21XbkE1MGtKd056Y2M3X3VoRUg0aWJlcm5ZQ1FndjhpdXhwajhrdS1yTDExRGxzeGdUT1duRENNZUFHQUdXTGNYSHlxUGFKRnRyRkdEYVJfNTZIQy1paVZHRUV0aFk3QTd2aHd4V2FqcDdCOWJKYi1Pa2d1ZTM2UkVORks1cWk0N0lEN3J2?oc=5",
-    "resumo": "No 64º COBEM, Ministério da Saúde aponta diretrizes para formação dos profissionais de medicina para o SUS  www.gov.br",
+    "id": 22,
+    "titulo": "Reajustem a pobreza: Lula aumentou o valor do Bolsa Família, mas a linha de corte segue congelada",
+    "veiculo": "Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOeENuemh3ZWZBVEwzYzU4bTUxeGtSQjZmR01VYjVfaEpGQUV5R0gzNzYyeG1lSnlscE5KSklTVERnSW9oS3RuN0VITkVOOTJvVHNTWlVnWTZkaEZSb1JTT2dZcC04ZDI1SnIzVE84aWUtVjRaRGpIZ1NnNnFyak9CcnlDUmUyR1RiVkNoSnEySU03N21idVZSTWJNcGs3X2JaUWdKNmNKTHVFVWpWZnFYeWZNMTVnTkVKTkdOd3BKYm1oT09PUXRoZHE4dk5hNDlHNmt0U01MaERyVklyelNjcXYzQUNqWWvSAewBQVVfeXFMUDJoWVQ4UkRYeFZrV1drdUd4V0NTMndITWlObXdrczVxVm1aM2YtMGJ2MjVEbnRheFVCMkJhY1V2NFMza2lvbzV6QWJYM2pTd2JzMUFNMjg2cUFId1VVUHUzYzg5Z3ZmOW14U1dWblpkeWNTaGwxRDIzNndabU5GT3FPamEzSDhXUGFhMTM1VW5ycW9melZrZ1BPRXRWQ2hwb3FYZmF2aWJNMG5zdmlLcWZMQzROZ1JobGo1bXFCNG9fMGp2bnlpcF9YWTdmcGdPYUNSMVpaQ0lSYVBYLVU2bjdkaFBicGZSa2EybHY?oc=5",
+    "resumo": "Reajustem a pobreza: Lula aumentou o valor do Bolsa Família, mas a linha de corte segue congelada  Estadão",
     "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
     "categoria": "social",
     "categoria_label": "🏛️ Políticas Públicas",
@@ -360,37 +330,37 @@
     "urgente": false
   },
   {
-    "id": 25,
-    "titulo": "Quaest: Lula tem 56% entre beneficiários do Bolsa Família no 2º turno; Flávio vai de 27% a 30%",
-    "veiculo": "UOL Notícias",
-    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOMllUQUdwcENKRkZVQmNTakNEenFWU0ZKenZwdEhFTy1UOGhlc2tqUERuRGZPdDQxOEFyY3JLWi1ydWdQNEFZSEhMekY2OUdNMWtBY01uekNhdndPdGs1XzhudGZlSXlhb0pldHZJb3NWVmlPV21RZHdrckEtXzJORGpMRy1FME1xSzhJVHlNQmItY01DVjIyS3I0bTJjQjhLVWo1bkllejFDR3pBLXA5b2tocWNvaXNFcEhpcnRFT1kyVEdSMVBqUnd5R3BwbVRINDZieGZMMzRUbjZkZ2VYTWVRWjBZS1Jsb1puRkRyaGZGV08zalE?oc=5",
-    "resumo": "Quaest: Lula tem 56% entre beneficiários do Bolsa Família no 2º turno; Flávio vai de 27% a 30%  UOL Notícias",
+    "id": 23,
+    "titulo": "Lula e Bernie Sanders: multilateralismo, governança da IA e o SUS na conversa em Nova York",
+    "veiculo": "Exame",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWmxqb2k2bF9za0V5cm4xZlVsSjgwWTJheHpPanIxdkotR2dQSmtCYXN3UkY5cWpha2szQTR5R0NLN3kxWjdFZHJINmJhNDVfN2E5QlJueTdEVGFNNndiNnVjM0lQZ2dEcHFfd2h2RmRELXBKdVU4cXFhWU1EZWZtOS1XclN3RDNvbU5rd3Jka3ZmZGhrYV9HLTk3WEFwWDhkRUwtMFRXVC1KMGFhUndZUGFfWQ?oc=5",
+    "resumo": "Lula e Bernie Sanders: multilateralismo, governança da IA e o SUS na conversa em Nova York  Exame",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
+    "regiao": "Nacional",
+    "data_dia": "2026-09-22",
+    "hora": "Há 2h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": true
+  },
+  {
+    "id": 24,
+    "titulo": "No 64º COBEM, Ministério da Saúde aponta diretrizes para formação dos profissionais de medicina para o SUS",
+    "veiculo": "www.gov.br",
+    "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNRl9QQkJUM1NsSFhuUnB0bGpJQkxxNm45ZVc3QkdUTHNIQnBPVnNkMkRaaHhYc3d3OXEwMENBNmxQRGliQTZKVWUxRVB2UlNyUDhsTGVKZzJWQ3N3WXVUa19waTk3eThPZWI5V3RMQUxNWG55cWpZcGR0S21XbkE1MGtKd056Y2M3X3VoRUg0aWJlcm5ZQ1FndjhpdXhwajhrdS1yTDExRGxzeGdUT1duRENNZUFHQUdXTGNYSHlxUGFKRnRyRkdEYVJfNTZIQy1paVZHRUV0aFk3QTd2aHd4V2FqcDdCOWJKYi1Pa2d1ZTM2UkVORks1cWk0N0lEN3J2?oc=5",
+    "resumo": "No 64º COBEM, Ministério da Saúde aponta diretrizes para formação dos profissionais de medicina para o SUS  www.gov.br",
     "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
     "categoria": "social",
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-09-21",
-    "hora": "Há 3h",
-    "tempo_leitura": "2 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 26,
-    "titulo": "Quaest: Lula abre vantagem entre mulheres, mas reajuste do Bolsa Família não mexe no voto de beneficiários",
-    "veiculo": "O GLOBO",
-    "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNZmNmZjZtb3VqT2VQaG9KWE1CSHlhLTdKTnJ1U3ZRamxkeVYxQVdlWEVXSk1ZUmYxLS1sRFlGeXNvVUNUcUdmNjNLU3lnbS1IdGIyN0kyX2pyX3hUWG1McWJ4Z1ZPcF9TZ0kxSFNCN1dBaV9FWnFidHNieHJlcW1Xb0FZM0hHT21kYTBMSHNmTmdScVRvbTQ3LU5uU2otMm9BWGJFYUx6ZTQzREtkek5PV09YS2dQb09hdzd5UzhrOXUzM2lCSEVQTXJuRW9zM0hkNm1CSVJtWmRFOElEbHV4VTFOMWNaRU1BMU1MeDM0dXA2bUZaR0d6a2NqQjXSAYsCQVVfeXFMTjNseTdYdHRwalRjZ0tZM1J5TFFETm52U0d2Vktrak5tRkthdjlIOUpWNGNjYWpnMzdzMWxfVFZjMVpPckpNeGh1eUk4NHZQUmk5VnhXTklVSkF3OC1na2RJWnlmSmJzdnBaa0trR2hjOUUwbjdXdkJ6UUJnNEV6eGdMdFlNbnZhVFVVQmlGVFRFZTJrWkFGVjVKSnJ1RUlSY3d3MzRjUFUxcHpia3RCVjFQYkdwcnBZbEVCaVRRc0ZpbjJmTFMtOHpZLUdrZzZTM3FTUXVBeW44NEE4cUdjSlpiMThBb1lFZW44UTd2WDh5RktUTjdZMFVCUTRBSERMUGFTeHhDV05JcThn?oc=5",
-    "resumo": "Quaest: Lula abre vantagem entre mulheres, mas reajuste do Bolsa Família não mexe no voto de beneficiários  O GLOBO",
-    "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
-    "categoria": "eleicoes",
-    "categoria_label": "🗳️ Eleições & Campanhas",
-    "regiao": "Nacional",
-    "data_dia": "2026-09-21",
-    "hora": "Há 3h",
+    "hora": "Há 11h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 27,
+    "id": 25,
     "titulo": "Reajuste do Bolsa Família: Lula está usando o aumento como arma eleitoral?",
     "veiculo": "BBC",
     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE42Q0tqc0ZHOE9ReWljalJxTkxYTHMyVS1hdlJadkFmUTBFV0ZRRE91SDNVbUZteDZLY3duT25xVGs0ZWxRYTZ6NFg0dVhUZmxNMWR5dTNvSUd4UktlandHck9LY9IBaEFVX3lxTFBPMThNN3dPcEJKVFpiZWN4cTRWMnA1SkU2SHNqU3RRR2MtZU81WlNLYVA2Ul8tRmxDTlRuc2dkLW9JeWZGMlBJeko2MVhyQmFDQ3ZZS3ZUVnN3RGRyXy1OQXNRM2hlcnl0?oc=5",
@@ -405,37 +375,7 @@
     "urgente": false
   },
   {
-    "id": 28,
-    "titulo": "Programa Farmácia Popular pode gerar economia de até R$ 8,8 mil por ano para famílias brasileiras",
-    "veiculo": "www.gov.br",
-    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNOGo2STB2LU5vQW94WVc0RTdjU0RLazNzUkl0TGVfS0t4U0tuQjd5M0FRNnBvS1U2NFBSLUZ4M1Rpdkdxd2pfTzMxNmRNVi1zMDg3OVI0UzBOX1I1MV9xUDJhN0F6NEhCS3FOcG95OEpQVG5PaVoycWszc25nNVMtbTlBcUlaeUItLXYxLUU5dTM1MVJXMFJJWWZUNXBXdkI4U1ZKMTBycEV4WlpLZXloSy0tbERZNzdGNUd4RFJsMFdyQjAyMHRnWDhQR2NjbkZJQWxyckZVTllqbzNoakhkZTB1eEwta0dES0xZZVIzVHlDTGo4?oc=5",
-    "resumo": "Programa Farmácia Popular pode gerar economia de até R$ 8,8 mil por ano para famílias brasileiras  www.gov.br",
-    "imagem": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
-    "categoria": "economia",
-    "categoria_label": "📈 Conquistas & Economia",
-    "regiao": "Nacional",
-    "data_dia": "2026-09-21",
-    "hora": "Há 6h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 29,
-    "titulo": "SUS reformula política de câncer e ministério reserva R$ 3,9 bi para ampliar tratamentos",
-    "veiculo": "Folha de S.Paulo",
-    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTGlvWXVNdS14QTByOWFRWDdqczVsQ0F5YXQ3VVkxWDFTWTVwMzJ4YklBRFJLMTVTS1l6REhxWnR6TUVtUnNpYzQ5SDFIalRtM3dDWW5KdFZ0NlVySEVmb2FucmJIZlYtOFNxcW5KT2F6cFdwR0ItaHdSVW5RZThaRVpsanVBbk5YMEhHYng0YjZJeVA5TDdKSlIwSEpfeXlqNTZWSHJidGJNNVgwWWNpNlA5MEdidlAyN0c4aURsNXRQZzlwNW43ejJURzg2RVNkbjdwam9tdTRXSTl5Mk5BaA?oc=5",
-    "resumo": "SUS reformula política de câncer e ministério reserva R$ 3,9 bi para ampliar tratamentos  Folha de S.Paulo",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
-    "regiao": "Nacional",
-    "data_dia": "2026-09-21",
-    "hora": "Há 10h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 30,
+    "id": 26,
     "titulo": "Lula anuncia reajuste no Bolsa Família às vésperas das eleições; valor mínimo sobe para R$ 691",
     "veiculo": "O GLOBO",
     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOHhYalJkU3ZNcHIySkl1TGpsc29ncGFkNVVxd3NYZGJTS2JvQVZYVTVSYmtuaVhGMkZlTmpiNV9jZ204M2ZEQkNnZURpeHBpb1Q1NTVCbXJIY011ZjdZVVRuQ2MxTE5PT3pOc042VjNQQ2w5SUxpM3BhbUx6dkUtdktmaWpSN0ZCTGstNDBmeG1lSC1GM3ZtLXdSQ29pUdIBrAFBVV95cUxNemlZYTB3OGd4V09XUEdLVHNlMGV3TC1EczRMRXJPWWg2bGhYbW9nSktRRDA3UzdmT1V3Wm5HcElQNTJ4Q1dBcmtnaWUxT3NQZGxKalBmeWhBT2w0dmpickY5eVFqRmVFcjRhOHhJakoxS01iMndjOS1XTUpQM0NMMVhSaEMtZFF2aW00NlRUVHhJTXhJUC1TNHZINFRrbXItZWhFVlZfV2xJX210?oc=5",
@@ -450,7 +390,37 @@
     "urgente": false
   },
   {
-    "id": 31,
+    "id": 27,
+    "titulo": "Programa Farmácia Popular pode gerar economia de até R$ 8,8 mil por ano para famílias brasileiras",
+    "veiculo": "www.gov.br",
+    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNOGo2STB2LU5vQW94WVc0RTdjU0RLazNzUkl0TGVfS0t4U0tuQjd5M0FRNnBvS1U2NFBSLUZ4M1Rpdkdxd2pfTzMxNmRNVi1zMDg3OVI0UzBOX1I1MV9xUDJhN0F6NEhCS3FOcG95OEpQVG5PaVoycWszc25nNVMtbTlBcUlaeUItLXYxLUU5dTM1MVJXMFJJWWZUNXBXdkI4U1ZKMTBycEV4WlpLZXloSy0tbERZNzdGNUd4RFJsMFdyQjAyMHRnWDhQR2NjbkZJQWxyckZVTllqbzNoakhkZTB1eEwta0dES0xZZVIzVHlDTGo4?oc=5",
+    "resumo": "Programa Farmácia Popular pode gerar economia de até R$ 8,8 mil por ano para famílias brasileiras  www.gov.br",
+    "imagem": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
+    "categoria": "economia",
+    "categoria_label": "📈 Conquistas & Economia",
+    "regiao": "Nacional",
+    "data_dia": "2026-09-21",
+    "hora": "Há 10h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 28,
+    "titulo": "Quaest: Lula abre vantagem entre mulheres, mas reajuste do Bolsa Família não mexe no voto de beneficiários",
+    "veiculo": "O GLOBO",
+    "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNZmNmZjZtb3VqT2VQaG9KWE1CSHlhLTdKTnJ1U3ZRamxkeVYxQVdlWEVXSk1ZUmYxLS1sRFlGeXNvVUNUcUdmNjNLU3lnbS1IdGIyN0kyX2pyX3hUWG1McWJ4Z1ZPcF9TZ0kxSFNCN1dBaV9FWnFidHNieHJlcW1Xb0FZM0hHT21kYTBMSHNmTmdScVRvbTQ3LU5uU2otMm9BWGJFYUx6ZTQzREtkek5PV09YS2dQb09hdzd5UzhrOXUzM2lCSEVQTXJuRW9zM0hkNm1CSVJtWmRFOElEbHV4VTFOMWNaRU1BMU1MeDM0dXA2bUZaR0d6a2NqQjXSAYsCQVVfeXFMTjNseTdYdHRwalRjZ0tZM1J5TFFETm52U0d2Vktrak5tRkthdjlIOUpWNGNjYWpnMzdzMWxfVFZjMVpPckpNeGh1eUk4NHZQUmk5VnhXTklVSkF3OC1na2RJWnlmSmJzdnBaa0trR2hjOUUwbjdXdkJ6UUJnNEV6eGdMdFlNbnZhVFVVQmlGVFRFZTJrWkFGVjVKSnJ1RUlSY3d3MzRjUFUxcHpia3RCVjFQYkdwcnBZbEVCaVRRc0ZpbjJmTFMtOHpZLUdrZzZTM3FTUXVBeW44NEE4cUdjSlpiMThBb1lFZW44UTd2WDh5RktUTjdZMFVCUTRBSERMUGFTeHhDV05JcThn?oc=5",
+    "resumo": "Quaest: Lula abre vantagem entre mulheres, mas reajuste do Bolsa Família não mexe no voto de beneficiários  O GLOBO",
+    "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
+    "categoria": "eleicoes",
+    "categoria_label": "🗳️ Eleições & Campanhas",
+    "regiao": "Nacional",
+    "data_dia": "2026-09-21",
+    "hora": "Há 7h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 29,
     "titulo": "SUS vai oferecer cirurgia que trata glaucoma e catarata ao mesmo tempo — Ministério da Saúde",
     "veiculo": "www.gov.br",
     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPS3V5SGNCSE02aFdtN2FoNDNMREEwTWtNRWtLVGNvMTFBZHNhNFRiUFFpRFg3Vy04ZHp6S29DV2gtYVRVN0g5OVlPVXJRRWlLRlZBZnVKdG9TTlRRTi1QS0t4MFMtNGdDVmNKWDdPNWFfUDVPUVRpd0dCdFJ2NFNOb05zR0dab1BjUkJETmxORkJqSkdqY3o2VlYzcVdvd1VfeGlWR25QdkVYLThmNmM0dExmRm1yeDA2TDRZY2RubFR1RDNnTmFaM25JODVvWEx3SFE?oc=5",
@@ -460,42 +430,12 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-09-21",
-    "hora": "Há 10h",
+    "hora": "Há 15h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 32,
-    "titulo": "Ministério da Saúde encerra etapa estadual da Federalização da RNDS e prepara avanço para municípios",
-    "veiculo": "www.gov.br",
-    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxONVpYNUxHQ2VHQm52VkV4M2U0UHJjMDc3d1hnRzUxRWZVZjRYZlBxWGtEMGFxV0tLMVdQcGl2dXNYWGNqZmpsTS1lR2lUazBnVlBwRUREUF80SUdJOUlrQjQ1dmNyV3RCWW5Bd0tnMGFSLTFlbEtEbE1jenNWUlBBR3RYNGE5MTY3RDhBcmUta0dEenVhZ1N6RE81cHZ3RWl1M0VzUk9OWU05aG9VOWZXamU5TlpNblNLWEZvRktpa0N4MzQweDZyVy04YkJJakVRS0FRRi1Gajl2U1EwTUFjYlJNcGpQeWYwUVpmdU1BTXhiT2xSaWl3c2N3?oc=5",
-    "resumo": "Ministério da Saúde encerra etapa estadual da Federalização da RNDS e prepara avanço para municípios  www.gov.br",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
-    "regiao": "Nacional",
-    "data_dia": "2026-09-21",
-    "hora": "Há 8h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 33,
-    "titulo": "MEC e PMA discutem cooperação técnica em alimentação escolar — Ministério da Educação",
-    "veiculo": "www.gov.br",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcFJSdEFsX3RWUTVlbnFkWjVWNEs2MTNyNURsdFduUEZPYXMwczN4azhlMVBEZk1wY3FfaE9ucDZiSGE0TThybldEOXZpMkc4ZkQ3ZXFRMmxsS0Z6QUNIUmZscGh6Zmdndk1aRWhTNEY1ZXJHMDRzUzhfZmVuWmlzTUVXTHZwdHpKRkxZd2pZbXJzRUVWYjFRTldGVTZEWkk1SHJJMDlXV0hob3hpdHRCNWlyOTVSWjRKM1VMMFhR?oc=5",
-    "resumo": "MEC e PMA discutem cooperação técnica em alimentação escolar — Ministério da Educação  www.gov.br",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
-    "regiao": "Nacional",
-    "data_dia": "2026-09-21",
-    "hora": "Há 11h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 34,
+    "id": 30,
     "titulo": "\"Canetas emagrecedoras serão disponibilizadas de forma responsável no SUS\", diz ministro — Ministério da Saúde",
     "veiculo": "www.gov.br",
     "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPSkt3MTBaTW8xWGN1cW1td1lfM083TkR6ZHE2MkdpNVp6RlkyWk5Ydng3a3VyMno2VGxORENzUTZNWVU1cWFwY0Q1QS1lTWVXZTk3NUp0b1Q4dHEyNE1HUXpnV0U0UEtaSUNxcUVDUGN4dFNvR2RyalFURVFuQU9OTVpZM185ZHhaeXhJWG41N2tralk3ZXhDUW1MUVhtRnIzWFd0XzU5M1U4YmJKQ29mMWxldk1fYUxZSDJkSDVwMEYxQmR2S1VkTGRGYUNKVTk1NEJTQUtPMEQ1VXhUSEptdzFvZ0dRQQ?oc=5",
@@ -510,7 +450,37 @@
     "urgente": false
   },
   {
-    "id": 35,
+    "id": 31,
+    "titulo": "Ministério da Saúde encerra etapa estadual da Federalização da RNDS e prepara avanço para municípios",
+    "veiculo": "www.gov.br",
+    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxONVpYNUxHQ2VHQm52VkV4M2U0UHJjMDc3d1hnRzUxRWZVZjRYZlBxWGtEMGFxV0tLMVdQcGl2dXNYWGNqZmpsTS1lR2lUazBnVlBwRUREUF80SUdJOUlrQjQ1dmNyV3RCWW5Bd0tnMGFSLTFlbEtEbE1jenNWUlBBR3RYNGE5MTY3RDhBcmUta0dEenVhZ1N6RE81cHZ3RWl1M0VzUk9OWU05aG9VOWZXamU5TlpNblNLWEZvRktpa0N4MzQweDZyVy04YkJJakVRS0FRRi1Gajl2U1EwTUFjYlJNcGpQeWYwUVpmdU1BTXhiT2xSaWl3c2N3?oc=5",
+    "resumo": "Ministério da Saúde encerra etapa estadual da Federalização da RNDS e prepara avanço para municípios  www.gov.br",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
+    "regiao": "Nacional",
+    "data_dia": "2026-09-21",
+    "hora": "Há 12h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 32,
+    "titulo": "MEC e PMA discutem cooperação técnica em alimentação escolar — Ministério da Educação",
+    "veiculo": "www.gov.br",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcFJSdEFsX3RWUTVlbnFkWjVWNEs2MTNyNURsdFduUEZPYXMwczN4azhlMVBEZk1wY3FfaE9ucDZiSGE0TThybldEOXZpMkc4ZkQ3ZXFRMmxsS0Z6QUNIUmZscGh6Zmdndk1aRWhTNEY1ZXJHMDRzUzhfZmVuWmlzTUVXTHZwdHpKRkxZd2pZbXJzRUVWYjFRTldGVTZEWkk1SHJJMDlXV0hob3hpdHRCNWlyOTVSWjRKM1VMMFhR?oc=5",
+    "resumo": "MEC e PMA discutem cooperação técnica em alimentação escolar — Ministério da Educação  www.gov.br",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
+    "regiao": "Nacional",
+    "data_dia": "2026-09-21",
+    "hora": "Há 16h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 33,
     "titulo": "Carretas do Agora Tem Especialistas ultrapassam 1 milhão de procedimentos no SUS — Ministério da Saúde",
     "veiculo": "www.gov.br",
     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZ2ptRTMwTnpxbVp3S21YWHB1akhOdHdTVExpN1l2VGJoVXk1V2xZWnI4R1BhT0RKWTN3YXpuRVJscmJLQWlURWZXX2tjdkVmUFdpNFBLaXZ5Z1g2Z0NnMFhRY0I0aVF5WkZva3gzYlFxbTNvV0pEQ1JHejRNb1g3a1hoN2JNQ2JpdmI2S01wbUZVaFFsVldWUkRBZTVDTy1aVGk2aU1ZaGs4NFB0MGxXZ0FqZVlfeG9hYk1PYXdHSnBiZlExX3lLMU1XMUVnMFpRYWQyQzdRSFBVdHYxTlFN?oc=5",
@@ -525,7 +495,7 @@
     "urgente": false
   },
   {
-    "id": 36,
+    "id": 34,
     "titulo": "Pioneiro no país, Núcleo de Telessaúde de Parintins completa 20 anos ampliando acesso à saúde na Amazônia",
     "veiculo": "www.gov.br",
     "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxORTNFMjVyczk3NFJQMFoxQVBSd0txRUN2R1Q5djM2dWlWaktvQ0U0QTBqV21sRk1LVnlGdE5oODdGUHlwNmFFSWRHSDdadWhtX3FnR0tCTHY4ZHo2dVh6aEljMHNuLTB0ekJrSzFId1FUSTZjWUl0UXZyMDVXdFZhZnVSQjlkLVk5RW5xWGI0SlY2NjI3TTl3UTFNbDJnMFNXM3FabGF4Q29MTGlBTWZVUnhRcm1VZHFkME5IMFdzTV80OGZmZXpQcEh2ai1QbnBBZFJpYmVqcF8zbDdwYUV3RW90dUNhWDl5QjIwaTNOMDdONmJ2amZXMU9Gc3FFNEU?oc=5",
@@ -540,7 +510,22 @@
     "urgente": false
   },
   {
-    "id": 37,
+    "id": 35,
+    "titulo": "Ministério da Saúde qualifica assistência para prevenir progressão da doença renal",
+    "veiculo": "www.gov.br",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNOVdyLTFhZ190SUI2dTFIZmRhenp1aXg4a1dldFRpaGpJcFVoT2RPQ2FjUXpZT0xYSXBlbjBRTEZuUFVjUXpQSEJTemZEMUQ3cHdhNkJSek5UdGJOUFltOHZOTEpZdklCdVI1SzFBNm8xRzM3dmN0d0g0cGpfMUMzSmJyZGxOaWk5WnYxNC1EcFNZaC1WWlNBaXVtQVM0eEVmV0FTQUVTVzI0cUMxbFR6d2d0NW4yMUcza2ZSN3c5QW0ydHBFbkZQSnVZbWdZb3VpX0Q1VWFyb2hpd3RtRDNDMjF3?oc=5",
+    "resumo": "Ministério da Saúde qualifica assistência para prevenir progressão da doença renal  www.gov.br",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
+    "regiao": "Nacional",
+    "data_dia": "2026-09-17",
+    "hora": "17/09 21:29",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 36,
     "titulo": "Ministério da Saúde mobiliza SAMU 192 para treinar equipes e apoiar estudo clínico com polilaminina",
     "veiculo": "www.gov.br",
     "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOUmRYMG1wdk9hZExjUUxnZVcxWmFwQ0NkaUFVdFREQ2t4emVfQU9sc1lVVjliRFp3bEIycHlLem41cEw0XzNsUkNIZzkyTGYxZXdtTzhtZmFFenBaTHRmTWwxUnE4c0VCV05GWUVua1ZvLXliNEozT2NKNTRaeU1PM3h0dU5UVHlPQlU3a04wVlRFSTQ4Q0pDRVExNFdMQkI2ZGR2bS16cnlGQWFVWkNVTTh2NW1QeHVEYzJlODNmdHF0TmphS3lGWmx6X2FQWFNUaUdYekd6aG8wM1lsMHJWZWh3LUNDTFFvbEdBd1Y1MkZtcTQ0TXFfVQ?oc=5",
@@ -555,22 +540,22 @@
     "urgente": false
   },
   {
-    "id": 38,
-    "titulo": "Bolsa Família terá valor mínimo de R$ 691 a partir de outubro",
+    "id": 37,
+    "titulo": "Congresso debate formação, equidade e valorização dos trabalhadores do SUS — Ministério da Saúde",
     "veiculo": "www.gov.br",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTXpCSlF3RUtJZ053ckxVR2xjMW02S3BScVI1OU1FdzQ2T3ZpQ2lzWmRDUGlXS21haG92Ui1VWEx5bWRmQXBadm9peFBCRkVjaXdyS3k2UnhKeGNiTGZIbGN1bkZWamNsOFRSaW9jTnFXUFdveVJ5WXlVUHNTSXo2NWhSc3ZaTzVoSXEyV1gxSUVCMEdKcDhoaWlpSlF6ajg?oc=5",
-    "resumo": "Bolsa Família terá valor mínimo de R$ 691 a partir de outubro  www.gov.br",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQ3U5TVBTYzZBSm9tNGZhN21QMGFzU3pCV3pHMmFSeEdIeXRLZ0ZkbnlxWGk4dGdHbFhTRDFYYTVqWTVkV3lkYmNGcGNNd2ZiRm9sQ05rdk9qZnpORENCU1d5MUdZSU1pUENtcGhHdkNkNUk2ZHhkZ1dvSFRVdzkzUkt3N28xTUpCRXE5amRjUmtMN1hWQXA2a2Q4RUZQTEoxb3JsV2hNNHFJUW50aXVnTzgtT0VkTjBxZm1jQ2lNRjZmRktNWUdVWllSd1ViaHcwNk9YcmRB?oc=5",
+    "resumo": "Congresso debate formação, equidade e valorização dos trabalhadores do SUS — Ministério da Saúde  www.gov.br",
     "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
     "categoria": "social",
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
-    "data_dia": "2026-09-17",
-    "hora": "17/09 18:22",
+    "data_dia": "2026-09-18",
+    "hora": "18/09 13:17",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 39,
+    "id": 38,
     "titulo": "Reajuste do Bolsa Família é aposta de Lula para mudar foco da eleição após crise no STF",
     "veiculo": "G1",
     "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNZVFveHRNZnl4bEdVZW5UTkxiS3Y2OFJTSy1PSUQyTHdaYnowT1JmOGdMc3dpOHR6MUFjcFlXdC05VjJ0R2NQM0Jpb2lUaVBzdU1CLTJXMGx3OTBVUExmOHNKY1VvMkd3QnlUZkYwaGFoaXdNR0p1azBfZ3RWNXVoVTluaGhGRURNemppcTJYQVcxOTAwWEZ4VldsU1ZReVJaY3hpRHc5WC01WDltSVVFTVpRdFE0cmZqOTdkd2ZXdmRNVjFCbVRiS3BYLUFNb3VyQ2hUTFRZa1pxRVRRcUN1d1hFY2JfM1dFNEhyYWJzRWU4c1nSAYICQVVfeXFMT0UzTGhwRzNGZlUzMGFGSUI2UUpmME43NUVEaG81YU0tUnpJSzNhdFpqZnVaRHRWNEdEOV8yWm40bFBIbG9OV2tyaE9DOXh5eUhqam9mWkZ3eDdZb3FEMVFjSHp0YzhWRzJhV2pURXc0Q0xMY1YtZE05Wl9fTzN4MlRnSXlaek92cVJZVHNLY092dkNzOHRxRklQRFhKM09MQzBTX09oMUFOVnA4WGt4X2hPdkJITXZRdWVBS0JzQ2NSRFN2THFCVkJLMnN0V1RwUUpYSEZnOS1nVF84X0hsXzJzUXRranZYVzVLVnkwc2FJbVdtZ1U2T2g5aXpoWm41R01n?oc=5",
@@ -585,32 +570,47 @@
     "urgente": false
   },
   {
-    "id": 40,
-    "titulo": "Nova pesquisa mostra como ficou a intenção de voto em Lula entre beneficiários do Bolsa Família após reajuste",
-    "veiculo": "VEJA",
-    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPb3czcWhVemtSYkR4N1Y5ZV9FMDdtOElRbF81RmRCWkVJb05hWUVUTzNiaUt2a2JSYTN6YzlRdDFyQVNtdWxCNGdPOEktY0lDRGxyTnFFVVZTc2Z5eHk0Z1lLdFJ4a1VvUkU4WkplTlB5RlJaVUVWSmYzUkxrd0p2ckQtRVM3TVJNcU5tOXBNWHV4Ui00d1dvaWNrY2NnRjhXVEFPQ1JXRXFDWGNSV2xZUXl3d016cW54YUg5a2RrZWZjS1hZb2IzSjcyLTFoeVJFOGItQlRZS2V0OTdpd0E?oc=5",
-    "resumo": "Nova pesquisa mostra como ficou a intenção de voto em Lula entre beneficiários do Bolsa Família após reajuste  VEJA",
-    "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
-    "categoria": "eleicoes",
-    "categoria_label": "🗳️ Eleições & Campanhas",
+    "id": 39,
+    "titulo": "Bolsa Família terá valor mínimo de R$ 691 a partir de outubro",
+    "veiculo": "www.gov.br",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTXpCSlF3RUtJZ053ckxVR2xjMW02S3BScVI1OU1FdzQ2T3ZpQ2lzWmRDUGlXS21haG92Ui1VWEx5bWRmQXBadm9peFBCRkVjaXdyS3k2UnhKeGNiTGZIbGN1bkZWamNsOFRSaW9jTnFXUFdveVJ5WXlVUHNTSXo2NWhSc3ZaTzVoSXEyV1gxSUVCMEdKcDhoaWlpSlF6ajg?oc=5",
+    "resumo": "Bolsa Família terá valor mínimo de R$ 691 a partir de outubro  www.gov.br",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
-    "data_dia": "2026-09-21",
-    "hora": "Há 15h",
+    "data_dia": "2026-09-17",
+    "hora": "17/09 18:22",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
+    "id": 40,
+    "titulo": "Quaest: Lula tem 56% entre beneficiários do Bolsa Família no 2º turno; Flávio vai de 27% a 30%",
+    "veiculo": "UOL Notícias",
+    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOMllUQUdwcENKRkZVQmNTakNEenFWU0ZKenZwdEhFTy1UOGhlc2tqUERuRGZPdDQxOEFyY3JLWi1ydWdQNEFZSEhMekY2OUdNMWtBY01uekNhdndPdGs1XzhudGZlSXlhb0pldHZJb3NWVmlPV21RZHdrckEtXzJORGpMRy1FME1xSzhJVHlNQmItY01DVjIyS3I0bTJjQjhLVWo1bkllejFDR3pBLXA5b2tocWNvaXNFcEhpcnRFT1kyVEdSMVBqUnd5R3BwbVRINDZieGZMMzRUbjZkZ2VYTWVRWjBZS1Jsb1puRkRyaGZGV08zalE?oc=5",
+    "resumo": "Quaest: Lula tem 56% entre beneficiários do Bolsa Família no 2º turno; Flávio vai de 27% a 30%  UOL Notícias",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
+    "regiao": "Nacional",
+    "data_dia": "2026-09-21",
+    "hora": "Há 8h",
+    "tempo_leitura": "2 min de leitura",
+    "urgente": false
+  },
+  {
     "id": 41,
-    "titulo": "Em Nova York, Lula se reúne com líderes de esquerda e debate extremismo",
+    "titulo": "UPDATE 1: Antes da Assembleia da ONU, Lula se reúne com líderes de esquerda e debate extremismo",
     "veiculo": "Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVzA1XzFEb0xFZHIwc2pVMWNhVHA3Y1FuS0tFdFdUc3V6RmsyUzhmWFE2YmFfd29DMGl2dVRQekxSZGdjMzRYSG9mY2lETzAxckQyZGg5QTRlcURTMC1IMWk4Y21wcGxNbEM5ZXZCaVd3S3Y3NkF0bEJhRnVwUmNBOTdUTzJfclhCLUo1Q0NiMXF6akRvNFhTbmRSVFUzckhhTmppaEZaY0Nwd0xQMjI3QVBWR2hlUjFkcFNxeFVjckFoMEpDV3Q2TU1XR0tNTGd5dE9PZtIB4wFBVV95cUxPS01GSHJRYlh3OTQ4ODNZQnhCaUpqdGhZM19Ydjk0M0I0U01YaVNPdXZpbHlZYmJhQkw5Y2FTOWdEVl9nZTMyOUZjZngxQUpfMUFpdDV5Qzk1NU5FODJlS0hHRWtBb014dlc3MUxZbVdGVG5JRndVU1ppZ1BkYTRnTDBHTVdnczFSR3h4NGJDRk5EYVI1TlFxNGpJVDdWU01tOTByd2VydUp1TS1qcXBfT0N6a2RXOFZVaXdudlNlNUMybHctbnlCOW1HbVRNTFZqNVFpdTA4Z3kwbEs5cHBZZ3h5OA?oc=5",
-    "resumo": "Em Nova York, Lula se reúne com líderes de esquerda e debate extremismo  Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPaDlFbVZET0VONjMzekFZOEFfNlgzUDdyYWRNOXBDY2RrN1ZLNTZqNk0tc2dfQktuOWFjRkJ4TkZIU21JczdCdl9BMXYxNFVaSTJIMUdCdFZyNk1aWk15TGhWdXJKckFGWDJYaHNPeXltbzlKWXkwRzBLVWFWSk9fcUNxZWhsS3JRaVN0T0VYU1pEVmxxUkoyZmtQcXJiODNtWlBNa2x3WGhyV3JoeUh6UGJCQy1zdW4zamYxWmVVOFlvQ2otY0F2M1luOXhqSW1jMDJySEpZQktrTkZ1UTZiSNIB7wFBVV95cUxNS2tJb3FBeEd3SURNRXdZMUNsRUpETnNGd3VaUTRQOGF1aTFRNGxTR1N5ZFlWQno0VVZkSkJiZF8xRkJ1M2ZMM0c3NTJ2YUw2eGJYSTZLMWNqV2htTXd5M29vaFl0UE8zVjJKQWF4OEVIYk1wS2FuSlQ3MlpzenlqdlVvNWFfdGN3OUZrZVdJSXdFNkpWb3FmMVd3a1g0UDJoLVBSN3ZVdVhZLXhNY3dSX19Od3g3UHgwdmc5Nm1Ba25QS3h5bWo3YkUyNFo0R0VtNF9qWkcxTUpBRWhfcEJaTklQS0Q3bFRJby1yaDVOWQ?oc=5",
+    "resumo": "UPDATE 1: Antes da Assembleia da ONU, Lula se reúne com líderes de esquerda e debate extremismo  Valor Econômico",
     "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
     "categoria": "geral",
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
-    "data_dia": "2026-09-21",
-    "hora": "Há 1h",
+    "data_dia": "2026-09-22",
+    "hora": "Há 2h",
     "tempo_leitura": "1 min de leitura",
     "urgente": true
   },
@@ -625,7 +625,7 @@
     "categoria_label": "✊ Direitos & Mobilização",
     "regiao": "Nacional",
     "data_dia": "2026-09-21",
-    "hora": "Há 10h",
+    "hora": "Há 14h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   }
