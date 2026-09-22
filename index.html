@@ -7,20 +7,19 @@
   
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@700&family=Inter:wght@400;500;600;700;800&family=Merriweather:ital,wght@0,400;0,700;1,300&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
 
   <style>
     * { box-sizing: border-box; margin: 0; padding: 0; }
     body {
-      background-color: #0d0e12;
+      background-color: #0c0d11;
       color: #e6e8ee;
       font-family: 'Inter', sans-serif;
       line-height: 1.5;
     }
 
-    /* TOPO / HEADER */
     header {
-      background: #14151b;
+      background: #13141a;
       border-bottom: 2px solid #b71c1c;
       position: sticky;
       top: 0;
@@ -51,10 +50,52 @@
     }
     @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0.3; } }
 
+    /* LETREIRO DE PLANTÃO / TICKER */
+    .ticker-wrap {
+      background: #090a0d;
+      border-bottom: 1px solid #1f212c;
+      overflow: hidden;
+      white-space: nowrap;
+      display: flex;
+      align-items: center;
+      height: 32px;
+    }
+    .ticker-title {
+      background: #d32f2f;
+      color: #fff;
+      font-size: 10px;
+      font-weight: 800;
+      padding: 0 12px;
+      height: 100%;
+      display: flex;
+      align-items: center;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      z-index: 2;
+    }
+    .ticker-content {
+      display: inline-block;
+      white-space: nowrap;
+      padding-left: 100%;
+      animation: ticker 35s linear infinite;
+      font-size: 12px;
+      color: #b3b7c7;
+    }
+    .ticker-content a {
+      color: #f1f2f6;
+      text-decoration: none;
+      margin-right: 40px;
+    }
+    .ticker-content a:hover { color: #ff5252; }
+    @keyframes ticker {
+      0% { transform: translate3d(0, 0, 0); }
+      100% { transform: translate3d(-100%, 0, 0); }
+    }
+
     .nav-container {
-      max-width: 1200px;
+      max-width: 1240px;
       margin: 0 auto;
-      padding: 14px 20px;
+      padding: 12px 20px;
       display: flex;
       justify-content: space-between;
       align-items: center;
@@ -62,255 +103,317 @@
       gap: 12px;
     }
 
-    .logo-box {
-      display: flex;
-      align-items: center;
-      gap: 12px;
-    }
-
     .brand-title {
-      font-family: 'Inter', sans-serif;
-      font-size: 26px;
+      font-size: 24px;
       font-weight: 900;
       letter-spacing: -0.5px;
       color: #fff;
     }
-
     .brand-title span {
       background: #b71c1c;
       color: #fff;
       padding: 2px 6px;
       border-radius: 4px;
-      font-size: 18px;
+      font-size: 16px;
       margin-left: 4px;
     }
-
-    .brand-subtitle {
-      font-size: 11px;
-      color: #9da3b4;
-      font-weight: 500;
-    }
+    .brand-subtitle { font-size: 11px; color: #8e94a6; font-weight: 500; }
 
     .search-box {
       flex: 1;
       max-width: 320px;
-      position: relative;
     }
-
     .search-box input {
       width: 100%;
       background: #090a0d;
-      border: 1px solid #2d303e;
+      border: 1px solid #282a36;
       border-radius: 20px;
-      padding: 8px 16px;
+      padding: 7px 14px;
       color: #fff;
-      font-size: 13px;
+      font-size: 12px;
       outline: none;
-      transition: 0.2s;
     }
-    .search-box input:focus {
-      border-color: #e53935;
-      box-shadow: 0 0 8px rgba(229, 57, 53, 0.3);
-    }
+    .search-box input:focus { border-color: #e53935; }
 
-    /* BARRA DE CATEGORIAS */
-    .categories-bar {
-      background: #181a22;
-      border-bottom: 1px solid #282a36;
+    /* FILTROS */
+    .filters-bar {
+      background: #171821;
+      border-bottom: 1px solid #232533;
     }
-
-    .categories-inner {
-      max-width: 1200px;
+    .filters-inner {
+      max-width: 1240px;
       margin: 0 auto;
       display: flex;
-      gap: 8px;
-      padding: 8px 20px;
+      justify-content: space-between;
+      align-items: center;
+      padding: 6px 20px;
       overflow-x: auto;
+      gap: 12px;
     }
-
-    .cat-btn {
+    .cat-group, .region-group { display: flex; gap: 6px; }
+    .btn-filter {
       background: transparent;
-      border: none;
-      color: #a6abbd;
-      font-size: 13px;
+      border: 1px solid transparent;
+      color: #9ea3b5;
+      font-size: 12px;
       font-weight: 600;
-      padding: 6px 12px;
+      padding: 4px 10px;
       border-radius: 6px;
       cursor: pointer;
       white-space: nowrap;
       transition: all 0.2s;
     }
-
-    .cat-btn:hover, .cat-btn.active {
+    .btn-filter:hover, .btn-filter.active {
       background: #b71c1c;
       color: #ffffff;
+      border-color: #b71c1c;
+    }
+    .region-select {
+      background: #0e0f14;
+      color: #9ea3b5;
+      border: 1px solid #282a36;
+      border-radius: 6px;
+      font-size: 11px;
+      padding: 4px 8px;
+      outline: none;
     }
 
-    /* CONTEÚDO PRINCIPAL */
-    main {
-      max-width: 1200px;
+    /* LAYOUT PRINCIPAL */
+    .main-wrapper {
+      max-width: 1240px;
       margin: 24px auto;
       padding: 0 20px;
+      display: grid;
+      grid-template-columns: 1fr 310px;
+      gap: 28px;
     }
 
-    /* DESTAQUE HERO / MANCHETE */
-    .hero-container {
-      margin-bottom: 32px;
-    }
-
+    /* MANCHETE HERO COM IMAGEM */
     .hero-card {
-      background: linear-gradient(180deg, #181922 0%, #12131a 100%);
-      border: 1px solid #2a2c3d;
-      border-left: 6px solid #b71c1c;
+      background: #14151d;
+      border: 1px solid #262836;
       border-radius: 12px;
-      padding: 28px;
+      overflow: hidden;
+      display: grid;
+      grid-template-columns: 1.2fr 1fr;
       cursor: pointer;
+      margin-bottom: 28px;
       transition: transform 0.2s, box-shadow 0.2s;
-      position: relative;
     }
     .hero-card:hover {
-      transform: translateY(-3px);
-      box-shadow: 0 10px 24px rgba(183, 28, 28, 0.2);
+      transform: translateY(-2px);
+      box-shadow: 0 10px 24px rgba(183, 28, 28, 0.25);
     }
-
+    .hero-img {
+      width: 100%;
+      height: 100%;
+      min-height: 260px;
+      object-fit: cover;
+      background: #1e202b;
+    }
+    .hero-body {
+      padding: 24px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+    }
     .hero-badge {
       display: inline-block;
       background: #b71c1c;
       color: #fff;
-      font-size: 11px;
+      font-size: 10px;
       font-weight: 800;
       padding: 3px 8px;
       border-radius: 4px;
       text-transform: uppercase;
-      margin-bottom: 12px;
+      align-self: flex-start;
+      margin-bottom: 10px;
     }
-
     .hero-title {
-      font-size: 28px;
+      font-size: 22px;
       font-weight: 800;
       line-height: 1.3;
       color: #ffffff;
-      margin-bottom: 12px;
+      margin-bottom: 10px;
     }
-
     .hero-summary {
-      font-size: 15px;
-      color: #b0b5c7;
+      font-size: 13px;
+      color: #a4a9bb;
+      line-height: 1.5;
       margin-bottom: 16px;
-      line-height: 1.6;
     }
-
-    .meta-info {
-      font-size: 12px;
-      color: #7b8196;
+    .hero-meta {
+      font-size: 11px;
+      color: #70768a;
       display: flex;
       align-items: center;
-      gap: 12px;
+      gap: 10px;
+      border-top: 1px solid #20222f;
+      padding-top: 12px;
     }
 
-    .source-tag {
-      color: #ff5252;
-      font-weight: 700;
-    }
-
-    /* GRID DE NOTÍCIAS */
-    .section-header {
+    /* GRELHA DE NOTÍCIAS */
+    .section-title {
+      font-size: 16px;
+      font-weight: 800;
+      margin-bottom: 16px;
+      border-left: 4px solid #b71c1c;
+      padding-left: 10px;
       display: flex;
       justify-content: space-between;
       align-items: center;
-      margin-bottom: 18px;
-      border-bottom: 1px solid #262938;
-      padding-bottom: 8px;
     }
-
-    .section-title {
-      font-size: 18px;
-      font-weight: 800;
-      color: #ffffff;
-      display: flex;
-      align-items: center;
-      gap: 8px;
-    }
-
     .news-grid {
       display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
-      gap: 20px;
+      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+      gap: 18px;
     }
-
     .card {
-      background: #14151c;
-      border: 1px solid #232533;
+      background: #14151d;
+      border: 1px solid #222432;
       border-radius: 10px;
-      padding: 18px;
+      overflow: hidden;
       display: flex;
       flex-direction: column;
       justify-content: space-between;
-      cursor: pointer;
       transition: all 0.2s;
     }
     .card:hover {
-      background: #1b1c26;
+      background: #1a1c26;
       border-color: #b71c1c;
       transform: translateY(-2px);
     }
-
-    .card-category {
+    .card-thumb {
+      width: 100%;
+      height: 140px;
+      object-fit: cover;
+      background: #1c1e28;
+    }
+    .card-body {
+      padding: 14px;
+      display: flex;
+      flex-direction: column;
+      flex: 1;
+    }
+    .card-top {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 8px;
+    }
+    .card-cat {
       font-size: 10px;
       font-weight: 700;
       color: #ff5252;
       text-transform: uppercase;
-      margin-bottom: 8px;
     }
-
+    .card-readtime { font-size: 10px; color: #70768a; }
     .card-title {
-      font-size: 16px;
+      font-size: 14px;
       font-weight: 700;
       color: #f1f3f9;
       line-height: 1.4;
-      margin-bottom: 10px;
+      margin-bottom: 8px;
     }
-
     .card-summary {
-      font-size: 13px;
-      color: #9ea3b5;
-      line-height: 1.5;
-      margin-bottom: 16px;
+      font-size: 12px;
+      color: #9297aa;
+      line-height: 1.4;
+      margin-bottom: 12px;
       flex: 1;
     }
-
     .card-footer {
+      border-top: 1px solid #1f212d;
+      padding: 10px 14px;
       display: flex;
       justify-content: space-between;
       align-items: center;
       font-size: 11px;
-      color: #6e7489;
-      border-top: 1px solid #1e202b;
-      padding-top: 10px;
+      color: #656b7f;
+      background: #121319;
     }
-
-    .card-link-btn {
-      color: #ff5252;
-      font-weight: 700;
+    .share-btns { display: flex; gap: 6px; }
+    .btn-share {
+      background: #1d1f2a;
+      border: 1px solid #2a2c3d;
+      color: #b3b7c7;
+      padding: 3px 6px;
+      border-radius: 4px;
+      font-size: 10px;
+      cursor: pointer;
       text-decoration: none;
+      transition: 0.2s;
     }
-    .card-link-btn:hover { text-decoration: underline; }
+    .btn-share:hover { background: #25d366; color: #fff; border-color: #25d366; }
 
-    /* FOOTER */
+    /* BARRA LATERAL (AGENDA DE LUTAS E COMUNICAÇÃO) */
+    .sidebar-panel {
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+    }
+    .side-box {
+      background: #14151d;
+      border: 1px solid #222432;
+      border-radius: 10px;
+      padding: 16px;
+    }
+    .side-title {
+      font-size: 14px;
+      font-weight: 800;
+      color: #fff;
+      border-bottom: 1px solid #20222e;
+      padding-bottom: 8px;
+      margin-bottom: 12px;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+    .event-item {
+      padding: 8px 0;
+      border-bottom: 1px solid #1b1c25;
+    }
+    .event-item:last-child { border: none; }
+    .event-date { font-size: 10px; font-weight: 700; color: #ff5252; }
+    .event-desc { font-size: 12px; color: #d0d4e4; margin-top: 2px; }
+
+    .pauta-input {
+      width: 100%;
+      background: #090a0d;
+      border: 1px solid #282a36;
+      border-radius: 6px;
+      padding: 8px;
+      color: #fff;
+      font-size: 11px;
+      margin-bottom: 8px;
+      resize: vertical;
+    }
+    .btn-submit-pauta {
+      width: 100%;
+      background: #b71c1c;
+      color: #fff;
+      border: none;
+      padding: 8px;
+      border-radius: 6px;
+      font-size: 11px;
+      font-weight: 700;
+      cursor: pointer;
+    }
+
     footer {
-      background: #101117;
-      border-top: 1px solid #232533;
-      padding: 24px 20px;
+      background: #0e0f14;
+      border-top: 1px solid #1f212c;
+      padding: 24px;
       text-align: center;
-      font-size: 12px;
-      color: #7b8196;
-      margin-top: 60px;
+      font-size: 11px;
+      color: #70768a;
+      margin-top: 40px;
     }
 
-    @media (max-width: 600px) {
-      .hero-title { font-size: 20px; }
-      .news-grid { grid-template-columns: 1fr; }
-      .brand-title { font-size: 22px; }
+    @media (max-width: 900px) {
+      .main-wrapper { grid-template-columns: 1fr; }
+      .hero-card { grid-template-columns: 1fr; }
+      .hero-img { height: 180px; }
     }
   </style>
 </head>
@@ -322,61 +425,110 @@
       <div id="live-time">BRASÍLIA</div>
     </div>
 
+    <!-- TICKER DE PLANTÃO -->
+    <div class="ticker-wrap">
+      <div class="ticker-title">⚡ PLANTÃO POPULAR</div>
+      <div class="ticker-content" id="ticker-news">Carregando manchetes do momento...</div>
+    </div>
+
     <div class="nav-container">
-      <div class="logo-box">
-        <div>
-          <div class="brand-title">NEWS BRAZIL<span>RT</span></div>
-          <div class="brand-subtitle">Informação Popular • Direitos • Soberania Nacional</div>
-        </div>
+      <div>
+        <div class="brand-title">NEWS BRAZIL<span>RT</span></div>
+        <div class="brand-subtitle">Informação Popular • Direitos • Soberania Nacional</div>
       </div>
 
       <div class="search-box">
-        <input type="text" id="search-input" placeholder="🔍 Pesquisar por tema, candidato ou cidade..." />
+        <input type="text" id="search-input" placeholder="🔍 Pesquisar por candidato, tema ou município..." />
       </div>
     </div>
 
-    <div class="categories-bar">
-      <div class="categories-inner">
-        <button class="cat-btn active" data-cat="all">Todas as Matérias</button>
-        <button class="cat-btn" data-cat="eleicoes">🗳️ Eleições</button>
-        <button class="cat-btn" data-cat="economia">📈 Economia & Trabalho</button>
-        <button class="cat-btn" data-cat="social">🏛️ Políticas Públicas</button>
-        <button class="cat-btn" data-cat="direitos">✊ Direitos Sociais</button>
-        <button class="cat-btn" data-cat="ambiente">🌿 Meio Ambiente</button>
+    <div class="filters-bar">
+      <div class="filters-inner">
+        <div class="cat-group">
+          <button class="btn-filter active" data-cat="all">Todas</button>
+          <button class="btn-filter" data-cat="eleicoes">🗳️ Eleições</button>
+          <button class="btn-filter" data-cat="economia">📈 Economia</button>
+          <button class="btn-filter" data-cat="social">🏛️ Políticas Públicas</button>
+          <button class="btn-filter" data-cat="direitos">✊ Direitos Sociais</button>
+          <button class="btn-filter" data-cat="ambiente">🌿 Meio Ambiente</button>
+        </div>
+        <div class="region-group">
+          <select id="region-filter" class="region-select">
+            <option value="all">📍 Todas as Regiões</option>
+            <option value="Nacional">🇧🇷 Nacional</option>
+            <option value="Nordeste">🌵 Nordeste</option>
+            <option value="Sudeste">🏙️ Sudeste</option>
+            <option value="Norte">🌳 Norte</option>
+            <option value="Sul">🌾 Sul</option>
+            <option value="Centro-Oeste">🌾 Centro-Oeste</option>
+          </select>
+        </div>
       </div>
     </div>
   </header>
 
-  <main>
-    <!-- MANCHETE PRINCIPAL HERO -->
-    <div class="hero-container" id="hero-area"></div>
+  <div class="main-wrapper">
+    <!-- COLUNA PRINCIPAL DE NOTÍCIAS -->
+    <main>
+      <div id="hero-area"></div>
 
-    <!-- FEED PRINCIPAL -->
-    <div class="section-header">
-      <div class="section-title">⚡ ÚLTIMAS ATUALIZAÇÕES</div>
-      <div id="count-label" style="font-size: 12px; color: #7b8196;">0 matérias</div>
-    </div>
+      <div class="section-title">
+        <span>📰 FEED GERAL DE MATÉRIAS</span>
+        <span id="count-label" style="font-size: 11px; color: #70768a;">0 matérias</span>
+      </div>
 
-    <div class="news-grid" id="news-grid">
-      <div style="padding: 20px; color: #7b8196;">Sincronizando feed de notícias...</div>
-    </div>
-  </main>
+      <div class="news-grid" id="news-grid">
+        <div style="padding: 20px; color: #70768a;">A carregar notícias...</div>
+      </div>
+    </main>
+
+    <!-- BARRA LATERAL -->
+    <aside class="sidebar-panel">
+      <!-- CALENDÁRIO DE MOBILIZAÇÃO -->
+      <div class="side-box">
+        <div class="side-title">📅 AGENDA DE MOBILIZAÇÃO</div>
+        <div class="event-item">
+          <div class="event-date">PLENÁRIA NACIONAL</div>
+          <div class="event-desc">Debate sobre valorização do salário mínimo e conquistas trabalhistas.</div>
+        </div>
+        <div class="event-item">
+          <div class="event-date">DEFESA DO SUS</div>
+          <div class="event-desc">Mobilização popular pela ampliação do programa Mais Médicos.</div>
+        </div>
+        <div class="event-item">
+          <div class="event-date">TRANSIÇÃO CLIMÁTICA</div>
+          <div class="event-desc">Encontro de juventudes em defesa da Amazônia e da soberania alimentar.</div>
+        </div>
+      </div>
+
+      <!-- SUGIRA UMA PAUTA -->
+      <div class="side-box">
+        <div class="side-title">📢 PAUTA DO POVO</div>
+        <p style="font-size: 11px; color: #9aa0b4; margin-bottom: 8px;">Conhece uma ação popular, conquista ou denúncia da sua comunidade? Envie para apuração:</p>
+        <textarea class="pauta-input" rows="3" placeholder="Descreva a notícia ou passe o link..."></textarea>
+        <button class="btn-submit-pauta" onclick="alert('Obrigado! A pauta foi enviada para apuração da redação.')">Enviar Sugestão de Pauta</button>
+      </div>
+    </aside>
+  </div>
 
   <footer>
-    <p><strong>NEWS BRAZIL RT</strong> &copy; 2026 — Plataforma autônoma de comunicação e informação popular.</p>
+    <p><strong>NEWS BRAZIL RT</strong> &copy; 2026 — Plataforma popular de informação, direitos e soberania.</p>
     <p style="margin-top: 4px;">Atualizado automaticamente a cada 15 minutos via nuvem.</p>
   </footer>
 
   <script>
     let noticias = [];
     let categoriaAtual = 'all';
+    let regiaoAtual = 'all';
     let buscaAtual = '';
 
     const heroArea = document.getElementById('hero-area');
     const newsGrid = document.getElementById('news-grid');
     const countLabel = document.getElementById('count-label');
     const searchInput = document.getElementById('search-input');
-    const catButtons = document.querySelectorAll('.cat-btn');
+    const catButtons = document.querySelectorAll('.btn-filter');
+    const regionSelect = document.getElementById('region-filter');
+    const tickerNews = document.getElementById('ticker-news');
 
     function atualizarRelogio() {
       const agora = new Date();
@@ -388,55 +540,75 @@
     function renderizar() {
       const filtradas = noticias.filter(item => {
         const bateuCat = (categoriaAtual === 'all') || (item.categoria === categoriaAtual);
+        const bateuReg = (regiaoAtual === 'all') || (item.regiao === regiaoAtual);
         const termo = buscaAtual.toLowerCase();
         const bateuBusca = item.titulo.toLowerCase().includes(termo) || (item.resumo && item.resumo.toLowerCase().includes(termo));
-        return bateuCat && bateuBusca;
+        return bateuCat && bateuReg && bateuBusca;
       });
 
       countLabel.innerText = `${filtradas.length} matérias`;
 
       if (filtradas.length === 0) {
         heroArea.innerHTML = '';
-        newsGrid.innerHTML = '<p style="padding: 30px; color: #7b8196; grid-column: 1/-1;">Nenhuma notícia encontrada com estes filtros.</p>';
+        newsGrid.innerHTML = '<p style="padding: 30px; color: #70768a; grid-column: 1/-1;">Nenhuma matéria encontrada com estes filtros.</p>';
         return;
       }
 
-      // Manchete Hero: Primeira notícia da lista
+      // Manchete Hero
       const manchete = filtradas[0];
       heroArea.innerHTML = `
         <div class="hero-card" onclick="window.open('${manchete.link}', '_blank')">
-          <span class="hero-badge">${manchete.categoria_label}</span>
-          <h1 class="hero-title">${manchete.titulo}</h1>
-          <p class="hero-summary">${manchete.resumo}</p>
-          <div class="meta-info">
-            <span class="source-tag">Fonte: ${manchete.veiculo}</span>
-            <span>🕒 ${manchete.hora}</span>
-            <span style="color: #ff5252; font-weight: 700; margin-left: auto;">Ler matéria completa ↗</span>
+          <img src="${manchete.imagem}" class="hero-img" alt="Capa da notícia" onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=700&q=80'" />
+          <div class="hero-body">
+            <div>
+              <span class="hero-badge">${manchete.categoria_label}</span>
+              <h1 class="hero-title">${manchete.titulo}</h1>
+              <p class="hero-summary">${manchete.resumo}</p>
+            </div>
+            <div class="hero-meta">
+              <span style="color: #ff5252; font-weight: 700;">${manchete.veiculo}</span>
+              <span>🕒 ${manchete.hora}</span>
+              <span>⏱️ ${manchete.tempo_leitura || '2 min'}</span>
+              <span style="color: #ff5252; font-weight: 700; margin-left: auto;">Ler matéria completa ↗</span>
+            </div>
           </div>
         </div>
       `;
 
-      // Grade com o restante das matérias
+      // Grade de Matérias
       newsGrid.innerHTML = '';
       const listaCards = filtradas.slice(1);
 
       listaCards.forEach(item => {
+        const urlWhats = `https://api.whatsapp.com/send?text=${encodeURIComponent(item.titulo + ' ' + item.link)}`;
         const card = document.createElement('div');
         card.className = 'card';
-        card.onclick = () => window.open(item.link, '_blank');
         card.innerHTML = `
-          <div>
-            <div class="card-category">${item.categoria_label}</div>
+          <img src="${item.imagem}" class="card-thumb" alt="Miniatura" onerror="this.src='https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=700&q=80'" />
+          <div class="card-body" onclick="window.open('${item.link}', '_blank')" style="cursor: pointer;">
+            <div class="card-top">
+              <span class="card-cat">${item.categoria_label}</span>
+              <span class="card-readtime">${item.tempo_leitura || '2 min'}</span>
+            </div>
             <h3 class="card-title">${item.titulo}</h3>
             <p class="card-summary">${item.resumo}</p>
           </div>
           <div class="card-footer">
             <span><strong>${item.veiculo}</strong> • ${item.hora}</span>
-            <span class="card-link-btn">Acessar ↗</span>
+            <div class="share-btns">
+              <a href="${urlWhats}" target="_blank" class="btn-share" title="Partilhar no WhatsApp">📲 Zap</a>
+              <a href="${item.link}" target="_blank" class="btn-share" style="color: #5ac8fa;">Acessar ↗</a>
+            </div>
           </div>
         `;
         newsGrid.appendChild(card);
       });
+    }
+
+    function montarTicker(lista) {
+      if (!lista || lista.length === 0) return;
+      const itensTicker = lista.slice(0, 6).map(n => `<a href="${n.link}" target="_blank">🔴 <strong>${n.veiculo}:</strong> ${n.titulo}</a>`).join('');
+      tickerNews.innerHTML = itensTicker;
     }
 
     searchInput.addEventListener('input', (e) => {
@@ -453,15 +625,21 @@
       });
     });
 
+    regionSelect.addEventListener('change', (e) => {
+      regiaoAtual = e.target.value;
+      renderizar();
+    });
+
     fetch('noticias.json')
       .then(res => res.json())
       .then(dados => {
         noticias = dados;
+        montarTicker(dados);
         renderizar();
       })
       .catch(err => {
-        console.error("Erro ao carregar notícias:", err);
-        newsGrid.innerHTML = '<p style="padding: 20px; color: #ff5252;">Aguardando primeiro ciclo de alimentação da nuvem...</p>';
+        console.error(err);
+        newsGrid.innerHTML = '<p style="padding: 20px; color: #ff5252;">Aguardando dados...</p>';
       });
   </script>
 </body>
