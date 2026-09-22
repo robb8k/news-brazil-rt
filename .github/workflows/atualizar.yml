@@ -1,0 +1,30 @@
+name: Atualizar Notícias News Brazil RT
+
+on:
+  schedule:
+    # Executa a cada 15 minutos
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+
+jobs:
+  atualizar-portal:
+    runs-on: ubuntu-24.04
+
+    steps:
+      - name: Baixar repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Coletar notícias
+        run: python coletor.py
+
+      - name: Publicar atualizações
+        run: |
+          git config --global user.name "Robô News Brazil"
+          git config --global user.email "bot@newsbrazil.rt"
+          git add noticias.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Atualizacao automatica News Brazil RT" && git push)
