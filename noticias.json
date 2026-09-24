@@ -10,9 +10,9 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-09-23",
-    "hora": "Há 2h",
+    "hora": "Há 7h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 2,
@@ -25,9 +25,9 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-09-23",
-    "hora": "Há 2h",
+    "hora": "Há 7h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 3,
@@ -40,7 +40,7 @@
     "categoria_label": "✊ Direitos & Mobilização",
     "regiao": "Nacional",
     "data_dia": "2026-09-23",
-    "hora": "Há 3h",
+    "hora": "Há 8h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -55,7 +55,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-09-23",
-    "hora": "Há 3h",
+    "hora": "Há 9h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -70,7 +70,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-09-23",
-    "hora": "Há 4h",
+    "hora": "Há 9h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -85,7 +85,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-09-23",
-    "hora": "Há 4h",
+    "hora": "Há 9h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -100,7 +100,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-09-23",
-    "hora": "Há 4h",
+    "hora": "Há 9h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -115,7 +115,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-09-23",
-    "hora": "Há 4h",
+    "hora": "Há 9h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -130,7 +130,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-09-23",
-    "hora": "Há 6h",
+    "hora": "Há 11h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -145,7 +145,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-09-23",
-    "hora": "Há 6h",
+    "hora": "Há 11h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -160,7 +160,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-09-23",
-    "hora": "Há 6h",
+    "hora": "Há 11h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -175,7 +175,7 @@
     "categoria_label": "📈 Conquistas & Economia",
     "regiao": "Nacional",
     "data_dia": "2026-09-23",
-    "hora": "Há 7h",
+    "hora": "Há 12h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -190,7 +190,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-09-23",
-    "hora": "Há 7h",
+    "hora": "Há 13h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -205,7 +205,7 @@
     "categoria_label": "✊ Direitos & Mobilização",
     "regiao": "Norte",
     "data_dia": "2026-09-23",
-    "hora": "Há 9h",
+    "hora": "Há 14h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -280,7 +280,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-09-23",
-    "hora": "Há 6h",
+    "hora": "Há 12h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -295,7 +295,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-09-23",
-    "hora": "Há 7h",
+    "hora": "Há 12h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -310,7 +310,7 @@
     "categoria_label": "📈 Conquistas & Economia",
     "regiao": "Nacional",
     "data_dia": "2026-09-23",
-    "hora": "Há 7h",
+    "hora": "Há 12h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -325,7 +325,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-09-23",
-    "hora": "Há 9h",
+    "hora": "Há 14h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -340,7 +340,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-09-23",
-    "hora": "Há 10h",
+    "hora": "Há 15h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -355,7 +355,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-09-23",
-    "hora": "Há 11h",
+    "hora": "Há 17h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -370,7 +370,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-09-23",
-    "hora": "Há 14h",
+    "hora": "Há 19h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -430,12 +430,27 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-09-23",
-    "hora": "Há 3h",
+    "hora": "Há 9h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
     "id": 30,
+    "titulo": "Ministério da Saúde defende integração entre ATS, precificação e registro de medicamentos",
+    "veiculo": "Futuro da Saúde",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWjAwaUdfbWRKLUphVmE2ZEdZbTFFdDlOaGJUNlJGNlJyWGJhQS1Lc0wzdHBHTVpjMFFrMVpzOS14ZWx1MUJRRzBUZjlLcEJtdWFuenlwQ3RJdFZ6WGE1OVNMMGJ3aDVpUE8xMHZvTDU1SEN0YVk5VkxLOVlXTGpjSElJZGJyeFdnYnN4LThIbw?oc=5",
+    "resumo": "Ministério da Saúde defende integração entre ATS, precificação e registro de medicamentos  Futuro da Saúde",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
+    "regiao": "Nacional",
+    "data_dia": "2026-09-23",
+    "hora": "Há 5h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 31,
     "titulo": "Ministério da Saúde apresenta modelo de atenção à saúde indígena no México",
     "veiculo": "www.gov.br",
     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMDBQaDhpMmI3dXJtTTk3VU9DQ0hrdmZPYnBja3NLbmNmX0hqYWlCMzQ3NWM2RTI3RW00YzZnNy1VV3Z1VHcxemY3dFdOVW1hdm9uSGRNWkthakdwa2QtWm1PcVdlOEtpSFZTS1lVeEoybEpoTkprOE5ITEV1ZE1vYzVKQVQ5RUhuNHpJZ1hvOEJ5Wlg3NXQ0Xy1PbEhPM3JBNThlbHpva2VMUkJVLWN6R29Ya1UwclM1VUtsTXVDMklpdy1oTkFlUUVFOWc1bjlqZnA0Y3NKcw?oc=5",
@@ -445,57 +460,27 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-09-23",
-    "hora": "Há 3h",
+    "hora": "Há 8h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 31,
+    "id": 32,
     "titulo": "Lula promete canetas emagrecedoras, mas não sabe quanto custará, quem vai receber nem quando",
-    "veiculo": "gazetadopovo.com.br",
+    "veiculo": "Gazeta do Povo",
     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNenQxbGRVcUpQQ000UUI0TXBqQlNENnZzYWNmWmVjVTNlSjRlRjRybll3dU9BcHE3Ymd4NWdZZ1owajc3bHRBYjZMV0xxaGtfek9yV2tJaW5nSXZja29TZFozWTBmeU5FdDhTd2lyd2VDQXlCS2hXd1Vjb1BpUVB1VXJETDRiNlNaRzhDdEt6ZEhlUDFueEVCOV9FZWluMnRPZG1QdjRCeUg4RlRQZUxfOURhU2JwX3EyUjhzSXVsU1kzc0ZoWWU1TUd5eWRuZU5pQWg0?oc=5",
-    "resumo": "Lula promete canetas emagrecedoras, mas não sabe quanto custará, quem vai receber nem quando  gazetadopovo.com.br",
+    "resumo": "Lula promete canetas emagrecedoras, mas não sabe quanto custará, quem vai receber nem quando  Gazeta do Povo",
     "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
     "categoria": "geral",
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-09-23",
-    "hora": "Há 1h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": true
-  },
-  {
-    "id": 32,
-    "titulo": "Picos recebe novo micro-ônibus do Ministério da Saúde para transporte de pacientes",
-    "veiculo": "PREFEITURA DE PICOS | Página inicial.",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSmhtVzZPR05lTE5Fbk5rdzNBTTNUQUphc2s1QlRoanY1LWNsNHJJMUlyTEhlV1dlbllIQmpXMm5JRGRNeXhNUDlFQS1rWTcwTndPb0dDcmdtVWc4cjNxOU1YME5nMTBFNkNQNnc1bmwxVzVlVnFnOW1aR1dMRjIzbWlvb3llVGJ1dllZdHp1enFBSnpzYTVpaGlXU1g4VUF0dW9FWVlxbFVnd3VlTFBTQ0JpYnI0VUlTQjJKTUhjS29JaHpO?oc=5",
-    "resumo": "Picos recebe novo micro-ônibus do Ministério da Saúde para transporte de pacientes  PREFEITURA DE PICOS | Página inicial.",
-    "imagem": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
-    "categoria": "economia",
-    "categoria_label": "📈 Conquistas & Economia",
-    "regiao": "Nacional",
-    "data_dia": "2026-09-23",
-    "hora": "Há 11h",
+    "hora": "Há 7h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
     "id": 33,
-    "titulo": "A aposta da campanha de Lula na distribuição de canetas emagrecedoras pelo SUS",
-    "veiculo": "O GLOBO",
-    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcG52Z3hKcHVId093WklVUHNuQV9ERUpFc3RhUkVHZnhEQUxHNVQ2cUZlb0ktZzY5MXlQQ3dyaXJVNUVrZVZMa3FEdnhSaFdubUpmTVM3ZWcybVNfZ0E4MXlPbFhURlFyV1RKbDRjSFpHZ1F2dUZ1ZUt5ZEhnRGlEM25yaVNEM29HenlpWGR3NjZFc21vRDd0REpCQ3NNOGMwQjE0QTVHZEhGcXBFekJaYVUyYmFHMFQzbHRNV1NuSWYweGgwdTVaTS1GSEQ1ZDNnUGNDcVdsN0vSAecBQVVfeXFMT0ZBOU10SXZycFNhNFpuX1poSlRFRjE1elBRdnVJN3JiSkJrd1ZYeDhXcVBjQmZ0ZFAtYVJzWDU4enJMcTU2aENEZUVOaWJxbUNOcWV5QTlRZUpRSC1adndWSGtoY2lHRndNbExKdi1ybGFnWFBxR3g1UFZwdk1QTEEybXBXTjBKUWxTendoRFdTMW05TmduYnlMVVJ1S3BhdmhUVFNUQl9PcHBYaVNMQ0RMSjVES0pnMmhsMmRwN2dMRmlTOTY0WVJoUWdEV3ZkVzlLQWdQSmZ0UkpidjhhQUREOEdRVWIw?oc=5",
-    "resumo": "A aposta da campanha de Lula na distribuição de canetas emagrecedoras pelo SUS  O GLOBO",
-    "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
-    "categoria": "eleicoes",
-    "categoria_label": "🗳️ Eleições & Campanhas",
-    "regiao": "Nacional",
-    "data_dia": "2026-09-23",
-    "hora": "Há 4h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 34,
     "titulo": "Reajuste do Bolsa Família: Lula está usando o aumento como arma eleitoral?",
     "veiculo": "BBC",
     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE42Q0tqc0ZHOE9ReWljalJxTkxYTHMyVS1hdlJadkFmUTBFV0ZRRE91SDNVbUZteDZLY3duT25xVGs0ZWxRYTZ6NFg0dVhUZmxNMWR5dTNvSUd4UktlandHck9LY9IBaEFVX3lxTFBPMThNN3dPcEJKVFpiZWN4cTRWMnA1SkU2SHNqU3RRR2MtZU81WlNLYVA2Ul8tRmxDTlRuc2dkLW9JeWZGMlBJeko2MVhyQmFDQ3ZZS3ZUVnN3RGRyXy1OQXNRM2hlcnl0?oc=5",
@@ -506,6 +491,21 @@
     "regiao": "Nacional",
     "data_dia": "2026-09-18",
     "hora": "18/09 05:15",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 34,
+    "titulo": "Picos recebe novo micro-ônibus do Ministério da Saúde para transporte de pacientes",
+    "veiculo": "PREFEITURA DE PICOS | Página inicial.",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSmhtVzZPR05lTE5Fbk5rdzNBTTNUQUphc2s1QlRoanY1LWNsNHJJMUlyTEhlV1dlbllIQmpXMm5JRGRNeXhNUDlFQS1rWTcwTndPb0dDcmdtVWc4cjNxOU1YME5nMTBFNkNQNnc1bmwxVzVlVnFnOW1aR1dMRjIzbWlvb3llVGJ1dllZdHp1enFBSnpzYTVpaGlXU1g4VUF0dW9FWVlxbFVnd3VlTFBTQ0JpYnI0VUlTQjJKTUhjS29JaHpO?oc=5",
+    "resumo": "Picos recebe novo micro-ônibus do Ministério da Saúde para transporte de pacientes  PREFEITURA DE PICOS | Página inicial.",
+    "imagem": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
+    "categoria": "economia",
+    "categoria_label": "📈 Conquistas & Economia",
+    "regiao": "Nacional",
+    "data_dia": "2026-09-23",
+    "hora": "Há 16h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -526,6 +526,21 @@
   },
   {
     "id": 36,
+    "titulo": "A aposta da campanha de Lula na distribuição de canetas emagrecedoras pelo SUS",
+    "veiculo": "O GLOBO",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcG52Z3hKcHVId093WklVUHNuQV9ERUpFc3RhUkVHZnhEQUxHNVQ2cUZlb0ktZzY5MXlQQ3dyaXJVNUVrZVZMa3FEdnhSaFdubUpmTVM3ZWcybVNfZ0E4MXlPbFhURlFyV1RKbDRjSFpHZ1F2dUZ1ZUt5ZEhnRGlEM25yaVNEM29HenlpWGR3NjZFc21vRDd0REpCQ3NNOGMwQjE0QTVHZEhGcXBFekJaYVUyYmFHMFQzbHRNV1NuSWYweGgwdTVaTS1GSEQ1ZDNnUGNDcVdsN0vSAecBQVVfeXFMT0ZBOU10SXZycFNhNFpuX1poSlRFRjE1elBRdnVJN3JiSkJrd1ZYeDhXcVBjQmZ0ZFAtYVJzWDU4enJMcTU2aENEZUVOaWJxbUNOcWV5QTlRZUpRSC1adndWSGtoY2lHRndNbExKdi1ybGFnWFBxR3g1UFZwdk1QTEEybXBXTjBKUWxTendoRFdTMW05TmduYnlMVVJ1S3BhdmhUVFNUQl9PcHBYaVNMQ0RMSjVES0pnMmhsMmRwN2dMRmlTOTY0WVJoUWdEV3ZkVzlLQWdQSmZ0UkpidjhhQUREOEdRVWIw?oc=5",
+    "resumo": "A aposta da campanha de Lula na distribuição de canetas emagrecedoras pelo SUS  O GLOBO",
+    "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
+    "categoria": "eleicoes",
+    "categoria_label": "🗳️ Eleições & Campanhas",
+    "regiao": "Nacional",
+    "data_dia": "2026-09-23",
+    "hora": "Há 10h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 37,
     "titulo": "Brasil defende produção regional e acesso equitativo a medicamentos na Semana de Alto Nível da ONU",
     "veiculo": "www.gov.br",
     "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPTEhXeUN5OHl6RXRfalBMTXNIcEFNa2VmQ1F5V0xkSlJSMlA0UWZTTkZtRjM4b09MQXdXSHNmdTJyODRJdUo4T3FseWZzUjFld0VZdEZHOGVpRVVfcVZjVGJKX0laRERkbk43YWo3UEdPU3JBWHRCamdYZnVlRkhrUzhzTzhqLWlDMEJYRWgwd1RuYUg0Wk8tN1lMX1ZJQVY1M3kzWFpKV3daeWZjUzJHdkw2U3BqTlhwV3g0bEl3dXVoRlozeXRKeTZjc3pncVExNVdtZHFQNUkwUjlvU1Q2Q3lDUlJ4S09kOVhOTFQ5djBlYUhXV1V3?oc=5",
@@ -535,22 +550,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-09-23",
-    "hora": "Há 5h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 37,
-    "titulo": "Lula anuncia reajuste de 15% no Bolsa Família, às vésperas da eleição",
-    "veiculo": "BBC",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE53UWJUWUFHUlJ5UkcwQURPX19DQ1dKeldIWVpjaXp0bktWdldwUWdkYTBQYXJBVTdXalo0bk1MVldEUU9nR0M5UWU5Uzd1Q1BDa3ppcnM2Z2JQVVVRa0dYcFRtWdIBaEFVX3lxTE9kM3lzcTkzVThQOXZrU3FScXJsbFctc2MtMXN1b05vSjM3bzZtcWxtSGgzdGt4OXVkTXZuU0tlM3VlX0s4QU14WXE5ZmItcVdDWUF6bXRhSnFCMnY2UkVpTUlXd1lOU3dt?oc=5",
-    "resumo": "Lula anuncia reajuste de 15% no Bolsa Família, às vésperas da eleição  BBC",
-    "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
-    "categoria": "eleicoes",
-    "categoria_label": "🗳️ Eleições & Campanhas",
-    "regiao": "Nacional",
-    "data_dia": "2026-09-17",
-    "hora": "17/09 11:01",
+    "hora": "Há 10h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -558,7 +558,7 @@
     "id": 38,
     "titulo": "Reajuste do Bolsa Família é aposta de Lula para mudar foco da eleição após crise no STF",
     "veiculo": "G1",
-    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNZVFveHRNZnl4bEdVZW5UTkxiS3Y2OFJTSy1PSUQyTHdaYnowT1JmOGdMc3dpOHR6MUFjcFlXdC05VjJ0R2NQM0Jpb2lUaVBzdU1CLTJXMGx3OTBVUExmOHNKY1VvMkd3QnlUZkYwaGFoaXdNR0p1azBfZ3RWNXVoVTluaGhGRURNemppcTJYQVcxOTAwWEZ4VldsU1ZReVJaY3hpRHc5WC01WDltSVVFTVpRdFE0cmZqOTdkd2ZXdmRNVjFCbVRiS3BYLUFNb3VyQ2hUTFRZa1pxRVRRcUN1d1hFY2JfM1dFNEhyYWJzRWU4c1nSAYICQVVfeXFMT0UzTGhwRzNGZlUzMGFGSUI2UUpmME43NUVEaG81YU0tUnpJSzNhdFpqZnVaRHRWNEdEOV8yWm40bFBIbG9OV2tyaE9DOXh5eUhqam9mWkZ3eDdZb3FEMVFjSHp0YzhWRzJhV2pURXc0Q0xMY1YtZE05Wl9fTzN4MlRnSXlaek92cVJZVHNLY092dkNzOHRxRklQRFhKM09MQzBTX09oMUFOVnA4WGt4X2hPdkJITXZRdWVBS0JzQ2NSRFN2THFCVkJLMnN0V1RwUUpYSEZnOS1nVF84X0hsXzJzUXRranZYVzVLVnkwc2FJbVdtZ1U2T2g5aXpoWm41R01n?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNZVFveHRNZnl4bEdVZW5UTkxiS3Y2OFJTSy1PSUQyTHdaYnowT1JmOGdMc3dpOHR6MUFjcFlXdC05VjJ0R2NQM0Jpb2lUaVBzdU1CLTJXMGx3OTBVUExmOHNKY1VvMkd3QnlUZkYwaGFoaXdNR0p1azBfZ3RWNXVoVTluaGhGRURNemppcTJYQVcxOTAwWEZ4VldsU1ZReVJaY3hpRHc5WC01WDltSVVFTVpRdFE0cmZqOTdkd2ZXdmRNVjFCbVRiS3BYLUFNb3VyQ2hUTFRZa1pxRVRRcUN1d1hFY2JfM1dFNEhyYWJzRWU4c1k?oc=5",
     "resumo": "Reajuste do Bolsa Família é aposta de Lula para mudar foco da eleição após crise no STF  G1",
     "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
     "categoria": "eleicoes",
@@ -580,22 +580,22 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Sul",
     "data_dia": "2026-09-23",
-    "hora": "Há 12h",
+    "hora": "Há 18h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
     "id": 40,
-    "titulo": "Vídeo sobre ‘kit chuca’ viraliza, mas ministério não compra nem custeia o produto para o SUS; entenda",
-    "veiculo": "G1",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQlBydW9sRXo4UEE5R3RUTGlod213blRqM2RwUHRiLUhNOXJXbkNfY2N6MGx1dnpKc0o5a2RpX25xYlFySFgwTTd6ZXUtNXRDbnhmZnR1ZmVYVmpRVGRYNDBpR0FqT2tHMTJVVndTekRZMTFzaHg2ZDdUdFJFUUxyNlJLNFNvMktqVEHSAZgBQVVfeXFMT2xOM242MG9vM21wQ2hnMUJoOTZFeUhCaDNqcl90Qmc0bWUxcUpNNHdSNVZvS2pJVUhoTEl2R3I4bGRja3BHNlE2ZVE2QUhNNVFPLXV2VDl5NlJXV1hDRS00Sm5pajdVaG45SHMyLWZ2ODdDM254RWl5RGduZmFoT3hlWHBSeWt2X1lRaFNQeWVxNkh4UUNjMXc?oc=5",
-    "resumo": "Vídeo sobre ‘kit chuca’ viraliza, mas ministério não compra nem custeia o produto para o SUS; entenda  G1",
+    "titulo": "Secretário-executivo do MEC visita Parque Tecnológico de Saúde da UFRGS — Ministério da Educação",
+    "veiculo": "www.gov.br",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZU1uUmVleEgzZ2J1UWdFWWtFQmVJUGF4MFc2SWhKLWI2MHFfM3gyOThxeUZ6cWhDOWFsRzBlNjJIYnRMX2ZkNVVSU1Q3VXJtcUU0dFdCTmJGTUlZeUFXa0hUbVg2bWp2YTRRUlFfdjNmVzdwZGgyaHcxTzZBSlpSMWVTajVJMlhNcEdabXZQRzUwV1pHejE3UGFoa1d4S1Y2RDY4ejUxU3pqRGhOQk5aNlpiallRenJjUGpXWFRPUzRFRmM1SkowSC1DWVc2Tk9mano0?oc=5",
+    "resumo": "Secretário-executivo do MEC visita Parque Tecnológico de Saúde da UFRGS — Ministério da Educação  www.gov.br",
     "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
     "categoria": "social",
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-09-23",
-    "hora": "Há 20h",
+    "hora": "Há 9h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -610,7 +610,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nordeste",
     "data_dia": "2026-09-23",
-    "hora": "Há 9h",
+    "hora": "Há 15h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -625,7 +625,7 @@
     "categoria_label": "✊ Direitos & Mobilização",
     "regiao": "Nacional",
     "data_dia": "2026-09-23",
-    "hora": "Há 11h",
+    "hora": "Há 16h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   }
