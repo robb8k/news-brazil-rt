@@ -1,6 +1,36 @@
 [
   {
     "id": 1,
+    "titulo": "Veja como foi a quarta-feira (23) dos presidenciáveis",
+    "veiculo": "Agência Brasil",
+    "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/veja-como-foi-quarta-feira-23-dos-presidenciaveis",
+    "resumo": "A agenda dos presidenciáveis nesta quarta-feira (23) incluiu debates, entrevistas e encontros com apoiadores, além de visitas a instituições e atividades de campanha.\n\n>>...",
+    "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
+    "categoria": "eleicoes",
+    "categoria_label": "🗳️ Eleições & Campanhas",
+    "regiao": "Nacional",
+    "data_dia": "2026-09-23",
+    "hora": "Há 2h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": true
+  },
+  {
+    "id": 2,
+    "titulo": "Entidades denunciam agressões às mulheres que disputam cargos",
+    "veiculo": "Agência Brasil",
+    "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/entidades-denunciam-agressoes-mulheres-que-disputam-cargos",
+    "resumo": "As denúncias sobre violência política de gênero têm crescido, especialmente em ano de eleição. Dados do Tribunal Superior Eleitoral (TSE) apontam que de 2022 a 2024 os pr...",
+    "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
+    "categoria": "eleicoes",
+    "categoria_label": "🗳️ Eleições & Campanhas",
+    "regiao": "Nacional",
+    "data_dia": "2026-09-23",
+    "hora": "Há 2h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": true
+  },
+  {
+    "id": 3,
     "titulo": "Lei institui atendimento a vítimas de violência física e sexual",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-09/lei-institui-atendimento-vitimas-de-violencia-fisica-e-sexual",
@@ -10,12 +40,12 @@
     "categoria_label": "✊ Direitos & Mobilização",
     "regiao": "Nacional",
     "data_dia": "2026-09-23",
-    "hora": "Há 39 min",
+    "hora": "Há 3h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 2,
+    "id": 4,
     "titulo": "Dólar aproxima-se de R$ 5,17, com notícias do exterior e eleições",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/dolar-aproxima-se-de-r-517-com-noticias-do-exterior-e-eleicoes",
@@ -25,12 +55,12 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-09-23",
-    "hora": "Há 1h",
+    "hora": "Há 3h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 3,
+    "id": 5,
     "titulo": "Tsunami meteorológico: entenda o evento raro e rápido que atingiu SC",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/tsunami-meteorologico-entenda-o-evento-raro-e-rapido-que-atingiu-sc",
@@ -40,12 +70,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-09-23",
-    "hora": "Há 1h",
+    "hora": "Há 4h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 4,
+    "id": 6,
     "titulo": "TCU recomenda análise de alternativas à caducidade da Enel em SP",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/tcu-recomenda-analise-de-alternativas-caducidade-da-enel-em-sp",
@@ -55,12 +85,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-09-23",
-    "hora": "Há 2h",
+    "hora": "Há 4h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 5,
+    "id": 7,
     "titulo": "Anvisa alerta para venda irregular de tirzepatida em pó na internet",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/anvisa-alerta-para-venda-irregular-de-tirzepatida-em-po-na-internet",
@@ -70,12 +100,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-09-23",
-    "hora": "Há 2h",
+    "hora": "Há 4h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 6,
+    "id": 8,
     "titulo": "Internacional contrata técnico Eduardo Baptista até o fim da temporada",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/internacional-contrata-tecnico-eduardo-baptista-ate-o-fim-da-temporada",
@@ -85,72 +115,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-09-23",
-    "hora": "Há 2h",
+    "hora": "Há 4h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
-  },
-  {
-    "id": 7,
-    "titulo": "Guaíba: Defesa Civil de Porto Alegre alerta para risco de inundação",
-    "veiculo": "Agência Brasil",
-    "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/guaiba-defesa-civil-de-porto-alegre-alerta-para-risco-de-inundacao",
-    "resumo": "A Defesa Civil de Porto Alegre emitiu um alerta de risco alto para a elevação do nível do Rio Guaíba, com potencial de inundação do bairro Arquipélago e áreas ribeirinhas...",
-    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
-    "categoria": "geral",
-    "categoria_label": "📢 Notícias do Povo",
-    "regiao": "Sul",
-    "data_dia": "2026-09-23",
-    "hora": "Há 2h",
-    "tempo_leitura": "2 min de leitura",
-    "urgente": true
-  },
-  {
-    "id": 8,
-    "titulo": "Estudo prevê até 13,3 mil mortes no Brasil com calor do Super El Niño",
-    "veiculo": "Agência Brasil",
-    "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-09/estudo-preve-ate-133-mil-mortes-no-brasil-com-calor-do-super-el-nino",
-    "resumo": "O calor extremo causado pelo Super El Niño pode provocar 13,3 mil mortes no Brasil, a maioria nas regiões Norte e Nordeste, de acordo com relatório do Laboratório de Impa...",
-    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
-    "categoria": "geral",
-    "categoria_label": "📢 Notícias do Povo",
-    "regiao": "Nordeste",
-    "data_dia": "2026-09-23",
-    "hora": "Há 2h",
-    "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 9,
-    "titulo": "CNJ cancela R$ 4,7 bilhões em precatórios ligados ao Master",
-    "veiculo": "Agência Brasil",
-    "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/cnj-cancela-r-47-bilhoes-em-precatorios-ligados-ao-master",
-    "resumo": "O corregedor nacional de Justiça, Benedito Gonçalves, determinou nesta quarta-feira (23) o cancelamento de precatórios de usinas do setor sucroalcooleiro que negociaram o...",
-    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
-    "categoria": "geral",
-    "categoria_label": "📢 Notícias do Povo",
-    "regiao": "Nacional",
-    "data_dia": "2026-09-23",
-    "hora": "Há 3h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 10,
-    "titulo": "Polícia investiga indução ao suicídio na morte de Isabelle no Ceará",
-    "veiculo": "Agência Brasil",
-    "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-09/policia-investiga-inducao-ao-suicidio-na-morte-de-isabelle-no-ceara",
-    "resumo": "A Perícia Forense do Ceará (Pefoce) informou nesta quarta-feira (23) que as análises periciais preliminares apontam que Isabelle Caracristi, de 22 anos, se jogou do prédi...",
-    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
-    "categoria": "geral",
-    "categoria_label": "📢 Notícias do Povo",
-    "regiao": "Nordeste",
-    "data_dia": "2026-09-23",
-    "hora": "Há 3h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 11,
     "titulo": "Esquerda: As lições da vitória em Berlim",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/movimentoserebeldias/esquerda-as-licoes-da-vitoria-em-berlim/",
@@ -160,12 +130,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-09-23",
-    "hora": "Há 3h",
+    "hora": "Há 6h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 12,
+    "id": 10,
     "titulo": "As planilhas funcionam, mas os votos não vêm",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/estadoemdisputa/as-planilhas-funcionam-mas-os-votos-nao-vem/",
@@ -175,12 +145,12 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-09-23",
-    "hora": "Há 3h",
+    "hora": "Há 6h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 13,
+    "id": 11,
     "titulo": "Eros e o fantasma do algoritmo que nos assombra",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/tecnologiaemdisputa/eros-e-o-fantasma-do-algoritmo-que-nos-assombra/",
@@ -190,12 +160,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-09-23",
-    "hora": "Há 3h",
+    "hora": "Há 6h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 14,
+    "id": 12,
     "titulo": "O trabalho numa sociedade ferida",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/trabalhoeprecariado/o-trabalho-numa-sociedade-ferida/",
@@ -205,12 +175,12 @@
     "categoria_label": "📈 Conquistas & Economia",
     "regiao": "Nacional",
     "data_dia": "2026-09-23",
-    "hora": "Há 4h",
+    "hora": "Há 7h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 15,
+    "id": 13,
     "titulo": "Crônica: Chaguinhas, o santo negro da Liberdade",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/historia-e-memoria/cinema-chaguinhas-o-santo-negro-da-liberdade/",
@@ -220,12 +190,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-09-23",
-    "hora": "Há 5h",
+    "hora": "Há 7h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 16,
+    "id": 14,
     "titulo": "Pochmann: Por que o IBGE cria novos mapas e estatísticas",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/descolonizacoes/pochmann-por-que-o-ibge-cria-novos-mapas-e-estatisticas/",
@@ -235,12 +205,12 @@
     "categoria_label": "✊ Direitos & Mobilização",
     "regiao": "Norte",
     "data_dia": "2026-09-23",
-    "hora": "Há 6h",
+    "hora": "Há 9h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
-    "id": 17,
+    "id": 15,
     "titulo": "Sul Global: o desafio da reindustrialização",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/descolonizacoes/sul-global-o-desafio-da-reindustrializacao/",
@@ -255,7 +225,7 @@
     "urgente": false
   },
   {
-    "id": 18,
+    "id": 16,
     "titulo": "Escudo das Américas: aliança ou submissão a Washington?",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/geopoliticaeguerra/escudo-das-americas-alianca-ou-submissao-a-washington/",
@@ -270,7 +240,7 @@
     "urgente": false
   },
   {
-    "id": 19,
+    "id": 17,
     "titulo": "Seria o Bolsa Família um estímulo à preguiça?",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/desigualdades-mundo/seria-o-bolsa-familia-um-estimulo-a-preguica/",
@@ -285,7 +255,7 @@
     "urgente": false
   },
   {
-    "id": 20,
+    "id": 18,
     "titulo": "Para que Lula escape do cerco financista",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/mercadovsdemocracia/para-que-lula-escape-do-cerco-financista/",
@@ -300,7 +270,7 @@
     "urgente": false
   },
   {
-    "id": 21,
+    "id": 19,
     "titulo": "Lula cresce e lidera com 46,3% dos votos válidos em 1º turno, aponta AtlasIntel",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/09/23/lula-cresce-e-lidera-com-463-dos-votos-validos-em-1o-turno-aponta-atlasintel/?utm_source=rss&utm_medium=rss&utm_campaign=lula-cresce-e-lidera-com-463-dos-votos-validos-em-1o-turno-aponta-atlasintel",
@@ -310,12 +280,12 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-09-23",
-    "hora": "Há 4h",
+    "hora": "Há 6h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
-    "id": 22,
+    "id": 20,
     "titulo": "Orlando Silva aciona MPF contra Meta após derrubada de denúncia política",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/09/23/orlando-silva-aciona-mpf-contra-meta-apos-derrubada-de-denuncia-politica/?utm_source=rss&utm_medium=rss&utm_campaign=orlando-silva-aciona-mpf-contra-meta-apos-derrubada-de-denuncia-politica",
@@ -325,12 +295,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-09-23",
-    "hora": "Há 4h",
+    "hora": "Há 7h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 23,
+    "id": 21,
     "titulo": "Brasil tem recorde de 103 milhões de ocupados e menor desemprego da história",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/09/23/brasil-tem-recorde-de-103-milhoes-de-ocupados-e-menor-desemprego-da-historia/?utm_source=rss&utm_medium=rss&utm_campaign=brasil-tem-recorde-de-103-milhoes-de-ocupados-e-menor-desemprego-da-historia",
@@ -340,12 +310,12 @@
     "categoria_label": "📈 Conquistas & Economia",
     "regiao": "Nacional",
     "data_dia": "2026-09-23",
-    "hora": "Há 4h",
+    "hora": "Há 7h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
-    "id": 24,
+    "id": 22,
     "titulo": "Porchat leva teia do Master ao topo do YouTube com 1,5 milhão de views",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/09/23/porchat-leva-teia-do-master-ao-topo-do-youtube-com-15-milhao-de-views/?utm_source=rss&utm_medium=rss&utm_campaign=porchat-leva-teia-do-master-ao-topo-do-youtube-com-15-milhao-de-views",
@@ -355,12 +325,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-09-23",
-    "hora": "Há 6h",
+    "hora": "Há 9h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
-    "id": 25,
+    "id": 23,
     "titulo": "Violência política de gênero cresce 11 vezes e mobiliza TSE e MPF em campanha",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/09/23/violencia-politica-de-genero-cresce-11-vezes-e-mobiliza-tse-e-mpf-em-campanha/?utm_source=rss&utm_medium=rss&utm_campaign=violencia-politica-de-genero-cresce-11-vezes-e-mobiliza-tse-e-mpf-em-campanha",
@@ -370,12 +340,12 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-09-23",
-    "hora": "Há 7h",
+    "hora": "Há 10h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
-    "id": 26,
+    "id": 24,
     "titulo": "Vietnã cobra na ONU o fim do bloqueio e das sanções dos EUA contra Cuba",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/09/23/vietna-cobra-na-onu-o-fim-do-bloqueio-e-das-sancoes-dos-eua-contra-cuba/?utm_source=rss&utm_medium=rss&utm_campaign=vietna-cobra-na-onu-o-fim-do-bloqueio-e-das-sancoes-dos-eua-contra-cuba",
@@ -385,12 +355,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-09-23",
-    "hora": "Há 9h",
+    "hora": "Há 11h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
-    "id": 27,
+    "id": 25,
     "titulo": "Direita alinhada a Trump abre América Latina para a intervenção dos EUA",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/09/23/direita-alinhada-a-trump-abre-o-continente-para-a-intervencao-dos-eua/?utm_source=rss&utm_medium=rss&utm_campaign=direita-alinhada-a-trump-abre-o-continente-para-a-intervencao-dos-eua",
@@ -400,12 +370,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-09-23",
-    "hora": "Há 11h",
+    "hora": "Há 14h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
-    "id": 28,
+    "id": 26,
     "titulo": "DataSenado: para mulheres com deficiência, violência também se esconde no cuidado",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/09/22/datasenado-para-mulheres-com-deficiencia-violencia-tambem-se-esconde-no-cuidado/?utm_source=rss&utm_medium=rss&utm_campaign=datasenado-para-mulheres-com-deficiencia-violencia-tambem-se-esconde-no-cuidado",
@@ -420,7 +390,7 @@
     "urgente": false
   },
   {
-    "id": 29,
+    "id": 27,
     "titulo": "Trump ameaça na ONU “aniquilar” Irã, mas elogia reunião entre os países",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/09/22/trump-ameaca-na-onu-aniquilar-ira-mas-elogia-reuniao-entre-os-paises/?utm_source=rss&utm_medium=rss&utm_campaign=trump-ameaca-na-onu-aniquilar-ira-mas-elogia-reuniao-entre-os-paises",
@@ -435,7 +405,7 @@
     "urgente": false
   },
   {
-    "id": 30,
+    "id": 28,
     "titulo": "Flávio bancou projeto de milicianos condenados pela morte de Marielle",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/09/22/flavio-repassou-r-200-mil-para-projeto-de-milicianos-condenados-pela-morte-de-marielle/?utm_source=rss&utm_medium=rss&utm_campaign=flavio-repassou-r-200-mil-para-projeto-de-milicianos-condenados-pela-morte-de-marielle",
@@ -450,19 +420,49 @@
     "urgente": false
   },
   {
-    "id": 31,
-    "titulo": "Brasil defende produção regional e acesso equitativo a medicamentos na Semana de Alto Nível da ONU",
+    "id": 29,
+    "titulo": "SasiSUS completa 27 anos e representa marco à atenção à saúde dos povos indígenas — Ministério da Saúde",
     "veiculo": "www.gov.br",
-    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPTEhXeUN5OHl6RXRfalBMTXNIcEFNa2VmQ1F5V0xkSlJSMlA0UWZTTkZtRjM4b09MQXdXSHNmdTJyODRJdUo4T3FseWZzUjFld0VZdEZHOGVpRVVfcVZjVGJKX0laRERkbk43YWo3UEdPU3JBWHRCamdYZnVlRkhrUzhzTzhqLWlDMEJYRWgwd1RuYUg0Wk8tN1lMX1ZJQVY1M3kzWFpKV3daeWZjUzJHdkw2U3BqTlhwV3g0bEl3dXVoRlozeXRKeTZjc3pncVExNVdtZHFQNUkwUjlvU1Q2Q3lDUlJ4S09kOVhOTFQ5djBlYUhXV1V3?oc=5",
-    "resumo": "Brasil defende produção regional e acesso equitativo a medicamentos na Semana de Alto Nível da ONU  www.gov.br",
-    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
-    "categoria": "geral",
-    "categoria_label": "📢 Notícias do Povo",
+    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNWU9IUWw4LTlyVUE4ZUFWUnFjR0cxM2ZOX3NJTUVVaGhsN1RXNnduV0Q2ZTJSQ2YtcWZORGtORXhOY1U0OHZ0MFpJbzJtbXpIM0pRX0FSXzM0UmRMbUg2X0tWQndtbDZMMjk4M3FJTE9haFlhdXJtNDdGdDR2ZG1QV1FKWm1CSGNqWkRCSkNXLWl0enpiU1pVaWNaVGI3MkZJQTd6LWk1V2FtV0llYmUwU192SGNjblpxMVN0eVZXOHFrUDdlNlA5T2Zjb2N5Rkw2anZQX3ltQXdoWFozclVIXw?oc=5",
+    "resumo": "SasiSUS completa 27 anos e representa marco à atenção à saúde dos povos indígenas — Ministério da Saúde  www.gov.br",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-09-23",
     "hora": "Há 3h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
+  },
+  {
+    "id": 30,
+    "titulo": "Ministério da Saúde apresenta modelo de atenção à saúde indígena no México",
+    "veiculo": "www.gov.br",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMDBQaDhpMmI3dXJtTTk3VU9DQ0hrdmZPYnBja3NLbmNmX0hqYWlCMzQ3NWM2RTI3RW00YzZnNy1VV3Z1VHcxemY3dFdOVW1hdm9uSGRNWkthakdwa2QtWm1PcVdlOEtpSFZTS1lVeEoybEpoTkprOE5ITEV1ZE1vYzVKQVQ5RUhuNHpJZ1hvOEJ5Wlg3NXQ0Xy1PbEhPM3JBNThlbHpva2VMUkJVLWN6R29Ya1UwclM1VUtsTXVDMklpdy1oTkFlUUVFOWc1bjlqZnA0Y3NKcw?oc=5",
+    "resumo": "Ministério da Saúde apresenta modelo de atenção à saúde indígena no México  www.gov.br",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
+    "regiao": "Nacional",
+    "data_dia": "2026-09-23",
+    "hora": "Há 3h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 31,
+    "titulo": "Lula promete canetas emagrecedoras, mas não sabe quanto custará, quem vai receber nem quando",
+    "veiculo": "gazetadopovo.com.br",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNenQxbGRVcUpQQ000UUI0TXBqQlNENnZzYWNmWmVjVTNlSjRlRjRybll3dU9BcHE3Ymd4NWdZZ1owajc3bHRBYjZMV0xxaGtfek9yV2tJaW5nSXZja29TZFozWTBmeU5FdDhTd2lyd2VDQXlCS2hXd1Vjb1BpUVB1VXJETDRiNlNaRzhDdEt6ZEhlUDFueEVCOV9FZWluMnRPZG1QdjRCeUg4RlRQZUxfOURhU2JwX3EyUjhzSXVsU1kzc0ZoWWU1TUd5eWRuZU5pQWg0?oc=5",
+    "resumo": "Lula promete canetas emagrecedoras, mas não sabe quanto custará, quem vai receber nem quando  gazetadopovo.com.br",
+    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
+    "categoria": "geral",
+    "categoria_label": "📢 Notícias do Povo",
+    "regiao": "Nacional",
+    "data_dia": "2026-09-23",
+    "hora": "Há 1h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": true
   },
   {
     "id": 32,
@@ -475,27 +475,12 @@
     "categoria_label": "📈 Conquistas & Economia",
     "regiao": "Nacional",
     "data_dia": "2026-09-23",
-    "hora": "Há 8h",
+    "hora": "Há 11h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
     "id": 33,
-    "titulo": "Saúde indígena é discutida no Cosems de Santa Catarina — Ministério da Saúde",
-    "veiculo": "www.gov.br",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObTdMUTkwV185OVFKdmZ4ekZSeVMxMDZVNlU1M3RiX0RFbFgwU3V1Vk9tY0VrOHVOZGZ1Rlk5OWZZa2dhWmN1YzNRZFFLbkF4Mm1ScnpMakZRVENNT1JFeDJUNTJ6NndkdUNlLTNrM0ZQZnBESVNkSzQtOFFDSzBhR1ZkTWdpQnE4aVJvV0h1MDVmMnBwZXVXVFFHOUtiV2NhUXhnei1TbWZHSUExVktpNW42NUNRN2JWdkhpZQ?oc=5",
-    "resumo": "Saúde indígena é discutida no Cosems de Santa Catarina — Ministério da Saúde  www.gov.br",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
-    "regiao": "Sul",
-    "data_dia": "2026-09-23",
-    "hora": "Há 10h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 34,
     "titulo": "A aposta da campanha de Lula na distribuição de canetas emagrecedoras pelo SUS",
     "veiculo": "O GLOBO",
     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcG52Z3hKcHVId093WklVUHNuQV9ERUpFc3RhUkVHZnhEQUxHNVQ2cUZlb0ktZzY5MXlQQ3dyaXJVNUVrZVZMa3FEdnhSaFdubUpmTVM3ZWcybVNfZ0E4MXlPbFhURlFyV1RKbDRjSFpHZ1F2dUZ1ZUt5ZEhnRGlEM25yaVNEM29HenlpWGR3NjZFc21vRDd0REpCQ3NNOGMwQjE0QTVHZEhGcXBFekJaYVUyYmFHMFQzbHRNV1NuSWYweGgwdTVaTS1GSEQ1ZDNnUGNDcVdsN0vSAecBQVVfeXFMT0ZBOU10SXZycFNhNFpuX1poSlRFRjE1elBRdnVJN3JiSkJrd1ZYeDhXcVBjQmZ0ZFAtYVJzWDU4enJMcTU2aENEZUVOaWJxbUNOcWV5QTlRZUpRSC1adndWSGtoY2lHRndNbExKdi1ybGFnWFBxR3g1UFZwdk1QTEEybXBXTjBKUWxTendoRFdTMW05TmduYnlMVVJ1S3BhdmhUVFNUQl9PcHBYaVNMQ0RMSjVES0pnMmhsMmRwN2dMRmlTOTY0WVJoUWdEV3ZkVzlLQWdQSmZ0UkpidjhhQUREOEdRVWIw?oc=5",
@@ -505,12 +490,12 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-09-23",
-    "hora": "Há 2h",
+    "hora": "Há 4h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 35,
+    "id": 34,
     "titulo": "Reajuste do Bolsa Família: Lula está usando o aumento como arma eleitoral?",
     "veiculo": "BBC",
     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE42Q0tqc0ZHOE9ReWljalJxTkxYTHMyVS1hdlJadkFmUTBFV0ZRRE91SDNVbUZteDZLY3duT25xVGs0ZWxRYTZ6NFg0dVhUZmxNMWR5dTNvSUd4UktlandHck9LY9IBaEFVX3lxTFBPMThNN3dPcEJKVFpiZWN4cTRWMnA1SkU2SHNqU3RRR2MtZU81WlNLYVA2Ul8tRmxDTlRuc2dkLW9JeWZGMlBJeko2MVhyQmFDQ3ZZS3ZUVnN3RGRyXy1OQXNRM2hlcnl0?oc=5",
@@ -525,7 +510,7 @@
     "urgente": false
   },
   {
-    "id": 36,
+    "id": 35,
     "titulo": "Paulista recebe nova ambulância do Ministério da Saúde para reforçar atendimento do SAMU",
     "veiculo": "Prefeitura do Paulista",
     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWUYxUFU3N1RzbjdQbXBMTEEtUURxREhDNVl0WlpSNWczaHVDUmdJSGVkM1NjTDkzSDFzcjZwbnFLaWlwVVlnM3R6R1BCV2tXNlhiVkdwWXZsRzZ4OExJNFZ5dVFfWFhmZklXUndLcXZSSEVveXJkTklsdFZCZnQxNTZjSVJzQmZVUWxOQkxLUUpCY0pZQVc1WnJUZkZyM0hNeFNnV08tSndGZXh6WkJSbkpweUZkTHc?oc=5",
@@ -540,52 +525,22 @@
     "urgente": false
   },
   {
-    "id": 37,
-    "titulo": "Lula melhora na AtlasIntel após Bolsa Família e alívio financeiro, mas STF ainda pesa",
-    "veiculo": "infomoney.com.br",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTUduZFZKQW5LQlB2VV9HRnV2Z1QzN293WXMwMzBXTktzMWgyTEZtejF5VW1fcEdyZXBWakg2WGNFQ0I1NHIzNS1GemdmeTFFcDl1X1ZNc2diVFg0UTdWVXVNV3pPX2U4Q1czWHN6eEh1cnhJdXNlRG1WMTlFRDB5NFNxMFI4SU1iSWRRLUZfdk5ZcXZNSS15SGZ5ZUxiVDJQQzcwcGF1NjRHaElDQWRuYVRPc3VkWkJZUktULTRqVGLSAcYBQVVfeXFMTVNyRGtHTWppVG9XLTZOSnozX2RZNnRvYi1DODNWUXVScHpOanFrd1AtS2FIOU1EWHpfaUkzN0VzZU1XSDlEMndJVTdtWDZRWEZQWl9KZ2d4ZWlmTnp3cFR4US1CVVZ4QTMwQzJqUC1XNGVuNk1SUW5BVVdscF9lWFdfbVBKNzg5NkFBYUhPM1NzTnR3bnBqbVZzODc0X2lZQ08xZndrZ01uTzJPSm8xYVBFcHhBVzQzUGVHSXduRURGdU9Qem53?oc=5",
-    "resumo": "Lula melhora na AtlasIntel após Bolsa Família e alívio financeiro, mas STF ainda pesa  infomoney.com.br",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
-    "regiao": "Nacional",
-    "data_dia": "2026-09-23",
-    "hora": "Há 13h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 38,
-    "titulo": "Ministério da Saúde apresenta modelo de atenção à saúde indígena no México",
+    "id": 36,
+    "titulo": "Brasil defende produção regional e acesso equitativo a medicamentos na Semana de Alto Nível da ONU",
     "veiculo": "www.gov.br",
-    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMDBQaDhpMmI3dXJtTTk3VU9DQ0hrdmZPYnBja3NLbmNmX0hqYWlCMzQ3NWM2RTI3RW00YzZnNy1VV3Z1VHcxemY3dFdOVW1hdm9uSGRNWkthakdwa2QtWm1PcVdlOEtpSFZTS1lVeEoybEpoTkprOE5ITEV1ZE1vYzVKQVQ5RUhuNHpJZ1hvOEJ5Wlg3NXQ0Xy1PbEhPM3JBNThlbHpva2VMUkJVLWN6R29Ya1UwclM1VUtsTXVDMklpdy1oTkFlUUVFOWc1bjlqZnA0Y3NKcw?oc=5",
-    "resumo": "Ministério da Saúde apresenta modelo de atenção à saúde indígena no México  www.gov.br",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
+    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPTEhXeUN5OHl6RXRfalBMTXNIcEFNa2VmQ1F5V0xkSlJSMlA0UWZTTkZtRjM4b09MQXdXSHNmdTJyODRJdUo4T3FseWZzUjFld0VZdEZHOGVpRVVfcVZjVGJKX0laRERkbk43YWo3UEdPU3JBWHRCamdYZnVlRkhrUzhzTzhqLWlDMEJYRWgwd1RuYUg0Wk8tN1lMX1ZJQVY1M3kzWFpKV3daeWZjUzJHdkw2U3BqTlhwV3g0bEl3dXVoRlozeXRKeTZjc3pncVExNVdtZHFQNUkwUjlvU1Q2Q3lDUlJ4S09kOVhOTFQ5djBlYUhXV1V3?oc=5",
+    "resumo": "Brasil defende produção regional e acesso equitativo a medicamentos na Semana de Alto Nível da ONU  www.gov.br",
+    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
+    "categoria": "geral",
+    "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-09-23",
-    "hora": "Há 1h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": true
-  },
-  {
-    "id": 39,
-    "titulo": "Vídeo sobre ‘kit chuca’ viraliza, mas ministério não compra nem custeia o produto para o SUS; entenda",
-    "veiculo": "G1",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQlBydW9sRXo4UEE5R3RUTGlod213blRqM2RwUHRiLUhNOXJXbkNfY2N6MGx1dnpKc0o5a2RpX25xYlFySFgwTTd6ZXUtNXRDbnhmZnR1ZmVYVmpRVGRYNDBpR0FqT2tHMTJVVndTekRZMTFzaHg2ZDdUdFJFUUxyNlJLNFNvMktqVEHSAZgBQVVfeXFMT2xOM242MG9vM21wQ2hnMUJoOTZFeUhCaDNqcl90Qmc0bWUxcUpNNHdSNVZvS2pJVUhoTEl2R3I4bGRja3BHNlE2ZVE2QUhNNVFPLXV2VDl5NlJXV1hDRS00Sm5pajdVaG45SHMyLWZ2ODdDM254RWl5RGduZmFoT3hlWHBSeWt2X1lRaFNQeWVxNkh4UUNjMXc?oc=5",
-    "resumo": "Vídeo sobre ‘kit chuca’ viraliza, mas ministério não compra nem custeia o produto para o SUS; entenda  G1",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
-    "regiao": "Nacional",
-    "data_dia": "2026-09-23",
-    "hora": "Há 17h",
+    "hora": "Há 5h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 40,
+    "id": 37,
     "titulo": "Lula anuncia reajuste de 15% no Bolsa Família, às vésperas da eleição",
     "veiculo": "BBC",
     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE53UWJUWUFHUlJ5UkcwQURPX19DQ1dKeldIWVpjaXp0bktWdldwUWdkYTBQYXJBVTdXalo0bk1MVldEUU9nR0M5UWU5Uzd1Q1BDa3ppcnM2Z2JQVVVRa0dYcFRtWdIBaEFVX3lxTE9kM3lzcTkzVThQOXZrU3FScXJsbFctc2MtMXN1b05vSjM3bzZtcWxtSGgzdGt4OXVkTXZuU0tlM3VlX0s4QU14WXE5ZmItcVdDWUF6bXRhSnFCMnY2UkVpTUlXd1lOU3dt?oc=5",
@@ -600,6 +555,51 @@
     "urgente": false
   },
   {
+    "id": 38,
+    "titulo": "Reajuste do Bolsa Família é aposta de Lula para mudar foco da eleição após crise no STF",
+    "veiculo": "G1",
+    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNZVFveHRNZnl4bEdVZW5UTkxiS3Y2OFJTSy1PSUQyTHdaYnowT1JmOGdMc3dpOHR6MUFjcFlXdC05VjJ0R2NQM0Jpb2lUaVBzdU1CLTJXMGx3OTBVUExmOHNKY1VvMkd3QnlUZkYwaGFoaXdNR0p1azBfZ3RWNXVoVTluaGhGRURNemppcTJYQVcxOTAwWEZ4VldsU1ZReVJaY3hpRHc5WC01WDltSVVFTVpRdFE0cmZqOTdkd2ZXdmRNVjFCbVRiS3BYLUFNb3VyQ2hUTFRZa1pxRVRRcUN1d1hFY2JfM1dFNEhyYWJzRWU4c1nSAYICQVVfeXFMT0UzTGhwRzNGZlUzMGFGSUI2UUpmME43NUVEaG81YU0tUnpJSzNhdFpqZnVaRHRWNEdEOV8yWm40bFBIbG9OV2tyaE9DOXh5eUhqam9mWkZ3eDdZb3FEMVFjSHp0YzhWRzJhV2pURXc0Q0xMY1YtZE05Wl9fTzN4MlRnSXlaek92cVJZVHNLY092dkNzOHRxRklQRFhKM09MQzBTX09oMUFOVnA4WGt4X2hPdkJITXZRdWVBS0JzQ2NSRFN2THFCVkJLMnN0V1RwUUpYSEZnOS1nVF84X0hsXzJzUXRranZYVzVLVnkwc2FJbVdtZ1U2T2g5aXpoWm41R01n?oc=5",
+    "resumo": "Reajuste do Bolsa Família é aposta de Lula para mudar foco da eleição após crise no STF  G1",
+    "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
+    "categoria": "eleicoes",
+    "categoria_label": "🗳️ Eleições & Campanhas",
+    "regiao": "Nacional",
+    "data_dia": "2026-09-18",
+    "hora": "18/09 08:27",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 39,
+    "titulo": "Saúde indígena é discutida no Cosems de Santa Catarina — Ministério da Saúde",
+    "veiculo": "www.gov.br",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObTdMUTkwV185OVFKdmZ4ekZSeVMxMDZVNlU1M3RiX0RFbFgwU3V1Vk9tY0VrOHVOZGZ1Rlk5OWZZa2dhWmN1YzNRZFFLbkF4Mm1ScnpMakZRVENNT1JFeDJUNTJ6NndkdUNlLTNrM0ZQZnBESVNkSzQtOFFDSzBhR1ZkTWdpQnE4aVJvV0h1MDVmMnBwZXVXVFFHOUtiV2NhUXhnei1TbWZHSUExVktpNW42NUNRN2JWdkhpZQ?oc=5",
+    "resumo": "Saúde indígena é discutida no Cosems de Santa Catarina — Ministério da Saúde  www.gov.br",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
+    "regiao": "Sul",
+    "data_dia": "2026-09-23",
+    "hora": "Há 12h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 40,
+    "titulo": "Vídeo sobre ‘kit chuca’ viraliza, mas ministério não compra nem custeia o produto para o SUS; entenda",
+    "veiculo": "G1",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQlBydW9sRXo4UEE5R3RUTGlod213blRqM2RwUHRiLUhNOXJXbkNfY2N6MGx1dnpKc0o5a2RpX25xYlFySFgwTTd6ZXUtNXRDbnhmZnR1ZmVYVmpRVGRYNDBpR0FqT2tHMTJVVndTekRZMTFzaHg2ZDdUdFJFUUxyNlJLNFNvMktqVEHSAZgBQVVfeXFMT2xOM242MG9vM21wQ2hnMUJoOTZFeUhCaDNqcl90Qmc0bWUxcUpNNHdSNVZvS2pJVUhoTEl2R3I4bGRja3BHNlE2ZVE2QUhNNVFPLXV2VDl5NlJXV1hDRS00Sm5pajdVaG45SHMyLWZ2ODdDM254RWl5RGduZmFoT3hlWHBSeWt2X1lRaFNQeWVxNkh4UUNjMXc?oc=5",
+    "resumo": "Vídeo sobre ‘kit chuca’ viraliza, mas ministério não compra nem custeia o produto para o SUS; entenda  G1",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
+    "regiao": "Nacional",
+    "data_dia": "2026-09-23",
+    "hora": "Há 20h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
     "id": 41,
     "titulo": "Tribunal e Anatel discutem apoio institucional para as Eleições 2026",
     "veiculo": "Tribunal Regional Eleitoral do Piauí",
@@ -610,7 +610,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nordeste",
     "data_dia": "2026-09-23",
-    "hora": "Há 7h",
+    "hora": "Há 9h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -625,7 +625,7 @@
     "categoria_label": "✊ Direitos & Mobilização",
     "regiao": "Nacional",
     "data_dia": "2026-09-23",
-    "hora": "Há 8h",
+    "hora": "Há 11h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   }
