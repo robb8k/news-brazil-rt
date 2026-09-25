@@ -1,6 +1,36 @@
 [
   {
     "id": 1,
+    "titulo": "STF veta revogação unilateral de ICMS aprovado pelo Confaz",
+    "veiculo": "Agência Brasil",
+    "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/stf-veta-revogacao-unilateral-de-icms-aprovado-pelo-confaz",
+    "resumo": "O Supremo Tribunal Federal (STF) decidiu nesta quinta-feira (24) que os estados não podem revogar unilateralmente benefícios fiscais do Imposto sobre Circulação de Mercad...",
+    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
+    "categoria": "geral",
+    "categoria_label": "📢 Notícias do Povo",
+    "regiao": "Nacional",
+    "data_dia": "2026-09-24",
+    "hora": "Há 6h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 2,
+    "titulo": "Mega-Sena acumula para R$ 45 milhões; confira os números sorteados",
+    "veiculo": "Agência Brasil",
+    "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/mega-sena-acumula-para-r-45-milhoes-confira-os-numeros-sorteados",
+    "resumo": "Nenhum apostador acertou as seis dezenas do Concurso 3.062 da Mega-Sena, realizado nesta quinta-feira (24). O prêmio acumulou e está estimado em R$ 45 milhões para o próx...",
+    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
+    "categoria": "geral",
+    "categoria_label": "📢 Notícias do Povo",
+    "regiao": "Nacional",
+    "data_dia": "2026-09-24",
+    "hora": "Há 6h",
+    "tempo_leitura": "2 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 3,
     "titulo": "Veja como foi a quinta-feira (24) dos presidenciáveis",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/veja-como-foi-quinta-feira-24-dos-presidenciaveis",
@@ -10,12 +40,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-09-24",
-    "hora": "Há 1h",
+    "hora": "Há 6h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 2,
+    "id": 4,
     "titulo": "Parlamentares dos EUA criticam ações de Trump nas eleições do Brasil",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/parlamentares-dos-eua-criticam-acoes-de-trump-nas-eleicoes-do-brasil",
@@ -25,12 +55,12 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-09-24",
-    "hora": "Há 1h",
+    "hora": "Há 6h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 3,
+    "id": 5,
     "titulo": "Economistas lançam iniciativa por economia focada na vida real",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/economistas-lancam-iniciativa-por-economia-focada-na-vida-real",
@@ -40,12 +70,12 @@
     "categoria_label": "📈 Conquistas & Economia",
     "regiao": "Nacional",
     "data_dia": "2026-09-24",
-    "hora": "Há 2h",
+    "hora": "Há 7h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 4,
+    "id": 6,
     "titulo": "Zanin pede manifestação da Anatel sobre acesso à internet nas eleições",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/zanin-pede-manifestacao-da-anatel-sobre-acesso-internet-nas-eleicoes",
@@ -55,12 +85,12 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-09-24",
-    "hora": "Há 2h",
+    "hora": "Há 7h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 5,
+    "id": 7,
     "titulo": "Com pessimismo externo, dólar sobe 0,47% e aproxima-se de R$ 5,20",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/com-pessimismo-externo-dolar-sobe-047-e-aproxima-se-de-r-520",
@@ -70,12 +100,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-09-24",
-    "hora": "Há 2h",
+    "hora": "Há 7h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 6,
+    "id": 8,
     "titulo": "TST diz que greve dos Correios não é abusiva",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/tst-greve-dos-correios-nao-e-abusiva-e-ordena-volta-ao-trabalho",
@@ -85,12 +115,12 @@
     "categoria_label": "✊ Direitos & Mobilização",
     "regiao": "Nacional",
     "data_dia": "2026-09-24",
-    "hora": "Há 3h",
+    "hora": "Há 8h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 7,
+    "id": 9,
     "titulo": "Governo pede à Conitec incorporação de canetas emagrecedoras no SUS",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/governo-pede-conitec-incorporacao-de-canetas-emagrecedoras-no-sus",
@@ -100,38 +130,8 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-09-24",
-    "hora": "Há 3h",
+    "hora": "Há 8h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 8,
-    "titulo": "Nunes Marques diz que e-Título poderá ser baixado em dia de votação",
-    "veiculo": "Agência Brasil",
-    "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/nunes-marques-diz-que-e-titulo-podera-ser-baixado-em-dia-de-votacao",
-    "resumo": "O presidente do Tribunal Superior Eleitoral (TSE), Kássio Nunes Marques, informou nesta quinta-feira (24) que o aplicativo e-Título poderá ser baixado e ativado no dia da...",
-    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
-    "categoria": "geral",
-    "categoria_label": "📢 Notícias do Povo",
-    "regiao": "Nacional",
-    "data_dia": "2026-09-24",
-    "hora": "Há 3h",
-    "tempo_leitura": "2 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 9,
-    "titulo": "MPSP recomenda intervenção na Feira do Brás por causa de dívida",
-    "veiculo": "Agência Brasil",
-    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/mpsp-recomenda-intervencao-na-feira-do-bras-por-causa-de-divida",
-    "resumo": "O Ministério Público de São Paulo (MPSP) recomendou à prefeitura da capital paulista a intervenção na administração da Feira da Madrugada do Brás, concedida à empresa Cir...",
-    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
-    "categoria": "geral",
-    "categoria_label": "📢 Notícias do Povo",
-    "regiao": "Sudeste",
-    "data_dia": "2026-09-24",
-    "hora": "Há 3h",
-    "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
@@ -145,7 +145,7 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-09-24",
-    "hora": "Há 3h",
+    "hora": "Há 8h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -160,7 +160,7 @@
     "categoria_label": "📈 Conquistas & Economia",
     "regiao": "Nacional",
     "data_dia": "2026-09-24",
-    "hora": "Há 4h",
+    "hora": "Há 9h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -175,7 +175,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-09-24",
-    "hora": "Há 5h",
+    "hora": "Há 10h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -190,7 +190,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-09-24",
-    "hora": "Há 5h",
+    "hora": "Há 10h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -205,7 +205,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-09-24",
-    "hora": "Há 6h",
+    "hora": "Há 11h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -220,7 +220,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-09-24",
-    "hora": "Há 6h",
+    "hora": "Há 11h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -295,7 +295,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-09-24",
-    "hora": "Há 3h",
+    "hora": "Há 8h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -310,7 +310,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-09-24",
-    "hora": "Há 3h",
+    "hora": "Há 8h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -325,7 +325,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-09-24",
-    "hora": "Há 4h",
+    "hora": "Há 9h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -340,7 +340,7 @@
     "categoria_label": "📈 Conquistas & Economia",
     "regiao": "Nacional",
     "data_dia": "2026-09-24",
-    "hora": "Há 5h",
+    "hora": "Há 10h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -355,7 +355,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-09-24",
-    "hora": "Há 5h",
+    "hora": "Há 10h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -370,7 +370,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-09-24",
-    "hora": "Há 6h",
+    "hora": "Há 11h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -385,7 +385,7 @@
     "categoria_label": "📈 Conquistas & Economia",
     "regiao": "Nacional",
     "data_dia": "2026-09-24",
-    "hora": "Há 7h",
+    "hora": "Há 12h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -400,7 +400,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-09-24",
-    "hora": "Há 8h",
+    "hora": "Há 13h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -415,7 +415,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-09-24",
-    "hora": "Há 8h",
+    "hora": "Há 13h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -430,7 +430,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Sudeste",
     "data_dia": "2026-09-24",
-    "hora": "Há 10h",
+    "hora": "Há 14h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -445,7 +445,7 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-09-24",
-    "hora": "Há 4h",
+    "hora": "Há 9h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -460,27 +460,12 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-09-24",
-    "hora": "Há 10h",
+    "hora": "Há 15h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
     "id": 32,
-    "titulo": "Minha Casa, Minha Vida: ministério prorroga prazo para conclusão e entrega de moradias - CBIC",
-    "veiculo": "Câmara Brasileira da Indústria da Construção",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRzBCY2wwUV9ZZENxUkZxMGRxMGFadGlNcU1obXpzc3RTTnR5SGxzZVBwSzk5YV9CYUkwcGtIQkhPVTRJdUxiUTQ0THRLbGVlbjNXRUd1RW5KMnlSZTJCYWRRVlpyaV9Nb0R5WFJQVTc4SzRhcFhESC1MQW05dU9ZNFJJeTZaeHlmOFJHbi1ZRzF4OUt5U1F0cTdEUlBKNkFHcGQ0MXczR3c?oc=5",
-    "resumo": "Minha Casa, Minha Vida: ministério prorroga prazo para conclusão e entrega de moradias  CBIC - Câmara Brasileira da Indústria da Construção",
-    "imagem": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
-    "categoria": "economia",
-    "categoria_label": "📈 Conquistas & Economia",
-    "regiao": "Nacional",
-    "data_dia": "2026-09-24",
-    "hora": "Há 6h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 33,
     "titulo": "Campanha de Lula quer tornar SUS “inteligente e conectado”",
     "veiculo": "Poder360",
     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaFNsdlFmaHdJUE8yVkxHdHdBVlk0Z0RJbUdrYjV4WUhIR2xGQlpEY0NqazgtOTJmdkVmSkpEOW1tVVhRUlkyQXBOcnA5cWcyUHc2dkE3SmpUazFlVDZfZkJEWFhuSWQ5aG10OGVnQjBUY1BFQzVYTGxQQzN6MzdpZTJvdWxGaFd1Z3RuSkFtNUloZURpeFREcFpCUEtBRkxjS05EVjlOS3g?oc=5",
@@ -490,12 +475,42 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-09-24",
-    "hora": "Há 7h",
+    "hora": "Há 12h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 33,
+    "titulo": "Minha Casa, Minha Vida: ministério prorroga prazo para conclusão e entrega de moradias - CBIC",
+    "veiculo": "Câmara Brasileira da Indústria da Construção",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRzBCY2wwUV9ZZENxUkZxMGRxMGFadGlNcU1obXpzc3RTTnR5SGxzZVBwSzk5YV9CYUkwcGtIQkhPVTRJdUxiUTQ0THRLbGVlbjNXRUd1RW5KMnlSZTJCYWRRVlpyaV9Nb0R5WFJQVTc4SzRhcFhESC1MQW05dU9ZNFJJeTZaeHlmOFJHbi1ZRzF4OUt5U1F0cTdEUlBKNkFHcGQ0MXczR3c?oc=5",
+    "resumo": "Minha Casa, Minha Vida: ministério prorroga prazo para conclusão e entrega de moradias  CBIC - Câmara Brasileira da Indústria da Construção",
+    "imagem": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
+    "categoria": "economia",
+    "categoria_label": "📈 Conquistas & Economia",
+    "regiao": "Nacional",
+    "data_dia": "2026-09-24",
+    "hora": "Há 11h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
     "id": 34,
+    "titulo": "O quão perto as canetas emagrecedoras estão do SUS",
+    "veiculo": "Nexo Jornal",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQllubENQV1BzdnpNR1JqY25SYjBqME9qV21xaHdSUFVVeUZweEhlSzJXVnhpdDRpeVBWTXNwVW5XVDY5NFc1V0V0MTJ0T1NMRGdzSjBUY1pUZl9kdlkxNWdhVU54MTlJMzNXM2lEblVoU09ucDBUcTM2WWJjWlg0T04yYmVRWUdzcXVCVUY1VkJ1amdu?oc=5",
+    "resumo": "O quão perto as canetas emagrecedoras estão do SUS  Nexo Jornal",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
+    "regiao": "Nacional",
+    "data_dia": "2026-09-24",
+    "hora": "Há 5h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 35,
     "titulo": "Após promessa de Lula, Saúde pede avaliação de canetas à Conitec com inclusão de liraglutida",
     "veiculo": "G1",
     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUk9OYndvYjJtMExqdThTRWxBT3I2cWhReDZEejEtSEY3TFpVRTIwTXh2dEVob19hamhBOC1UTzZHeDYyZ0QzWk5GZVBPX2E4dURzZFkyQ3gtOXNDVXZjR3lra2RwdEFpZ1ZvQ1dENVRzUmxIOEp4UDVlS2RReXJ4bzlvaTlJRnZCWk0zWlMxUDPSAZ8BQVVfeXFMUEZNOGdXb21ia1ZPdzVDZ01KRXByRmtzbVpVTUwzUU12UUF0aUkyZGNsVHJYeXBZWm5rVVBaU2pzNVdqNDNYZ1N3UWVtTXZFYVhTcy1FRVJmbGxWdFZPOEdZZDJnMXNnVFFYVkZOVUY5Wk9yWDJRUlhlR0RWNFc3RXlmNlJXY2FuMjdHT0syVTl6ckx3T2Q2aHUwaGd4RE5r?oc=5",
@@ -505,22 +520,7 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-09-24",
-    "hora": "Há 4h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 35,
-    "titulo": "Ministério da Saúde formaliza pedido para incorporação de canetas emagrecedoras no SUS",
-    "veiculo": "VEJA",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNX1dWYVluYjRjcExxUGhkUkNOVkttLUlvdzkyZjJVMHVMZEpGdnRvcjg3VEgxQmZyYzJ4Wi1wZEFUYzlvbG9TQTFTcmJ4ck1BVHFNN1pDVUhuOHJiME5pMGRDTFVULU45R3d2QmRacl9oMlU2NGtONWp0S3JzaEtiZ1lpR0tzWXR1aHp0QW5OTFJDYWdfTDNra2lMQmR0TGZmZGk2Zkdxd1RQZGV4bzgwWUdaMUVuUlBLc0lZ?oc=5",
-    "resumo": "Ministério da Saúde formaliza pedido para incorporação de canetas emagrecedoras no SUS  VEJA",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
-    "regiao": "Nacional",
-    "data_dia": "2026-09-24",
-    "hora": "Há 4h",
+    "hora": "Há 9h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -535,7 +535,7 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-09-24",
-    "hora": "Há 12h",
+    "hora": "Há 17h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -550,27 +550,12 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-09-24",
-    "hora": "Há 5h",
+    "hora": "Há 9h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
     "id": 38,
-    "titulo": "Ministério Público de São Paulo e Receita Federal investigam o uso de fundos de investimento para lavar dinheiro do PCC",
-    "veiculo": "G1",
-    "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPS19yamdTZnFPdzZWM2ZsNFM5VFE4dE0ydnZPUGR5ODFNZXNraTczTWsyMC1mcWt3aEwzSjB4aG96T21zSnVQNFRITXFpdkFiUE1iTGU3UHZTWDJMOU9iN1RhaVk5NUw3ejNhSWdVVW5RSi1uRE03dDZEWThWN2xqVGItcy1uNGN6aXptTEVJWm44bkE5eW9Mb3o5N19NSWxhSTh0aWlEcjRUbGVWX3FSSzZuUE5xVjU2UHFVdlVGTHJlSjdXZ2NZQnNwX2tSYUJUd3FrRTVBXzlXYUxCMjh4Ml9ScHJ2WlJySTFxbU02dS04RnBWVkFoWWpudVNKelIzejdXMlJXNloxNjRIVXfSAZwCQVVfeXFMTjRDOWhTcUlCV2Ezblcyc281WERSTEtVcGtLU1cxZTEtUVRJcHdFTUJwQmg5SjMyS2t4R0xDaHRYNGpjVjlRV1U3TnM5anVSaDlvZGlRU2ZWVFREenhQNFJpdF9LN0QyWmNEQk45UXNUSElSTlJiRUtpNGd4Y09mUHNGV25sTU5YZTNIQ3RGX3hIdUN3Z3ZDVmNQUVN4NzJlRm96SGZKa3pXREJVaHg2blFJZGU2Tlo2Rnh1QTZyV2tzQkRTXzFRMWJyOTVLejdZWXA0QnNDOVlsS2d5VVlnOVRJc29hUmg1Y1BiSGk3Mjc0RTJCYUY4UFZzaTE5aTlxRWRteWtQVmFCZXptSl9VRVdFVGQ2dDJ5N0RfN2g?oc=5",
-    "resumo": "Ministério Público de São Paulo e Receita Federal investigam o uso de fundos de investimento para lavar dinheiro do PCC  G1",
-    "imagem": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
-    "categoria": "economia",
-    "categoria_label": "📈 Conquistas & Economia",
-    "regiao": "Sudeste",
-    "data_dia": "2026-09-24",
-    "hora": "Há 1h",
-    "tempo_leitura": "2 min de leitura",
-    "urgente": true
-  },
-  {
-    "id": 39,
     "titulo": "Na ONU, Brasil defende cooperação e sistemas públicos fortes para ampliar resposta ao HIV — Ministério da Saúde",
     "veiculo": "www.gov.br",
     "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPblA5S0NaQ3BEaENwa0dzd3lCTzZRaUhSTmhsUzlkVzRaQXJBMVY5N3I3bFNtWHg5bEJ2c0NvS1I3VnFoUVVyN0cwUkIzd01FRjZ3ZEhsNHpWSzJTVXIxMG5feVAxbmVlYnVNaXJOYlRWVk9hSTJidUNvbVJ2a2lmYk9OamVmSi1hX1pHUVVYVTU5MU9DZHFoX0trbGNVdjJvMlBrRnZjbXhOR1ZaQnNMaXpiQURvdkM3djlyLXpiMWRGcGVvTW4zQ3dnWFAzaUFtUXdoeW96VUJiaWlpREwxaWp4Vk1lc1J1OGc?oc=5",
@@ -580,12 +565,12 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-09-24",
-    "hora": "Há 4h",
+    "hora": "Há 9h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 40,
+    "id": 39,
     "titulo": "Ministério da Saúde leva à ONU experiências do SUS sobre menopausa e doenças raras",
     "veiculo": "www.gov.br",
     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbE1uaGJBTC1vX09HS0xJenJiaWtyNnU4bXkwTGFFNTBSN3BWWE5VbEFHT3lMSVBrS0FOOVIwQ3ZndVBGVUhhZlYxa0ZFSlY5b2NlcWt5eVR3VDdvcGlUOXRkVTY2eGlCeVE0Yk5odUtNZklzWC1UaHpIMFpIeDBkcm54ZWxXdnVLVlVjYU1pVTk1NjNod1RZNHJuMXBYLU03OEE0eUR6X1dCSUljUjVzaHZGR2lEVzNKNHR4aUZ6amlYODVoVXhNUUx1Qk5PSTA4cl96LXZSalNHcU82QmVsRmlR?oc=5",
@@ -595,7 +580,22 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-09-24",
-    "hora": "Há 11h",
+    "hora": "Há 16h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 40,
+    "titulo": "Ministério da Saúde defende integração estratégica entre Brasil e México para fortalecer saúde pública na América Latina",
+    "veiculo": "www.gov.br",
+    "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOYnhMaG81YnJwNlo5U2NJSk1XTU8wckFTeHBiNmlfendjNl9ybkx3WkllX2lMMjRDcXNXZ2Q1Z1owYXVMMDg5QUlIYll0RWJScUttQ21HTG14OFVQZzgwWGpadVM2bTdGOTM0bkFhQ3NHbE9obnktanRTQmZ1S1YzdUFRVW5QZ2hQeFhzXzFkSVFzQnpOUjJ6emx3a1FCRU1MZFU5TFZjS0lsMmczU08yOHdkQmllQWpKek1fRzVGbC1GV3pHdW8zeWh0WmhSN3hST0pSZEdyLTRFeHd6dU9POXRBdWhEN2JNMGRfMWIxb3hlSVZpVlRXWU5zeFlzR3RTUmNjOTBkb1g1UVNLaEJLNHk2SG0?oc=5",
+    "resumo": "Ministério da Saúde defende integração estratégica entre Brasil e México para fortalecer saúde pública na América Latina  www.gov.br",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
+    "regiao": "Nacional",
+    "data_dia": "2026-09-24",
+    "hora": "Há 16h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -610,22 +610,22 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nordeste",
     "data_dia": "2026-09-24",
-    "hora": "Há 10h",
+    "hora": "Há 15h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
     "id": 42,
-    "titulo": "Coletivo de Estudantes Indígenas da Unicamp realizam visita ao Museu da Cidade",
-    "veiculo": "Jornal da Unicamp",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxON0VJRlA1SmtoWjBkdUVfbjgzdGNqUXItRWdvRVJrWWVIYjRqbEVjY1doNGRRcUlxOXQ2T0w5SlVGQ1V4VjhBWjc4SS1wWXkzWU1pcVA3aTlTdmtBQzluSndWa1FmcHBkRm9vcmYwM25DUkU4V1lUel9XZV9VQTVVOXZ3UGhFZnIwQzdhSk1vOWNsVVZyY0gxMkpXQktRYjl3eXpicDJsbWxqRUUtekhsVEtB?oc=5",
-    "resumo": "Coletivo de Estudantes Indígenas da Unicamp realizam visita ao Museu da Cidade  Jornal da Unicamp",
+    "titulo": "Museu dos Povos Indígenas da UFU promove debate sobre acessibilidade e práticas educativas inclusivas",
+    "veiculo": "Comunica UFU",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdTc5bERYVUN0aVhhclFkWjQ4cUZpQnY3SmxmcW5RRkVJSTdZT0hTOU1zZE1CT19sRlBFX2pQZDNsblRLeGlRVUpRUHJPczJtU0RyLUVhbFhkQXZJOHhSUnVUN1ExbWhjYzN3UnVZUkk3Nk5CT1VyaFFkOHpjMXl0ODdWSEhfc2lKd1Nsb2NvUERWSElsSWFrMkxTWUxOMFJXbm14QXF2aDNjdTJYbE1KVjZ3TU9IbldmZnp3?oc=5",
+    "resumo": "Museu dos Povos Indígenas da UFU promove debate sobre acessibilidade e práticas educativas inclusivas  Comunica UFU",
     "imagem": "https://images.unsplash.com/photo-1531206715517-5c0ba140b2b8?w=800&q=80",
     "categoria": "direitos",
     "categoria_label": "✊ Direitos & Mobilização",
     "regiao": "Nacional",
-    "data_dia": "2026-09-24",
-    "hora": "Há 1h",
+    "data_dia": "2026-09-25",
+    "hora": "Há 2h",
     "tempo_leitura": "1 min de leitura",
     "urgente": true
   }
