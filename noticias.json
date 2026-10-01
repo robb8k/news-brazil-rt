@@ -1,6 +1,51 @@
 [
   {
     "id": 1,
+    "titulo": "Cristiano Ronaldo deixa seleção de Portugal após fala de Jorge Jesus",
+    "veiculo": "Agência Brasil",
+    "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-09/cristiano-ronaldo-deixa-selecao-de-portugal-apos-fala-de-jorge-jesus",
+    "resumo": "O atacante Cristiano Ronaldo deixou, nesta quarta-feira (30), a concentração da seleção de Portugal em Copenhague (Dinamarca), onde a equipe ibérica terá os anfitriões pe...",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
+    "regiao": "Nacional",
+    "data_dia": "2026-09-30",
+    "hora": "Há 5h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 2,
+    "titulo": "TSE forma maioria para manter retirada de posts sobre Nossa Senhora",
+    "veiculo": "Agência Brasil",
+    "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/tse-forma-maioria-para-manter-retirada-de-posts-sobre-nossa-senhora",
+    "resumo": "O Tribunal Superior Eleitoral (TSE) formou nesta quarta-feira (30) maioria de votos para manter a retirada das postagens nas redes sociais sobre Nossa Senhora Aparecida n...",
+    "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
+    "categoria": "eleicoes",
+    "categoria_label": "🗳️ Eleições & Campanhas",
+    "regiao": "Nacional",
+    "data_dia": "2026-09-30",
+    "hora": "Há 5h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 3,
+    "titulo": "Caminhos da Reportagem, da TV Brasil, leva Prêmio Vladimir Herzog",
+    "veiculo": "Agência Brasil",
+    "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-09/caminhos-da-reportagem-da-tv-brasil-vence-premio-vladimir-herzog",
+    "resumo": "O episódio Trabalho escravo doméstico: silêncio e servidão, do programa Caminhos da Reportagem, da TV Brasil, venceu a categoria vídeo da 48ª edição do Prêmio Jornalístic...",
+    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
+    "categoria": "geral",
+    "categoria_label": "📢 Notícias do Povo",
+    "regiao": "Nacional",
+    "data_dia": "2026-09-30",
+    "hora": "Há 5h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 4,
     "titulo": "Percentual de jovens nem-nem no Brasil cai para 22,4%, mostra estudo",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-09/percentual-de%20jovens-nem-nem-no-brasil-cai-para-224-mostra-estudo",
@@ -10,12 +55,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-09-30",
-    "hora": "Há 45 min",
+    "hora": "Há 6h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 2,
+    "id": 5,
     "titulo": "Veja como foi a quarta-feira (30) dos presidenciáveis",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/veja-como-foi-quarta-feira-30-dos-presidenciaveis",
@@ -25,12 +70,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-09-30",
-    "hora": "Há 1h",
+    "hora": "Há 6h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 3,
+    "id": 6,
     "titulo": "WhatsApp lança regras para controle parental no Brasil; saiba como",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-09/whatsapp-lanca-regras-para-controle-parental-no-brasil-saiba-como",
@@ -40,12 +85,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-09-30",
-    "hora": "Há 1h",
+    "hora": "Há 7h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 4,
+    "id": 7,
     "titulo": "Dólar cai para R$ 5,17 e acumula recuo de 0,15% em setembro",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/dolar-cai-para-r-517-e-acumula-recuo-de-015-em-setembro",
@@ -55,12 +100,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-09-30",
-    "hora": "Há 1h",
+    "hora": "Há 7h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 5,
+    "id": 8,
     "titulo": "TSE manda Nikolas retirar postagem com desinformação sobre Lula",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-09/tse-manda-nikolas-retirar-postagem-com-desinformacao-sobre-lula",
@@ -70,12 +115,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-09-30",
-    "hora": "Há 2h",
+    "hora": "Há 7h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 6,
+    "id": 9,
     "titulo": "Reportagem da Agência Brasil fica em 3º lugar no Prêmio Radar Saúde",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-09/reportagem-da-agencia-brasil-fica-em-3o-lugar-no-premio-radar-saude",
@@ -85,53 +130,8 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-09-30",
-    "hora": "Há 2h",
+    "hora": "Há 8h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
-  },
-  {
-    "id": 7,
-    "titulo": "MPSP denuncia dois homens por falsificação de bebida que cegou mulher",
-    "veiculo": "Agência Brasil",
-    "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-09/mpsp-denuncia-dois-homens-por-falsificacao-de-bebida-que-cegou-mulher",
-    "resumo": "O Ministério Público do Estado de São Paulo (MPSP) denunciou dois homens por terem falsificado bebida alcoólica que cegou uma mulher em Guarulhos (SP), em setembro de 202...",
-    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
-    "categoria": "geral",
-    "categoria_label": "📢 Notícias do Povo",
-    "regiao": "Sudeste",
-    "data_dia": "2026-09-30",
-    "hora": "Há 3h",
-    "tempo_leitura": "2 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 8,
-    "titulo": "União Europeia sinaliza retomada de compras de frango e mel do Brasil",
-    "veiculo": "Agência Brasil",
-    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/uniao-europeia-sinaliza-retomada-de-compras-de-frango-e-mel-do-brasil",
-    "resumo": "Suspensas desde 3 de setembro, as exportações de frango e de mel para a União Europeia (UE) podem ser retomadas no curto prazo. A indicação foi dada nesta quarta-feira (3...",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
-    "regiao": "Nacional",
-    "data_dia": "2026-09-30",
-    "hora": "Há 3h",
-    "tempo_leitura": "2 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 9,
-    "titulo": "Candidato do PRTB, Leonardo Avalanche desiste de disputar Presidência",
-    "veiculo": "Agência Brasil",
-    "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/candidato-do-prtb-leonardo-avalanche-desiste-de-disputar-presidencia",
-    "resumo": "O candidato do PRTB à Presidência da República, Leonardo Avalanche, anunciou nesta quarta-feira (30) que desistiu de disputar o pleito deste ano. Em uma rede social, ele ...",
-    "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
-    "categoria": "eleicoes",
-    "categoria_label": "🗳️ Eleições & Campanhas",
-    "regiao": "Nacional",
-    "data_dia": "2026-09-30",
-    "hora": "Há 3h",
-    "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
@@ -145,9 +145,9 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-09-30",
-    "hora": "Há 2h",
+    "hora": "Há 8h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 11,
@@ -160,7 +160,7 @@
     "categoria_label": "✊ Direitos & Mobilização",
     "regiao": "Nacional",
     "data_dia": "2026-09-30",
-    "hora": "Há 3h",
+    "hora": "Há 8h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -175,7 +175,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-09-30",
-    "hora": "Há 3h",
+    "hora": "Há 8h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -190,7 +190,7 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-09-30",
-    "hora": "Há 4h",
+    "hora": "Há 10h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -205,7 +205,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-09-30",
-    "hora": "Há 6h",
+    "hora": "Há 11h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -280,9 +280,9 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Sul",
     "data_dia": "2026-09-30",
-    "hora": "Há 1h",
+    "hora": "Há 7h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 20,
@@ -295,9 +295,9 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-09-30",
-    "hora": "Há 1h",
+    "hora": "Há 7h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 21,
@@ -310,9 +310,9 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-09-30",
-    "hora": "Há 2h",
+    "hora": "Há 8h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 22,
@@ -325,7 +325,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-09-30",
-    "hora": "Há 3h",
+    "hora": "Há 8h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -340,7 +340,7 @@
     "categoria_label": "📈 Conquistas & Economia",
     "regiao": "Nacional",
     "data_dia": "2026-09-30",
-    "hora": "Há 3h",
+    "hora": "Há 9h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -355,7 +355,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nordeste",
     "data_dia": "2026-09-30",
-    "hora": "Há 4h",
+    "hora": "Há 10h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -370,7 +370,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Sul",
     "data_dia": "2026-09-30",
-    "hora": "Há 4h",
+    "hora": "Há 10h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -385,7 +385,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-09-30",
-    "hora": "Há 5h",
+    "hora": "Há 11h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -400,12 +400,27 @@
     "categoria_label": "📈 Conquistas & Economia",
     "regiao": "Nordeste",
     "data_dia": "2026-09-30",
-    "hora": "Há 6h",
+    "hora": "Há 12h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
     "id": 28,
+    "titulo": "Toledo recebe secretário-executivo do Ministério da Saúde para visita ao Hospital Regional",
+    "veiculo": "toledo.pr.gov.br",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWVRicU5BUEx5U1JYdVVxRkFXUWNPZGRSWXdvWThwdl81VDBnVVVFRzQ1bmxOcmZRekItdkNZYTNoaWRkSnlCVGR3OVhnUV9GTDJ3WkhmaFdVZzVhT1VjV3Ezc1h2ZjZGSVg3Q0JvSnhMYVJyMW9NQnZfSGpSTkEtblFOanFSbHFpMFBMTUcxU0dkWlEwdkFJOXB4OXBIM3FrZDRuWkxCdUQwaFZSZmhkX01tRTNkNGtKcnBKVlVzWG11amd6RDkw?oc=5",
+    "resumo": "Toledo recebe secretário-executivo do Ministério da Saúde para visita ao Hospital Regional  toledo.pr.gov.br",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
+    "regiao": "Nacional",
+    "data_dia": "2026-09-30",
+    "hora": "Há 9h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 29,
     "titulo": "O futuro do SUS e o voto em Lula",
     "veiculo": "Brasil de Fato",
     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTUd2a0JDanBOcHV0bVNweTdOTkxTTm56bjlhVFRRa1VPanctcVU1UnB2U1FtRzh5NzJrS1liUkV6X0JHdU9ieFV1N0FqamJmOFdWazRrRzhZclc0UmNlWTBPNVhoSDI5cTB3Wnp2N1B3SG9tUFRaU3NsdVFsbnFyRzNVWko2VTdSYTE1LTV4U1E5bXAyWFFMdkhLdFRRTnFaNlRXMDR0Rm9TZTNJZHc?oc=5",
@@ -415,12 +430,12 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-09-30",
-    "hora": "Há 6h",
+    "hora": "Há 12h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 29,
+    "id": 30,
     "titulo": "Cofen e Ministério da Saúde discutem participação da Enfermagem em projeto para atender populações vulneráveis",
     "veiculo": "Coren-SP",
     "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPM2JrMFVSUnc1OFNYZEV6QlZYM1A1M0hOVmhBY1BoRFU4NDdXQWpqY2hMZkdYRWgtaUpCTW0zX3J3UWZtUUlmN2dtY0FPWEtnSklwaGxqVHZYS21YUU50Nm5KUnMwMkk3ZTA0VnJLc3lldng3aDduVnliNzdnNXFRTi0wMHdvVVpkN0V3ak56NUZiWGZtYTJzVnZFbkplcU0xb2pVZmt1Q1ZIU1NGa1RUeTJ2RUNEOGZWTHdIVVJ1N0F6b2g3SzhuNEo0eGtuLVRXRkR3aV83SW5HdFU2VHc2UGRfc2kyZw?oc=5",
@@ -430,27 +445,27 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-09-30",
-    "hora": "Há 7h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 30,
-    "titulo": "Ministério da Saúde alinha atendimento a indígenas no Cosems de Mato Grosso",
-    "veiculo": "www.gov.br",
-    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOOGdjeF9YN25USk15VjVWT2g2Sk5PekNfUWVPR0xYM2plc2YyaE1rMVBYTTcyMzNMSVF4d0JXQVRCTVNab1hxQzBYNzFrRVh4ZVgzYUh5V0s2d1J0S3k5WmxrMzVUYS1QdDVlbXBERG5SV2hXM3VjWDhzeFlvZjNFQ3lrMS1MMFF3WFZWQlc3RFZ2dVU1MXcxYXVJWmlHbUd5TmlPbkk3aE9zcHRXRmVodjFPT2lHMzN4dHBqMkY3ZlZoMnR0dTJ2VjJuMmlsREctVjkwOEs4eW4?oc=5",
-    "resumo": "Ministério da Saúde alinha atendimento a indígenas no Cosems de Mato Grosso  www.gov.br",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
-    "regiao": "Centro-Oeste",
-    "data_dia": "2026-09-30",
-    "hora": "Há 6h",
+    "hora": "Há 13h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
     "id": 31,
+    "titulo": "Ministério da Saúde disponibiliza formação para uso de combo de equipamentos para UBS",
+    "veiculo": "www.gov.br",
+    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPM013djQzaURNTUV3YXdrNDBhTktmcnFOS3hlMjBtVGJ0WHVFUEFrSnFZbmpBaHlvN2dZVlpJWndrRk5OMkJkQWp1UlliREU0cENxejN0MUJkYVR4VUVHb0ZNU0NzQkhPSGJXa0EyWlJqMENib1p2NEE0am5FWktLOVBtclVWVk55VzVLSXFLVHVuSVRMNFZhM1ktNjV5azV1blR6SXJRRi03VkVLeUl1cU5zbzV6Y1Yta0d1WjQtcmIzOTdnV2VRUTRxNFNKSTZlZkphUTJwSTRzd0ZDOHRraGxxdDVtQQ?oc=5",
+    "resumo": "Ministério da Saúde disponibiliza formação para uso de combo de equipamentos para UBS  www.gov.br",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
+    "regiao": "Nacional",
+    "data_dia": "2026-09-30",
+    "hora": "Há 10h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 32,
     "titulo": "'Não quero um país em que as pessoas dependam do Bolsa Família', diz Lula",
     "veiculo": "UOL Notícias",
     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOR0Zib3B4ZmlaRXFDdkJyX3g5OHVabkJzaEgwMUEtd1VlWTJiN1JDaUVlNjVuUzRDQzZDVWdFZC1CS2xzd3dMa0hydExIejR5N0tFZzdpcHNfejFSNEg4SndfSlNfTFltWThBX2lVZWp1N0tHOFZzZlNMUHVOVVphQ1ZTTVNyTlJLZGpDeEpYRldvVFE4N2xxbVJiZnlTbktkRGR6LWhHTVA1c1hZQWM1b2h5NVk2enNJTUtpMUVVUl95YldGbzlSSzZoenl0Sm1XaWhldURtekwtVmxWWHc?oc=5",
@@ -460,22 +475,7 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-09-30",
-    "hora": "Há 7h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 32,
-    "titulo": "Segurança e saúde dominam urgências entre eleitores de Lula, aponta BTG/Nexus",
-    "veiculo": "VEJA",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMkVwQmFFRVZWS0c4RWVKUDZQbUJYRWUzR3RYME5jZ3hlRU43a2xkV2VyODB4OHB6WmFCZ3hyY2FlRlhMa0F3V1hFOGdHM0d4cE9PM3A0a2c2Z3hxVXlmc2lfOUVNNkxiMk8tVTVzTVE0dVVmZUpMUkFwek5vaW9ja1NHdVRGb2NtTTZsV0ZTQmlLYTdhOGdWUnV6T1d5SnhwZzRNTVA2NFZHNXFSU2pv?oc=5",
-    "resumo": "Segurança e saúde dominam urgências entre eleitores de Lula, aponta BTG/Nexus  VEJA",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
-    "regiao": "Nacional",
-    "data_dia": "2026-09-30",
-    "hora": "Há 11h",
+    "hora": "Há 13h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -505,12 +505,27 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-09-30",
-    "hora": "Há 8h",
+    "hora": "Há 14h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
     "id": 35,
+    "titulo": "Ministério da Saúde alinha atendimento a indígenas no Cosems de Mato Grosso",
+    "veiculo": "www.gov.br",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOOGdjeF9YN25USk15VjVWT2g2Sk5PekNfUWVPR0xYM2plc2YyaE1rMVBYTTcyMzNMSVF4d0JXQVRCTVNab1hxQzBYNzFrRVh4ZVgzYUh5V0s2d1J0S3k5WmxrMzVUYS1QdDVlbXBERG5SV2hXM3VjWDhzeFlvZjNFQ3lrMS1MMFF3WFZWQlc3RFZ2dVU1MXcxYXVJWmlHbUd5TmlPbkk3aE9zcHRXRmVodjFPT2lHMzN4dHBqMkY3ZlZoMnR0dTJ2VjJuMmlsREctVjkwOEs4eW4?oc=5",
+    "resumo": "Ministério da Saúde alinha atendimento a indígenas no Cosems de Mato Grosso  www.gov.br",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
+    "regiao": "Centro-Oeste",
+    "data_dia": "2026-09-30",
+    "hora": "Há 11h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 36,
     "titulo": "Presidente da República visita complexo hospitalar da Benemérita Sociedade Portuguesa Beneficente do Pará",
     "veiculo": "www.gov.br",
     "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOdFlkU1NZU1BCbjZSeTFHblVfSWNUWDRlbUJKTG1FR0ZDQ25zVU5Kak9uQzVBbG1hT1BqaXRCZ0w1RlpLeVJ5a1A4ZUdiYnNQTjRzMWlVUTNCa1ZoaUNMM2JSV3BEa0FQeC0yX1YxdlpkZ05IbndQZ3R4bmxERVRXOEVlTllob2xXMzRzUlZnaHc2NXpscnJvaFhfSmFBcHB5NkFwNjJiWUNaU0hYX1R5ZnBhbXhtRHZhS0hyY0Z5QUF0OXFTUXlKeWZLc2ZScFJHcV91SGlvVmNrUWNuQzJURjNzeUh4M0dKWlNPWnNLVGx0a0dVeVV4cUlrZ1BURWda?oc=5",
@@ -525,7 +540,7 @@
     "urgente": false
   },
   {
-    "id": 36,
+    "id": 37,
     "titulo": "Ministério da Saúde e Fiocruz investem em laboratório no Ceará para terapia contra o câncer",
     "veiculo": "www.gov.br",
     "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUzF3aW9oU3R0ZzFpQ2ktMDJLcGJGTGpXWVR6VUFKUUR5emU3Tlg5eWdzWVEwTlpZVGoxdlc5TWNsdGxqSHlSSE5iUFN1Z3d2eW9PQXlYa09yd1JJSDdYZ2l1VGNYcDc3d2V2ajJIWkFpZHFGYlFhM1NOS0xaWXZyb0FHVF9KTDFxVWlUNkU0djNYNUZ3Um03bjdjWlhWeTFpUnZnU3hpbVR4Rk1QSGJUS1Y5TDBlS3EyUEFqZWtVNFJVcEtzdHNzV1FIb0FZU3Y0VGwzQVFGcGlpWG1Dd09RWS01TS13UTZCTnFtSmR3?oc=5",
@@ -536,21 +551,6 @@
     "regiao": "Nordeste",
     "data_dia": "2026-09-29",
     "hora": "29/09 19:37",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 37,
-    "titulo": "Povos originários e saberes medicinais ancestrais: Brasil e México fortalecem parceria — Ministério da Saúde",
-    "veiculo": "www.gov.br",
-    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQVHpua0pMbHlYSE9hUEtuT1F1UHFzeDhwQjk2NzNvZGs3Z3E0eWlkbVZGRFdYSUF0c0NNNTBQYmp0MkJjYXlhNTMyQkNDRlcycnE0Nm12cGdjLVUyMjFGc1pCSkV4bXpRVHJZeGItZWg1Qmw0Z3lEVFE1cGRNWXFhbml4MmNmbHdzUnNCQXZSRVJTVUhPc3pueWRoWGxSaVhTbWpiWWRadTUyRVdpX19xYmloY3cyYU9Ua2dvak1wRmU3MS1BUXprczF1TFBtZEdsUllsajJHUnRCSzJsRzJjRzR3VzVHQQ?oc=5",
-    "resumo": "Povos originários e saberes medicinais ancestrais: Brasil e México fortalecem parceria — Ministério da Saúde  www.gov.br",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
-    "regiao": "Nacional",
-    "data_dia": "2026-09-29",
-    "hora": "29/09 14:08",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -610,22 +610,22 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-09-30",
-    "hora": "Há 9h",
+    "hora": "Há 15h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
     "id": 42,
-    "titulo": "Fé não é instrumento da extrema-direita contra a democracia",
+    "titulo": "MST leva às ruas de Minas propostas ligadas à Reforma Agrária Popular",
     "veiculo": "mst.org.br",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOT01ibEZoUEVmRVFabFpaMC0weWVsV2FwcXZoNVVlN21BbnR6MFlMazZjVXFxNjZ0VWV3ZnppbGM1YVBHQjRjZWFPZ3lzYncxZ1J6Y3duQnd1RHA0N3A3MWJOT1dyV29FbGticURjaFNFcTFDUGhjRmRNdGIwTndMcXBBTXFtSnBLenFNQXU1TTA2TzBx?oc=5",
-    "resumo": "Fé não é instrumento da extrema-direita contra a democracia  mst.org.br",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNzNvckd3TENKUm5lMTlibmM2LWlIZXd4aUZVU2Jhd04ySmRYWHVrbC11aWhVeWdhRUhxSWF1ZnN3UDhWZUtxdUdNblYybXBQTmxUSzNLT0RuOVZrNUhqbmRFdUU2RXVJMzdWaDZCRlpEdTZUckUyaHZUdUdtelYzSDFLYXNnWFRETWo3dFNiR3FsS1Q5MUdLbm44V1FqVElJeVE?oc=5",
+    "resumo": "MST leva às ruas de Minas propostas ligadas à Reforma Agrária Popular  mst.org.br",
     "imagem": "https://images.unsplash.com/photo-1531206715517-5c0ba140b2b8?w=800&q=80",
     "categoria": "direitos",
     "categoria_label": "✊ Direitos & Mobilização",
     "regiao": "Nacional",
     "data_dia": "2026-09-30",
-    "hora": "Há 7h",
+    "hora": "Há 17h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   }
