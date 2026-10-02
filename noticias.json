@@ -1,6 +1,21 @@
 [
   {
     "id": 1,
+    "titulo": "Lives e cancelamento de debate marcam quinta-feira dos candidatos",
+    "veiculo": "Agência Brasil",
+    "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/Lives-e-cancelamento-de-debate-marcam-quinta-feira-dos-candidatos",
+    "resumo": "A agenda dos presidenciáveis nesta quinta-feira (1º) incluiu lives, entrevista em podcast e atos de campanha. \n\n>> Veja como foi o dia dos candidatos\n\nRonaldo Caiado (PSD...",
+    "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
+    "categoria": "eleicoes",
+    "categoria_label": "🗳️ Eleições & Campanhas",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-01",
+    "hora": "Há 6h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 2,
     "titulo": "Trump diz acompanhar de perto eleição brasileira e não declara apoio",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/trump-diz-acompanhar-de-perto-eleicao-brasileira-e-nao-declarar-apoio",
@@ -10,12 +25,12 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-01",
-    "hora": "Há 55 min",
+    "hora": "Há 6h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 2,
+    "id": 3,
     "titulo": "Mega-Sena acumula para R$ 82 milhões; confira os números sorteados",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/mega-sena-acumula-para-r-82-milhoes-confira-os-numeros-sorteados",
@@ -25,12 +40,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-01",
-    "hora": "Há 1h",
+    "hora": "Há 7h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 3,
+    "id": 4,
     "titulo": "Homem é preso ao tentar invadir a sede do STF em Brasília",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/homem-e-preso-ao-tentar-inavadir-sede-do-stf-em-brasilia",
@@ -40,12 +55,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Centro-Oeste",
     "data_dia": "2026-10-01",
-    "hora": "Há 2h",
+    "hora": "Há 8h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 4,
+    "id": 5,
     "titulo": "TRE-RJ suspende porte de arma e autoriza inquérito contra deputado",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/tre-rj-suspende-porte-de-arma-e-autoriza-inquerito-contra-deputado",
@@ -55,12 +70,12 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Sudeste",
     "data_dia": "2026-10-01",
-    "hora": "Há 2h",
+    "hora": "Há 8h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 5,
+    "id": 6,
     "titulo": "TSE decide que Globo não poderá exibir cadeira vazia em debate",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/tse-decide-que-globo-nao-podera-exibir-cadeira-vazia-em-debate",
@@ -70,12 +85,12 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-01",
-    "hora": "Há 2h",
+    "hora": "Há 8h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 6,
+    "id": 7,
     "titulo": "Fachin defende democracia e livre escolha dos eleitores",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/fachin-defende-democracia-e-livre-escolha-dos-eleitores",
@@ -85,12 +100,12 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-01",
-    "hora": "Há 2h",
+    "hora": "Há 8h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 7,
+    "id": 8,
     "titulo": "Morre o piloto e youtuber Lito Sousa, aos 59 anos",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/morre-o-piloto-e-youtuber-lito-sousa-aos-59-anos",
@@ -100,12 +115,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-01",
-    "hora": "Há 3h",
+    "hora": "Há 8h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 8,
+    "id": 9,
     "titulo": "Defensoria Pública da União fará plantão nos dias de votação",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/defensoria-publica-da-uniao-fara-plantao-nos-dias-de-votacao",
@@ -115,12 +130,12 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-01",
-    "hora": "Há 3h",
+    "hora": "Há 9h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
-    "id": 9,
+    "id": 10,
     "titulo": "Dólar fecha acima de R$ 5,22 em dia de mal-estar global",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/dolar-fecha-acima-de-r-522-em-dia-de-mal-estar-global",
@@ -130,22 +145,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-01",
-    "hora": "Há 3h",
-    "tempo_leitura": "2 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 10,
-    "titulo": "Ligue 180 tem 1,5 mil denúncias de violência política contra mulher",
-    "veiculo": "Agência Brasil",
-    "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/ligue-180-tem-15-mil-denuncias-de-violencia-politica-contra-mulher",
-    "resumo": "As mulheres têm direito à participação política livre de violência e de discriminação. Porém, entre janeiro e agosto de 2026, o número de denúncias de violência política ...",
-    "imagem": "https://images.unsplash.com/photo-1531206715517-5c0ba140b2b8?w=800&q=80",
-    "categoria": "direitos",
-    "categoria_label": "✊ Direitos & Mobilização",
-    "regiao": "Nacional",
-    "data_dia": "2026-10-01",
-    "hora": "Há 3h",
+    "hora": "Há 9h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -160,7 +160,7 @@
     "categoria_label": "📈 Conquistas & Economia",
     "regiao": "Nacional",
     "data_dia": "2026-10-01",
-    "hora": "Há 3h",
+    "hora": "Há 9h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -175,7 +175,7 @@
     "categoria_label": "📈 Conquistas & Economia",
     "regiao": "Nacional",
     "data_dia": "2026-10-01",
-    "hora": "Há 4h",
+    "hora": "Há 10h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -190,7 +190,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-01",
-    "hora": "Há 4h",
+    "hora": "Há 10h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -205,7 +205,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-01",
-    "hora": "Há 4h",
+    "hora": "Há 10h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -220,7 +220,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-01",
-    "hora": "Há 5h",
+    "hora": "Há 11h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -235,7 +235,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-01",
-    "hora": "Há 6h",
+    "hora": "Há 12h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -250,7 +250,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-01",
-    "hora": "Há 8h",
+    "hora": "Há 13h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -301,6 +301,21 @@
   },
   {
     "id": 21,
+    "titulo": "Lula chama debates da Globo de infrutíferos e aponta preconceito do canal",
+    "veiculo": "Vermelho",
+    "link": "https://vermelho.org.br/2026/10/01/lula-chama-debates-da-globo-de-infrutiferos-e-aponta-preconceito-do-canal/?utm_source=rss&utm_medium=rss&utm_campaign=lula-chama-debates-da-globo-de-infrutiferos-e-aponta-preconceito-do-canal",
+    "resumo": "Presidente diz que formato atual impede que o candidato dê sequência às suas ideias e alfinetou canal por proteger FHC em 1994 e 1998, mas deixar cadeira vazia para ele\nO...",
+    "imagem": "https://vermelho.org.br/wp-content/uploads/2026/10/lula-flow2_Foto-Ricardo-Stuckert.jpg",
+    "categoria": "eleicoes",
+    "categoria_label": "🗳️ Eleições & Campanhas",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-01",
+    "hora": "Há 5h",
+    "tempo_leitura": "2 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 22,
     "titulo": "Lula quer chegar a mil institutos federais e preparar jovens para a IA",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/10/01/lula-quer-chegar-a-mil-institutos-federais-e-preparar-jovens-para-a-ia/?utm_source=rss&utm_medium=rss&utm_campaign=lula-quer-chegar-a-mil-institutos-federais-e-preparar-jovens-para-a-ia",
@@ -310,12 +325,12 @@
     "categoria_label": "✊ Direitos & Mobilização",
     "regiao": "Nacional",
     "data_dia": "2026-10-01",
-    "hora": "Há 6 min",
+    "hora": "Há 5h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 22,
+    "id": 23,
     "titulo": "Lula sobre STF: “Não indico ninguém para me fazer favor”",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/10/01/lula-sobre-stf-nao-indico-ninguem-para-me-fazer-favor/?utm_source=rss&utm_medium=rss&utm_campaign=lula-sobre-stf-nao-indico-ninguem-para-me-fazer-favor",
@@ -325,27 +340,27 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-01",
-    "hora": "Há 27 min",
+    "hora": "Há 6h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 23,
-    "titulo": "Flávio Bolsonaro é desqualificado com um passado tenebroso, diz Lula",
+    "id": 24,
+    "titulo": "Flávio Bolsonaro é desqualificado, com um passado tenebroso, diz Lula",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/10/01/flavio-bolsonaro-e-desqualificado-com-um-passado-tenebroso-diz-lula/?utm_source=rss&utm_medium=rss&utm_campaign=flavio-bolsonaro-e-desqualificado-com-um-passado-tenebroso-diz-lula",
-    "resumo": "Presidente também aponta ligação de Flávio com Vorcaro e com milícias e que a força do senador está no sentimento anti-esquerda\nO post Flávio Bolsonaro é desqualificado c...",
-    "imagem": "https://vermelho.org.br/wp-content/uploads/2026/10/Lula-flow-ok-1024x576.jpg",
+    "resumo": "Presidente também aponta ligação de Flávio com Vorcaro e com milícias e que a força do senador está no sentimento anti-esquerda\nO post Flávio Bolsonaro é desqualificado, ...",
+    "imagem": "https://vermelho.org.br/wp-content/uploads/2026/10/lula-capa-flow_Foto-Ricardo-Stuckert-1024x533.jpg",
     "categoria": "geral",
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-01",
-    "hora": "Há 33 min",
+    "hora": "Há 6h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 24,
+    "id": 25,
     "titulo": "“Em vez de ficar chorando com o Trump, eu fui procurar parceiros”, diz Lula sobre tarifas",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/10/01/fui-procurar-parceiro-diz-lula-sobre-tarifas-dos-eua/?utm_source=rss&utm_medium=rss&utm_campaign=fui-procurar-parceiro-diz-lula-sobre-tarifas-dos-eua",
@@ -355,12 +370,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-01",
-    "hora": "Há 53 min",
+    "hora": "Há 6h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 25,
+    "id": 26,
     "titulo": "Bolívia admite apoio dos EUA em prisão de procurador que investiga Cerimedo",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/10/01/bolivia-admite-apoio-dos-eua-em-prisao-de-procurador-que-investiga-cerimedo/?utm_source=rss&utm_medium=rss&utm_campaign=bolivia-admite-apoio-dos-eua-em-prisao-de-procurador-que-investiga-cerimedo",
@@ -370,12 +385,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-01",
-    "hora": "Há 1h",
+    "hora": "Há 6h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 26,
+    "id": 27,
     "titulo": "A 3 dias da eleição, Lula vai a 42% e mantém vantagem sobre Flávio, diz Datafolha",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/10/01/a-3-dias-da-eleicao-lula-vai-a-42-e-mantem-vantagem-sobre-flavio-bolsonaro-diz-datafolha/?utm_source=rss&utm_medium=rss&utm_campaign=a-3-dias-da-eleicao-lula-vai-a-42-e-mantem-vantagem-sobre-flavio-bolsonaro-diz-datafolha",
@@ -385,12 +400,12 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-01",
-    "hora": "Há 2h",
+    "hora": "Há 8h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 27,
+    "id": 28,
     "titulo": "Lula garante renda e fortalece autonomia de mulheres vítimas de violência",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/10/01/lula-garante-pagamento-do-inss-a-mulheres-vitimas-de-violencia-domestica/?utm_source=rss&utm_medium=rss&utm_campaign=lula-garante-pagamento-do-inss-a-mulheres-vitimas-de-violencia-domestica",
@@ -400,12 +415,12 @@
     "categoria_label": "📈 Conquistas & Economia",
     "regiao": "Nacional",
     "data_dia": "2026-10-01",
-    "hora": "Há 4h",
+    "hora": "Há 9h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
-    "id": 28,
+    "id": 29,
     "titulo": "Lula relata histórias de sofrimento e mostra porque acabou com as bets",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/10/01/lula-relata-historias-de-sofrimento-e-mostra-porque-acabou-com-as-bets/?utm_source=rss&utm_medium=rss&utm_campaign=lula-relata-historias-de-sofrimento-e-mostra-porque-acabou-com-as-bets",
@@ -415,12 +430,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-01",
-    "hora": "Há 4h",
+    "hora": "Há 10h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 29,
+    "id": 30,
     "titulo": "Polarização contamina pesquisas e leva eleitor a distorcer respostas, diz especialista",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/10/01/hajj-mangolin-explica-o-que-as-pesquisas-revelam-e-o-que-nao-mostram/?utm_source=rss&utm_medium=rss&utm_campaign=hajj-mangolin-explica-o-que-as-pesquisas-revelam-e-o-que-nao-mostram",
@@ -430,27 +445,27 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-01",
-    "hora": "Há 4h",
+    "hora": "Há 10h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
-    "id": 30,
+    "id": 31,
     "titulo": "Veículos do SUS serão destinados a 116 municípios paulistas — Ministério da Saúde",
-    "veiculo": "www.gov.br",
+    "veiculo": "gov.br",
     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPenZncjM3ZEpYYkdGdnlaR09XWHRPWW1ReWpCbEduMEJsVVo2RlNBcVVIODZTSWFCYXJvSy1OSUVoTUVFSmhiSGZXUVhzMTlCaDdBal9uX3N0dlpYUzEwd2V0NFNDZHg1WUJwYTlDU1pfVzFuUm1FODFEREJ0bmJWLW4xaDlxZ1VNanVvbXR4YmRGUl9yT1RtdWpxSHQyczVKX0dpZ1g3ODdBc2k3ZUM1SC1lVzR3Slc0azkzWEtaWWNidw?oc=5",
-    "resumo": "Veículos do SUS serão destinados a 116 municípios paulistas — Ministério da Saúde  www.gov.br",
+    "resumo": "Veículos do SUS serão destinados a 116 municípios paulistas — Ministério da Saúde  gov.br",
     "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
     "categoria": "social",
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-10-01",
-    "hora": "Há 4h",
+    "hora": "Há 10h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 31,
+    "id": 32,
     "titulo": "Datafolha: 64% aprovam e 31% são contra reajuste no Bolsa Família anunciado por Lula antes da eleição",
     "veiculo": "Folha de S.Paulo",
     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdjM0ZEpIZXduRE1WZm93NmdZMWtyRFRyQUNoU04zNTlVZkNIcS1WWHVTVzNsdWpBOVZsTk5kSVhxa1hiOW5oYVpsbEg5ZjZkTXJ4QTBMeFFHMGtRRzBWSWtjelRKZ2YzR1NtRHZIcXJFc0NzUWgyU2pqeElxeDV5d3gzR2RSTGtMZ1BVMGNmaFpuUGJfUjlqZnNRNVhvTVRPYzdWNGNZV3MyMFlqRTB3TmllOGN1QkRXRVJoWFR6WVhTQ1k2elhOZ0UxbVY1bWJwcFY3NzdaWDhkOUhjclQ1cUdR?oc=5",
@@ -460,12 +475,27 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-01",
-    "hora": "Há 1h",
+    "hora": "Há 7h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 32,
+    "id": 33,
+    "titulo": "Ministério da Saúde encerra visita técnica para a concessão do Selo Prata de eliminação da transmissão vertical do HIV a Caxias – Prefeitura Municipal de Caxias - Prefeitura de Caxias",
+    "veiculo": "MA",
+    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPMHlnODQ4M0dRTFJ4dFZZWGt3M0ZTT01CZ0FGeGFjM3BiQ1VVZGxOSWxKTTllYVM3cnUwNHhfT0ozUVpOblBGUWkyZlBnbzdUTlRrU2JFSHRrYmxtMm0zRWFrdDF5dmNub3R3YXJfVFFIX0pvN2EwVlo5X1U5aWktcDJqb0lRR2paeTkwUzNQWDcteTFRdUE3RjR6RkdjUXRZbnFiOUxOS2h6T3RSbC1WdzMxUERhTGgxY2lJak5iMVE5M1NaeTd1cFZCN2FodjJXTGdFdGtKWWdTS3hKLVU2alNtYURfclNSSzhXN0NaY1RuZl83dkJv?oc=5",
+    "resumo": "Ministério da Saúde encerra visita técnica para a concessão do Selo Prata de eliminação da transmissão vertical do HIV a Caxias – Prefeitura Municipal de Caxias  Prefeitu...",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-02",
+    "hora": "Há 4h",
+    "tempo_leitura": "2 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 34,
     "titulo": "Secretário do Ministério da Saúde visita novo CAPS Aluízio Campos, que deve ser inaugurado pela Prefeitura de Campina Grande este mês",
     "veiculo": "Prefeitura de Campina Grande",
     "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOT1Q3YlluaEd3cFprR3JsRjNUZ3JOMzJkd0g5anhpZDhRbTRrZzhDQzJ4cURydElVVlFqczBaZWtvVlVWVjlmMVhGQ3RpaDM3MUZVSmwtakdaWi1LTFg1Uk5MM3NLQkJVek1zRUtab3ZmMVlFZW5tMnlWRXg2RWVZNUNmdmVLbGRHbGN5N1doT2c0aWVrV2xSYnNtRUx2TnRpTXB4TW5WUWFmZmk2SEloMlJiS2FKRkxSZWVfWk9iUzQwU3FkUWlMM3hYOWxwTkE2S2lPdmZ1VFRtcXJmSEh5RDNQX1lpS3ZnbV9BRUVDQU4tTGtRRTdWYw?oc=5",
@@ -475,12 +505,12 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-10-01",
-    "hora": "Há 4h",
+    "hora": "Há 10h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
-    "id": 33,
+    "id": 35,
     "titulo": "Lula nega ao TSE que reajuste do Bolsa Família tenha caráter eleitoral",
     "veiculo": "CNN Brasil",
     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcWI3a2dxNk5rSThTcWdfZnpDRXRrVWhFYnYtajhRWVdLQy1LRmNhMVRGRW1vUG85NG5ubFQ5MUstRHItRzlwZnRJeDM4aFlGQ1dQaV9MdmlqME9XQTk5T3VONTJ5Z2EwWGNJR3VCZTVIazc4dE9wQ0JMMjAyY3VHQzZHNzAxRTZyNnZxNk1jZllLNWhvZ0JRMG1Hb2N2RnJxcHgzWFFiMHVBREJKR1E?oc=5",
@@ -490,12 +520,12 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-10-01",
-    "hora": "Há 8h",
+    "hora": "Há 13h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 34,
+    "id": 36,
     "titulo": "Lula decide apresentar suas propostas no Flow; os demais candidatos debatem na TV",
     "veiculo": "Sinpro-DF",
     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcEh5VWJqQlZ4dGVESXRxVW5LZ0F6Y05RS29aQ0d0cFVNZ2Q1R2k2Ni14YllmSlVYUlR5cmQwQU0zN1FFTDRhZmNqMDhhTHlXNlhDeG1Ub0JrS1J1Qk9vSEtxVXNFZGppamNKcTBkZS1tVHV5cUE1N1p4OW0zTld5SVRId2ZtQzN2WF9YUmNpRWpLUVRvdWJNc2preHVGcENNQjZHUXBRaGh6NmN4dkE?oc=5",
@@ -505,12 +535,12 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-01",
-    "hora": "Há 2h",
+    "hora": "Há 7h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 35,
+    "id": 37,
     "titulo": "Ministério da Saúde visita Rio Grande para acompanhar Projeto AFIRMASUS",
     "veiculo": "Prefeitura Municipal de Rio Grande/RS",
     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRktyT2Q1WUo0X2RHRlFBNmZZYWVWeHVXc0p6bENOZDg0TGZIdG1DcFFONWQxTGRyWERoVGdiTEx3V0dnTUhUcFhQSlJiMzJDYkx5cnBGVFd3TTNoa21TS1A4VmZpM1l0UGhfSlUtZ2NOZjhoZzNRSTMyUlJnR29McjMwMHJoSzh2ekI2ZkZVMlVkUnlKSjBKSmVWVWtnX0xuUmsweEdZN0V2TG5uYi1NUUtjdERSQmlPc2pZT0ZVY3EzbWtuMWRVeA?oc=5",
@@ -520,12 +550,27 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-10-01",
-    "hora": "Há 8h",
+    "hora": "Há 14h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 36,
+    "id": 38,
+    "titulo": "Campanha do Ministério da Saúde orienta sobre riscos das apostas online e atendimento disponível no SUS",
+    "veiculo": "gov.br",
+    "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQdl85Wk4xM1phdWFpTUdsUmFqc0YzNWxSQlJMRWZETk1sNHZrRE1WdUI1dE01djdrbkM5NHZ3anE0ekJGWko2anB6aktQNHlKMVVtUDdubWF4UTRQaTVnS2xINWplaThVTGdDaEYxS0pvcUxXRS1BLW1WNHozY2FXRHJueTNPNk9xU3J6a1RBa1UycG9iRlJsRHBndlZYelNvdlhPM21kRmZIQUF4Z1VaZzBYVzFjV1Z0V0pfY2xzVG50NWNSTWc3WXdxMVJ2a0ctX2VsSEpSYy1KUlJiR1hNdm9RaDlZRFRNRlptWkFMME82V3pRUDBSTk8yZmQ?oc=5",
+    "resumo": "Campanha do Ministério da Saúde orienta sobre riscos das apostas online e atendimento disponível no SUS  gov.br",
+    "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
+    "categoria": "eleicoes",
+    "categoria_label": "🗳️ Eleições & Campanhas",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-01",
+    "hora": "Há 10h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 39,
     "titulo": "Norma do Ministério da Saúde reforça controle das emendas parlamentares de bancada ao SUS",
     "veiculo": "JOTA Jornalismo",
     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOXduRGcyUzNBSVo5LXZHNDE0UTNKd0FXYlR1OXk0NlRiSmpCYzUtclV5b3BoeWEtVzlEajRVbGJMQk5pYU1GaE50MWU5Q1pBNThJV1lybXhCc2d0QVd0ZHpoT08tN190Tk9iYnpWSHhvYnhYOFVNOExyeGs4NldScDlaa2R1Qjc5ZHM1aDhDR1BUOHpiTlotR0h4Qk5GYXNsblpyZmNnVE11LVIzTU1V?oc=5",
@@ -535,84 +580,39 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-10-01",
-    "hora": "Há 11h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 37,
-    "titulo": "Lula nega finalidade eleitoral de aumento do Bolsa Família",
-    "veiculo": "Revista Oeste",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9DYXFOb0ZwaHJjYjhSSF9jakR4UUN2OVk3MDNqWV9PeGdHejZ3aDBkWmRuYUpNR2JCVVhBZ2ZESFQ5UENFVEREZk1lZVVOXzlwRjF2eXpxaWdEUWdyNXZSSEsxR3NNb05NZG9oenBsUUYxRW5f?oc=5",
-    "resumo": "Lula nega finalidade eleitoral de aumento do Bolsa Família  Revista Oeste",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
-    "regiao": "Nacional",
-    "data_dia": "2026-10-01",
-    "hora": "Há 5h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 38,
-    "titulo": "Dia da Pessoa Idosa: Como o SUS se organiza para cuidar da população que mais cresce no País",
-    "veiculo": "www.gov.br",
-    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQTFlOdTNtZGoyaEk3S0RseFNTSTlnTjF5VDMxOW1ZNVJxSE1Jbm1ocmdVQzhNM0Q2VHlvUjZQUDNTOS01TTRsMWQxRHZodHNwMG1IbWZ5NmV3bjJTUkdCTVQ0akxCVkRpX2t5U1hRaF9SeXdDV3owWURiSDRWMTRyNVN1Sk5HUmxzYkpOS2d0SUk5SDhGRlRROXNMYm9NLWJZZEtxUFdLbmQ5SHMwY0ZOdGZDS1owQlZ0MFdLcGxzRXdJZ2N3WkU1eVhDaU1ZMXJkamJNTy00NG5DX1RQYk9td3dmNEV3UlhGS0lsSw?oc=5",
-    "resumo": "Dia da Pessoa Idosa: Como o SUS se organiza para cuidar da população que mais cresce no País  www.gov.br",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
-    "regiao": "Nacional",
-    "data_dia": "2026-10-01",
-    "hora": "Há 6h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 39,
-    "titulo": "Morre Lito Sousa: Ministério da Saúde interveio para que influenciador fizesse estudo experimental de Harvard",
-    "veiculo": "O GLOBO",
-    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNzdoVkVUWC1mSG9QeUx3YlBIVmVnRzlUNUhvc0N5b1RkQVg2UDQ0OHJ6X3VtMjhaR0hMemtabmUwSHBLR282OVZ5WlhBTlJnYVdmeU91Ty1BVlFkVzE0VEJFY0ZJWXdxdlRfWjk2T3ZabXJvbFB3a2NjMWNsWVZTWGxocFZJenRCOVFaX1ZrQU0xQU9qQm51Rm9KNDQtN2I5UDFCZWJEek9aQ0lwcXB3VFNDZjVwWmI4a0hPRVNuanM5Rjd1enJIWWtXVXdqZDlYT09oSXdqOU9uV3RH0gHrAUFVX3lxTE5CMllFS3ZOZl81MVdQRGhxZHVQaWsyVkxtMW9mRDk2U3hnY2ZucXZxZ1hxSXRQUmhHS3dCRTdjNllQNmpycEJpV1djd3M5ZzBjakhENmhRX0pMdmJpR2dObHdPUl9mTUZOekMwc0JwR1p1OXNVeHFrcjl2d3lOX0pqRUwtMzFWdnE1by15M0I1ai1DSTQ0Vk9ybWJ6MXlXX19nQU9EZ04teDJZUno2RFVQSmM4cS1odXFmb0xGSHFmYnRKcVluWGhSOXFBQjhwWTc5bXEzVC15ckt5d1hhcmFnc0x6VTN6QXNhREk?oc=5",
-    "resumo": "Morre Lito Sousa: Ministério da Saúde interveio para que influenciador fizesse estudo experimental de Harvard  O GLOBO",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
-    "regiao": "Nacional",
-    "data_dia": "2026-10-01",
-    "hora": "Há 3h",
+    "hora": "Há 17h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
     "id": 40,
-    "titulo": "INSS pagará salário de trabalhadoras afastadas do emprego por violência doméstica",
-    "veiculo": "www.gov.br",
-    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRExXT1piVmlTUzM5bEV2OFAwekhORUFxNk90SDAtLUJGSlBuNy1Rc2JiUHowTmk0aUktcHQ3THd2WGhreWNYVXIzbFVzeG9NRjBoNDRVMDRHbGRtVWJWOHNKQTVMZXBfX2FYYmMzdEwwQmd1akY2VmFsUEtrdDVRbFo1MW1EQWYxQTRmSV9WTGc1ZFZQQzgyMU1tWVg0ZVNySk14U3NKRDBlVUp1LVR1ZS1JSWhxZVZNYjYzS0ViWTcyTl9Jdmo3OERFckI4VVBWXzFJOEQyVQ?oc=5",
-    "resumo": "INSS pagará salário de trabalhadoras afastadas do emprego por violência doméstica  www.gov.br",
-    "imagem": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
-    "categoria": "economia",
-    "categoria_label": "📈 Conquistas & Economia",
+    "titulo": "Dia da Pessoa Idosa: Como o SUS se organiza para cuidar da população que mais cresce no País",
+    "veiculo": "gov.br",
+    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQTFlOdTNtZGoyaEk3S0RseFNTSTlnTjF5VDMxOW1ZNVJxSE1Jbm1ocmdVQzhNM0Q2VHlvUjZQUDNTOS01TTRsMWQxRHZodHNwMG1IbWZ5NmV3bjJTUkdCTVQ0akxCVkRpX2t5U1hRaF9SeXdDV3owWURiSDRWMTRyNVN1Sk5HUmxzYkpOS2d0SUk5SDhGRlRROXNMYm9NLWJZZEtxUFdLbmQ5SHMwY0ZOdGZDS1owQlZ0MFdLcGxzRXdJZ2N3WkU1eVhDaU1ZMXJkamJNTy00NG5DX1RQYk9td3dmNEV3UlhGS0lsSw?oc=5",
+    "resumo": "Dia da Pessoa Idosa: Como o SUS se organiza para cuidar da população que mais cresce no País  gov.br",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-10-01",
-    "hora": "Há 6h",
+    "hora": "Há 12h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
     "id": 41,
-    "titulo": "Trump diz que está acompanhando as eleições presidenciais no Brasil 'muito de perto'",
-    "veiculo": "BBC",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBoVFJGMy15THJwd0JScDdlcXFNNXc5dEpOTWs3SUxwNVRGUFZJbmFqQzNWaEFwdHdSRHZIMl84V3NhV2dYRHFRTzZHZTdFOThhU3MxalZBN3lLOE1vbWNpbC1fVdIBaEFVX3lxTFAyQ2xFUWt2SVZMZk1wd1IwNmZqQzlGU0NqWUVqQXNsNHZQWU1nbExoV3pDLWNlbzBvc1NzZzBUQmRoZTBWTV9tZVhHTDNaZWpoYlZIeFBVWlRfWTBYeF9rbFN5am1PR0pY?oc=5",
-    "resumo": "Trump diz que está acompanhando as eleições presidenciais no Brasil 'muito de perto'  BBC",
+    "titulo": "Trabalho por aplicativo ganha espaço nas eleições, com propostas de IPVA zero, crédito e remuneração mínima",
+    "veiculo": "O GLOBO",
+    "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNTXl5Vlp5NGpnR3NlQTdrR284RFROM2x0ZzRnSkg5MXZmekVvTjYzTjBfYmQtRllZQl9SVFVsOTJNLVBSbXFkQmRFQXVYM3NpUWpZYXdGR2RxXzM1bjlxdU9YRklxSGlwcUpyQ3ZDTDFkM3cyVzVib040LW9HLU41V0Zlc0F1ekNJSF9JUzF0bkN0M0ctQlc1RGMzZW9Jd3U2QlpZdW1RVFpYdXUyaGxTN2xCeDFhLU9zUlpKazd2cXRmaHo0eDBWbjdvYjBfX2lBbkVCUE51eGEzQ0dobzhheWwzTlMzdTFyX3dEbUxSMU9CR2R6dWNQczVXNDA1alpsblpOX1EtSHQtQdIBmAJBVV95cUxNdWNhZWZIUl94Umk4WC04bkNjMllaX052cDRPbks0SEg0NVBYTml0ejNrSFdoQ09zUXVvazdiVWZ1Z0pfZU43dl9CVVpnUUczaUFmQXZqYUxtOUNadXhCZWdUMHYwaWJ1UEpkWWtDOVlKcS1IM1lOU2hKbE5uOWdPb3ZLbGFQZlNkeDR0a2hSSHZFVi1TcjdnRVZwa0xxYWpleHFNNGdmZm9laDVleEFwbkFxVnpTVy05RDBmUW1kMm9fTmRuUEFOeEc2eF9XTXkzUHNvWFp1akpmaXUzS3dETFFOcUozTHBxMG44bld3Q25FMVN0UnZaZndRdDAzaHNqUXFmWGI1dkZRb2ZFZkpWWnhmeHBFSWF6?oc=5",
+    "resumo": "Trabalho por aplicativo ganha espaço nas eleições, com propostas de IPVA zero, crédito e remuneração mínima  O GLOBO",
     "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
     "categoria": "eleicoes",
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
-    "data_dia": "2026-10-01",
-    "hora": "Há 6h",
+    "data_dia": "2026-10-02",
+    "hora": "Há 1h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": false
+    "urgente": true
   },
   {
     "id": 42,
@@ -625,7 +625,7 @@
     "categoria_label": "✊ Direitos & Mobilização",
     "regiao": "Nacional",
     "data_dia": "2026-10-01",
-    "hora": "Há 6h",
+    "hora": "Há 12h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   }
