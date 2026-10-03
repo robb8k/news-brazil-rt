@@ -1,6 +1,81 @@
 [
   {
     "id": 1,
+    "titulo": "Veja como foi a sexta-feira (2) dos candidatos a presidente",
+    "veiculo": "Agência Brasil",
+    "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/veja-como-foi-sexta-feira-2-dos-candidatos-presidente",
+    "resumo": "Nos últimos dias antes do primeiro turno das eleições 2026, a agenda dos presidenciáveis nesta sexta-feira (2) incluiu caminhadas, comício e atos de campanha em diferente...",
+    "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
+    "categoria": "eleicoes",
+    "categoria_label": "🗳️ Eleições & Campanhas",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-02",
+    "hora": "Há 1h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": true
+  },
+  {
+    "id": 2,
+    "titulo": "Presidente do TSE fará pronunciamento no rádio e na TV neste sábado",
+    "veiculo": "Agência Brasil",
+    "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/presidente-do-tse-fara-pronunciamento-no-radio-e-na-tv-neste-sabado",
+    "resumo": "O presidente do Tribunal Superior Eleitoral (TSE), ministro Kassio Nunes Marques, fará um pronunciamento em cadeia de rádio e TV neste sábado (3), véspera do primeiro tur...",
+    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
+    "categoria": "geral",
+    "categoria_label": "📢 Notícias do Povo",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-02",
+    "hora": "Há 2h",
+    "tempo_leitura": "2 min de leitura",
+    "urgente": true
+  },
+  {
+    "id": 3,
+    "titulo": "Presidente do Senado marca para segunda votação do fim da escala 6x1",
+    "veiculo": "Agência Brasil",
+    "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/presidente-do-senado-marca-para-segunda-votacao-do-fim-da-escala-6x1",
+    "resumo": "O presidente do Senado, Davi Alcolumbre, marcou para a próxima terça-feira (6) a análise em Plenário da Proposta de Emenda Constitucional (PEC) do fim da escala 6x1 e da ...",
+    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
+    "categoria": "geral",
+    "categoria_label": "📢 Notícias do Povo",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-02",
+    "hora": "Há 3h",
+    "tempo_leitura": "2 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 4,
+    "titulo": "TSE decide que votos para Garotinho serão anulados",
+    "veiculo": "Agência Brasil",
+    "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/tse-decide-que-votos-para-garotinho-serao-anulados",
+    "resumo": "O ministro Floriano de Azevedo Marques, do Tribunal Superior Eleitoral (TSE), decidiu nesta sexta-feira (2) que os votos que forem dados ao candidato ao governo do Rio de...",
+    "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
+    "categoria": "eleicoes",
+    "categoria_label": "🗳️ Eleições & Campanhas",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-02",
+    "hora": "Há 3h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 5,
+    "titulo": "Fim de semana de eleições será de chuva em grande parte do país",
+    "veiculo": "Agência Brasil",
+    "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-10/fim-de-semana-de-eleicoes-sera-de-chuva-em-grande-parte-do-pais",
+    "resumo": "O tempo deverá ficar instável e chuvoso em grande parte do Brasil neste final de semana de eleições e na segunda-feira (5), com risco de tempestades em áreas de todas as ...",
+    "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
+    "categoria": "eleicoes",
+    "categoria_label": "🗳️ Eleições & Campanhas",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-02",
+    "hora": "Há 3h",
+    "tempo_leitura": "2 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 6,
     "titulo": "Nova descoberta aumenta expectativa da Petrobras na Foz do Amazonas",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/nova-descoberta-aumenta-expectativa-da-petrobras-na-foz-do-amazonas",
@@ -10,12 +85,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Norte",
     "data_dia": "2026-10-02",
-    "hora": "Há 41 min",
+    "hora": "Há 3h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 2,
+    "id": 7,
     "titulo": "AGU pede ao STF que declare inconstitucionais leis das bets",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/agu-pede-ao-stf-que-declare-inconstitucionais-leis-das-bets",
@@ -25,12 +100,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-02",
-    "hora": "Há 46 min",
+    "hora": "Há 3h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 3,
+    "id": 8,
     "titulo": "Polícia Federal investiga suposta ameaça à embaixada dos EUA",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/policia-federal-investiga-suposta-ameaca-embaixada-dos-eua",
@@ -40,12 +115,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Sudeste",
     "data_dia": "2026-10-02",
-    "hora": "Há 51 min",
+    "hora": "Há 3h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 4,
+    "id": 9,
     "titulo": "Painel indica que El Ninõ pode ser um dos mais intensos desde 1950",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-10/painel-indica-que-el-nino-pode-ser-um-dos-mais-intensos-desde-1950",
@@ -55,102 +130,12 @@
     "categoria_label": "📈 Conquistas & Economia",
     "regiao": "Nacional",
     "data_dia": "2026-10-02",
-    "hora": "Há 1h",
+    "hora": "Há 4h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
-  },
-  {
-    "id": 5,
-    "titulo": "Defesa Civil Nacional mobiliza equipes para temporais no Sul e Sudeste",
-    "veiculo": "Agência Brasil",
-    "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-10/defesa-civil-nacional-mobiliza-equipes-para-temporais-no-sul-e-sudeste",
-    "resumo": "A previsão de fortes chuvas no Sul e no Sudeste neste fim de semana levou a Defesa Civil Nacional a acionar equipes de resposta. No domingo (4), será realizado o Primeiro...",
-    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
-    "categoria": "geral",
-    "categoria_label": "📢 Notícias do Povo",
-    "regiao": "Sudeste",
-    "data_dia": "2026-10-02",
-    "hora": "Há 2h",
-    "tempo_leitura": "2 min de leitura",
-    "urgente": true
-  },
-  {
-    "id": 6,
-    "titulo": "Mostra leva ao Rio quase sete décadas de produção de Ruy Guerra",
-    "veiculo": "Agência Brasil",
-    "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-10/mostra-leva-ao-rio-quase-sete-decadas-de-producao-de-ruy-guerra",
-    "resumo": "Uma carreira extensa e repleta de realizações reconhecidas pela crítica e pelo público. A Retrospectiva Ruy Guerra – Uma Vida de Cinema traz destaques dessa trajetória em...",
-    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
-    "categoria": "geral",
-    "categoria_label": "📢 Notícias do Povo",
-    "regiao": "Nacional",
-    "data_dia": "2026-10-02",
-    "hora": "Há 2h",
-    "tempo_leitura": "2 min de leitura",
-    "urgente": true
-  },
-  {
-    "id": 7,
-    "titulo": "Distribuidoras se preparam para garantir energia no dia da eleição",
-    "veiculo": "Agência Brasil",
-    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/distribuidoras-se-preparam-para-garantir-energia-no-dia-da-eleicao",
-    "resumo": "As distribuidoras de energia elétrica devem ter planos especiais de atendimento para garantir o fornecimento durante a votação e a apuração das eleições gerais no próximo...",
-    "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
-    "categoria": "eleicoes",
-    "categoria_label": "🗳️ Eleições & Campanhas",
-    "regiao": "Nacional",
-    "data_dia": "2026-10-02",
-    "hora": "Há 2h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": true
-  },
-  {
-    "id": 8,
-    "titulo": "Fim de semana de eleição terá chuvas fortes no estado de São Paulo",
-    "veiculo": "Agência Brasil",
-    "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/fim-de-semana-de-eleicao-tera-chuvas-fortes-no-estado-de-sao-paulo",
-    "resumo": "A Defesa Civil de São Paulo prevê que o próximo domingo (4), quando ocorrerão as eleições, deverá ter fortes chuvas no estado.\n\nSegundo o órgão, neste sábado (3), haverá ...",
-    "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
-    "categoria": "eleicoes",
-    "categoria_label": "🗳️ Eleições & Campanhas",
-    "regiao": "Sudeste",
-    "data_dia": "2026-10-02",
-    "hora": "Há 2h",
-    "tempo_leitura": "2 min de leitura",
-    "urgente": true
-  },
-  {
-    "id": 9,
-    "titulo": "Elefante-marinho atrai atenção de banhistas em praia do Rio",
-    "veiculo": "Agência Brasil",
-    "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-10/elefante-marinho-atrai-atencao-de-banhistas-em-praia-do-rio",
-    "resumo": "A chegada de um elefante-marinho chamou a atenção de banhistas nesta sexta-feira (2), na Praia de São Conrado, na Zona Sul do Rio de Janeiro.\n\nOs guarda-vidas do Corpo de...",
-    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
-    "categoria": "geral",
-    "categoria_label": "📢 Notícias do Povo",
-    "regiao": "Sudeste",
-    "data_dia": "2026-10-02",
-    "hora": "Há 2h",
-    "tempo_leitura": "2 min de leitura",
-    "urgente": true
-  },
-  {
-    "id": 10,
-    "titulo": "Embraer tem alta de 6% nas entregas no terceiro trimestre",
-    "veiculo": "Agência Brasil",
-    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/embraer-tem-alta-de-6-nas-entregas-no-terceiro-trimestre",
-    "resumo": "A Embraer divulgou nesta sexta-feira (2) o desempenho de entrega de aeronaves no terceiro trimestre deste ano. No período, a empresa entregou 66 aviões entregues, aumento...",
-    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
-    "categoria": "geral",
-    "categoria_label": "📢 Notícias do Povo",
-    "regiao": "Nacional",
-    "data_dia": "2026-10-02",
-    "hora": "Há 3h",
-    "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 11,
+    "id": 10,
     "titulo": "Crise climática: o papel das infraestruturas verdes",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/outras-cidades/crise-climatica-o-papel-das-infraestruturas-verdes/",
@@ -160,12 +145,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-02",
-    "hora": "Há 1h",
+    "hora": "Há 4h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 12,
+    "id": 11,
     "titulo": "O capital em crise e o futuro em disputa",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/crise-civilizatoria/o-capital-em-crise-e-o-futuro-em-disputa/",
@@ -175,12 +160,12 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-02",
-    "hora": "Há 1h",
+    "hora": "Há 4h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 13,
+    "id": 12,
     "titulo": "Memórias do Jornalismo: Sete anos no esconderijo",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/historia-e-memoria/memorias-do-jornalismo-sete-anos-no-esconderijo/",
@@ -190,12 +175,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-02",
-    "hora": "Há 2h",
+    "hora": "Há 5h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 14,
+    "id": 13,
     "titulo": "A arma, um giro, o L",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/direita-assanhada/a-arma-um-giro-o-l/",
@@ -205,12 +190,12 @@
     "categoria_label": "✊ Direitos & Mobilização",
     "regiao": "Nacional",
     "data_dia": "2026-10-02",
-    "hora": "Há 2h",
+    "hora": "Há 5h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 15,
+    "id": 14,
     "titulo": "Eleições: a necessidade da Agroecologia",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/descolonizacoes/eleicoes-a-necessidade-da-agroecologia/",
@@ -220,12 +205,12 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-02",
-    "hora": "Há 2h",
+    "hora": "Há 5h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 16,
+    "id": 15,
     "titulo": "Ônibus de graça: direito que passa despercebido nas eleições",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/outras-cidades/onibus-de-graca-direito-que-passa-despercebido-nas-eleicoes/",
@@ -235,12 +220,12 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-02",
-    "hora": "Há 2h",
+    "hora": "Há 5h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 17,
+    "id": 16,
     "titulo": "O sintomático desprezo da ultradireita pelos animais",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/crise-civilizatoria/o-sintomatico-desprezo-da-ultradireita-pelos-animais/",
@@ -250,12 +235,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-02",
-    "hora": "Há 3h",
+    "hora": "Há 5h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 18,
+    "id": 17,
     "titulo": "O que Flávio propõe aos trabalhadores",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/trabalhoeprecariado/oque-flavio-bolsonaro-propoe-aos-trabalhadores/",
@@ -270,7 +255,7 @@
     "urgente": false
   },
   {
-    "id": 19,
+    "id": 18,
     "titulo": "História da pobreza, paradoxo do “progresso”",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/desigualdades-mundo/historia-da-pobreza-paradoxo-do-progresso/",
@@ -285,7 +270,7 @@
     "urgente": false
   },
   {
-    "id": 20,
+    "id": 19,
     "titulo": "Flávio na Globo, Lula no Flow: o que isso revela do Brasil?",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/estadoemdisputa/flavio-na-globo-lula-no-flow-o-que-isso-revela-do-brasil/",
@@ -300,17 +285,32 @@
     "urgente": false
   },
   {
+    "id": 20,
+    "titulo": "Em BH, Lula define escolha entre “governar com verdade” ou “lacrar no celular”",
+    "veiculo": "Vermelho",
+    "link": "https://vermelho.org.br/2026/10/02/em-bh-lula-define-escolha-entre-governar-com-verdade-ou-lacrar-no-celular/?utm_source=rss&utm_medium=rss&utm_campaign=em-bh-lula-define-escolha-entre-governar-com-verdade-ou-lacrar-no-celular",
+    "resumo": "Presidente contrasta projetos de país, critica gestão Zema e aposta na mobilização popular para vencer no primeiro turno\nO post Em BH, Lula define escolha entre “governar...",
+    "imagem": "https://vermelho.org.br/wp-content/uploads/2026/10/Captura-de-Tela-2026-10-02-as-22.36.45-1024x682.png",
+    "categoria": "geral",
+    "categoria_label": "📢 Notícias do Povo",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-02",
+    "hora": "Há 13 min",
+    "tempo_leitura": "2 min de leitura",
+    "urgente": true
+  },
+  {
     "id": 21,
-    "titulo": "Lula cumprimenta Alcolumbre por pautar fim da escala 6×1 na terça-feira",
+    "titulo": "Chegou o dia: Senado votará o fim da escala 6×1 na terça (6)",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/10/02/lula-cumprimenta-alcolumbre-por-pautar-fim-da-escala-6x1-na-terca-feira/?utm_source=rss&utm_medium=rss&utm_campaign=lula-cumprimenta-alcolumbre-por-pautar-fim-da-escala-6x1-na-terca-feira",
-    "resumo": "“Essa é uma prioridade do nosso governo e uma mudança que o Brasil precisa fazer”, disse o presidente\nO post Lula cumprimenta Alcolumbre por pautar fim da escala 6×1 na t...",
+    "resumo": "“Essa é uma prioridade do nosso governo e uma mudança que o Brasil precisa fazer”, disse Lula\nO post Chegou o dia: Senado votará o fim da escala 6×1 na terça (6) apareceu...",
     "imagem": "https://vermelho.org.br/wp-content/uploads/2026/10/Fim-da-escala-Lula.jpg",
     "categoria": "geral",
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-02",
-    "hora": "Há 1 min",
+    "hora": "Há 2h",
     "tempo_leitura": "2 min de leitura",
     "urgente": true
   },
@@ -325,9 +325,9 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-02",
-    "hora": "Há 30 min",
+    "hora": "Há 3h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 23,
@@ -340,9 +340,9 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Sudeste",
     "data_dia": "2026-10-02",
-    "hora": "Há 1h",
+    "hora": "Há 3h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 24,
@@ -355,9 +355,9 @@
     "categoria_label": "📈 Conquistas & Economia",
     "regiao": "Nacional",
     "data_dia": "2026-10-02",
-    "hora": "Há 2h",
+    "hora": "Há 5h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 25,
@@ -370,7 +370,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-02",
-    "hora": "Há 3h",
+    "hora": "Há 5h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -385,7 +385,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-02",
-    "hora": "Há 3h",
+    "hora": "Há 6h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -400,7 +400,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-02",
-    "hora": "Há 4h",
+    "hora": "Há 7h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -415,7 +415,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-02",
-    "hora": "Há 4h",
+    "hora": "Há 7h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -430,27 +430,12 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-02",
-    "hora": "Há 5h",
+    "hora": "Há 7h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
     "id": 30,
-    "titulo": "Lula convoca 70+ a votar: “Não permita que a velhice deixe você acomodado”",
-    "veiculo": "Vermelho",
-    "link": "https://vermelho.org.br/2026/10/02/lula-faz-apelo-aos-brasileiros-com-mais-de-70-anos-para-votar/?utm_source=rss&utm_medium=rss&utm_campaign=lula-faz-apelo-aos-brasileiros-com-mais-de-70-anos-para-votar",
-    "resumo": "Ao encerrar entrevista, presidente lembrou que voto é facultativo a partir dos 70, mas afirmou que idade não deve afastar idosos das decisões sobre o futuro do país\nO pos...",
-    "imagem": "https://vermelho.org.br/wp-content/uploads/2026/10/systemuploadsnews2b84bbedb3fe5838101-700x460xfit-cd7d6.png",
-    "categoria": "eleicoes",
-    "categoria_label": "🗳️ Eleições & Campanhas",
-    "regiao": "Nacional",
-    "data_dia": "2026-10-02",
-    "hora": "Há 5h",
-    "tempo_leitura": "2 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 31,
     "titulo": "Ministério da Saúde vistoria obras de novas unidades de saúde construídas com recursos do Novo PAC para expansão da infraestrutura do SUS no Ceará",
     "veiculo": "www.gov.br",
     "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNTFBBdDlENUQtWmt4cGZ5Z3MycVpXU2lxdlZNZ0pHZkFYUl9WaXVLLVNrb1RaZTNzM3NqWGlCVkU1NmtBMF8zWHhKTTVNZ3VFZXdTdThqeExYX3lsVndBUkh5dFFveVZfZ3lxSGJRR2VMaHVlbDhWVWt6cVNLeEZKUlFYN1RTR0IyUVZrTEZGbklXcFZkVndtaTRkWGQwZzFPNnFTaFpTc2hZWU54OHRvRElqbm01Wmw4V3hoeFhtb0hFaC0zOEhVUGcxNEV1WkhZdG1RSmNBd3FXNWpCWDZZdVc1YU4zc1dSdFRPZzZ2d3pLczR1bHg4MkJzZHhKbDNZRXVLb1RJMWhrZmNKdjRPd1hfcFd4b2RhVjc2blRVMHpSZlRybUVjbzFtVElYaXpLT1FRa2hvNA?oc=5",
@@ -465,7 +450,7 @@
     "urgente": false
   },
   {
-    "id": 32,
+    "id": 31,
     "titulo": "Campanha de Lula teme que Bolsonaro use saúde para ajudar Flávio",
     "veiculo": "Metrópoles",
     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeUZIc0Y4a2xxNmJpaEgyc2dhZjZIaEIxZUl2dFp1U3cxNzZ0U081RXhkSVdBc3ZVcGhvZloyUUZra2JCS3BKSkhKeDh4VS1JYjFteE53Tm9oN0g4UElsLUkzVG92QVItaTRfaS1PeEVXSnBodm1UY0xtM3VNUkRpWWdEZmxiR29kaGN4S08yVU5Rakd6SE1UUEV6b3VpaGYxV3hkb2pZbEdEY0RyQjFodkNn?oc=5",
@@ -475,57 +460,12 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-02",
-    "hora": "Há 4h",
+    "hora": "Há 7h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 33,
-    "titulo": "Ministério da Saúde encerra visita técnica para a concessão do Selo Prata de eliminação da transmissão vertical do HIV a Caxias – Prefeitura Municipal de Caxias - Prefeitura de Caxias",
-    "veiculo": "MA",
-    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPMHlnODQ4M0dRTFJ4dFZZWGt3M0ZTT01CZ0FGeGFjM3BiQ1VVZGxOSWxKTTllYVM3cnUwNHhfT0ozUVpOblBGUWkyZlBnbzdUTlRrU2JFSHRrYmxtMm0zRWFrdDF5dmNub3R3YXJfVFFIX0pvN2EwVlo5X1U5aWktcDJqb0lRR2paeTkwUzNQWDcteTFRdUE3RjR6RkdjUXRZbnFiOUxOS2h6T3RSbC1WdzMxUERhTGgxY2lJak5iMVE5M1NaeTd1cFZCN2FodjJXTGdFdGtKWWdTS3hKLVU2alNtYURfclNSSzhXN0NaY1RuZl83dkJv?oc=5",
-    "resumo": "Ministério da Saúde encerra visita técnica para a concessão do Selo Prata de eliminação da transmissão vertical do HIV a Caxias – Prefeitura Municipal de Caxias  Prefeitu...",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
-    "regiao": "Nacional",
-    "data_dia": "2026-10-02",
-    "hora": "Há 19h",
-    "tempo_leitura": "2 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 34,
-    "titulo": "Datafolha: 64% aprovam e 31% são contra reajuste no Bolsa Família anunciado por Lula antes da eleição",
-    "veiculo": "Folha de S.Paulo",
-    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdjM0ZEpIZXduRE1WZm93NmdZMWtyRFRyQUNoU04zNTlVZkNIcS1WWHVTVzNsdWpBOVZsTk5kSVhxa1hiOW5oYVpsbEg5ZjZkTXJ4QTBMeFFHMGtRRzBWSWtjelRKZ2YzR1NtRHZIcXJFc0NzUWgyU2pqeElxeDV5d3gzR2RSTGtMZ1BVMGNmaFpuUGJfUjlqZnNRNVhvTVRPYzdWNGNZV3MyMFlqRTB3TmllOGN1QkRXRVJoWFR6WVhTQ1k2elhOZ0UxbVY1bWJwcFY3NzdaWDhkOUhjclQ1cUdR?oc=5",
-    "resumo": "Datafolha: 64% aprovam e 31% são contra reajuste no Bolsa Família anunciado por Lula antes da eleição  Folha de S.Paulo",
-    "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
-    "categoria": "eleicoes",
-    "categoria_label": "🗳️ Eleições & Campanhas",
-    "regiao": "Nacional",
-    "data_dia": "2026-10-01",
-    "hora": "Há 22h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 35,
-    "titulo": "Lula impulsiona publicações sobre bets e Nossa Senhora; Flávio foca em segurança e Bolsa Família",
-    "veiculo": "CBN",
-    "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQUk5KVDVsbnpVMENiZE1ZSFZaMXFvS1BjdG5QZ2tWLVRFRGdZc0R3MHhXTFhoNGF2LVpZdzdxb2EzNkE1Q2Mydks3YzRqbzNHRGhXYVFEbmJFTE9YMm1TcVNDeER6UXlSSVpZOEotZ1N4T2JhYTN2VHFoQ3BRajg5UXAyOXd0Q3BkMUZQWnBST2tYOEFLVUpUMTdIaUVvT0tUMFJsSWNsMUtDanBQMjZlOEs5anNlbHNNdnVNOW9NR0NWV1g2RUVmUnFwcmo0dS1iM2RwaFVsaGM3T3NfVklGTU1qUHFidHR1bzlRYm1vLS1DWVh4VUJZT0FlSdIBigJBVV95cUxQc2pFblg5UXdmajBDR2dQTl9QMlYzVnJ1MEl4RHE4NnpPY1NqSEVvakgtM3NyZFJCYWpsRFNoNkVqdV9wVEt0VGxPejlBazEtUFQxTDlmQ25WMUNyb2U1akNVTFdoVWJwTFZUaFpQWUZrTHpKMGFyWXFRMHQtZzUzdjl5UzNrNmhCR1VCMkRVNW8zbmJUc09VNURSR0tDc0ZFdFBtRW1JZ2pFUkFQTUdZVG1zVXdfZ0dCRW9Cbk1aTEZXRmRpNnhHb25rMlVHcm41bnh0MXN3dzM4aC1JcDFVY1lwenNxdU4zNkF0LUdoTDF0Sm5CQVFMU1FWVXh4c0VNbkpMYVpiUFJSZw?oc=5",
-    "resumo": "Lula impulsiona publicações sobre bets e Nossa Senhora; Flávio foca em segurança e Bolsa Família  CBN",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
-    "regiao": "Nacional",
-    "data_dia": "2026-10-02",
-    "hora": "Há 10h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 36,
+    "id": 32,
     "titulo": "Paulista amplia estrutura da Atenção Básica com equipamentos do Ministério da Saúde",
     "veiculo": "Paulista-PE",
     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVFhZdWwxSi0yZ0E5M2RiRGNJQVVHdG5oWVg3YjFuQTI1eEEtZHR6MG1hcnItM3BCSnhQSXRMaVhIY2pwR3RESUhnWjlTUTFvZDBlcHVZUjE3a0trVjRpRFlhalVNdzVjcXhQYU8xSFFIUEY4d25FZnFKQzVNMGdBazREbE1qRlJyUVJmeEJNdXI2NDRGRHJ0dG1xbWNOSkdUUjFXVm82VlZRQ2tkbWlueQ?oc=5",
@@ -540,7 +480,52 @@
     "urgente": false
   },
   {
-    "id": 37,
+    "id": 33,
+    "titulo": "Ministério da Saúde encerra visita técnica para a concessão do Selo Prata de eliminação da transmissão vertical do HIV a Caxias – Prefeitura Municipal de Caxias - Prefeitura de Caxias",
+    "veiculo": "MA",
+    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPMHlnODQ4M0dRTFJ4dFZZWGt3M0ZTT01CZ0FGeGFjM3BiQ1VVZGxOSWxKTTllYVM3cnUwNHhfT0ozUVpOblBGUWkyZlBnbzdUTlRrU2JFSHRrYmxtMm0zRWFrdDF5dmNub3R3YXJfVFFIX0pvN2EwVlo5X1U5aWktcDJqb0lRR2paeTkwUzNQWDcteTFRdUE3RjR6RkdjUXRZbnFiOUxOS2h6T3RSbC1WdzMxUERhTGgxY2lJak5iMVE5M1NaeTd1cFZCN2FodjJXTGdFdGtKWWdTS3hKLVU2alNtYURfclNSSzhXN0NaY1RuZl83dkJv?oc=5",
+    "resumo": "Ministério da Saúde encerra visita técnica para a concessão do Selo Prata de eliminação da transmissão vertical do HIV a Caxias – Prefeitura Municipal de Caxias  Prefeitu...",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-02",
+    "hora": "Há 22h",
+    "tempo_leitura": "2 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 34,
+    "titulo": "Lula impulsiona publicações sobre bets e Nossa Senhora; Flávio foca em segurança e Bolsa Família",
+    "veiculo": "CBN",
+    "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQUk5KVDVsbnpVMENiZE1ZSFZaMXFvS1BjdG5QZ2tWLVRFRGdZc0R3MHhXTFhoNGF2LVpZdzdxb2EzNkE1Q2Mydks3YzRqbzNHRGhXYVFEbmJFTE9YMm1TcVNDeER6UXlSSVpZOEotZ1N4T2JhYTN2VHFoQ3BRajg5UXAyOXd0Q3BkMUZQWnBST2tYOEFLVUpUMTdIaUVvT0tUMFJsSWNsMUtDanBQMjZlOEs5anNlbHNNdnVNOW9NR0NWV1g2RUVmUnFwcmo0dS1iM2RwaFVsaGM3T3NfVklGTU1qUHFidHR1bzlRYm1vLS1DWVh4VUJZT0FlSdIBigJBVV95cUxQc2pFblg5UXdmajBDR2dQTl9QMlYzVnJ1MEl4RHE4NnpPY1NqSEVvakgtM3NyZFJCYWpsRFNoNkVqdV9wVEt0VGxPejlBazEtUFQxTDlmQ25WMUNyb2U1akNVTFdoVWJwTFZUaFpQWUZrTHpKMGFyWXFRMHQtZzUzdjl5UzNrNmhCR1VCMkRVNW8zbmJUc09VNURSR0tDc0ZFdFBtRW1JZ2pFUkFQTUdZVG1zVXdfZ0dCRW9Cbk1aTEZXRmRpNnhHb25rMlVHcm41bnh0MXN3dzM4aC1JcDFVY1lwenNxdU4zNkF0LUdoTDF0Sm5CQVFMU1FWVXh4c0VNbkpMYVpiUFJSZw?oc=5",
+    "resumo": "Lula impulsiona publicações sobre bets e Nossa Senhora; Flávio foca em segurança e Bolsa Família  CBN",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-02",
+    "hora": "Há 12h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 35,
+    "titulo": "Datafolha: 64% aprovam e 31% são contra reajuste no Bolsa Família anunciado por Lula antes da eleição",
+    "veiculo": "Folha de S.Paulo",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdjM0ZEpIZXduRE1WZm93NmdZMWtyRFRyQUNoU04zNTlVZkNIcS1WWHVTVzNsdWpBOVZsTk5kSVhxa1hiOW5oYVpsbEg5ZjZkTXJ4QTBMeFFHMGtRRzBWSWtjelRKZ2YzR1NtRHZIcXJFc0NzUWgyU2pqeElxeDV5d3gzR2RSTGtMZ1BVMGNmaFpuUGJfUjlqZnNRNVhvTVRPYzdWNGNZV3MyMFlqRTB3TmllOGN1QkRXRVJoWFR6WVhTQ1k2elhOZ0UxbVY1bWJwcFY3NzdaWDhkOUhjclQ1cUdR?oc=5",
+    "resumo": "Datafolha: 64% aprovam e 31% são contra reajuste no Bolsa Família anunciado por Lula antes da eleição  Folha de S.Paulo",
+    "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
+    "categoria": "eleicoes",
+    "categoria_label": "🗳️ Eleições & Campanhas",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-01",
+    "hora": "01/10 21:07",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 36,
     "titulo": "Secretário do Ministério da Saúde visita novo CAPS Aluízio Campos, que deve ser inaugurado pela Prefeitura de Campina Grande este mês",
     "veiculo": "Prefeitura de Campina Grande",
     "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOT1Q3YlluaEd3cFprR3JsRjNUZ3JOMzJkd0g5anhpZDhRbTRrZzhDQzJ4cURydElVVlFqczBaZWtvVlVWVjlmMVhGQ3RpaDM3MUZVSmwtakdaWi1LTFg1Uk5MM3NLQkJVek1zRUtab3ZmMVlFZW5tMnlWRXg2RWVZNUNmdmVLbGRHbGN5N1doT2c0aWVrV2xSYnNtRUx2TnRpTXB4TW5WUWFmZmk2SEloMlJiS2FKRkxSZWVfWk9iUzQwU3FkUWlMM3hYOWxwTkE2S2lPdmZ1VFRtcXJmSEh5RDNQX1lpS3ZnbV9BRUVDQU4tTGtRRTdWYw?oc=5",
@@ -555,7 +540,7 @@
     "urgente": false
   },
   {
-    "id": 38,
+    "id": 37,
     "titulo": "Lula anuncia reajuste de 15% no Bolsa Família, às vésperas da eleição",
     "veiculo": "BBC",
     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE53UWJUWUFHUlJ5UkcwQURPX19DQ1dKeldIWVpjaXp0bktWdldwUWdkYTBQYXJBVTdXalo0bk1MVldEUU9nR0M5UWU5Uzd1Q1BDa3ppcnM2Z2JQVVVRa0dYcFRtWdIBaEFVX3lxTE9kM3lzcTkzVThQOXZrU3FScXJsbFctc2MtMXN1b05vSjM3bzZtcWxtSGgzdGt4OXVkTXZuU0tlM3VlX0s4QU14WXE5ZmItcVdDWUF6bXRhSnFCMnY2UkVpTUlXd1lOU3dt?oc=5",
@@ -567,6 +552,21 @@
     "data_dia": "2026-09-17",
     "hora": "17/09 04:00",
     "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 38,
+    "titulo": "Eleições 2026: plano de Saúde de Lula é analisado por Veriano Terto e ABIA, que cobram HIV/aids como política de Estado",
+    "veiculo": "Agência Aids",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPQ0tNX0RqeG82bHZwQUJoN3pvUWtmdGxLYVpneHR3WlJUUUl2VGJDeVcxVmZSWkxxc0JzdkJSbVZNdEd0cU8zX0VWRDhzMERiSEFzOEU2elZyNktfS3JZejNzNnBqNVZ6T2RnNnBHc1JTWlQ1Y3lzbkpTVkRqRmNyR1dndEZtU0RXcFkyTVFneUtjcGtyRkE4UGN6R2ZJaEZiRHBPRXRoX0ZGVE54M0pZdnlFVXVDX1JTcEZuaDY2cXlqODdtSHFLNU9kbmZZSzhsZTUxdUlmQ0l3azNiclpvZTFUZkhZRWR4YkE?oc=5",
+    "resumo": "Eleições 2026: plano de Saúde de Lula é analisado por Veriano Terto e ABIA, que cobram HIV/aids como política de Estado  Agência Aids",
+    "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
+    "categoria": "eleicoes",
+    "categoria_label": "🗳️ Eleições & Campanhas",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-02",
+    "hora": "Há 13h",
+    "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
@@ -586,18 +586,18 @@
   },
   {
     "id": 40,
-    "titulo": "Ministério da Saúde e Hemobrás anunciam ações de inovação para ampliar produção de medicamentos",
-    "veiculo": "Folha PE",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWXFzYnEyOHVKOVdsTnIwSDF0WmVKbjVmUU9KaXNFR0o2SGl0UG9vdGNyMzBMYVowYzFqbnlEVzJHNW9mZXN1eXZZcmlqVVFqVl9oZXpHay02eDhHWnBlWU56VGtFU0Z4RmhXeDRwMWtpTHRGdmNQZFQ3amlKU1ZZbVY3dmx1VEI3d1BQekhjcGVOSXM2WENoSlFibFRMRDFueWNZX2VIeWgzQUdONGN4cHB1dGXSAbgBQVVfeXFMTjV4VVhuQ3A0R2VKMFFKaUozV0VTVF9yMWNPUTNRT2VXb1J6dVczMUk4MXhtZ2hlSXRwRlVFcVlZUXhOdlloTU1EeWJfNm16NDgwYTdocFJsNHN1RjljUHVzNzBFMzdjYVVjYjY1bE12bW1WZGRmd2JWMmsxbmlHeW1RZWRzSlFnMUgxYnAzdDFycXM0bG9yTDFzSnJnd0F3aTRGaUNHa05wQUlwUE40ZnNVcFFSNXd2Ng?oc=5",
-    "resumo": "Ministério da Saúde e Hemobrás anunciam ações de inovação para ampliar produção de medicamentos  Folha PE",
+    "titulo": "Veículos do SUS serão destinados a 116 municípios paulistas — Ministério da Saúde",
+    "veiculo": "www.gov.br",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPenZncjM3ZEpYYkdGdnlaR09XWHRPWW1ReWpCbEduMEJsVVo2RlNBcVVIODZTSWFCYXJvSy1OSUVoTUVFSmhiSGZXUVhzMTlCaDdBal9uX3N0dlpYUzEwd2V0NFNDZHg1WUJwYTlDU1pfVzFuUm1FODFEREJ0bmJWLW4xaDlxZ1VNanVvbXR4YmRGUl9yT1RtdWpxSHQyczVKX0dpZ1g3ODdBc2k3ZUM1SC1lVzR3Slc0azkzWEtaWWNidw?oc=5",
+    "resumo": "Veículos do SUS serão destinados a 116 municípios paulistas — Ministério da Saúde  www.gov.br",
     "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
     "categoria": "social",
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
-    "data_dia": "2026-10-02",
-    "hora": "Há 18 min",
+    "data_dia": "2026-10-01",
+    "hora": "01/10 18:28",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 41,
@@ -610,7 +610,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-02",
-    "hora": "Há 3h",
+    "hora": "Há 6h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -625,7 +625,7 @@
     "categoria_label": "✊ Direitos & Mobilização",
     "regiao": "Nacional",
     "data_dia": "2026-10-02",
-    "hora": "Há 7h",
+    "hora": "Há 10h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   }
