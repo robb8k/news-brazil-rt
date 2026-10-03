@@ -10,9 +10,9 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-02",
-    "hora": "Há 1h",
+    "hora": "Há 6h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 2,
@@ -25,9 +25,9 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-02",
-    "hora": "Há 2h",
+    "hora": "Há 7h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 3,
@@ -40,7 +40,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-02",
-    "hora": "Há 3h",
+    "hora": "Há 8h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -55,7 +55,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-02",
-    "hora": "Há 3h",
+    "hora": "Há 8h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -70,7 +70,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-02",
-    "hora": "Há 3h",
+    "hora": "Há 8h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -85,7 +85,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Norte",
     "data_dia": "2026-10-02",
-    "hora": "Há 3h",
+    "hora": "Há 8h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -100,7 +100,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-02",
-    "hora": "Há 3h",
+    "hora": "Há 8h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -115,7 +115,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Sudeste",
     "data_dia": "2026-10-02",
-    "hora": "Há 3h",
+    "hora": "Há 8h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -130,7 +130,7 @@
     "categoria_label": "📈 Conquistas & Economia",
     "regiao": "Nacional",
     "data_dia": "2026-10-02",
-    "hora": "Há 4h",
+    "hora": "Há 10h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -145,7 +145,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-02",
-    "hora": "Há 4h",
+    "hora": "Há 9h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -160,7 +160,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-02",
-    "hora": "Há 4h",
+    "hora": "Há 9h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -175,7 +175,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-02",
-    "hora": "Há 5h",
+    "hora": "Há 10h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -190,7 +190,7 @@
     "categoria_label": "✊ Direitos & Mobilização",
     "regiao": "Nacional",
     "data_dia": "2026-10-02",
-    "hora": "Há 5h",
+    "hora": "Há 10h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -205,7 +205,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-02",
-    "hora": "Há 5h",
+    "hora": "Há 10h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -220,7 +220,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-02",
-    "hora": "Há 5h",
+    "hora": "Há 11h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -235,7 +235,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-02",
-    "hora": "Há 5h",
+    "hora": "Há 11h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -295,9 +295,9 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-02",
-    "hora": "Há 13 min",
+    "hora": "Há 5h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 21,
@@ -310,9 +310,9 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-02",
-    "hora": "Há 2h",
+    "hora": "Há 8h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 22,
@@ -325,7 +325,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-02",
-    "hora": "Há 3h",
+    "hora": "Há 8h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -340,7 +340,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Sudeste",
     "data_dia": "2026-10-02",
-    "hora": "Há 3h",
+    "hora": "Há 9h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -355,7 +355,7 @@
     "categoria_label": "📈 Conquistas & Economia",
     "regiao": "Nacional",
     "data_dia": "2026-10-02",
-    "hora": "Há 5h",
+    "hora": "Há 10h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -370,7 +370,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-02",
-    "hora": "Há 5h",
+    "hora": "Há 11h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -385,7 +385,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-02",
-    "hora": "Há 6h",
+    "hora": "Há 11h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -400,7 +400,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-02",
-    "hora": "Há 7h",
+    "hora": "Há 12h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -415,7 +415,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-02",
-    "hora": "Há 7h",
+    "hora": "Há 13h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -430,7 +430,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-02",
-    "hora": "Há 7h",
+    "hora": "Há 13h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -451,25 +451,10 @@
   },
   {
     "id": 31,
-    "titulo": "Campanha de Lula teme que Bolsonaro use saúde para ajudar Flávio",
-    "veiculo": "Metrópoles",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeUZIc0Y4a2xxNmJpaEgyc2dhZjZIaEIxZUl2dFp1U3cxNzZ0U081RXhkSVdBc3ZVcGhvZloyUUZra2JCS3BKSkhKeDh4VS1JYjFteE53Tm9oN0g4UElsLUkzVG92QVItaTRfaS1PeEVXSnBodm1UY0xtM3VNUkRpWWdEZmxiR29kaGN4S08yVU5Rakd6SE1UUEV6b3VpaGYxV3hkb2pZbEdEY0RyQjFodkNn?oc=5",
-    "resumo": "Campanha de Lula teme que Bolsonaro use saúde para ajudar Flávio  Metrópoles",
-    "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
-    "categoria": "eleicoes",
-    "categoria_label": "🗳️ Eleições & Campanhas",
-    "regiao": "Nacional",
-    "data_dia": "2026-10-02",
-    "hora": "Há 7h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 32,
     "titulo": "Paulista amplia estrutura da Atenção Básica com equipamentos do Ministério da Saúde",
-    "veiculo": "Paulista-PE",
+    "veiculo": "paulista.pe.gov.br",
     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVFhZdWwxSi0yZ0E5M2RiRGNJQVVHdG5oWVg3YjFuQTI1eEEtZHR6MG1hcnItM3BCSnhQSXRMaVhIY2pwR3RESUhnWjlTUTFvZDBlcHVZUjE3a0trVjRpRFlhalVNdzVjcXhQYU8xSFFIUEY4d25FZnFKQzVNMGdBazREbE1qRlJyUVJmeEJNdXI2NDRGRHJ0dG1xbWNOSkdUUjFXVm82VlZRQ2tkbWlueQ?oc=5",
-    "resumo": "Paulista amplia estrutura da Atenção Básica com equipamentos do Ministério da Saúde  Paulista-PE",
+    "resumo": "Paulista amplia estrutura da Atenção Básica com equipamentos do Ministério da Saúde  paulista.pe.gov.br",
     "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
     "categoria": "social",
     "categoria_label": "🏛️ Políticas Públicas",
@@ -480,29 +465,14 @@
     "urgente": false
   },
   {
-    "id": 33,
-    "titulo": "Ministério da Saúde encerra visita técnica para a concessão do Selo Prata de eliminação da transmissão vertical do HIV a Caxias – Prefeitura Municipal de Caxias - Prefeitura de Caxias",
-    "veiculo": "MA",
-    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPMHlnODQ4M0dRTFJ4dFZZWGt3M0ZTT01CZ0FGeGFjM3BiQ1VVZGxOSWxKTTllYVM3cnUwNHhfT0ozUVpOblBGUWkyZlBnbzdUTlRrU2JFSHRrYmxtMm0zRWFrdDF5dmNub3R3YXJfVFFIX0pvN2EwVlo5X1U5aWktcDJqb0lRR2paeTkwUzNQWDcteTFRdUE3RjR6RkdjUXRZbnFiOUxOS2h6T3RSbC1WdzMxUERhTGgxY2lJak5iMVE5M1NaeTd1cFZCN2FodjJXTGdFdGtKWWdTS3hKLVU2alNtYURfclNSSzhXN0NaY1RuZl83dkJv?oc=5",
-    "resumo": "Ministério da Saúde encerra visita técnica para a concessão do Selo Prata de eliminação da transmissão vertical do HIV a Caxias – Prefeitura Municipal de Caxias  Prefeitu...",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
-    "regiao": "Nacional",
-    "data_dia": "2026-10-02",
-    "hora": "Há 22h",
-    "tempo_leitura": "2 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 34,
-    "titulo": "Lula impulsiona publicações sobre bets e Nossa Senhora; Flávio foca em segurança e Bolsa Família",
-    "veiculo": "CBN",
-    "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQUk5KVDVsbnpVMENiZE1ZSFZaMXFvS1BjdG5QZ2tWLVRFRGdZc0R3MHhXTFhoNGF2LVpZdzdxb2EzNkE1Q2Mydks3YzRqbzNHRGhXYVFEbmJFTE9YMm1TcVNDeER6UXlSSVpZOEotZ1N4T2JhYTN2VHFoQ3BRajg5UXAyOXd0Q3BkMUZQWnBST2tYOEFLVUpUMTdIaUVvT0tUMFJsSWNsMUtDanBQMjZlOEs5anNlbHNNdnVNOW9NR0NWV1g2RUVmUnFwcmo0dS1iM2RwaFVsaGM3T3NfVklGTU1qUHFidHR1bzlRYm1vLS1DWVh4VUJZT0FlSdIBigJBVV95cUxQc2pFblg5UXdmajBDR2dQTl9QMlYzVnJ1MEl4RHE4NnpPY1NqSEVvakgtM3NyZFJCYWpsRFNoNkVqdV9wVEt0VGxPejlBazEtUFQxTDlmQ25WMUNyb2U1akNVTFdoVWJwTFZUaFpQWUZrTHpKMGFyWXFRMHQtZzUzdjl5UzNrNmhCR1VCMkRVNW8zbmJUc09VNURSR0tDc0ZFdFBtRW1JZ2pFUkFQTUdZVG1zVXdfZ0dCRW9Cbk1aTEZXRmRpNnhHb25rMlVHcm41bnh0MXN3dzM4aC1JcDFVY1lwenNxdU4zNkF0LUdoTDF0Sm5CQVFMU1FWVXh4c0VNbkpMYVpiUFJSZw?oc=5",
-    "resumo": "Lula impulsiona publicações sobre bets e Nossa Senhora; Flávio foca em segurança e Bolsa Família  CBN",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
+    "id": 32,
+    "titulo": "Campanha de Lula teme que Bolsonaro use saúde para ajudar Flávio",
+    "veiculo": "Metrópoles",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeUZIc0Y4a2xxNmJpaEgyc2dhZjZIaEIxZUl2dFp1U3cxNzZ0U081RXhkSVdBc3ZVcGhvZloyUUZra2JCS3BKSkhKeDh4VS1JYjFteE53Tm9oN0g4UElsLUkzVG92QVItaTRfaS1PeEVXSnBodm1UY0xtM3VNUkRpWWdEZmxiR29kaGN4S08yVU5Rakd6SE1UUEV6b3VpaGYxV3hkb2pZbEdEY0RyQjFodkNn?oc=5",
+    "resumo": "Campanha de Lula teme que Bolsonaro use saúde para ajudar Flávio  Metrópoles",
+    "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
+    "categoria": "eleicoes",
+    "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-02",
     "hora": "Há 12h",
@@ -510,22 +480,7 @@
     "urgente": false
   },
   {
-    "id": 35,
-    "titulo": "Datafolha: 64% aprovam e 31% são contra reajuste no Bolsa Família anunciado por Lula antes da eleição",
-    "veiculo": "Folha de S.Paulo",
-    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdjM0ZEpIZXduRE1WZm93NmdZMWtyRFRyQUNoU04zNTlVZkNIcS1WWHVTVzNsdWpBOVZsTk5kSVhxa1hiOW5oYVpsbEg5ZjZkTXJ4QTBMeFFHMGtRRzBWSWtjelRKZ2YzR1NtRHZIcXJFc0NzUWgyU2pqeElxeDV5d3gzR2RSTGtMZ1BVMGNmaFpuUGJfUjlqZnNRNVhvTVRPYzdWNGNZV3MyMFlqRTB3TmllOGN1QkRXRVJoWFR6WVhTQ1k2elhOZ0UxbVY1bWJwcFY3NzdaWDhkOUhjclQ1cUdR?oc=5",
-    "resumo": "Datafolha: 64% aprovam e 31% são contra reajuste no Bolsa Família anunciado por Lula antes da eleição  Folha de S.Paulo",
-    "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
-    "categoria": "eleicoes",
-    "categoria_label": "🗳️ Eleições & Campanhas",
-    "regiao": "Nacional",
-    "data_dia": "2026-10-01",
-    "hora": "01/10 21:07",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 36,
+    "id": 33,
     "titulo": "Secretário do Ministério da Saúde visita novo CAPS Aluízio Campos, que deve ser inaugurado pela Prefeitura de Campina Grande este mês",
     "veiculo": "Prefeitura de Campina Grande",
     "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOT1Q3YlluaEd3cFprR3JsRjNUZ3JOMzJkd0g5anhpZDhRbTRrZzhDQzJ4cURydElVVlFqczBaZWtvVlVWVjlmMVhGQ3RpaDM3MUZVSmwtakdaWi1LTFg1Uk5MM3NLQkJVek1zRUtab3ZmMVlFZW5tMnlWRXg2RWVZNUNmdmVLbGRHbGN5N1doT2c0aWVrV2xSYnNtRUx2TnRpTXB4TW5WUWFmZmk2SEloMlJiS2FKRkxSZWVfWk9iUzQwU3FkUWlMM3hYOWxwTkE2S2lPdmZ1VFRtcXJmSEh5RDNQX1lpS3ZnbV9BRUVDQU4tTGtRRTdWYw?oc=5",
@@ -540,7 +495,22 @@
     "urgente": false
   },
   {
-    "id": 37,
+    "id": 34,
+    "titulo": "Datafolha: 64% aprovam e 31% são contra reajuste no Bolsa Família anunciado por Lula antes da eleição",
+    "veiculo": "Folha de S.Paulo",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdjM0ZEpIZXduRE1WZm93NmdZMWtyRFRyQUNoU04zNTlVZkNIcS1WWHVTVzNsdWpBOVZsTk5kSVhxa1hiOW5oYVpsbEg5ZjZkTXJ4QTBMeFFHMGtRRzBWSWtjelRKZ2YzR1NtRHZIcXJFc0NzUWgyU2pqeElxeDV5d3gzR2RSTGtMZ1BVMGNmaFpuUGJfUjlqZnNRNVhvTVRPYzdWNGNZV3MyMFlqRTB3TmllOGN1QkRXRVJoWFR6WVhTQ1k2elhOZ0UxbVY1bWJwcFY3NzdaWDhkOUhjclQ1cUdR?oc=5",
+    "resumo": "Datafolha: 64% aprovam e 31% são contra reajuste no Bolsa Família anunciado por Lula antes da eleição  Folha de S.Paulo",
+    "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
+    "categoria": "eleicoes",
+    "categoria_label": "🗳️ Eleições & Campanhas",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-01",
+    "hora": "01/10 21:07",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 35,
     "titulo": "Lula anuncia reajuste de 15% no Bolsa Família, às vésperas da eleição",
     "veiculo": "BBC",
     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE53UWJUWUFHUlJ5UkcwQURPX19DQ1dKeldIWVpjaXp0bktWdldwUWdkYTBQYXJBVTdXalo0bk1MVldEUU9nR0M5UWU5Uzd1Q1BDa3ppcnM2Z2JQVVVRa0dYcFRtWdIBaEFVX3lxTE9kM3lzcTkzVThQOXZrU3FScXJsbFctc2MtMXN1b05vSjM3bzZtcWxtSGgzdGt4OXVkTXZuU0tlM3VlX0s4QU14WXE5ZmItcVdDWUF6bXRhSnFCMnY2UkVpTUlXd1lOU3dt?oc=5",
@@ -555,22 +525,7 @@
     "urgente": false
   },
   {
-    "id": 38,
-    "titulo": "Eleições 2026: plano de Saúde de Lula é analisado por Veriano Terto e ABIA, que cobram HIV/aids como política de Estado",
-    "veiculo": "Agência Aids",
-    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPQ0tNX0RqeG82bHZwQUJoN3pvUWtmdGxLYVpneHR3WlJUUUl2VGJDeVcxVmZSWkxxc0JzdkJSbVZNdEd0cU8zX0VWRDhzMERiSEFzOEU2elZyNktfS3JZejNzNnBqNVZ6T2RnNnBHc1JTWlQ1Y3lzbkpTVkRqRmNyR1dndEZtU0RXcFkyTVFneUtjcGtyRkE4UGN6R2ZJaEZiRHBPRXRoX0ZGVE54M0pZdnlFVXVDX1JTcEZuaDY2cXlqODdtSHFLNU9kbmZZSzhsZTUxdUlmQ0l3azNiclpvZTFUZkhZRWR4YkE?oc=5",
-    "resumo": "Eleições 2026: plano de Saúde de Lula é analisado por Veriano Terto e ABIA, que cobram HIV/aids como política de Estado  Agência Aids",
-    "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
-    "categoria": "eleicoes",
-    "categoria_label": "🗳️ Eleições & Campanhas",
-    "regiao": "Nacional",
-    "data_dia": "2026-10-02",
-    "hora": "Há 13h",
-    "tempo_leitura": "2 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 39,
+    "id": 36,
     "titulo": "Lula nega ao TSE que reajuste do Bolsa Família tenha caráter eleitoral",
     "veiculo": "CNN Brasil",
     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcWI3a2dxNk5rSThTcWdfZnpDRXRrVWhFYnYtajhRWVdLQy1LRmNhMVRGRW1vUG85NG5ubFQ5MUstRHItRzlwZnRJeDM4aFlGQ1dQaV9MdmlqME9XQTk5T3VONTJ5Z2EwWGNJR3VCZTVIazc4dE9wQ0JMMjAyY3VHQzZHNzAxRTZyNnZxNk1jZllLNWhvZ0JRMG1Hb2N2RnJxcHgzWFFiMHVBREJKR1E?oc=5",
@@ -585,7 +540,37 @@
     "urgente": false
   },
   {
-    "id": 40,
+    "id": 37,
+    "titulo": "Ministério da Saúde encerra visita técnica para a concessão do Selo Prata de eliminação da transmissão vertical do HIV a Caxias – Prefeitura Municipal de Caxias",
+    "veiculo": "caxias.ma.gov.br",
+    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPMHlnODQ4M0dRTFJ4dFZZWGt3M0ZTT01CZ0FGeGFjM3BiQ1VVZGxOSWxKTTllYVM3cnUwNHhfT0ozUVpOblBGUWkyZlBnbzdUTlRrU2JFSHRrYmxtMm0zRWFrdDF5dmNub3R3YXJfVFFIX0pvN2EwVlo5X1U5aWktcDJqb0lRR2paeTkwUzNQWDcteTFRdUE3RjR6RkdjUXRZbnFiOUxOS2h6T3RSbC1WdzMxUERhTGgxY2lJak5iMVE5M1NaeTd1cFZCN2FodjJXTGdFdGtKWWdTS3hKLVU2alNtYURfclNSSzhXN0NaY1RuZl83dkJv?oc=5",
+    "resumo": "Ministério da Saúde encerra visita técnica para a concessão do Selo Prata de eliminação da transmissão vertical do HIV a Caxias – Prefeitura Municipal de Caxias  caxias.m...",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-02",
+    "hora": "02/10 00:33",
+    "tempo_leitura": "2 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 38,
+    "titulo": "Defesa de Lula no TSE diz que reajuste do Bolsa Família não teve caráter eleitoral",
+    "veiculo": "O GLOBO",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSHFuT1FqNi1kUWhoRDdwUjA0eFdlSWhVek1xQ1lkaGN3MlhubExodkV3MVRJWndNTzR4Y2xULVBOYWFzdUNrQTBjNDFMMWRocWUtUDJuMzhlcy1keGZHSkM3djBOX2FaMXd2cDhEMVFxTjZEVG40LXh5bENyak5vZnN3WUg1TDRWV1g4alFJS3BGNkNSOFdLOUVIbzdGbGZxMVVUSXNKQU5KMEtxSDVhazVMTU8wcktXRmVvbE84ZVU1S1pYMkNINUxmNnBtVDZnYnFLOFdwTnVLOWFkUFHSAewBQVVfeXFMTW1TbEhiai1HQVNhZHpTOV9yVTBtR1ZmSnhiU2JBX2Q3V2lvbWtXNDRFaDJTTjNIb3RLY2Y3amNxOHgxUnlVWXFWMFhOMnB1OXRMaXU1Y093UDZhU29jc1hoRGV2dm8ta0VNdUI2NkFobzMtZVVFSGJKR19yNUxzamlJUmVNUHpVLVZ2eFljVWdQMlJKcGtVMjJveVZ1elEzREN2ZXFlSUg1bDZPbG9RcWZzNDExc29pZGF1UEdFT2puOVBmUHNGcGRobnpxYUtYeDFrUWZMVkxjS3NQR0QxSmZYRW9JRkxMZE1TbHE?oc=5",
+    "resumo": "Defesa de Lula no TSE diz que reajuste do Bolsa Família não teve caráter eleitoral  O GLOBO",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-01",
+    "hora": "01/10 10:03",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 39,
     "titulo": "Veículos do SUS serão destinados a 116 municípios paulistas — Ministério da Saúde",
     "veiculo": "www.gov.br",
     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPenZncjM3ZEpYYkdGdnlaR09XWHRPWW1ReWpCbEduMEJsVVo2RlNBcVVIODZTSWFCYXJvSy1OSUVoTUVFSmhiSGZXUVhzMTlCaDdBal9uX3N0dlpYUzEwd2V0NFNDZHg1WUJwYTlDU1pfVzFuUm1FODFEREJ0bmJWLW4xaDlxZ1VNanVvbXR4YmRGUl9yT1RtdWpxSHQyczVKX0dpZ1g3ODdBc2k3ZUM1SC1lVzR3Slc0azkzWEtaWWNidw?oc=5",
@@ -600,32 +585,47 @@
     "urgente": false
   },
   {
-    "id": 41,
-    "titulo": "Governo Municipal reforça apoio à Justiça Eleitoral e alerta contra derrame de material de campanha",
-    "veiculo": "Prefeitura Municipal de São Miguel do Iguaçu",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNN0gxWDY1MTIyZDhOSnY2bFo0ek5mY3g5YVFZQ3hEd0RmYVA4MlFOY05oVWlVU212ZjBlNmhPRGhSNXNJaGdsM1JwbnVYUklIdHJyejlsQlBoZFl0MUhiTWpWaVI5eml1OUJDdHk1UUZsYnlIeEhTbzBxaTh5YUhFZ09McFV0SjE3elhuaVNSSzlFbDliUHdCV05UVjFHejdqc3Rfb3NLMHdQY1J3TmI0MHR3M2NJMkVIRDN2MmIxWGJBNUs4ejVv?oc=5",
-    "resumo": "Governo Municipal reforça apoio à Justiça Eleitoral e alerta contra derrame de material de campanha  Prefeitura Municipal de São Miguel do Iguaçu",
+    "id": 40,
+    "titulo": "Campanha do Ministério da Saúde orienta sobre riscos das apostas online e atendimento disponível no SUS",
+    "veiculo": "www.gov.br",
+    "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQdl85Wk4xM1phdWFpTUdsUmFqc0YzNWxSQlJMRWZETk1sNHZrRE1WdUI1dE01djdrbkM5NHZ3anE0ekJGWko2anB6aktQNHlKMVVtUDdubWF4UTRQaTVnS2xINWplaThVTGdDaEYxS0pvcUxXRS1BLW1WNHozY2FXRHJueTNPNk9xU3J6a1RBa1UycG9iRlJsRHBndlZYelNvdlhPM21kRmZIQUF4Z1VaZzBYVzFjV1Z0V0pfY2xzVG50NWNSTWc3WXdxMVJ2a0ctX2VsSEpSYy1KUlJiR1hNdm9RaDlZRFRNRlptWkFMME82V3pRUDBSTk8yZmQ?oc=5",
+    "resumo": "Campanha do Ministério da Saúde orienta sobre riscos das apostas online e atendimento disponível no SUS  www.gov.br",
     "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
     "categoria": "eleicoes",
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
-    "data_dia": "2026-10-02",
-    "hora": "Há 6h",
+    "data_dia": "2026-10-01",
+    "hora": "01/10 17:57",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
+    "id": 41,
+    "titulo": "Campanha ao governo do RJ foi marcada por segurança, economia e serviços públicos; veja propostas",
+    "veiculo": "G1",
+    "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQNzBiT1dsU0Voa0V3M2FNcWpRWk5SWUJtN05pclBWalh0LUxKblVkZzJyajR0TjBCSVBMalVMM3MyS05BX1FWcVRDd3oxM2JrWUpZVi1EaG8yazh6WEhxSlNkSXZJcDRFZHI4TWhydU1CMDltdlV2dzFmVDUzaHRqME40UHFnTVVYRkEzR0ZkMW9ZUUNEZjVZOGpMZU1yWE1rQnhJZFBXa25ka1BqNkxZU2phdEc1dW1zcEFaYjNXV3c1Q3c0X3JwLVBoTFp0YWZSTTAtUC14ZzlOcUw0T1FfMkp0b2Z2WFNCUzJINzl2ZmlTTVB4ZGg1SmhnUDBCWHZqQmhJ0gGSAkFVX3lxTE1ZZllKd1BXSEMtYWxNTjE0blFQbXpzOTM4a1lwZXR3VXFjRllDbEtJM0lnM2FSQm15QndZNVkzYUxWOGtiVkdtOUQwOUxCekFaSWw4Q1R2dHJMaDJEMHVmNFdOTEQ1aS1YTGdkSEFSTEhuZTM2a3prWnRFWURITklsWDMzZXY0VFhtSUdUSm41N2ZBUklYTHpCbThCS3N3ZDhpblVSMldRMkFBaXhocjhoeEkta19HNHNPWGx1eHp3M2tSb19mTlVIeENuUDNEUUdPb1c4UXFpbTIwbFI4YjlJaFBaN0cxQlhYM2EyZG5yQ1lwY2VCMTVMU0NDaUhucGdhdnVJaFFvLXJueGFnWDJIZ2c?oc=5",
+    "resumo": "Campanha ao governo do RJ foi marcada por segurança, economia e serviços públicos; veja propostas  G1",
+    "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
+    "categoria": "eleicoes",
+    "categoria_label": "🗳️ Eleições & Campanhas",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-03",
+    "hora": "Há 2h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": true
+  },
+  {
     "id": 42,
-    "titulo": "Entre o papel e o endereço: o que está em jogo para LGBTQIA+ e periferias neste domingo",
+    "titulo": "MST realiza a Festa da Democracia em SP neste domingo (4)",
     "veiculo": "mst.org.br",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPM1RKZDhRNzFweVVIcHNrNENncXpjNF9oNE5Bcmc0TDc2WVhFUVhCeW9lSERtQmU2eFBBSDlJOU9ydDI3MjktM3lHTWJUYS1VVVd2U2E4MUFSQTJaeWFHTTd3Nm13ZGJEWnFId0NmRkxpLVRtQkxGbmdLaVNCZkJYNTRkdFA1djJxeDRycU5VRGdWWkgwUXpOYTdaMFlMMjR6a0MyX1NQb19SVU81eDVsTlZQcTdVREE?oc=5",
-    "resumo": "Entre o papel e o endereço: o que está em jogo para LGBTQIA+ e periferias neste domingo  mst.org.br",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZGxVZU9LR1BOZkF4bFpsVm9VOGY4TUc1VjJPQXY2T3hkYU1uUDhjZGJicmx1MFp6LWxzOUx1MGpaYUFXTzBCX1o1Z1BDWlIzZF9MajFqNzZVdmF2TGxZcDY5Y0ZZeEE3a2dDMmRab1k5bzc3MkpCQjd6M01vVG4tNzI4TVZzb1Fybkc4Z1ZPQQ?oc=5",
+    "resumo": "MST realiza a Festa da Democracia em SP neste domingo (4)  mst.org.br",
     "imagem": "https://images.unsplash.com/photo-1531206715517-5c0ba140b2b8?w=800&q=80",
     "categoria": "direitos",
     "categoria_label": "✊ Direitos & Mobilização",
     "regiao": "Nacional",
     "data_dia": "2026-10-02",
-    "hora": "Há 10h",
+    "hora": "Há 11h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   }
