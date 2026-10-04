@@ -1,6 +1,21 @@
 [
   {
     "id": 1,
+    "titulo": "Presidente do TSE diz que voto é direito fundamental dos brasileiros",
+    "veiculo": "Agência Brasil",
+    "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/presidente-do-tse-diz-que-voto-e-direito-fundamental-dos-brasileiros",
+    "resumo": "O presidente do Tribunal Superior Eleitoral (TSE), ministro Kassio Nunes Marques, destacou a importância do voto como direito dos brasileiros.\n\n\n\"O voto é direito fundame...",
+    "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
+    "categoria": "eleicoes",
+    "categoria_label": "🗳️ Eleições & Campanhas",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-03",
+    "hora": "Há 7h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 2,
     "titulo": "São Paulo segura Corinthians e é campeão brasileiro pela 1ª vez",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-10/sao-paulo-segura-corinthians-e-e-campeao-brasileiro-pela-1a-vez",
@@ -10,12 +25,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Sudeste",
     "data_dia": "2026-10-03",
-    "hora": "Há 2h",
+    "hora": "Há 8h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 2,
+    "id": 3,
     "titulo": "Santa Cruz empata com Maringá e voltará à Série B após 10 anos",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-10/santa-cruz-empata-com-maringa-e-voltara-serie-b-apos-10-anos",
@@ -25,12 +40,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nordeste",
     "data_dia": "2026-10-03",
-    "hora": "Há 2h",
+    "hora": "Há 8h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 3,
+    "id": 4,
     "titulo": "Veja como foi o último dia de campanha dos candidatos a presidente",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/veja-como-foi-ultimo-dia-de-campanha-dos-candidatos-presidente",
@@ -40,12 +55,12 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-03",
-    "hora": "Há 3h",
+    "hora": "Há 8h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
-    "id": 4,
+    "id": 5,
     "titulo": "Saiba quais situações permitem acompanhante na cabine de votação",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/saiba-quais-situacoes-permitem-acompanhante-na-cabine-de-votacao",
@@ -55,12 +70,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-03",
-    "hora": "Há 3h",
+    "hora": "Há 9h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 5,
+    "id": 6,
     "titulo": "Rádio MEC estreia série Eu Gosto de Música, apresentada por Ruy Castro",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-10/radio-mec-estreia-serie-eu-gosto-de-musica-apresentada-por-ruy-castro",
@@ -70,12 +85,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-03",
-    "hora": "Há 4h",
+    "hora": "Há 10h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
-    "id": 6,
+    "id": 7,
     "titulo": "Tribunais distribuem urnas e preparam seções para eleição",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/tribunais-distribuem-urnas-e-preparam-se%C3%A7oes-para-eleicao",
@@ -85,12 +100,12 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-03",
-    "hora": "Há 5h",
+    "hora": "Há 11h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 7,
+    "id": 8,
     "titulo": "Eleições 2026: boca de urna é crime; saiba o que é proibido",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/eleicoes-2026-boca-de-urna-e-crime-saiba-o-que-e-proibido",
@@ -100,12 +115,12 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-03",
-    "hora": "Há 8h",
+    "hora": "Há 14h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
-    "id": 8,
+    "id": 9,
     "titulo": "Monitoramento aponta 13 mil ataques a contas de candidaturas LGBT+",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-10/monitoramento-aponta-13-mil-ataques-contas-de-candidaturas-lgbt",
@@ -115,22 +130,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-03",
-    "hora": "Há 8h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 9,
-    "titulo": "TSE faz teste final de sistemas e emite zerézima",
-    "veiculo": "Agência Brasil",
-    "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/tse-faz-teste-final-de-sistemas-e-emite-zer%C3%A9zima",
-    "resumo": "O Tribunal Superior Eleitoral (TSE) fez neste sábado (3), véspera do primeiro turno das Eleições 2026, um teste que confirmou a integridade e autenticidade dos sistemas e...",
-    "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
-    "categoria": "eleicoes",
-    "categoria_label": "🗳️ Eleições & Campanhas",
-    "regiao": "Nacional",
-    "data_dia": "2026-10-03",
-    "hora": "Há 9h",
+    "hora": "Há 14h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -295,9 +295,9 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-03",
-    "hora": "Há 2h",
+    "hora": "Há 7h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 21,
@@ -310,7 +310,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-03",
-    "hora": "Há 3h",
+    "hora": "Há 9h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -325,7 +325,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-03",
-    "hora": "Há 5h",
+    "hora": "Há 11h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -340,7 +340,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-03",
-    "hora": "Há 5h",
+    "hora": "Há 11h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -355,7 +355,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nordeste",
     "data_dia": "2026-10-03",
-    "hora": "Há 5h",
+    "hora": "Há 11h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -370,7 +370,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-03",
-    "hora": "Há 6h",
+    "hora": "Há 12h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -385,7 +385,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-03",
-    "hora": "Há 9h",
+    "hora": "Há 14h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -400,7 +400,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-03",
-    "hora": "Há 10h",
+    "hora": "Há 16h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -415,7 +415,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-03",
-    "hora": "Há 11h",
+    "hora": "Há 17h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -430,16 +430,16 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-03",
-    "hora": "Há 12h",
+    "hora": "Há 18h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
     "id": 30,
     "titulo": "Ministério da Saúde vistoria obras de novas unidades de saúde construídas com recursos do Novo PAC para expansão da infraestrutura do SUS no Ceará",
-    "veiculo": "www.gov.br",
+    "veiculo": "gov.br",
     "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNTFBBdDlENUQtWmt4cGZ5Z3MycVpXU2lxdlZNZ0pHZkFYUl9WaXVLLVNrb1RaZTNzM3NqWGlCVkU1NmtBMF8zWHhKTTVNZ3VFZXdTdThqeExYX3lsVndBUkh5dFFveVZfZ3lxSGJRR2VMaHVlbDhWVWt6cVNLeEZKUlFYN1RTR0IyUVZrTEZGbklXcFZkVndtaTRkWGQwZzFPNnFTaFpTc2hZWU54OHRvRElqbm01Wmw4V3hoeFhtb0hFaC0zOEhVUGcxNEV1WkhZdG1RSmNBd3FXNWpCWDZZdVc1YU4zc1dSdFRPZzZ2d3pLczR1bHg4MkJzZHhKbDNZRXVLb1RJMWhrZmNKdjRPd1hfcFd4b2RhVjc2blRVMHpSZlRybUVjbzFtVElYaXpLT1FRa2hvNA?oc=5",
-    "resumo": "Ministério da Saúde vistoria obras de novas unidades de saúde construídas com recursos do Novo PAC para expansão da infraestrutura do SUS no Ceará  www.gov.br",
+    "resumo": "Ministério da Saúde vistoria obras de novas unidades de saúde construídas com recursos do Novo PAC para expansão da infraestrutura do SUS no Ceará  gov.br",
     "imagem": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
     "categoria": "economia",
     "categoria_label": "📈 Conquistas & Economia",
@@ -451,16 +451,16 @@
   },
   {
     "id": 31,
-    "titulo": "Lula supera Bolsonaro em investimentos, com ajuda de contratos anteriores",
-    "veiculo": "UOL Economia",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNb3dhNE5PMWZCeUJva29nWFQtZk5pV0tLS2gzM25pbmRjTFNldDg2NkFXbnNkQXlwcTZMZFpQdU5GZDRnbEFHZnNERHhuNVM2bW96ZVF1T0dTdTBLNG5XVlZLMWpjcWpyOU02d1E3N1hCcUZqcE95c1VIQXdEcVJ3X2pYbkprb1MzWTd4dEtPNDM2WnMwSHlRVnVvRkdDRmJPX3QwUkJpRi1XVGZnaC1hRGpCOA?oc=5",
-    "resumo": "Lula supera Bolsonaro em investimentos, com ajuda de contratos anteriores  UOL Economia",
-    "imagem": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
-    "categoria": "economia",
-    "categoria_label": "📈 Conquistas & Economia",
+    "titulo": "Comissão aprova projeto que mantém diretrizes do Ministério da Saúde para mamografias no SUS",
+    "veiculo": "Portal da Câmara dos Deputados",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVHN3UTQ0ZnBlM1NwemF4WUxIT2pjYk5nVS1VY05QSnNYb0tKS1dOQ2VaOG0wU1RLQ1ZYNHQ2UG85X2NCTE5ieUxkYUhWX05DLTh3RWZ4MnlTRG1ocU9zQVZBVzJZWTVYaklOXzhRYXZRTE5BZktRbndiYTV4VWtxbWVieWIwTVd1QUg3UjVIWkJvejdsaGxMajBYU2d4RkR2V2prbEp5RWstZTdZQ3N4N0NvV3ctTzVPc29VQWw5SWVNSkt3aHpLdDZMVV9YZ1Fo?oc=5",
+    "resumo": "Comissão aprova projeto que mantém diretrizes do Ministério da Saúde para mamografias no SUS  Portal da Câmara dos Deputados",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-10-03",
-    "hora": "Há 13h",
+    "hora": "Há 10h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -475,12 +475,27 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-10-03",
-    "hora": "Há 16h",
+    "hora": "Há 22h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
     "id": 33,
+    "titulo": "Lula supera Bolsonaro em investimentos, com ajuda de contratos anteriores",
+    "veiculo": "UOL Economia",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNb3dhNE5PMWZCeUJva29nWFQtZk5pV0tLS2gzM25pbmRjTFNldDg2NkFXbnNkQXlwcTZMZFpQdU5GZDRnbEFHZnNERHhuNVM2bW96ZVF1T0dTdTBLNG5XVlZLMWpjcWpyOU02d1E3N1hCcUZqcE95c1VIQXdEcVJ3X2pYbkprb1MzWTd4dEtPNDM2WnMwSHlRVnVvRkdDRmJPX3QwUkJpRi1XVGZnaC1hRGpCOA?oc=5",
+    "resumo": "Lula supera Bolsonaro em investimentos, com ajuda de contratos anteriores  UOL Economia",
+    "imagem": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
+    "categoria": "economia",
+    "categoria_label": "📈 Conquistas & Economia",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-03",
+    "hora": "Há 22h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 34,
     "titulo": "Impostos, crédito e emprego: o que Lula, Flávio Bolsonaro e Zema propõem para a economia?",
     "veiculo": "suno.com.br",
     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdjBZZjRnNlp0dGxCQlY5TmNUS0tObXZqUWtXQnU4empkb3haRlF2eG51XzdMdjA3MWpwQXhlVTF1RHpHSTBGQndhcVJMZ1MtZk1QMmw1Qk9UaTJNS29acGJNZkxqOFNJQ0g5NHlNV3ZDNG1UUU9Idk9tOHJJRV83bW83Nm0tM0NzaGM4MdIB-wFBVV95cUxPRkthTjdhTU9DWGQ2Q0dBSEFBa2J1UldwVUpmNDdqSThHVHpJakFLUEg0M0ZWWVdkYTZEQ2todlNzeTNDVExZX2JyWkoyU3Z6S1BUdzEtOXFoajR5Uno2WEI1aEJNR3ROU3ZDQUVQWTBPZDlXNWZrWFIyRVpOOHoySzNNVkpoZUw4ZFFrQllIVDZJdzFya2dNMzE0MEYwSlFnSklVTS1kaEZudTd2ZkVnV1JuWnhOdG1INUdhNDFFQ2oxVEVwS1NXRlUzVXBCb1RCaGdrQU84VUdBbnVIamd4Wk5mWVlRTWdqaGMtelpzaUtNeWQtODBjWGtjQQ?oc=5",
@@ -490,12 +505,12 @@
     "categoria_label": "📈 Conquistas & Economia",
     "regiao": "Nacional",
     "data_dia": "2026-10-03",
-    "hora": "Há 12h",
+    "hora": "Há 18h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 34,
+    "id": 35,
     "titulo": "O futuro do SUS e o voto em Lula",
     "veiculo": "Brasil de Fato",
     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTUd2a0JDanBOcHV0bVNweTdOTkxTTm56bjlhVFRRa1VPanctcVU1UnB2U1FtRzh5NzJrS1liUkV6X0JHdU9ieFV1N0FqamJmOFdWazRrRzhZclc0UmNlWTBPNVhoSDI5cTB3Wnp2N1B3SG9tUFRaU3NsdVFsbnFyRzNVWko2VTdSYTE1LTV4U1E5bXAyWFFMdkhLdFRRTnFaNlRXMDR0Rm9TZTNJZHc?oc=5",
@@ -510,37 +525,7 @@
     "urgente": false
   },
   {
-    "id": 35,
-    "titulo": "Paulista amplia estrutura da Atenção Básica com equipamentos do Ministério da Saúde",
-    "veiculo": "Paulista-PE",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVFhZdWwxSi0yZ0E5M2RiRGNJQVVHdG5oWVg3YjFuQTI1eEEtZHR6MG1hcnItM3BCSnhQSXRMaVhIY2pwR3RESUhnWjlTUTFvZDBlcHVZUjE3a0trVjRpRFlhalVNdzVjcXhQYU8xSFFIUEY4d25FZnFKQzVNMGdBazREbE1qRlJyUVJmeEJNdXI2NDRGRHJ0dG1xbWNOSkdUUjFXVm82VlZRQ2tkbWlueQ?oc=5",
-    "resumo": "Paulista amplia estrutura da Atenção Básica com equipamentos do Ministério da Saúde  Paulista-PE",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
-    "regiao": "Nacional",
-    "data_dia": "2026-09-29",
-    "hora": "29/09 14:34",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
     "id": 36,
-    "titulo": "Secretário do Ministério da Saúde visita novo CAPS Aluízio Campos, que deve ser inaugurado pela Prefeitura de Campina Grande este mês",
-    "veiculo": "Prefeitura de Campina Grande",
-    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOT1Q3YlluaEd3cFprR3JsRjNUZ3JOMzJkd0g5anhpZDhRbTRrZzhDQzJ4cURydElVVlFqczBaZWtvVlVWVjlmMVhGQ3RpaDM3MUZVSmwtakdaWi1LTFg1Uk5MM3NLQkJVek1zRUtab3ZmMVlFZW5tMnlWRXg2RWVZNUNmdmVLbGRHbGN5N1doT2c0aWVrV2xSYnNtRUx2TnRpTXB4TW5WUWFmZmk2SEloMlJiS2FKRkxSZWVfWk9iUzQwU3FkUWlMM3hYOWxwTkE2S2lPdmZ1VFRtcXJmSEh5RDNQX1lpS3ZnbV9BRUVDQU4tTGtRRTdWYw?oc=5",
-    "resumo": "Secretário do Ministério da Saúde visita novo CAPS Aluízio Campos, que deve ser inaugurado pela Prefeitura de Campina Grande este mês  Prefeitura de Campina Grande",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
-    "regiao": "Nacional",
-    "data_dia": "2026-10-01",
-    "hora": "01/10 17:57",
-    "tempo_leitura": "2 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 37,
     "titulo": "Lula anuncia reajuste de 15% no Bolsa Família, às vésperas da eleição",
     "veiculo": "BBC",
     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE53UWJUWUFHUlJ5UkcwQURPX19DQ1dKeldIWVpjaXp0bktWdldwUWdkYTBQYXJBVTdXalo0bk1MVldEUU9nR0M5UWU5Uzd1Q1BDa3ppcnM2Z2JQVVVRa0dYcFRtWdIBaEFVX3lxTE9kM3lzcTkzVThQOXZrU3FScXJsbFctc2MtMXN1b05vSjM3bzZtcWxtSGgzdGt4OXVkTXZuU0tlM3VlX0s4QU14WXE5ZmItcVdDWUF6bXRhSnFCMnY2UkVpTUlXd1lOU3dt?oc=5",
@@ -555,11 +540,41 @@
     "urgente": false
   },
   {
+    "id": 37,
+    "titulo": "Paulista amplia estrutura da Atenção Básica com equipamentos do Ministério da Saúde",
+    "veiculo": "Paulista-PE",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVFhZdWwxSi0yZ0E5M2RiRGNJQVVHdG5oWVg3YjFuQTI1eEEtZHR6MG1hcnItM3BCSnhQSXRMaVhIY2pwR3RESUhnWjlTUTFvZDBlcHVZUjE3a0trVjRpRFlhalVNdzVjcXhQYU8xSFFIUEY4d25FZnFKQzVNMGdBazREbE1qRlJyUVJmeEJNdXI2NDRGRHJ0dG1xbWNOSkdUUjFXVm82VlZRQ2tkbWlueQ?oc=5",
+    "resumo": "Paulista amplia estrutura da Atenção Básica com equipamentos do Ministério da Saúde  Paulista-PE",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
+    "regiao": "Nacional",
+    "data_dia": "2026-09-29",
+    "hora": "29/09 14:34",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
     "id": 38,
-    "titulo": "Carreta da Saúde do Governo Federal chega a Conde para realizar tomografias e reduzir fila de espera do SUS",
-    "veiculo": "conde.pb.gov.br",
+    "titulo": "Secretário do Ministério da Saúde visita novo CAPS Aluízio Campos, que deve ser inaugurado pela Prefeitura de Campina Grande este mês",
+    "veiculo": "Prefeitura de Campina Grande",
+    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOT1Q3YlluaEd3cFprR3JsRjNUZ3JOMzJkd0g5anhpZDhRbTRrZzhDQzJ4cURydElVVlFqczBaZWtvVlVWVjlmMVhGQ3RpaDM3MUZVSmwtakdaWi1LTFg1Uk5MM3NLQkJVek1zRUtab3ZmMVlFZW5tMnlWRXg2RWVZNUNmdmVLbGRHbGN5N1doT2c0aWVrV2xSYnNtRUx2TnRpTXB4TW5WUWFmZmk2SEloMlJiS2FKRkxSZWVfWk9iUzQwU3FkUWlMM3hYOWxwTkE2S2lPdmZ1VFRtcXJmSEh5RDNQX1lpS3ZnbV9BRUVDQU4tTGtRRTdWYw?oc=5",
+    "resumo": "Secretário do Ministério da Saúde visita novo CAPS Aluízio Campos, que deve ser inaugurado pela Prefeitura de Campina Grande este mês  Prefeitura de Campina Grande",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-01",
+    "hora": "01/10 17:57",
+    "tempo_leitura": "2 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 39,
+    "titulo": "Carreta da Saúde do Governo Federal chega a Conde para realizar tomografias e reduzir fila de espera do SUS - Prefeitura de Conde",
+    "veiculo": "PB",
     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQd042TmMwQTNTRnJ0aWxkR0d5LW5BTS11T1NkNlhheEpfbjJYX0ppeVRZM3g0SEVsbU0xcmVYMFZQZElDT3dSQVhmUG1hZlh4a2JoT2YzeG1qb3BRZEtJUTBqODY0UkJzN3ZyV19RWWNMSnBhcld0ZjdtY3NJelVONWVDczhXNnNhcVhlSXlaaXUtYlVLYmxKMS1ZY2JoY2lDSFJxUXJ2NXMwcGkzRlFfbTZoTjVMX1N3aWtWcTQ5YTdEU2dKRUxuQVhpcnc?oc=5",
-    "resumo": "Carreta da Saúde do Governo Federal chega a Conde para realizar tomografias e reduzir fila de espera do SUS  conde.pb.gov.br",
+    "resumo": "Carreta da Saúde do Governo Federal chega a Conde para realizar tomografias e reduzir fila de espera do SUS  Prefeitura de Conde - PB",
     "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
     "categoria": "social",
     "categoria_label": "🏛️ Políticas Públicas",
@@ -570,26 +585,11 @@
     "urgente": false
   },
   {
-    "id": 39,
-    "titulo": "É falso que Xuxa criticou Lula por declaração sobre saúde das mulheres",
-    "veiculo": "Agência Lupa",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNenNDaVpBdktrb2Z0X1BJYnNZSnpSaE4xcWRrYkVPM3M5UkhiZld2QVdNaE5ud2NpakFCb2lLZFhTeE50cmk3UkZrZXNlbHY0bnprSkpnWUd1SHZyNEgtc3dQMEpuYVF5TjZMRFdPRmI2ZFhadUhjLUNlTUtjd3hXRExRV1oxOEJFbWYzNU0zaWp5dFU0Si1aQXNxRXFkbVMyV3RkU0N5bzB4WVZIZkhPallqbG5BMlhSR25pazV6WQ?oc=5",
-    "resumo": "É falso que Xuxa criticou Lula por declaração sobre saúde das mulheres  Agência Lupa",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
-    "regiao": "Nacional",
-    "data_dia": "2026-10-03",
-    "hora": "Há 7h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
     "id": 40,
     "titulo": "Campanha do Ministério da Saúde orienta sobre riscos das apostas online e atendimento disponível no SUS",
-    "veiculo": "www.gov.br",
+    "veiculo": "gov.br",
     "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQdl85Wk4xM1phdWFpTUdsUmFqc0YzNWxSQlJMRWZETk1sNHZrRE1WdUI1dE01djdrbkM5NHZ3anE0ekJGWko2anB6aktQNHlKMVVtUDdubWF4UTRQaTVnS2xINWplaThVTGdDaEYxS0pvcUxXRS1BLW1WNHozY2FXRHJueTNPNk9xU3J6a1RBa1UycG9iRlJsRHBndlZYelNvdlhPM21kRmZIQUF4Z1VaZzBYVzFjV1Z0V0pfY2xzVG50NWNSTWc3WXdxMVJ2a0ctX2VsSEpSYy1KUlJiR1hNdm9RaDlZRFRNRlptWkFMME82V3pRUDBSTk8yZmQ?oc=5",
-    "resumo": "Campanha do Ministério da Saúde orienta sobre riscos das apostas online e atendimento disponível no SUS  www.gov.br",
+    "resumo": "Campanha do Ministério da Saúde orienta sobre riscos das apostas online e atendimento disponível no SUS  gov.br",
     "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
     "categoria": "eleicoes",
     "categoria_label": "🗳️ Eleições & Campanhas",
@@ -602,15 +602,15 @@
   {
     "id": 41,
     "titulo": "Falta 1 dia: 136 municípios de 12 estados terão apoio de forças federais no 1º turno das Eleições 2026",
-    "veiculo": "Tribunal Superior Eleitoral",
+    "veiculo": "tse.jus.br",
     "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOYWxyTFNDQ1g1SkJxU1dCSGpRV3VRYy1zQTRJY28weXlDMGgtNDNaVDBQY1d1NFBPcE5oMjd5VFJYRWVySUt3QWVZeDl2ajlGU2xCbEdJeVI0VmZveXBMMmNfN0ZGOVFIYjVuWXJiVjc1dlVzV2ZHcG9fVFI3UkQzMm1uaXkza0U4UmhIeVdSZE5FdVlROGVsSDY3VUUxRUd1Z1RpeEk3RVZ3aHpiem1CbHl2YmJFb1RSN2dMVXRFSG4xY1puMDlLOEVGeUtMUU9LZWl3a0RId2Vjdlo1RXRYR3VEcGNvejJMMVpibm1TQQ?oc=5",
-    "resumo": "Falta 1 dia: 136 municípios de 12 estados terão apoio de forças federais no 1º turno das Eleições 2026  Tribunal Superior Eleitoral",
+    "resumo": "Falta 1 dia: 136 municípios de 12 estados terão apoio de forças federais no 1º turno das Eleições 2026  tse.jus.br",
     "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
     "categoria": "eleicoes",
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-03",
-    "hora": "Há 6h",
+    "hora": "Há 12h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -625,8 +625,8 @@
     "categoria_label": "✊ Direitos & Mobilização",
     "regiao": "Nacional",
     "data_dia": "2026-10-03",
-    "hora": "Há 1h",
+    "hora": "Há 7h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   }
 ]
