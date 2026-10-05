@@ -1,6 +1,51 @@
 [
   {
     "id": 1,
+    "titulo": "Quando será o segundo turno das eleições? Veja a data",
+    "veiculo": "Agência Brasil",
+    "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/quando-sera-o-segundo-turno-das-eleicoes-veja-data",
+    "resumo": "Os candidatos Flávio Bolsonaro (PL) e Luiz Inácio Lula da Silva (PT) irão disputar o segundo turno da eleição para presidente da República. Com isso, os eleitores voltam ...",
+    "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
+    "categoria": "eleicoes",
+    "categoria_label": "🗳️ Eleições & Campanhas",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-04",
+    "hora": "Há 6h",
+    "tempo_leitura": "2 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 2,
+    "titulo": "TSE vai trabalhar para diminuir a abstenção no segundo turno",
+    "veiculo": "Agência Brasil",
+    "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/tse-vai-trabalhar-para-diminuir-abstencao-no-segundo-turno",
+    "resumo": "O presidente do Tribunal Superior Eleitoral (TSE), Kassio Nunes Marques, afirmou neste domingo (4) que pretende trabalhar para diminuir a abstenção de eleitores no segund...",
+    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
+    "categoria": "geral",
+    "categoria_label": "📢 Notícias do Povo",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-04",
+    "hora": "Há 6h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 3,
+    "titulo": "Kassio diz que não há alerta de interferência nas eleições brasileiras",
+    "veiculo": "Agência Brasil",
+    "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/kassio-diz-que-nao-ha-alerta-de-interferencia-nas-eleicoes-brasileiras",
+    "resumo": "O presidente do Tribunal Superior Eleitoral (TSE), Kassio Nunes Marques, afirmou neste domingo (4) que não foi constatada nenhuma intercorrência no primeiro turno das ele...",
+    "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
+    "categoria": "eleicoes",
+    "categoria_label": "🗳️ Eleições & Campanhas",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-04",
+    "hora": "Há 6h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 4,
     "titulo": "Reeleito em SP, Tarcísio promete mais entregas para o próximo mandato",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/reeleito-em-sp-tarcisio-promete-mais-entregas-para-o-proximo-mandato",
@@ -10,12 +55,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-04",
-    "hora": "Há 38 min",
+    "hora": "Há 7h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 2,
+    "id": 5,
     "titulo": "Veja os 20 estados onde o governador foi eleito no 1º turno",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/veja-os-20-estados-onde-o-governador-foi-eleito-no-1o-turno",
@@ -25,12 +70,12 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-04",
-    "hora": "Há 41 min",
+    "hora": "Há 7h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 3,
+    "id": 6,
     "titulo": "Congestionamento no sistema de dados gerou atraso na apuração, diz TSE",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/congestionamento-no-sistema-de-dados-gerou-atraso-na-apuracao-diz-tse",
@@ -40,12 +85,12 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-04",
-    "hora": "Há 55 min",
+    "hora": "Há 7h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 4,
+    "id": 7,
     "titulo": "Espírito Santo terá 2º turno entre Lorenzo Pazolini e Ricardo Ferraço",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/espirito-santo-tera-2o-turno-entre-lorenzo-pazolini-e-ricardo-ferraco",
@@ -55,12 +100,12 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Sudeste",
     "data_dia": "2026-10-04",
-    "hora": "Há 1h",
+    "hora": "Há 7h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 5,
+    "id": 8,
     "titulo": "Cleitinho Azevedo é eleito governador de Minas Gerais no 1º turno",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/cleitinho-azevedo-e-eleito-governador-de-minas-gerais-no-primeiro-turn",
@@ -70,12 +115,12 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Sudeste",
     "data_dia": "2026-10-04",
-    "hora": "Há 1h",
+    "hora": "Há 8h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 6,
+    "id": 9,
     "titulo": "Seis estados e o DF terão segundo turno para governador",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/Seis-estados-e-o-DF-terao-segundo-turno-para-governador",
@@ -85,12 +130,12 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-04",
-    "hora": "Há 1h",
+    "hora": "Há 8h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 7,
+    "id": 10,
     "titulo": "Alagoas elege JHC governador no primeiro turno",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/alagoas-elege-jhc-governador-no-primeiro-turno",
@@ -100,54 +145,9 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nordeste",
     "data_dia": "2026-10-04",
-    "hora": "Há 1h",
+    "hora": "Há 8h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
-  },
-  {
-    "id": 8,
-    "titulo": "Douglas Ruas e Eduardo Paes disputam o 2º turno para o governo do Rio",
-    "veiculo": "Agência Brasil",
-    "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/douglas-ruas-e-eduardo-paes-disputam-o-2o-turno-para-o-governo-do-rio",
-    "resumo": "Douglas Ruas (PL) e Eduardo Paes (PSD) vão disputar o segundo turno da eleição para governador do Rio de Janeiro. Os dois candidatos foram os mais votados no primeiro tur...",
-    "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
-    "categoria": "eleicoes",
-    "categoria_label": "🗳️ Eleições & Campanhas",
-    "regiao": "Sudeste",
-    "data_dia": "2026-10-04",
-    "hora": "Há 1h",
-    "tempo_leitura": "2 min de leitura",
-    "urgente": true
-  },
-  {
-    "id": 9,
-    "titulo": "Jerônimo é reeleito governador no primeiro turno na Bahia",
-    "veiculo": "Agência Brasil",
-    "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/jeronimo-e-reeleito-governador-no-primeiro-turno-na-bahia",
-    "resumo": "Jerônimo Rodrigues foi reeleito governador da Bahia neste domingo (4), no primeiro turno das eleições de 2026. O candidato do PT obteve 55,41% dos votos válidos, o equiva...",
-    "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
-    "categoria": "eleicoes",
-    "categoria_label": "🗳️ Eleições & Campanhas",
-    "regiao": "Nordeste",
-    "data_dia": "2026-10-04",
-    "hora": "Há 1h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": true
-  },
-  {
-    "id": 10,
-    "titulo": "Maranhão elege Eduardo Braide governador no primeiro turno",
-    "veiculo": "Agência Brasil",
-    "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/maranhao-elege-eduardo-braide-governador-no-primeiro-turno",
-    "resumo": "Eduardo Braide foi eleito governador do Maranhão neste domingo (4), no primeiro turno das eleições de 2026. O candidato do PSD obteve 54,10% dos votos válidos, o equivale...",
-    "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
-    "categoria": "eleicoes",
-    "categoria_label": "🗳️ Eleições & Campanhas",
-    "regiao": "Nordeste",
-    "data_dia": "2026-10-04",
-    "hora": "Há 1h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 11,
@@ -310,9 +310,9 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nordeste",
     "data_dia": "2026-10-04",
-    "hora": "Há 15 min",
+    "hora": "Há 7h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 22,
@@ -325,9 +325,9 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-04",
-    "hora": "Há 20 min",
+    "hora": "Há 7h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 23,
@@ -340,9 +340,9 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nordeste",
     "data_dia": "2026-10-04",
-    "hora": "Há 1h",
+    "hora": "Há 7h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 24,
@@ -355,9 +355,9 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nordeste",
     "data_dia": "2026-10-04",
-    "hora": "Há 1h",
+    "hora": "Há 7h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 25,
@@ -370,9 +370,9 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Sudeste",
     "data_dia": "2026-10-04",
-    "hora": "Há 2h",
+    "hora": "Há 9h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 26,
@@ -385,9 +385,9 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nordeste",
     "data_dia": "2026-10-04",
-    "hora": "Há 2h",
+    "hora": "Há 9h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 27,
@@ -400,7 +400,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nordeste",
     "data_dia": "2026-10-04",
-    "hora": "Há 3h",
+    "hora": "Há 10h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -415,7 +415,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-04",
-    "hora": "Há 4h",
+    "hora": "Há 11h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -430,7 +430,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Sudeste",
     "data_dia": "2026-10-04",
-    "hora": "Há 7h",
+    "hora": "Há 14h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -445,7 +445,187 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-04",
-    "hora": "Há 11h",
+    "hora": "Há 18h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 31,
+    "titulo": "Propostas de Flávio Bolsonaro x Lula para o 2º turno: os contrastes de seus projetos de Brasil",
+    "veiculo": "BBC",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE96N3g5a0pYQUc0cXFabkF3bWFoZm8yWUhNd0xaTUVxN3FXSlB3Q1V5NERkYkhFYkhxU0pjdVg0bHNUUF9xdGpoQUE3ZUNKNGlSV2d1bTZBUnZYY1QtWjAzSGNmONIBaEFVX3lxTE9OSmNYbXprMnhLQ0JjUl9MbGFBNDI5eFFDWTZ3M1JlVWNxbXM2dy13bDN6QTVpUzhVVXlYWnkzWVlNNnpESUc1T1lzbEx5eTZxdU84akNuTXZKai1USm1BUGJTREVPaEhO?oc=5",
+    "resumo": "Propostas de Flávio Bolsonaro x Lula para o 2º turno: os contrastes de seus projetos de Brasil  BBC",
+    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
+    "categoria": "geral",
+    "categoria_label": "📢 Notícias do Povo",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-05",
+    "hora": "Há 2h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": true
+  },
+  {
+    "id": 32,
+    "titulo": "Campanha do Ministério da Saúde orienta sobre riscos das apostas online e atendimento disponível no SUS",
+    "veiculo": "www.gov.br",
+    "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQdl85Wk4xM1phdWFpTUdsUmFqc0YzNWxSQlJMRWZETk1sNHZrRE1WdUI1dE01djdrbkM5NHZ3anE0ekJGWko2anB6aktQNHlKMVVtUDdubWF4UTRQaTVnS2xINWplaThVTGdDaEYxS0pvcUxXRS1BLW1WNHozY2FXRHJueTNPNk9xU3J6a1RBa1UycG9iRlJsRHBndlZYelNvdlhPM21kRmZIQUF4Z1VaZzBYVzFjV1Z0V0pfY2xzVG50NWNSTWc3WXdxMVJ2a0ctX2VsSEpSYy1KUlJiR1hNdm9RaDlZRFRNRlptWkFMME82V3pRUDBSTk8yZmQ?oc=5",
+    "resumo": "Campanha do Ministério da Saúde orienta sobre riscos das apostas online e atendimento disponível no SUS  www.gov.br",
+    "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
+    "categoria": "eleicoes",
+    "categoria_label": "🗳️ Eleições & Campanhas",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-01",
+    "hora": "01/10 17:57",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 33,
+    "titulo": "Lula prioriza em campanha eventos de infraestrutura, saúde e educação",
+    "veiculo": "Poder360",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcWJnZjl3M21GNFpyN1JTaXRZbFE3VXE3SlZRdmJVRktMT3E1Z2p0QTZIeWZWLXJfcjNuM0pLcU94enQyUnlETHI5TWFZaTJVMzZ3V0dTcU9pT0o0SkpjeWl6TnJjVnVJYTJBbEhPYjVUMHFvdE5BZDN1ZlpsLTU5MTNwWGlGa2NKbFpnS0drN2pTdXY3TXJXTW1wcHZRS2NIUFl3S3FBejIyakJrWDM0dklpcm1oeU9f?oc=5",
+    "resumo": "Lula prioriza em campanha eventos de infraestrutura, saúde e educação  Poder360",
+    "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
+    "categoria": "eleicoes",
+    "categoria_label": "🗳️ Eleições & Campanhas",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-04",
+    "hora": "Há 13h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 34,
+    "titulo": "Veja quem criou o Bolsa Família, o Pix, o SUS e outros serviços e programas do governo federal",
+    "veiculo": "Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNODdud0swY1JSTmJEcmRscEtQTVNibDNOenNZUExvbDcwdTJtVjFoX3VEdVIwN1VSa0Q1U28tWm9CWGdkQmhhMUhEaURjUl9TVjN2cEV2QnNVVjlNRWZSSFpreExNTVprQ2RYSzV0T0ptRldLZWg0QlFuVFdPRXBQeDd1QTJENENxVlBwdG9GV1F0WGZJd1Z5Tm5xRWxYZHB5d2JhRlk4NnVQQ01IT18yTTV4VS1ST3BETVdTMGF5SmdCT3dobVBtNU9yZENkc0FzWW9LZFBRdGI4RVZtdkhCTWwzU1gyN2NVMktjRTc2b1N1NzRoMF9J0gGGAkFVX3lxTFB3VVlvMXNiMk5ESlRpV3JSejd5aWpYSFQ2a3pQSWt3a2xXSFh6N3FOX1NfTmRGd2JfOFRwN0JXb1dHT3V5M2M0Mnotelc4cHAycjU3R0plZGxFV3NYTUh3X2tvV3NPd0k4RWRZOGdBYUxKTTY3bTlYbzhYeThuQ1FwdUg1YkVFZnBtUF9UWjhTQ3FRNE5GNWZ4ZWV2ZmRvcFRjTmpQelVfQzJBRy1wYlByUFprd0xhZDdrOFphMGlCUFBZYThxcDd1akdBcF9mRFFuMHpfS25WWDd2ZmNObTNxbEtoek9CSXdCbE9TVWY3bjJNSWFOZXRrcmpjUkhRclhrTFhlVUE?oc=5",
+    "resumo": "Veja quem criou o Bolsa Família, o Pix, o SUS e outros serviços e programas do governo federal  Valor Econômico",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-03",
+    "hora": "03/10 06:00",
+    "tempo_leitura": "2 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 35,
+    "titulo": "O futuro do SUS e o voto em Lula",
+    "veiculo": "Brasil de Fato",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTUd2a0JDanBOcHV0bVNweTdOTkxTTm56bjlhVFRRa1VPanctcVU1UnB2U1FtRzh5NzJrS1liUkV6X0JHdU9ieFV1N0FqamJmOFdWazRrRzhZclc0UmNlWTBPNVhoSDI5cTB3Wnp2N1B3SG9tUFRaU3NsdVFsbnFyRzNVWko2VTdSYTE1LTV4U1E5bXAyWFFMdkhLdFRRTnFaNlRXMDR0Rm9TZTNJZHc?oc=5",
+    "resumo": "O futuro do SUS e o voto em Lula  Brasil de Fato",
+    "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
+    "categoria": "eleicoes",
+    "categoria_label": "🗳️ Eleições & Campanhas",
+    "regiao": "Nacional",
+    "data_dia": "2026-09-30",
+    "hora": "30/09 14:45",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 36,
+    "titulo": "Comissão aprova projeto que mantém diretrizes do Ministério da Saúde para mamografias no SUS",
+    "veiculo": "Portal da Câmara dos Deputados",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVHN3UTQ0ZnBlM1NwemF4WUxIT2pjYk5nVS1VY05QSnNYb0tKS1dOQ2VaOG0wU1RLQ1ZYNHQ2UG85X2NCTE5ieUxkYUhWX05DLTh3RWZ4MnlTRG1ocU9zQVZBVzJZWTVYaklOXzhRYXZRTE5BZktRbndiYTV4VWtxbWVieWIwTVd1QUg3UjVIWkJvejdsaGxMajBYU2d4RkR2V2prbEp5RWstZTdZQ3N4N0NvV3ctTzVPc29VQWw5SWVNSkt3aHpLdDZMVV9YZ1Fo?oc=5",
+    "resumo": "Comissão aprova projeto que mantém diretrizes do Ministério da Saúde para mamografias no SUS  Portal da Câmara dos Deputados",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-03",
+    "hora": "03/10 17:31",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 37,
+    "titulo": "Saúde amplia frota do SAMU com nova ambulância recebida do Ministério da Saúde",
+    "veiculo": "Prefeitura Municipal de Araçatuba",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNd29yTjhvZkFqeDkxSE5NYUUxYlNZWWdKODhOdlllUHZUTG5wcEk2NXdJdkhpVFp3UTRfTGRtd2FUWVl2WWpES3RnMDNEUTZlc2s0T3NmREluaFJkLWRwazBUR0pUZmgzN19DSEhkVVhzQ0xvem04bHJSby13clhmSW1JSk1wMTJuZF8yR3daSU5kcnV0TUNnbmFpYmwtNk4wNTk3OUs1SW0yMEFEMGs3dA?oc=5",
+    "resumo": "Saúde amplia frota do SAMU com nova ambulância recebida do Ministério da Saúde  Prefeitura Municipal de Araçatuba",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-03",
+    "hora": "03/10 11:11",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 38,
+    "titulo": "Secretário do Ministério da Saúde visita novo CAPS Aluízio Campos, que deve ser inaugurado pela Prefeitura de Campina Grande este mês",
+    "veiculo": "Prefeitura de Campina Grande",
+    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOT1Q3YlluaEd3cFprR3JsRjNUZ3JOMzJkd0g5anhpZDhRbTRrZzhDQzJ4cURydElVVlFqczBaZWtvVlVWVjlmMVhGQ3RpaDM3MUZVSmwtakdaWi1LTFg1Uk5MM3NLQkJVek1zRUtab3ZmMVlFZW5tMnlWRXg2RWVZNUNmdmVLbGRHbGN5N1doT2c0aWVrV2xSYnNtRUx2TnRpTXB4TW5WUWFmZmk2SEloMlJiS2FKRkxSZWVfWk9iUzQwU3FkUWlMM3hYOWxwTkE2S2lPdmZ1VFRtcXJmSEh5RDNQX1lpS3ZnbV9BRUVDQU4tTGtRRTdWYw?oc=5",
+    "resumo": "Secretário do Ministério da Saúde visita novo CAPS Aluízio Campos, que deve ser inaugurado pela Prefeitura de Campina Grande este mês  Prefeitura de Campina Grande",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-01",
+    "hora": "01/10 17:57",
+    "tempo_leitura": "2 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 39,
+    "titulo": "Carreta da Saúde do Governo Federal chega a Conde para realizar tomografias e reduzir fila de espera do SUS",
+    "veiculo": "conde.pb.gov.br",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQd042TmMwQTNTRnJ0aWxkR0d5LW5BTS11T1NkNlhheEpfbjJYX0ppeVRZM3g0SEVsbU0xcmVYMFZQZElDT3dSQVhmUG1hZlh4a2JoT2YzeG1qb3BRZEtJUTBqODY0UkJzN3ZyV19RWWNMSnBhcld0ZjdtY3NJelVONWVDczhXNnNhcVhlSXlaaXUtYlVLYmxKMS1ZY2JoY2lDSFJxUXJ2NXMwcGkzRlFfbTZoTjVMX1N3aWtWcTQ5YTdEU2dKRUxuQVhpcnc?oc=5",
+    "resumo": "Carreta da Saúde do Governo Federal chega a Conde para realizar tomografias e reduzir fila de espera do SUS  conde.pb.gov.br",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-01",
+    "hora": "01/10 04:00",
+    "tempo_leitura": "2 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 40,
+    "titulo": "Paulista amplia estrutura da Atenção Básica com equipamentos do Ministério da Saúde",
+    "veiculo": "Paulista-PE",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVFhZdWwxSi0yZ0E5M2RiRGNJQVVHdG5oWVg3YjFuQTI1eEEtZHR6MG1hcnItM3BCSnhQSXRMaVhIY2pwR3RESUhnWjlTUTFvZDBlcHVZUjE3a0trVjRpRFlhalVNdzVjcXhQYU8xSFFIUEY4d25FZnFKQzVNMGdBazREbE1qRlJyUVJmeEJNdXI2NDRGRHJ0dG1xbWNOSkdUUjFXVm82VlZRQ2tkbWlueQ?oc=5",
+    "resumo": "Paulista amplia estrutura da Atenção Básica com equipamentos do Ministério da Saúde  Paulista-PE",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
+    "regiao": "Nacional",
+    "data_dia": "2026-09-29",
+    "hora": "29/09 14:34",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 41,
+    "titulo": "Federação PT-PCdoB-PV e PL dividem liderança entre eleitos para a Câmara no Rio Grande do Norte",
+    "veiculo": "Portal da Câmara dos Deputados",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbmF3TmF3cWtoamNJUmI0b0kzMGtJZHpIZzNhMXk0TmtVZmk4NDZJTmE3azc0XzFMMjg1eURkNFE1ci1kOVFVZTNBQVlQZHB4SmtEc0pnZ1FiSDhaSXJZWlNhdHU1MFZtdFBSV1ZrLTNLMlhNbm5RemhScjAxd0RfV2N3Y2tQVUFQYzl5ZTlmeGZpZnFyNXZOLXdVNm9HQndiLWZGUzRva2laN05CbmZZalVEazRTR3ZIMUF0STNqVHFCbkZNNV82TjZoMmdLajFEbjQxNg?oc=5",
+    "resumo": "Federação PT-PCdoB-PV e PL dividem liderança entre eleitos para a Câmara no Rio Grande do Norte  Portal da Câmara dos Deputados",
+    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
+    "categoria": "geral",
+    "categoria_label": "📢 Notícias do Povo",
+    "regiao": "Nordeste",
+    "data_dia": "2026-10-05",
+    "hora": "Há 5h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 42,
+    "titulo": "Deputada Marina do MST é reeleita para a Assembleia Legislativa do Rio de Janeiro",
+    "veiculo": "Brasil de Fato",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUE94c3BiVEZibjladGVpaWFTTWV2TmtBcTc5UzBLRHF6cW1XZm15THMxdFNSenJCMmZsR05PX0JSQ1diV3pXNXRDcmZnQXVYd1VjVmFxRDlQQ0prMnRqRFc1dlNJV2pGQ05QclpnWi1MU1hSYXQzRXhES29sOG5rNlg5TE9Cdld6TWs5QmJ1SFplSEFRTHlNVjRRekJKdkpvbllSMk1GdTg3eGNNRDZFTlFfcXRpNmVLRUFwd180SE91UjQ?oc=5",
+    "resumo": "Deputada Marina do MST é reeleita para a Assembleia Legislativa do Rio de Janeiro  Brasil de Fato",
+    "imagem": "https://images.unsplash.com/photo-1531206715517-5c0ba140b2b8?w=800&q=80",
+    "categoria": "direitos",
+    "categoria_label": "✊ Direitos & Mobilização",
+    "regiao": "Sudeste",
+    "data_dia": "2026-10-04",
+    "hora": "Há 8h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   }
