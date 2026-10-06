@@ -1,6 +1,21 @@
 [
   {
     "id": 1,
+    "titulo": "Cresce número de mulheres eleitas para o Congresso Nacional",
+    "veiculo": "Agência Brasil",
+    "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/cresce-numero-de-mulheres-eleitas-para-o-congresso-nacional",
+    "resumo": "A bancada feminina na Câmara dos Deputados e no Senado Federal será a maior da história. Na Câmara, o número de mulheres eleitas passou de 90 para 109, um crescimento de ...",
+    "imagem": "https://images.unsplash.com/photo-1531206715517-5c0ba140b2b8?w=800&q=80",
+    "categoria": "direitos",
+    "categoria_label": "✊ Direitos & Mobilização",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-05",
+    "hora": "Há 3h",
+    "tempo_leitura": "2 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 2,
     "titulo": "TSE quer parecer do MP antes de decisão sobre recurso de Garotinho",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/tse-quer-parecer-do-mp-antes-de-decisao-sobre-recurso-de-garotinho",
@@ -10,12 +25,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-05",
-    "hora": "Há 46 min",
+    "hora": "Há 4h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 2,
+    "id": 3,
     "titulo": "Filho de Arthur Lira se torna o mais jovem deputado federal já eleito",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/filho-de-arthur-lira-se-torna-o-mais-jovem-deputado-federal-ja-eleito",
@@ -25,12 +40,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-05",
-    "hora": "Há 1h",
+    "hora": "Há 4h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 3,
+    "id": 4,
     "titulo": "Representação de parlamentares negros segue baixa, diz pesquisadora",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-10/representacao-de-parlamentares-negros-segue-baixa-diz-pesquisadora",
@@ -40,12 +55,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-05",
-    "hora": "Há 1h",
+    "hora": "Há 5h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 4,
+    "id": 5,
     "titulo": "Renovação da Câmara federal chegou a 35%; veja nova composição da Casa",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/renovacao-da-camara-federal-chegou-35-veja-nova-composicao-da-casa",
@@ -55,12 +70,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-05",
-    "hora": "Há 1h",
+    "hora": "Há 5h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 5,
+    "id": 6,
     "titulo": "Dólar cai a R$ 5, e bolsa sobe quase 8% após primeiro turno",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/dolar-cai-r-5-e-bolsa-sobe-quase-8-apos-primeiro-turno",
@@ -70,12 +85,12 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Sul",
     "data_dia": "2026-10-05",
-    "hora": "Há 1h",
+    "hora": "Há 5h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 6,
+    "id": 7,
     "titulo": "Polícia Federal apreende R$ 2,8 milhões no primeiro turno das eleições",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/policia-federal-apreende-r-28-milhoes-no-primeiro-turno-das-eleicoes",
@@ -85,12 +100,12 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-05",
-    "hora": "Há 2h",
+    "hora": "Há 6h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 7,
+    "id": 8,
     "titulo": "Mostra de Cinema de SP chega aos 50 anos com homenagem a James Gray",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-10/mostra-de-cinema-de-sp-chega-aos-50-anos-com-homenagem-james-gray",
@@ -100,12 +115,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Sudeste",
     "data_dia": "2026-10-05",
-    "hora": "Há 2h",
+    "hora": "Há 6h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 8,
+    "id": 9,
     "titulo": "Bolsonaro pede liberação de visitas de Flávio na prisão domiciliar",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/bolsonaro-pede-liberacao-de-visitas-de-flavio-na-prisao-domiciliar",
@@ -115,12 +130,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-05",
-    "hora": "Há 3h",
+    "hora": "Há 7h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 9,
+    "id": 10,
     "titulo": "Campeã do Brasileirão, Carol Gil é convocada para amistosos da seleção",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-10/campea-brasileira-carol-gil-e-convocada-para-amistosos-da-selecao",
@@ -130,27 +145,27 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Sudeste",
     "data_dia": "2026-10-05",
-    "hora": "Há 3h",
-    "tempo_leitura": "2 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 10,
-    "titulo": "Votação em SP registra índice de abstenção de 22,5% no primeiro turno",
-    "veiculo": "Agência Brasil",
-    "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/votacao-em-sp-registra-indice-de-abstencao-de-225-no-primeiro-turno",
-    "resumo": "O primeiro turno das Eleições Gerais de 2026 registrou taxa de abstenção de 22,5% no estado de São Paulo, de acordo com dados divulgados pelo Tribunal Superior Eleitoral ...",
-    "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
-    "categoria": "eleicoes",
-    "categoria_label": "🗳️ Eleições & Campanhas",
-    "regiao": "Sudeste",
-    "data_dia": "2026-10-05",
-    "hora": "Há 4h",
+    "hora": "Há 7h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
     "id": 11,
+    "titulo": "Por onde recomeçar?",
+    "veiculo": "Outras Palavras",
+    "link": "https://outraspalavras.net/estadoemdisputa/por-onde-recomecar/",
+    "resumo": "Virada eleitoral é possível, ainda que árdua e difícil. Mas a ilusão de que a esquerda pode governar sem projeto de longo prazo, sem disputas com os poderosos e sem mobil...",
+    "imagem": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/Sem-titulo-2.jpeg",
+    "categoria": "eleicoes",
+    "categoria_label": "🗳️ Eleições & Campanhas",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-05",
+    "hora": "Há 3h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 12,
     "titulo": "A Constituição sobreviverá às eleições?",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/crise-brasileira/a-constituicao-sobrevivera-as-eleicoes/",
@@ -160,12 +175,12 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-05",
-    "hora": "Há 1h",
+    "hora": "Há 4h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 12,
+    "id": 13,
     "titulo": "Löwy: Lula e a corrida pela virada",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/estadoemdisputa/lowy-lula-e-a-corrida-pela-virada/",
@@ -175,12 +190,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-05",
-    "hora": "Há 2h",
+    "hora": "Há 6h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 13,
+    "id": 14,
     "titulo": "Como assegurar a proteção social no Brasil?",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/trabalhoeprecariado/como-assegurar-a-protecao-social-no-brasil/",
@@ -190,12 +205,12 @@
     "categoria_label": "📈 Conquistas & Economia",
     "regiao": "Nacional",
     "data_dia": "2026-10-05",
-    "hora": "Há 2h",
+    "hora": "Há 6h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 14,
+    "id": 15,
     "titulo": "A necessária virada do urbanismo brasileiro",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/outras-cidades/a-necessaria-virada-do-urbanismo-brasileiro/",
@@ -205,12 +220,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-05",
-    "hora": "Há 3h",
+    "hora": "Há 7h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 15,
+    "id": 16,
     "titulo": "Crise climática: o papel das infraestruturas verdes",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/outras-cidades/crise-climatica-o-papel-das-infraestruturas-verdes/",
@@ -225,7 +240,7 @@
     "urgente": false
   },
   {
-    "id": 16,
+    "id": 17,
     "titulo": "O capital em crise e o futuro em disputa",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/crise-civilizatoria/o-capital-em-crise-e-o-futuro-em-disputa/",
@@ -240,7 +255,7 @@
     "urgente": false
   },
   {
-    "id": 17,
+    "id": 18,
     "titulo": "Memórias do Jornalismo: Sete anos no esconderijo",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/historia-e-memoria/memorias-do-jornalismo-sete-anos-no-esconderijo/",
@@ -255,7 +270,7 @@
     "urgente": false
   },
   {
-    "id": 18,
+    "id": 19,
     "titulo": "A arma, um giro, o L",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/direita-assanhada/a-arma-um-giro-o-l/",
@@ -270,7 +285,7 @@
     "urgente": false
   },
   {
-    "id": 19,
+    "id": 20,
     "titulo": "Eleições: a necessidade da Agroecologia",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/descolonizacoes/eleicoes-a-necessidade-da-agroecologia/",
@@ -285,21 +300,6 @@
     "urgente": false
   },
   {
-    "id": 20,
-    "titulo": "Ônibus de graça: direito que passa despercebido nas eleições",
-    "veiculo": "Outras Palavras",
-    "link": "https://outraspalavras.net/outras-cidades/onibus-de-graca-direito-que-passa-despercebido-nas-eleicoes/",
-    "resumo": "Tribunal Eleitoral determina gratuidade no transporte público nos dias de votação. Reduzir linhas pode ser crime eleitoral. Mas o direito ainda é desconhecido por milhões...",
-    "imagem": "https://outraspalavras.nyc3.cdn.digitaloceanspaces.com/media/2026/10/5044195019505470841.jpg",
-    "categoria": "eleicoes",
-    "categoria_label": "🗳️ Eleições & Campanhas",
-    "regiao": "Nacional",
-    "data_dia": "2026-10-02",
-    "hora": "02/10 17:10",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
     "id": 21,
     "titulo": "A barbárie não pode vencer",
     "veiculo": "Vermelho",
@@ -310,9 +310,9 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-05",
-    "hora": "Há 2h",
+    "hora": "Há 6h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 22,
@@ -325,7 +325,7 @@
     "categoria_label": "📈 Conquistas & Economia",
     "regiao": "Nacional",
     "data_dia": "2026-10-05",
-    "hora": "Há 6h",
+    "hora": "Há 10h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -340,7 +340,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-05",
-    "hora": "Há 7h",
+    "hora": "Há 11h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -355,7 +355,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-05",
-    "hora": "Há 8h",
+    "hora": "Há 12h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -370,7 +370,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Norte",
     "data_dia": "2026-10-05",
-    "hora": "Há 9h",
+    "hora": "Há 12h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -385,7 +385,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nordeste",
     "data_dia": "2026-10-05",
-    "hora": "Há 9h",
+    "hora": "Há 13h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -400,7 +400,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Sul",
     "data_dia": "2026-10-05",
-    "hora": "Há 9h",
+    "hora": "Há 13h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -415,7 +415,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-05",
-    "hora": "Há 9h",
+    "hora": "Há 13h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -430,7 +430,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nordeste",
     "data_dia": "2026-10-05",
-    "hora": "Há 10h",
+    "hora": "Há 14h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -445,7 +445,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-05",
-    "hora": "Há 9h",
+    "hora": "Há 13h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -496,25 +496,10 @@
   },
   {
     "id": 34,
-    "titulo": "Propostas de Flávio Bolsonaro x Lula para o 2º turno: os contrastes de seus projetos de Brasil",
-    "veiculo": "BBC",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE96N3g5a0pYQUc0cXFabkF3bWFoZm8yWUhNd0xaTUVxN3FXSlB3Q1V5NERkYkhFYkhxU0pjdVg0bHNUUF9xdGpoQUE3ZUNKNGlSV2d1bTZBUnZYY1QtWjAzSGNmONIBaEFVX3lxTE9OSmNYbXprMnhLQ0JjUl9MbGFBNDI5eFFDWTZ3M1JlVWNxbXM2dy13bDN6QTVpUzhVVXlYWnkzWVlNNnpESUc1T1lzbEx5eTZxdU84akNuTXZKai1USm1BUGJTREVPaEhO?oc=5",
-    "resumo": "Propostas de Flávio Bolsonaro x Lula para o 2º turno: os contrastes de seus projetos de Brasil  BBC",
-    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
-    "categoria": "geral",
-    "categoria_label": "📢 Notícias do Povo",
-    "regiao": "Nacional",
-    "data_dia": "2026-10-04",
-    "hora": "Há 23h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 35,
     "titulo": "Ofuscado por crises no STF, Lula tenta retomar as rédeas da agenda com medidas populares",
-    "veiculo": "JOTA Jornalismo",
+    "veiculo": "jota.info",
     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQzE4ZjhUWWxsNGdhVGVXWlpoS2hEMlZVMDFkVVMwcDdOTVRGVXNUdVFzNXptVENpYm1zZFhydlZUazdWQkFiTDNwQ1MzemxqeUdZR1dvSk1YQWVLYm5Hc3M1Z203SlNzTVhXRTFVQWVjQWctakJlOC1LeVp5YjNDM056TWJIY1pDbGc4UWlnM05FQ0RlaDNVaDhMRjJtb1lzVzVEeDZNRVJBNnEtdFlGNklaeGlXbERJM3pKVS0yS3pJTGVmWS13TWszUGk?oc=5",
-    "resumo": "Ofuscado por crises no STF, Lula tenta retomar as rédeas da agenda com medidas populares  JOTA Jornalismo",
+    "resumo": "Ofuscado por crises no STF, Lula tenta retomar as rédeas da agenda com medidas populares  jota.info",
     "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
     "categoria": "geral",
     "categoria_label": "📢 Notícias do Povo",
@@ -525,7 +510,7 @@
     "urgente": false
   },
   {
-    "id": 36,
+    "id": 35,
     "titulo": "Comissão aprova projeto que mantém diretrizes do Ministério da Saúde para mamografias no SUS",
     "veiculo": "Portal da Câmara dos Deputados",
     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVHN3UTQ0ZnBlM1NwemF4WUxIT2pjYk5nVS1VY05QSnNYb0tKS1dOQ2VaOG0wU1RLQ1ZYNHQ2UG85X2NCTE5ieUxkYUhWX05DLTh3RWZ4MnlTRG1ocU9zQVZBVzJZWTVYaklOXzhRYXZRTE5BZktRbndiYTV4VWtxbWVieWIwTVd1QUg3UjVIWkJvejdsaGxMajBYU2d4RkR2V2prbEp5RWstZTdZQ3N4N0NvV3ctTzVPc29VQWw5SWVNSkt3aHpLdDZMVV9YZ1Fo?oc=5",
@@ -540,22 +525,22 @@
     "urgente": false
   },
   {
-    "id": 37,
-    "titulo": "Rio elege ex-ministros da Saúde de Lula e Bolsonaro como deputados federais",
-    "veiculo": "Metrópoles",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZFI3cXRTWEFZMWVWcHRoMGN6Z0ZoMk5lN1BYVGlPeks4b01Pa0trcHJPcVdRSl90QXlSOVcwT1dnY3hvWkFnTk1qekVvS29aSHFJOXhRQnFiUjR4WTNsUVhQVEhkZ2ExaTFISk41dnRGb19lVjhYdkxhNWk0V1FTR1FMTGxkc1VWUEZQTkhMaFFLUktESlJ5aHk2RDJQMzFpa2ZpanZpaWVwS3pDUHc?oc=5",
-    "resumo": "Rio elege ex-ministros da Saúde de Lula e Bolsonaro como deputados federais  Metrópoles",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
+    "id": 36,
+    "titulo": "Propostas de Flávio Bolsonaro x Lula para o 2º turno: os contrastes de seus projetos de Brasil",
+    "veiculo": "BBC",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE96N3g5a0pYQUc0cXFabkF3bWFoZm8yWUhNd0xaTUVxN3FXSlB3Q1V5NERkYkhFYkhxU0pjdVg0bHNUUF9xdGpoQUE3ZUNKNGlSV2d1bTZBUnZYY1QtWjAzSGNmONIBaEFVX3lxTE9OSmNYbXprMnhLQ0JjUl9MbGFBNDI5eFFDWTZ3M1JlVWNxbXM2dy13bDN6QTVpUzhVVXlYWnkzWVlNNnpESUc1T1lzbEx5eTZxdU84akNuTXZKai1USm1BUGJTREVPaEhO?oc=5",
+    "resumo": "Propostas de Flávio Bolsonaro x Lula para o 2º turno: os contrastes de seus projetos de Brasil  BBC",
+    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
+    "categoria": "geral",
+    "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
-    "data_dia": "2026-10-05",
-    "hora": "Há 9h",
+    "data_dia": "2026-10-04",
+    "hora": "04/10 20:58",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 38,
+    "id": 37,
     "titulo": "Saúde amplia frota do SAMU com nova ambulância recebida do Ministério da Saúde",
     "veiculo": "Prefeitura Municipal de Araçatuba",
     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNd29yTjhvZkFqeDkxSE5NYUUxYlNZWWdKODhOdlllUHZUTG5wcEk2NXdJdkhpVFp3UTRfTGRtd2FUWVl2WWpES3RnMDNEUTZlc2s0T3NmREluaFJkLWRwazBUR0pUZmgzN19DSEhkVVhzQ0xvem04bHJSby13clhmSW1JSk1wMTJuZF8yR3daSU5kcnV0TUNnbmFpYmwtNk4wNTk3OUs1SW0yMEFEMGs3dA?oc=5",
@@ -570,22 +555,22 @@
     "urgente": false
   },
   {
-    "id": 39,
-    "titulo": "Ministério da Saúde vistoria 37 vans, unidades móveis e obras para ampliar atendimento do SUS na Bahia",
-    "veiculo": "Jornal Grande Bahia",
-    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPb0o3M0c2bl9DTWVJTEdUek45UlVnUDRGQjBnV1N0OERDaTVoWS1kSS0zdGZYYldGV21ETjlqQU9MUllVeUQ3RF90aVNocm5qaHhSaTdPUzRBVTJFWUxhSlNLcTh2Qkp6Vl9LLWN0WkJ5VVBpMXdzSmlzSlN4am85QURUTHBHbkRnYURkMDBpV2k4dWx1azJuRVdEWkZQd2VldndaTHRMQl85SEdKWDlHVDMyb1VEMVhHQnRTRjBVdWdDMkdQME41VWVDNGxqbzRVNy1FOHZsYm5jNDg?oc=5",
-    "resumo": "Ministério da Saúde vistoria 37 vans, unidades móveis e obras para ampliar atendimento do SUS na Bahia  Jornal Grande Bahia",
+    "id": 38,
+    "titulo": "Rio elege ex-ministros da Saúde de Lula e Bolsonaro como deputados federais",
+    "veiculo": "Metrópoles",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZFI3cXRTWEFZMWVWcHRoMGN6Z0ZoMk5lN1BYVGlPeks4b01Pa0trcHJPcVdRSl90QXlSOVcwT1dnY3hvWkFnTk1qekVvS29aSHFJOXhRQnFiUjR4WTNsUVhQVEhkZ2ExaTFISk41dnRGb19lVjhYdkxhNWk0V1FTR1FMTGxkc1VWUEZQTkhMaFFLUktESlJ5aHk2RDJQMzFpa2ZpanZpaWVwS3pDUHc?oc=5",
+    "resumo": "Rio elege ex-ministros da Saúde de Lula e Bolsonaro como deputados federais  Metrópoles",
     "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
     "categoria": "social",
     "categoria_label": "🏛️ Políticas Públicas",
-    "regiao": "Nordeste",
+    "regiao": "Nacional",
     "data_dia": "2026-10-05",
-    "hora": "Há 3h",
+    "hora": "Há 13h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 40,
+    "id": 39,
     "titulo": "Lula prioriza em campanha eventos de infraestrutura, saúde e educação",
     "veiculo": "Poder360",
     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcWJnZjl3M21GNFpyN1JTaXRZbFE3VXE3SlZRdmJVRktMT3E1Z2p0QTZIeWZWLXJfcjNuM0pLcU94enQyUnlETHI5TWFZaTJVMzZ3V0dTcU9pT0o0SkpjeWl6TnJjVnVJYTJBbEhPYjVUMHFvdE5BZDN1ZlpsLTU5MTNwWGlGa2NKbFpnS0drN2pTdXY3TXJXTW1wcHZRS2NIUFl3S3FBejIyakJrWDM0dklpcm1oeU9f?oc=5",
@@ -600,19 +585,34 @@
     "urgente": false
   },
   {
+    "id": 40,
+    "titulo": "Secretário do Ministério da Saúde visita novo CAPS Aluízio Campos, que deve ser inaugurado pela Prefeitura de Campina Grande este mês",
+    "veiculo": "Prefeitura de Campina Grande",
+    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOT1Q3YlluaEd3cFprR3JsRjNUZ3JOMzJkd0g5anhpZDhRbTRrZzhDQzJ4cURydElVVlFqczBaZWtvVlVWVjlmMVhGQ3RpaDM3MUZVSmwtakdaWi1LTFg1Uk5MM3NLQkJVek1zRUtab3ZmMVlFZW5tMnlWRXg2RWVZNUNmdmVLbGRHbGN5N1doT2c0aWVrV2xSYnNtRUx2TnRpTXB4TW5WUWFmZmk2SEloMlJiS2FKRkxSZWVfWk9iUzQwU3FkUWlMM3hYOWxwTkE2S2lPdmZ1VFRtcXJmSEh5RDNQX1lpS3ZnbV9BRUVDQU4tTGtRRTdWYw?oc=5",
+    "resumo": "Secretário do Ministério da Saúde visita novo CAPS Aluízio Campos, que deve ser inaugurado pela Prefeitura de Campina Grande este mês  Prefeitura de Campina Grande",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-01",
+    "hora": "01/10 17:57",
+    "tempo_leitura": "2 min de leitura",
+    "urgente": false
+  },
+  {
     "id": 41,
-    "titulo": "Impeachment de ministros do STF: bancada recorde do PL no Senado pode aprovar pedidos?",
+    "titulo": "Os maiores vencedores e os maiores perdedores do primeiro turno das eleições 2026",
     "veiculo": "BBC",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9fYmE1MXcwaUR0VHVwaGVhckdNTDFUR0p1YkFuYVhGZTd4MXVFZjZUZGxnSFFMQnY0d29XYUR2a2dUemo3RUhGLTZNcGNOenJjZ2lseU9HVko4UWZYX1FNZ3ZiY9IBaEFVX3lxTE1uUHRTanVWQXhWWURvM1JSOEExekUwa3E2WFlaRW5JeS1tR1Q4Mi1kMWpCOXRyUW8wbjFnMlhxUk8yUm9ndzVQRGZLWXBVWjFaMXJ2T2VuYWZBLTVqMWs3QkxHa0FuZzFk?oc=5",
-    "resumo": "Impeachment de ministros do STF: bancada recorde do PL no Senado pode aprovar pedidos?  BBC",
-    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
-    "categoria": "geral",
-    "categoria_label": "📢 Notícias do Povo",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5tUGwzVjdsMGl6NVAzS3dqcGlMNHY2aUE0bkdMVEQ1a2hxT2JVWWxFY2FHLTFRaDRXZ2ZMdlR4OWNwSGZZX0tXYlZxejJ1akpWMGhqQ1dzcWZvbF9nMEN5bkdoc9IBaEFVX3lxTE9hRVJxTXNyVGxab28xQ1YtcGw0RzE3QjFIZnBPSUxLZW0yM2xuZnpJYU1maFhxejZyaTJuNXBKYzhtYnVpd2UzUEx5VkhpOGtvWkNLczhhaXFHcmNwNEwyUVc3RlJuYWU5?oc=5",
+    "resumo": "Os maiores vencedores e os maiores perdedores do primeiro turno das eleições 2026  BBC",
+    "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
+    "categoria": "eleicoes",
+    "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-05",
-    "hora": "Há 4h",
+    "hora": "Há 1h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": false
+    "urgente": true
   },
   {
     "id": 42,
@@ -625,7 +625,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-05",
-    "hora": "Há 8h",
+    "hora": "Há 12h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   }
