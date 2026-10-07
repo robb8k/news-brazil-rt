@@ -1,6 +1,36 @@
 [
   {
     "id": 1,
+    "titulo": "Mega-Sena acumula para R$ 100 milhões; confira os números sorteados",
+    "veiculo": "Agência Brasil",
+    "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/mega-sena-acumula-para-r-100-milhoes-confira-os-numeros-sorteados",
+    "resumo": "Nenhum apostador acertou as seis dezenas do Concurso 3.067 da Mega-Sena, realizado nesta terça-feira (6). O prêmio acumulou novamente e está estimado em R$ 100 milhões pa...",
+    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
+    "categoria": "geral",
+    "categoria_label": "📢 Notícias do Povo",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-06",
+    "hora": "Há 6h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 2,
+    "titulo": "OEA elogia eleição no Brasil, mas aponta preocupação com desinformação",
+    "veiculo": "Agência Brasil",
+    "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/oea-elogia-eleicao-no-brasil-mas-aponta-preocupacao-com-desinformacao",
+    "resumo": "A Organização dos Estados Americanos (OEA) descreveu a eleição brasileira como uma jornada cívica e pacífica e elogiou o Tribunal Superior Eleitoral (TSE) e os Tribunais ...",
+    "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
+    "categoria": "eleicoes",
+    "categoria_label": "🗳️ Eleições & Campanhas",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-06",
+    "hora": "Há 6h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 3,
     "titulo": "OAB-RJ defende decisão rápida do TSE para eleições no estado",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/oab-rj-defende-decisao-rapida-do-tse-para-eleicoes-no-estado",
@@ -10,12 +40,12 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-06",
-    "hora": "Há 55 min",
+    "hora": "Há 6h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 2,
+    "id": 4,
     "titulo": "Governo inclui 82 empregadores na lista suja do trabalho escravo",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-10/governo-inclui-82-empregadores-na-lista-suja-do-trabalho-escravo",
@@ -25,12 +55,12 @@
     "categoria_label": "📈 Conquistas & Economia",
     "regiao": "Nacional",
     "data_dia": "2026-10-06",
-    "hora": "Há 1h",
+    "hora": "Há 6h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 3,
+    "id": 5,
     "titulo": "CNJ e BC assinam acordo para disciplinar pagamento de precatórios",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/cnj-e-bc-assinam-acordo-para-disciplinar-pagamento-de-precatorios",
@@ -40,12 +70,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-06",
-    "hora": "Há 1h",
+    "hora": "Há 6h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 4,
+    "id": 6,
     "titulo": "Previsão de superávit comercial de 2026 cai para US$ 84,4 bilhões",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/previsao-de-superavit-comercial-de-2026-cai-para-us-844-bilhoes",
@@ -55,12 +85,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-06",
-    "hora": "Há 1h",
+    "hora": "Há 7h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 5,
+    "id": 7,
     "titulo": "Cerca de 13,2 mil sites de bets ilegais são bloqueados",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/cerca-de-132-mil-sites-de-bets-ilegais-sao-bloqueados",
@@ -70,12 +100,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-06",
-    "hora": "Há 2h",
+    "hora": "Há 8h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 6,
+    "id": 8,
     "titulo": "Dupla de Luisa Stefani avança às quartas do WTA 1000 de Pequim",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-10/dupla-de-luisa-stefani-avanca-quartas-do-wta-1000-de-pequim",
@@ -85,39 +115,9 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-06",
-    "hora": "Há 2h",
+    "hora": "Há 8h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
-  },
-  {
-    "id": 7,
-    "titulo": "Dólar fecha abaixo de R$ 5 pela primeira vez desde maio",
-    "veiculo": "Agência Brasil",
-    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/dolar-fecha-abaixo-de-r-5-pela-primeira-vez-desde-maio",
-    "resumo": "O mercado financeiro brasileiro teve um dia de ajuste nesta terça-feira (6), após a euforia na véspera. O dólar caiu para cerca de R$ 4,97, menor nível em quase cinco mes...",
-    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
-    "categoria": "geral",
-    "categoria_label": "📢 Notícias do Povo",
-    "regiao": "Nacional",
-    "data_dia": "2026-10-06",
-    "hora": "Há 2h",
-    "tempo_leitura": "2 min de leitura",
-    "urgente": true
-  },
-  {
-    "id": 8,
-    "titulo": "TSE: dados sobre comparecimento de eleitores estão em processamento",
-    "veiculo": "Agência Brasil",
-    "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/tse-dados-sobre-comparecimento-de-eleitores-estao-em-processamento",
-    "resumo": "O Tribunal Superior Eleitoral (TSE) informou nesta terça-feira (6) que os dados de comparecimento, ausência e justificativa dos eleitores no primeiro turno estão em proce...",
-    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
-    "categoria": "geral",
-    "categoria_label": "📢 Notícias do Povo",
-    "regiao": "Nacional",
-    "data_dia": "2026-10-06",
-    "hora": "Há 2h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 9,
@@ -130,9 +130,9 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-06",
-    "hora": "Há 2h",
+    "hora": "Há 8h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 10,
@@ -145,7 +145,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-06",
-    "hora": "Há 3h",
+    "hora": "Há 8h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -160,7 +160,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-06",
-    "hora": "Há 3h",
+    "hora": "Há 9h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -175,7 +175,7 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-10-06",
-    "hora": "Há 4h",
+    "hora": "Há 9h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -190,7 +190,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-06",
-    "hora": "Há 5h",
+    "hora": "Há 10h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -205,7 +205,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-06",
-    "hora": "Há 5h",
+    "hora": "Há 11h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -280,9 +280,9 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-06",
-    "hora": "Há 1h",
+    "hora": "Há 7h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 20,
@@ -295,7 +295,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Sul",
     "data_dia": "2026-10-06",
-    "hora": "Há 3h",
+    "hora": "Há 9h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -310,7 +310,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-06",
-    "hora": "Há 3h",
+    "hora": "Há 9h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -325,7 +325,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-06",
-    "hora": "Há 5h",
+    "hora": "Há 10h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -340,7 +340,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-06",
-    "hora": "Há 5h",
+    "hora": "Há 11h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -355,7 +355,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-06",
-    "hora": "Há 6h",
+    "hora": "Há 12h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -370,7 +370,7 @@
     "categoria_label": "📈 Conquistas & Economia",
     "regiao": "Nacional",
     "data_dia": "2026-10-06",
-    "hora": "Há 7h",
+    "hora": "Há 13h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -385,7 +385,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-06",
-    "hora": "Há 7h",
+    "hora": "Há 13h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -400,7 +400,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-06",
-    "hora": "Há 8h",
+    "hora": "Há 14h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -415,24 +415,24 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-06",
-    "hora": "Há 8h",
+    "hora": "Há 14h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
     "id": 29,
-    "titulo": "Brasil intensifica ações contra o sarampo diante de surto nos EUA e avanço da doença nas Américas",
+    "titulo": "Ministério da Saúde apresenta campanha com orientações sobre acesso a consultas, exames e cirurgias pelo SUS",
     "veiculo": "Governo Federal",
-    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPcEduMElvYzN3TXEwSWNxTDkwX3hxSWF5RUZQTlpiRUY5QUpRelRyU0RnOVNZRjJyVDFGQXNOZVhqelg2OHdqR1dXaE1JamhHOXVRWjY1Y3paUnpITHFZOEdENlJ2VGdRUlBYT2FLQUxWY1JrSndjLWNFZFh4Yy04MnlCT2VXWll0UUg3b0c3Uk5hejRBU0NTWjdxRko2UzlnZllQMHlULU90dTNaQnBmQUdEQ0pKLTBUaldGVC16ZFN6T1Q0TWswSnptODlFV3lROWwyQ1dvOWVpRVJ3NnRsQl9WT1Y5N3A2dVhXSWZoVmVudmJv?oc=5",
-    "resumo": "Brasil intensifica ações contra o sarampo diante de surto nos EUA e avanço da doença nas Américas  Governo Federal",
-    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
-    "categoria": "geral",
-    "categoria_label": "📢 Notícias do Povo",
-    "regiao": "Nacional",
+    "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPQndERFQ3R0pqT2d5MXpaTGhBQ3EtaW0xTkRRMzFUZFZtWmpLTEVQVnBQa2x6dmF2bVZ3N29Dam5zeGVIWThCVjB3ZjU0aEN0VENGWTJuZkR4VnhGWFZIRzVkb1lTbkttbmhZLWZhUFZ0bmxkVjdyVGltUWN4VVYwRGFJWUZrclRqTDhZUVRVQTlyOHlnemRHc21rVnM4WmJiMVdXT2hLVkdYaTlySldXeG91dkN5QzRreG5RXzhReXNQTGo2WG5NbkFqRHFyVTJWa2FmWElMLXZsSE9HWTcyYThOcXRwd2lPckxYc3Y1MzZlQ3d4M213WnhzT3FTbnJ2Ync?oc=5",
+    "resumo": "Ministério da Saúde apresenta campanha com orientações sobre acesso a consultas, exames e cirurgias pelo SUS  Governo Federal",
+    "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
+    "categoria": "eleicoes",
+    "categoria_label": "🗳️ Eleições & Campanhas",
+    "regiao": "Sul",
     "data_dia": "2026-10-06",
-    "hora": "Há 2h",
+    "hora": "Há 17h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 30,
@@ -445,22 +445,22 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-06",
-    "hora": "Há 8h",
+    "hora": "Há 14h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
     "id": 31,
-    "titulo": "Quais as propostas de Flávio Bolsonaro e Lula para a saúde? Veja projetos",
+    "titulo": "Lula tem queda de votação em cidades mais dependentes do Bolsa Família",
     "veiculo": "UOL Notícias",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPXzF5SmZwaUpOWkJCTnBPVWlUdkwwellQVkZfSkhENW9UdUUyeUNEbUdEam5veFFfdTBRRTNiQU5sckFFS2ZEUDZpQ0lwbmZwSE1hUE5yWTUtNHVQVjZfS1ExNTZzVTFfSDRrVGo0TVV4UWNxcVhZTEo4TlY1REJickw1Qk9PYUhlNmdRX2Q2c2c2eHN4TUp0MVFqLS1IOXFmUFZ2a3k4RTNMTy1kSm4waFhtZ1lMdFRZeWFSR2FqX0IzMTg?oc=5",
-    "resumo": "Quais as propostas de Flávio Bolsonaro e Lula para a saúde? Veja projetos  UOL Notícias",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWS1qdWotRW5NbU9wbU5heHdLaUQ0Z0N0Ny1NTUVvXzl6UGlrS09GZndwN0xIRlBfRFo3dHhvX3pXN2hpREo2aVkyZVJNWHJlU1QxaTktTk04V0phNW04VkZLQ1RsNnB5TmRLS0tobHExNk5qODNhQmdGalRFQjVYRXpVZXFuYjdVSEFINFdWcw?oc=5",
+    "resumo": "Lula tem queda de votação em cidades mais dependentes do Bolsa Família  UOL Notícias",
     "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
     "categoria": "social",
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-10-06",
-    "hora": "Há 3h",
+    "hora": "Há 18h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -475,22 +475,22 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Sul",
     "data_dia": "2026-10-06",
-    "hora": "Há 9h",
+    "hora": "Há 15h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
     "id": 33,
-    "titulo": "Ministério da Saúde apresenta campanha com orientações sobre acesso a consultas, exames e cirurgias pelo SUS",
+    "titulo": "Quer consultar suas vacinas? Saiba como acessar a carteira de vacinação pelo Meu SUS Digital",
     "veiculo": "Governo Federal",
-    "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPQndERFQ3R0pqT2d5MXpaTGhBQ3EtaW0xTkRRMzFUZFZtWmpLTEVQVnBQa2x6dmF2bVZ3N29Dam5zeGVIWThCVjB3ZjU0aEN0VENGWTJuZkR4VnhGWFZIRzVkb1lTbkttbmhZLWZhUFZ0bmxkVjdyVGltUWN4VVYwRGFJWUZrclRqTDhZUVRVQTlyOHlnemRHc21rVnM4WmJiMVdXT2hLVkdYaTlySldXeG91dkN5QzRreG5RXzhReXNQTGo2WG5NbkFqRHFyVTJWa2FmWElMLXZsSE9HWTcyYThOcXRwd2lPckxYc3Y1MzZlQ3d4M213WnhzT3FTbnJ2Ync?oc=5",
-    "resumo": "Ministério da Saúde apresenta campanha com orientações sobre acesso a consultas, exames e cirurgias pelo SUS  Governo Federal",
-    "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
-    "categoria": "eleicoes",
-    "categoria_label": "🗳️ Eleições & Campanhas",
+    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNZzJrbVRvRGEyQzVLaXlfNDRQemJJVk9DX0tfSlR4NHM5TTBNYklWWmNvaUFwYmVYZVFmbnkyOUhiN1FhZVlSendxbklMQ25MRnVWYXB5a01WdUdCTzNGMHkyRTd3NF9JaGY1TDZWLTctdHliUVVDVmNtREJPUllLQVNxSTctQnE2UlNsN294WG9YZy1BRnpTek9zSnE3YXFSdHdqZVpyN3g1VHR3bWJoQjdVV3dRUTdUQUhkVWVZcmJITEc4WUJOSEZnUVRrUHoyTGdHNnN3S0IycWhteWlDaG0wS3NZVHJlTlBncg?oc=5",
+    "resumo": "Quer consultar suas vacinas? Saiba como acessar a carteira de vacinação pelo Meu SUS Digital  Governo Federal",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Sul",
     "data_dia": "2026-10-06",
-    "hora": "Há 11h",
+    "hora": "Há 12h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -505,7 +505,7 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-10-06",
-    "hora": "Há 10h",
+    "hora": "Há 16h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -526,17 +526,17 @@
   },
   {
     "id": 36,
-    "titulo": "Lula perde votos em cidades mais dependentes do Bolsa Família",
-    "veiculo": "iG Último Segundo",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbWt1Vmg2Nnp3MzFOcEx1RzFfcFlGQVZFZDY3VmlBQUNRcFNGd1d6bkZtcTRyVGVjU0wtNmNRR1M2cUFMbWFMaGZpM0VGYTJQNURMUmZnTVpWUTJWRHRJdy1fM0dzOUxFVURFVk1EbWJMN3FhN25FMU9GMnJzSEpzZGVaRkc3aVhSQXhmX2pKWXZNOWFNTWQ3cnFlQUxMVktUM1NQQ2o2a2JxVXpkcHfSAbMBQVVfeXFMTXhBenNUdFUzeGdTSEY1M21tMzZjVTN6YndXMFA1UUF1RkdnTDNNWVJDbmpMcHpKZW9RM3htUDUzcmhMNjRaUXUtc2txODNOMzNtX1pfZlA0NllCQTZKVElaaWFweVF3YTltTm1ldWVSQVRuWjdVcHBUdENnMURaN1FQMldyY0ljeHJVakhRNm5fSC0tU1ZVb2tXb3UyQUMzM3pjT2RpTUtSbHZ0cDBrVlhJek0?oc=5",
-    "resumo": "Lula perde votos em cidades mais dependentes do Bolsa Família  iG Último Segundo",
-    "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
-    "categoria": "eleicoes",
-    "categoria_label": "🗳️ Eleições & Campanhas",
+    "titulo": "Veja quem criou o Bolsa Família, o Pix, o SUS e outros serviços e programas do governo federal",
+    "veiculo": "Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNODdud0swY1JSTmJEcmRscEtQTVNibDNOenNZUExvbDcwdTJtVjFoX3VEdVIwN1VSa0Q1U28tWm9CWGdkQmhhMUhEaURjUl9TVjN2cEV2QnNVVjlNRWZSSFpreExNTVprQ2RYSzV0T0ptRldLZWg0QlFuVFdPRXBQeDd1QTJENENxVlBwdG9GV1F0WGZJd1Z5Tm5xRWxYZHB5d2JhRlk4NnVQQ01IT18yTTV4VS1ST3BETVdTMGF5SmdCT3dobVBtNU9yZENkc0FzWW9LZFBRdGI4RVZtdkhCTWwzU1gyN2NVMktjRTc2b1N1NzRoMF9J0gGGAkFVX3lxTFB3VVlvMXNiMk5ESlRpV3JSejd5aWpYSFQ2a3pQSWt3a2xXSFh6N3FOX1NfTmRGd2JfOFRwN0JXb1dHT3V5M2M0Mnotelc4cHAycjU3R0plZGxFV3NYTUh3X2tvV3NPd0k4RWRZOGdBYUxKTTY3bTlYbzhYeThuQ1FwdUg1YkVFZnBtUF9UWjhTQ3FRNE5GNWZ4ZWV2ZmRvcFRjTmpQelVfQzJBRy1wYlByUFprd0xhZDdrOFphMGlCUFBZYThxcDd1akdBcF9mRFFuMHpfS25WWDd2ZmNObTNxbEtoek9CSXdCbE9TVWY3bjJNSWFOZXRrcmpjUkhRclhrTFhlVUE?oc=5",
+    "resumo": "Veja quem criou o Bolsa Família, o Pix, o SUS e outros serviços e programas do governo federal  Valor Econômico",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
-    "data_dia": "2026-10-06",
-    "hora": "Há 13h",
-    "tempo_leitura": "1 min de leitura",
+    "data_dia": "2026-10-03",
+    "hora": "03/10 06:00",
+    "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
@@ -556,21 +556,6 @@
   },
   {
     "id": 38,
-    "titulo": "Veja quem criou o Bolsa Família, o Pix, o SUS e outros serviços e programas do governo federal",
-    "veiculo": "Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNODdud0swY1JSTmJEcmRscEtQTVNibDNOenNZUExvbDcwdTJtVjFoX3VEdVIwN1VSa0Q1U28tWm9CWGdkQmhhMUhEaURjUl9TVjN2cEV2QnNVVjlNRWZSSFpreExNTVprQ2RYSzV0T0ptRldLZWg0QlFuVFdPRXBQeDd1QTJENENxVlBwdG9GV1F0WGZJd1Z5Tm5xRWxYZHB5d2JhRlk4NnVQQ01IT18yTTV4VS1ST3BETVdTMGF5SmdCT3dobVBtNU9yZENkc0FzWW9LZFBRdGI4RVZtdkhCTWwzU1gyN2NVMktjRTc2b1N1NzRoMF9J0gGGAkFVX3lxTFB3VVlvMXNiMk5ESlRpV3JSejd5aWpYSFQ2a3pQSWt3a2xXSFh6N3FOX1NfTmRGd2JfOFRwN0JXb1dHT3V5M2M0Mnotelc4cHAycjU3R0plZGxFV3NYTUh3X2tvV3NPd0k4RWRZOGdBYUxKTTY3bTlYbzhYeThuQ1FwdUg1YkVFZnBtUF9UWjhTQ3FRNE5GNWZ4ZWV2ZmRvcFRjTmpQelVfQzJBRy1wYlByUFprd0xhZDdrOFphMGlCUFBZYThxcDd1akdBcF9mRFFuMHpfS25WWDd2ZmNObTNxbEtoek9CSXdCbE9TVWY3bjJNSWFOZXRrcmpjUkhRclhrTFhlVUE?oc=5",
-    "resumo": "Veja quem criou o Bolsa Família, o Pix, o SUS e outros serviços e programas do governo federal  Valor Econômico",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
-    "regiao": "Nacional",
-    "data_dia": "2026-10-03",
-    "hora": "03/10 06:00",
-    "tempo_leitura": "2 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 39,
     "titulo": "Comissão aprova projeto que mantém diretrizes do Ministério da Saúde para mamografias no SUS",
     "veiculo": "Portal da Câmara dos Deputados",
     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVHN3UTQ0ZnBlM1NwemF4WUxIT2pjYk5nVS1VY05QSnNYb0tKS1dOQ2VaOG0wU1RLQ1ZYNHQ2UG85X2NCTE5ieUxkYUhWX05DLTh3RWZ4MnlTRG1ocU9zQVZBVzJZWTVYaklOXzhRYXZRTE5BZktRbndiYTV4VWtxbWVieWIwTVd1QUg3UjVIWkJvejdsaGxMajBYU2d4RkR2V2prbEp5RWstZTdZQ3N4N0NvV3ctTzVPc29VQWw5SWVNSkt3aHpLdDZMVV9YZ1Fo?oc=5",
@@ -585,17 +570,32 @@
     "urgente": false
   },
   {
+    "id": 39,
+    "titulo": "Ofuscado por crises no STF, Lula tenta retomar as rédeas da agenda com medidas populares",
+    "veiculo": "JOTA Jornalismo",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQzE4ZjhUWWxsNGdhVGVXWlpoS2hEMlZVMDFkVVMwcDdOTVRGVXNUdVFzNXptVENpYm1zZFhydlZUazdWQkFiTDNwQ1MzemxqeUdZR1dvSk1YQWVLYm5Hc3M1Z203SlNzTVhXRTFVQWVjQWctakJlOC1LeVp5YjNDM056TWJIY1pDbGc4UWlnM05FQ0RlaDNVaDhMRjJtb1lzVzVEeDZNRVJBNnEtdFlGNklaeGlXbERJM3pKVS0yS3pJTGVmWS13TWszUGk?oc=5",
+    "resumo": "Ofuscado por crises no STF, Lula tenta retomar as rédeas da agenda com medidas populares  JOTA Jornalismo",
+    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
+    "categoria": "geral",
+    "categoria_label": "📢 Notícias do Povo",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-04",
+    "hora": "04/10 07:00",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
     "id": 40,
-    "titulo": "Lula perde votos até em redutos do Bolsa Família, enquanto Flávio avança",
-    "veiculo": "Transmissão Política",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQU2lGVXdzMGJXaW5MYi1yVmtnaU1vcG9YeHlucFhHX1U3U0VTN19WandRV2pPN2tXSHlBYmFIVzVGS3JEeUhOSE4tYVJTQ1hyTFFfTU94YU5CNUlHLUl3OE5kYlRlU0xPS2hlVFhnWTdTdjRVYVIyV3BDbEtYSF9GLVJaWE1RSjlKR0M5QXhJaS1WUm5FM3dNTE9nbUw5dGVMaXc3MGJkbGVnQjBCZHc?oc=5",
-    "resumo": "Lula perde votos até em redutos do Bolsa Família, enquanto Flávio avança  Transmissão Política",
+    "titulo": "Lula perde votos em cidades mais dependentes do Bolsa Família",
+    "veiculo": "iG Último Segundo",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbWt1Vmg2Nnp3MzFOcEx1RzFfcFlGQVZFZDY3VmlBQUNRcFNGd1d6bkZtcTRyVGVjU0wtNmNRR1M2cUFMbWFMaGZpM0VGYTJQNURMUmZnTVpWUTJWRHRJdy1fM0dzOUxFVURFVk1EbWJMN3FhN25FMU9GMnJzSEpzZGVaRkc3aVhSQXhmX2pKWXZNOWFNTWQ3cnFlQUxMVktUM1NQQ2o2a2JxVXpkcHfSAbMBQVVfeXFMTXhBenNUdFUzeGdTSEY1M21tMzZjVTN6YndXMFA1UUF1RkdnTDNNWVJDbmpMcHpKZW9RM3htUDUzcmhMNjRaUXUtc2txODNOMzNtX1pfZlA0NllCQTZKVElaaWFweVF3YTltTm1ldWVSQVRuWjdVcHBUdENnMURaN1FQMldyY0ljeHJVakhRNm5fSC0tU1ZVb2tXb3UyQUMzM3pjT2RpTUtSbHZ0cDBrVlhJek0?oc=5",
+    "resumo": "Lula perde votos em cidades mais dependentes do Bolsa Família  iG Último Segundo",
     "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
     "categoria": "eleicoes",
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-06",
-    "hora": "Há 12h",
+    "hora": "Há 19h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -603,16 +603,16 @@
     "id": 41,
     "titulo": "Presidente do PT diz que campanha de Lula procura outros partidos e terá apoio de lideranças regionais",
     "veiculo": "Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOOW96d0NYcUt2VUNkWkNLLWc3Y2dscnJhUnB2ck5xUjdXb0tCSzJyVXBheFpfTnc4eERDNzRsblZMMEthWWpUd2x3Z042RDJmRzR0dUdHZXNIZ3FRX2dqalJPQ0JoVEhOWmZ3Y0lTNEJpZ2pjdzN3MDhxT0dMUWZuSDhzU2tBNklsc1JmRGdRMTV2dF9JZnBTNldwc2xrdFlfNmxmQXZ5RjFXeUxhbmV4Zmk0YVlZbm9DcFl6RG05T2g3Vk1UUndMZ1NQQlQ0MnhTSHo0VUNFNk13ckhuUzhSVVhtakh2VjJiVms0aXRsYzJfS1NqUDdSRGVWWHpacHFvaWp4WA?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOOW96d0NYcUt2VUNkWkNLLWc3Y2dscnJhUnB2ck5xUjdXb0tCSzJyVXBheFpfTnc4eERDNzRsblZMMEthWWpUd2x3Z042RDJmRzR0dUdHZXNIZ3FRX2dqalJPQ0JoVEhOWmZ3Y0lTNEJpZ2pjdzN3MDhxT0dMUWZuSDhzU2tBNklsc1JmRGdRMTV2dF9JZnBTNldwc2xrdFlfNmxmQXZ5RjFXeUxhbmV4Zmk0YVlZbm9DcFl6RG05T2g3Vk1UUndMZ1NQQlQ0MnhTSHo0VUNFNk13ckhuUzhSVVhtakh2VjJiVms0aXRsYzJfS1NqUDdSRGVWWHpacHFvaWp4WNIBkwJBVV95cUxNRXhKZGl3dzJWMmN1bVR1TkV5S3pPSjAyTlRzWThrMDMtd09KRFhINjRucHYzbElVYlpMTjEzX3NUWjIxRWNXXzFTRzFES08wYThHQ193emg4ZVI1el9SaExRVVlrdzZ1ajJXZElxU1o4aDgtZmRRZ2NZREJ1Y1lTM2MzZ3M4MHladjJUeGVKSHhneWZmdDZPMGJhMEQ2VTJiQ21sR0JwNUtheWprLTZqd2p5Z3gwS1BTQXlrT3JZZlhXMjV0S2UyMXFuSXdLNFBZbl9nbTg4NVVtOVJqOEt6V1RqdWxvQ0dyZ1NKNk9iRlpNNENzdm1iaFhFT3J5ZWhBc19SdGt2MXVjWEJPNVMydnFnbw?oc=5",
     "resumo": "Presidente do PT diz que campanha de Lula procura outros partidos e terá apoio de lideranças regionais  Valor Econômico",
     "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
     "categoria": "eleicoes",
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-06",
-    "hora": "Há 2h",
+    "hora": "Há 7h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 42,
