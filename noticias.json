@@ -10,9 +10,9 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-07",
-    "hora": "Há 33 min",
+    "hora": "Há 4h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 2,
@@ -25,9 +25,9 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Sudeste",
     "data_dia": "2026-10-07",
-    "hora": "Há 35 min",
+    "hora": "Há 4h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 3,
@@ -40,9 +40,9 @@
     "categoria_label": "✊ Direitos & Mobilização",
     "regiao": "Sudeste",
     "data_dia": "2026-10-07",
-    "hora": "Há 1h",
+    "hora": "Há 4h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 4,
@@ -55,9 +55,9 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-07",
-    "hora": "Há 1h",
+    "hora": "Há 4h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 5,
@@ -70,9 +70,9 @@
     "categoria_label": "📈 Conquistas & Economia",
     "regiao": "Nacional",
     "data_dia": "2026-10-07",
-    "hora": "Há 1h",
+    "hora": "Há 4h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 6,
@@ -85,9 +85,9 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-07",
-    "hora": "Há 1h",
+    "hora": "Há 5h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 7,
@@ -100,9 +100,9 @@
     "categoria_label": "📈 Conquistas & Economia",
     "regiao": "Nacional",
     "data_dia": "2026-10-07",
-    "hora": "Há 2h",
+    "hora": "Há 6h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 8,
@@ -115,7 +115,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-07",
-    "hora": "Há 3h",
+    "hora": "Há 6h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -130,7 +130,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-07",
-    "hora": "Há 3h",
+    "hora": "Há 7h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -145,9 +145,9 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-07",
-    "hora": "Há 1h",
+    "hora": "Há 5h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 11,
@@ -160,9 +160,9 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-07",
-    "hora": "Há 2h",
+    "hora": "Há 5h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 12,
@@ -175,7 +175,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Sul",
     "data_dia": "2026-10-07",
-    "hora": "Há 3h",
+    "hora": "Há 6h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -190,7 +190,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-07",
-    "hora": "Há 3h",
+    "hora": "Há 7h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -205,7 +205,7 @@
     "categoria_label": "📈 Conquistas & Economia",
     "regiao": "Nacional",
     "data_dia": "2026-10-07",
-    "hora": "Há 4h",
+    "hora": "Há 8h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -220,7 +220,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-07",
-    "hora": "Há 4h",
+    "hora": "Há 8h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -295,9 +295,9 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Norte",
     "data_dia": "2026-10-07",
-    "hora": "Há 1h",
+    "hora": "Há 5h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 21,
@@ -310,7 +310,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-07",
-    "hora": "Há 3h",
+    "hora": "Há 7h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -325,7 +325,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-07",
-    "hora": "Há 3h",
+    "hora": "Há 7h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -340,7 +340,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-07",
-    "hora": "Há 3h",
+    "hora": "Há 7h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -355,7 +355,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-07",
-    "hora": "Há 4h",
+    "hora": "Há 8h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -370,7 +370,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-07",
-    "hora": "Há 4h",
+    "hora": "Há 8h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -385,7 +385,7 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-10-07",
-    "hora": "Há 6h",
+    "hora": "Há 9h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -400,7 +400,7 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-10-07",
-    "hora": "Há 6h",
+    "hora": "Há 10h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -415,7 +415,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nordeste",
     "data_dia": "2026-10-07",
-    "hora": "Há 7h",
+    "hora": "Há 11h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -430,12 +430,27 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-07",
-    "hora": "Há 8h",
+    "hora": "Há 12h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
     "id": 30,
+    "titulo": "Aedes aegypti: 49% dos municípios avaliados estão em situação de alerta ou risco — Ministério da Saúde",
+    "veiculo": "Governo Federal",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeTdFOGQxcl84b0xIaHBfRjJtNzNhSnZmbzEwS2RRY1A5RFBlamhoSW1QUzRrWG9fd1NlaUxpUGVIUGZMOTR6a2dNNFVDdEhDMTZ4ekJLTGJuZTB5QldMa3pENXpzVXMzM0xsWE9KaFdXSkhMcVFpOXA5Z1JZNHF0dWZFM1VCLWNCSExqOFdqR2wzVUhNbjBwTXZFdDhpaUZPX0RTZFVaVkZFUk1ENFBPWTBGMDFNQ2k5ZHkzdzNHdE95UWI1QVV4eklDUnBjNGpnYXE5VFBiWEtXTHM?oc=5",
+    "resumo": "Aedes aegypti: 49% dos municípios avaliados estão em situação de alerta ou risco — Ministério da Saúde  Governo Federal",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-07",
+    "hora": "Há 6h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 31,
     "titulo": "Secretaria da Saúde recebe representantes da Hemobrás e do Ministério da Saúde para discutir ampliação da oferta de plasma",
     "veiculo": "Secretaria da Saúde",
     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUGx5SFlWM0ZYeG9jSWJkRjd4b1p5LXhqZXJfUkxCVno2OU5CWEZlYVcwMEtxdjJrZTFfenhEMzhKSE9ETlc5SjltMmpIdHVTOFZOYTlRckthaThNTnJHOXZ0aFRnaGt6bmZnbUhTUzNnWC12ajlnZFBUekdTWFVwb2Z5MjBPYWVVMHJxM2NuWmdzVHd3WVNIdVdCQWVxdDdHZkxNbVpCd3VnXzBReG9tM1VvcTFEZFNHeXUxMS1yV0p1S0xIU3FfcGFTZHROazRadDhUQU4zUFdJQlZzUndj?oc=5",
@@ -445,23 +460,8 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-10-07",
-    "hora": "Há 4h",
+    "hora": "Há 7h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 31,
-    "titulo": "Ministério da Saúde apresenta campanha com orientações sobre acesso a consultas, exames e cirurgias pelo SUS",
-    "veiculo": "Governo Federal",
-    "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPQndERFQ3R0pqT2d5MXpaTGhBQ3EtaW0xTkRRMzFUZFZtWmpLTEVQVnBQa2x6dmF2bVZ3N29Dam5zeGVIWThCVjB3ZjU0aEN0VENGWTJuZkR4VnhGWFZIRzVkb1lTbkttbmhZLWZhUFZ0bmxkVjdyVGltUWN4VVYwRGFJWUZrclRqTDhZUVRVQTlyOHlnemRHc21rVnM4WmJiMVdXT2hLVkdYaTlySldXeG91dkN5QzRreG5RXzhReXNQTGo2WG5NbkFqRHFyVTJWa2FmWElMLXZsSE9HWTcyYThOcXRwd2lPckxYc3Y1MzZlQ3d4M213WnhzT3FTbnJ2Ync?oc=5",
-    "resumo": "Ministério da Saúde apresenta campanha com orientações sobre acesso a consultas, exames e cirurgias pelo SUS  Governo Federal",
-    "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
-    "categoria": "eleicoes",
-    "categoria_label": "🗳️ Eleições & Campanhas",
-    "regiao": "Sul",
-    "data_dia": "2026-10-06",
-    "hora": "06/10 10:08",
-    "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
@@ -475,27 +475,12 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-10-07",
-    "hora": "Há 1h",
+    "hora": "Há 2h",
     "tempo_leitura": "1 min de leitura",
     "urgente": true
   },
   {
     "id": 33,
-    "titulo": "Ministério da Saúde amplia núcleo dedicado à saúde mental dos trabalhadores",
-    "veiculo": "Medicina S/A",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE53UndVV3g2bFVqY0tIeV9uV3Z1aHFMUDZSOG4wTE9Tdm9LT29GUVV2N1V0Z2tETVdzaEE0NVc2QTZEdXpIclFGT0pPZjFrNmdHU0xRa0xpYWxXd2FSZkFsa2JpOA?oc=5",
-    "resumo": "Ministério da Saúde amplia núcleo dedicado à saúde mental dos trabalhadores  Medicina S/A",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
-    "regiao": "Nacional",
-    "data_dia": "2026-10-07",
-    "hora": "Há 15h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 34,
     "titulo": "Flávio Bolsonaro e Lula: as propostas dos candidatos à Presidência que disputam o 2º turno",
     "veiculo": "BBC",
     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9INUhJaTNkVFZHcW96RTBSYVY5dW82bWotbXdtRUx4RUxlOXp0MzNoRVROS2tzeXlHLXI1RUtSUnpIUzF4RWR3cTZldjlHa3hxU0lnWC1kbzlhTzI0WXp1b2NRYw?oc=5",
@@ -510,37 +495,37 @@
     "urgente": false
   },
   {
-    "id": 35,
-    "titulo": "Sarampo avança nas Américas e Ministério da Saúde amplia vigilância no Brasil",
-    "veiculo": "A Notícia do Ceará",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRU8tWlF1RmpYdXBCcUtvRkxPRHAwbm9BV3BNVF9id0R1MEVWQWp5aE5MeFRYa1p4MXN2SlZCR0RaMGFfdlhHUXBOQzR1ZWxyaVk3VkdJczNvaTE1OW5KUXZXWko4dzBzdzdmSDNyNEYyWHFURVhwM1lScm9QaHNkdGRJSGtFS0hJZXFiUW8tNDBBVzdyMzljVkVQZW1jNkNSVkFVbTByMWJ2SEVTVkE?oc=5",
-    "resumo": "Sarampo avança nas Américas e Ministério da Saúde amplia vigilância no Brasil  A Notícia do Ceará",
+    "id": 34,
+    "titulo": "Ministério da Saúde amplia núcleo dedicado à saúde mental dos trabalhadores",
+    "veiculo": "Medicina S/A",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE53UndVV3g2bFVqY0tIeV9uV3Z1aHFMUDZSOG4wTE9Tdm9LT29GUVV2N1V0Z2tETVdzaEE0NVc2QTZEdXpIclFGT0pPZjFrNmdHU0xRa0xpYWxXd2FSZkFsa2JpOA?oc=5",
+    "resumo": "Ministério da Saúde amplia núcleo dedicado à saúde mental dos trabalhadores  Medicina S/A",
     "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
     "categoria": "social",
     "categoria_label": "🏛️ Políticas Públicas",
-    "regiao": "Nordeste",
-    "data_dia": "2026-10-07",
-    "hora": "Há 2h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": true
-  },
-  {
-    "id": 36,
-    "titulo": "Lula perde espaço, e Flávio Bolsonaro cresce em cidades do Bolsa Família no 1° turno das Eleições 2026",
-    "veiculo": "Jornal Correio",
-    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQ0RuQ3FEajVXOTRtYnZyUlBSTUtGdUEycHZTbElTVWJqRklkRkdHYWhZbUszVkxDNG9icE5DdWxUbElMYXR2blZWZXRleHY2N2pRQzJEWjhpenBMa0ZZMS11T2FkRmN2ZkFCMkt0cGJLb25LWVpDejZRRmlCRHp1U20zVzRKSDhuMU5XQ1Z0MVdzYWZITkxTbUp1TENINUJ1TGtwU1R2UWRDeVF4S2dFZ0htSWV1MGV2RFc5Y1YwM1FWbllIXzBvajhuQ19taUxaR1RpbVR6US1JOWJEbGIxZU9R?oc=5",
-    "resumo": "Lula perde espaço, e Flávio Bolsonaro cresce em cidades do Bolsa Família no 1° turno das Eleições 2026  Jornal Correio",
-    "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
-    "categoria": "eleicoes",
-    "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-07",
-    "hora": "Há 4h",
-    "tempo_leitura": "2 min de leitura",
+    "hora": "Há 19h",
+    "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 37,
+    "id": 35,
+    "titulo": "Ministério da Saúde apresenta campanha com orientações sobre acesso a consultas, exames e cirurgias pelo SUS",
+    "veiculo": "Governo Federal",
+    "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPQndERFQ3R0pqT2d5MXpaTGhBQ3EtaW0xTkRRMzFUZFZtWmpLTEVQVnBQa2x6dmF2bVZ3N29Dam5zeGVIWThCVjB3ZjU0aEN0VENGWTJuZkR4VnhGWFZIRzVkb1lTbkttbmhZLWZhUFZ0bmxkVjdyVGltUWN4VVYwRGFJWUZrclRqTDhZUVRVQTlyOHlnemRHc21rVnM4WmJiMVdXT2hLVkdYaTlySldXeG91dkN5QzRreG5RXzhReXNQTGo2WG5NbkFqRHFyVTJWa2FmWElMLXZsSE9HWTcyYThOcXRwd2lPckxYc3Y1MzZlQ3d4M213WnhzT3FTbnJ2Ync?oc=5",
+    "resumo": "Ministério da Saúde apresenta campanha com orientações sobre acesso a consultas, exames e cirurgias pelo SUS  Governo Federal",
+    "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
+    "categoria": "eleicoes",
+    "categoria_label": "🗳️ Eleições & Campanhas",
+    "regiao": "Sul",
+    "data_dia": "2026-10-06",
+    "hora": "06/10 10:08",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 36,
     "titulo": "Programa da semana orienta sobre como buscar o Ministério Público para solicitar apoio em demandas na área da saúde",
     "veiculo": "Ministério Público do Estado do Paraná",
     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTFFiTnV1UDZvV3hfaFVQUGxIS2g1NFdFbUhDbThHdGRZUm5lX3N3ck1kVnVTMGtjMXF5R1hidTNCS1VmNTFEcnlRSjlZRDdfYmowVVFra0w4YkI3Wlk5SGNJZ3lXRFZPVGlvajEtNXFqbEMzbjljWjBETzVGVmlEdDlWeWlaMHFFNENwMnBwalQySFUzVkNtUm1vNzVtc3luWmdRSTc4QTc5Y0NwN2hwOFhadmYxSU0?oc=5",
@@ -552,6 +537,21 @@
     "data_dia": "2026-10-06",
     "hora": "06/10 12:07",
     "tempo_leitura": "2 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 37,
+    "titulo": "Sarampo avança nas Américas e Ministério da Saúde amplia vigilância no Brasil",
+    "veiculo": "A Notícia do Ceará",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRU8tWlF1RmpYdXBCcUtvRkxPRHAwbm9BV3BNVF9id0R1MEVWQWp5aE5MeFRYa1p4MXN2SlZCR0RaMGFfdlhHUXBOQzR1ZWxyaVk3VkdJczNvaTE1OW5KUXZXWko4dzBzdzdmSDNyNEYyWHFURVhwM1lScm9QaHNkdGRJSGtFS0hJZXFiUW8tNDBBVzdyMzljVkVQZW1jNkNSVkFVbTByMWJ2SEVTVkE?oc=5",
+    "resumo": "Sarampo avança nas Américas e Ministério da Saúde amplia vigilância no Brasil  A Notícia do Ceará",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
+    "regiao": "Nordeste",
+    "data_dia": "2026-10-07",
+    "hora": "Há 6h",
+    "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
@@ -571,21 +571,6 @@
   },
   {
     "id": 39,
-    "titulo": "Bolsa Família: Lula e Flávio Bolsonaro discordam sobre futuro do benefício, mas concordam em um ponto; veja qual",
-    "veiculo": "NSC Total",
-    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcHg0azFHWkFGLXBLMHphVTBRRHUwYS02TndUeGZEUUYzMlhBNi1aOXB2ZG9SX3lLaE13QU91aGNZZkhsLUhsYXVQNGU2MjBYM2NyVkNacFNERVRRYU9PcGdIZGh1S1c1OUliUVE2dThwWkRId19hUEpzUW50VW5CZmpfb1JvVFpTNDkzWjlBVWdJYWVjaHNnSW1pWXBoVHJVSnIzZjI2S21weS14M3FDN1lPV2Y4WDVSV3JndzZpdkphN0o0ZEtsRXlidzJOd1paTTR0NVJMTXRHcnZDNjZJ?oc=5",
-    "resumo": "Bolsa Família: Lula e Flávio Bolsonaro discordam sobre futuro do benefício, mas concordam em um ponto; veja qual  NSC Total",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
-    "regiao": "Nacional",
-    "data_dia": "2026-10-07",
-    "hora": "Há 14h",
-    "tempo_leitura": "2 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 40,
     "titulo": "Saúde amplia frota do SAMU com nova ambulância recebida do Ministério da Saúde",
     "veiculo": "Prefeitura Municipal de Araçatuba",
     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNd29yTjhvZkFqeDkxSE5NYUUxYlNZWWdKODhOdlllUHZUTG5wcEk2NXdJdkhpVFp3UTRfTGRtd2FUWVl2WWpES3RnMDNEUTZlc2s0T3NmREluaFJkLWRwazBUR0pUZmgzN19DSEhkVVhzQ0xvem04bHJSby13clhmSW1JSk1wMTJuZF8yR3daSU5kcnV0TUNnbmFpYmwtNk4wNTk3OUs1SW0yMEFEMGs3dA?oc=5",
@@ -600,32 +585,47 @@
     "urgente": false
   },
   {
+    "id": 40,
+    "titulo": "Ofuscado por crises no STF, Lula tenta retomar as rédeas da agenda com medidas populares",
+    "veiculo": "JOTA Jornalismo",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQzE4ZjhUWWxsNGdhVGVXWlpoS2hEMlZVMDFkVVMwcDdOTVRGVXNUdVFzNXptVENpYm1zZFhydlZUazdWQkFiTDNwQ1MzemxqeUdZR1dvSk1YQWVLYm5Hc3M1Z203SlNzTVhXRTFVQWVjQWctakJlOC1LeVp5YjNDM056TWJIY1pDbGc4UWlnM05FQ0RlaDNVaDhMRjJtb1lzVzVEeDZNRVJBNnEtdFlGNklaeGlXbERJM3pKVS0yS3pJTGVmWS13TWszUGk?oc=5",
+    "resumo": "Ofuscado por crises no STF, Lula tenta retomar as rédeas da agenda com medidas populares  JOTA Jornalismo",
+    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
+    "categoria": "geral",
+    "categoria_label": "📢 Notícias do Povo",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-04",
+    "hora": "04/10 07:00",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
     "id": 41,
-    "titulo": "Republicanos formaliza apoio a Flávio Bolsonaro no segundo turno",
+    "titulo": "Flávio recebe apoio do Republicanos e do Novo para segundo turno",
     "veiculo": "Valor Econômico",
     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdWZ5WVdZb0Z1WGwwX2E3RTlpeF9qYm4yZlhmVmp5Ukl1b3lqZVF5T2F1WTNlMTdTeWxQSGxEenJveXU0amZVZTlyYm9yWG1OZHNwRGQtRFJEdXFmbnRvLUtDd210cWNmY195czliVEJCYWZrUEIzS21kQ1NZbmRjcFROUWZJZUdpTHl0VkF5WlVYSVk0Z2JLbjBEU2ltN25QZlp4YTllOV9WcHVya0VyQ1pvNktLTEtsWGd5QVNaVW95Z0szZU1VU2JJTHNpV2VTVlHSAeABQVVfeXFMT1RYd0N4U0N0SHJhVzg2Z003MDB3TW5TcGw4RWRjLVJjREpDNUE0Y0ExWXR4Q1htaGxOQ29OVVpaSGxmNkFZdDNXSTN3NkIwTFczVUxqSkF5WkpDRWhLQU9QV09WT1RqUXFDQy1jT1VPc3pyOGdWaDJ1eEpnV0lPWW9SQk9VQllIUDVpU1Z4Yk01WlBJVHJaYVdNR3NXT3ZwSjhOQ21CekYyT2dmaXdjVjdvSmhza1p1bllPOXpIVk0wbHg5TEZYUjBiT043blpLVFZ1MDhqRlphb05zRUVYVlM?oc=5",
-    "resumo": "Republicanos formaliza apoio a Flávio Bolsonaro no segundo turno  Valor Econômico",
+    "resumo": "Flávio recebe apoio do Republicanos e do Novo para segundo turno  Valor Econômico",
     "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
     "categoria": "geral",
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-07",
-    "hora": "Há 1h",
+    "hora": "Há 4h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 42,
-    "titulo": "Defensoria e Univaja assinam acordo para apoiar indígenas do Javari",
-    "veiculo": "Agência Brasil",
-    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdHVqZkRqbHlycXlyTE9SY1dFck5QdVlGZEhtMDJHN25XUXlXRzZRalo5dkhYSnRWaU53OGxseWd5VXpPSVN0TW5uVEZnd3ZRVUpDQUxndk5NZWFyTFFJc0ZOSEY2T0tNaUNZRlNvcTBhTlRnNk1SaGxjaE9lNmpTVzlvUHlwZ1IyWnNDNFMwWnIwa0tpSWFSUGgyT0o1T2dPLVVQZVg4aVdhSzVEdkVoODhyMEtONHNjcXdlY0lxNEFyX0NnOU9USktBVXduQQ?oc=5",
-    "resumo": "Defensoria e Univaja assinam acordo para apoiar indígenas do Javari  Agência Brasil",
+    "titulo": "Jornada Sem Terrinha 2026 une memória de Carajás, solidariedade e defesa da democracia",
+    "veiculo": "mst.org.br",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNzl3WHF5LTZuVHhmNWJFdzdub3A4a1ktaHFFWVR2a2lpTzBYSkFmRlY1S1d3ZXA2Y3I4dHh2bFJiRTFpeGhFNTNlOWllVGh0UEpiNWpwSWtMME9IbEcyc1oyZl9rSHZVZUR0ZzdVZTJqdi1tbUVGQXlIM0N2LTV4TmdFc01Vc2FCUHhPZ1lqR3BrRTRQTWpXUjNTUU1CdlFKckZfdFlFcjBEQ3Jfd01IVDZHeW9HYlk?oc=5",
+    "resumo": "Jornada Sem Terrinha 2026 une memória de Carajás, solidariedade e defesa da democracia  mst.org.br",
     "imagem": "https://images.unsplash.com/photo-1531206715517-5c0ba140b2b8?w=800&q=80",
     "categoria": "direitos",
     "categoria_label": "✊ Direitos & Mobilização",
     "regiao": "Nacional",
     "data_dia": "2026-10-07",
-    "hora": "Há 6h",
+    "hora": "Há 8h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   }
