@@ -10,9 +10,9 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-08",
-    "hora": "Há 1h",
+    "hora": "Há 8h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 2,
@@ -25,9 +25,9 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-08",
-    "hora": "Há 1h",
+    "hora": "Há 8h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 3,
@@ -40,9 +40,9 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Sudeste",
     "data_dia": "2026-10-08",
-    "hora": "Há 2h",
+    "hora": "Há 9h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 4,
@@ -55,9 +55,9 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Centro-Oeste",
     "data_dia": "2026-10-08",
-    "hora": "Há 2h",
+    "hora": "Há 9h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 5,
@@ -70,9 +70,9 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Centro-Oeste",
     "data_dia": "2026-10-08",
-    "hora": "Há 2h",
+    "hora": "Há 9h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 6,
@@ -85,9 +85,9 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-08",
-    "hora": "Há 2h",
+    "hora": "Há 9h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 7,
@@ -100,9 +100,9 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-08",
-    "hora": "Há 2h",
+    "hora": "Há 9h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 8,
@@ -115,9 +115,9 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-10-08",
-    "hora": "Há 2h",
+    "hora": "Há 9h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 9,
@@ -130,7 +130,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-08",
-    "hora": "Há 3h",
+    "hora": "Há 10h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -145,7 +145,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-08",
-    "hora": "Há 3h",
+    "hora": "Há 10h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -160,7 +160,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-08",
-    "hora": "Há 3h",
+    "hora": "Há 10h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -175,7 +175,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-08",
-    "hora": "Há 4h",
+    "hora": "Há 11h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -190,7 +190,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-08",
-    "hora": "Há 4h",
+    "hora": "Há 11h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -205,7 +205,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-08",
-    "hora": "Há 5h",
+    "hora": "Há 12h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -220,7 +220,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-08",
-    "hora": "Há 6h",
+    "hora": "Há 13h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -235,7 +235,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-08",
-    "hora": "Há 7h",
+    "hora": "Há 14h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -310,9 +310,9 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-08",
-    "hora": "Há 2h",
+    "hora": "Há 9h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 22,
@@ -325,7 +325,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-08",
-    "hora": "Há 4h",
+    "hora": "Há 11h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -340,7 +340,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-08",
-    "hora": "Há 4h",
+    "hora": "Há 11h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -355,7 +355,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-08",
-    "hora": "Há 4h",
+    "hora": "Há 11h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -370,7 +370,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nordeste",
     "data_dia": "2026-10-08",
-    "hora": "Há 4h",
+    "hora": "Há 11h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -385,7 +385,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-08",
-    "hora": "Há 5h",
+    "hora": "Há 12h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -400,7 +400,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-08",
-    "hora": "Há 6h",
+    "hora": "Há 13h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -415,7 +415,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-08",
-    "hora": "Há 7h",
+    "hora": "Há 14h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -430,7 +430,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-08",
-    "hora": "Há 7h",
+    "hora": "Há 14h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -445,7 +445,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Sul",
     "data_dia": "2026-10-08",
-    "hora": "Há 7h",
+    "hora": "Há 14h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -460,27 +460,12 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Sul",
     "data_dia": "2026-10-08",
-    "hora": "Há 6h",
+    "hora": "Há 13h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
     "id": 32,
-    "titulo": "Bolsa Família: o que Lula e Flávio propõem sobre o programa",
-    "veiculo": "BBC",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1oWVJvbjZTNm1CaUZjd0NFNFhpY01KOFJPX3hQUmpYdFV5N2hWNy1LTDdzODRjaEtSU0RpNzg3QzB3eHJ2NW1QOG05TDVxLTFZbVB4RWZZTy1mWm43b29vTlNBTdIBaEFVX3lxTFBDX2RLaG05bjg3WC1YaWYwdzBqOVpFazlLZ3NCSFY4dF9sRXBRaXk1NTRONVRLaWdlTTc1TGhTeWhLOHRUd09pMjFPYV9Mc2hQZmF6Y1VwZklGd3VzcWhvV0FKZmt5MzNs?oc=5",
-    "resumo": "Bolsa Família: o que Lula e Flávio propõem sobre o programa  BBC",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
-    "regiao": "Nacional",
-    "data_dia": "2026-10-08",
-    "hora": "Há 17h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 33,
     "titulo": "Alexandre Padilha: ‘Só Lula protege o SUS da tesoura do Milei que Flávio Bolsonaro quer trazer para cá’",
     "veiculo": "Brasil de Fato",
     "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOejc4dXN6VFZKNDJJZTlUb0NIeFBfMEpHWnJTYjh3MDhzYkRlNTc1UHVjcFY3d2hmc2JOQ3VXRVhiVU40VGJTUXQtWU9kMDIwbDNOUVJQNmliUzY0UG1LMFNnVGEzSXpjNjdibjFUQy11VE44T2RyaHRlZmpRM2d5Sll3UGR6Zk5DXzZnY1NJZHBDejN2ejJDamMxMzlZRFN2b2Q5aTU4TUlaeG5YUDFXYnVUNm5EMktteFFIOTllTGdPMHdab3ZIaDZvc1V2cnNJX0FhWDRENlkzc0FSQjk0U2F2QXJ1SUswVGQxeVdELVVSd0NO?oc=5",
@@ -490,8 +475,23 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-10-08",
-    "hora": "Há 9h",
+    "hora": "Há 16h",
     "tempo_leitura": "2 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 33,
+    "titulo": "Bolsa Família: o que Lula e Flávio propõem sobre o programa",
+    "veiculo": "BBC",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1oWVJvbjZTNm1CaUZjd0NFNFhpY01KOFJPX3hQUmpYdFV5N2hWNy1LTDdzODRjaEtSU0RpNzg3QzB3eHJ2NW1QOG05TDVxLTFZbVB4RWZZTy1mWm43b29vTlNBTdIBaEFVX3lxTFBDX2RLaG05bjg3WC1YaWYwdzBqOVpFazlLZ3NCSFY4dF9sRXBRaXk1NTRONVRLaWdlTTc1TGhTeWhLOHRUd09pMjFPYV9Mc2hQZmF6Y1VwZklGd3VzcWhvV0FKZmt5MzNs?oc=5",
+    "resumo": "Bolsa Família: o que Lula e Flávio propõem sobre o programa  BBC",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-08",
+    "hora": "08/10 06:01",
+    "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
@@ -505,57 +505,12 @@
     "categoria_label": "📈 Conquistas & Economia",
     "regiao": "Nacional",
     "data_dia": "2026-10-08",
-    "hora": "Há 6h",
+    "hora": "Há 13h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
     "id": 35,
-    "titulo": "Flávio desmente Lula sobre cortes no Bolsa Família: \"É sagrado, ninguém toca\"",
-    "veiculo": "Band",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcFQxMlZ5X0FBVThsNGQtb0JnMXg1RGZwQjJMc1AzcEhBMTdYYVlyMnprZ190a2p0ZE5VNTFPbGlGeWFUbk5OWUZxZ0ZaSWROeENoR2RKekhOQTMwaEd6eHFrbk9kWUl0T0wwMEhRNnZrQk9NOUwzdXZSUWtZM3dfVDBqWGV6cXZRUWs4WnJjOVJNdGlWcXV5c1FidlZ3UHJnQ0NFLVVJNWFMeTQxMTNPb3lpZ2hHdw?oc=5",
-    "resumo": "Flávio desmente Lula sobre cortes no Bolsa Família: \"É sagrado, ninguém toca\"  Band",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
-    "regiao": "Nacional",
-    "data_dia": "2026-10-08",
-    "hora": "Há 2h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": true
-  },
-  {
-    "id": 36,
-    "titulo": "Mendonça nega direito de resposta a Flávio por propaganda de Lula sobre bolsa família",
-    "veiculo": "Jovem Pan",
-    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObW51d2dxSDZhR080M3FqSzJtRVdhV01XSkxtM2w5S19IYXR6Yk9LeWFqdS1CY0dXbVMzMFVGNHBuZmhwR1FTa1luM1FOLXRGLXEyTjFTNm5BVzVXWnIxM0VxbEszS2pOQVN5RTBzUVp0cFFZRGtvbzhmVTNTMHRoWENmbUtOWkM5eUQzNGlkQVNHT183ejl3M0VTMWlVZGd2MU5TOXBDOWZxdDk2dnN5WTBDclVMYzZZbENkV0VwcmpjbzRVNG5QTjhJay1nZklPRWc?oc=5",
-    "resumo": "Mendonça nega direito de resposta a Flávio por propaganda de Lula sobre bolsa família  Jovem Pan",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
-    "regiao": "Nacional",
-    "data_dia": "2026-10-08",
-    "hora": "Há 4h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 37,
-    "titulo": "Campanha do Ministério da Saúde orienta população sobre riscos relacionados às apostas e serviços de cuidado no SUS",
-    "veiculo": "COSEMS/SP",
-    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVTMyQUVJdTU3RzlsaHU1QUVZeUhmTjJtU2F3NjJPMVppajhDLV9QZE92RDh2QnNwd1FRY3E4S21keWhWOXRYSENKLUtyR0RGcWhObkVQUGhqZ3JtSEE5VFhNb3VPUEM1cmR6bzNnZWdGMHVjSzMyczROb3E5SkszZkhUSmdnNHVweUV1VmhHTXVkUGdTbVJxMjNpbm50akdyTGE0b3lkUGtHRUVKdVBmWUUwWk9MYV9BVjI2WnJ6d1VSemtfUlhZR2hPQ0xQWGFGbTM5azlLVEhxLTR3OENlWFd5emdBLXV6?oc=5",
-    "resumo": "Campanha do Ministério da Saúde orienta população sobre riscos relacionados às apostas e serviços de cuidado no SUS  COSEMS/SP",
-    "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
-    "categoria": "eleicoes",
-    "categoria_label": "🗳️ Eleições & Campanhas",
-    "regiao": "Nacional",
-    "data_dia": "2026-10-08",
-    "hora": "Há 15h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 38,
     "titulo": "Secretaria da Saúde recebe representantes da Hemobrás e do Ministério da Saúde para discutir ampliação da oferta de plasma",
     "veiculo": "Secretaria da Saúde",
     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUGx5SFlWM0ZYeG9jSWJkRjd4b1p5LXhqZXJfUkxCVno2OU5CWEZlYVcwMEtxdjJrZTFfenhEMzhKSE9ETlc5SjltMmpIdHVTOFZOYTlRckthaThNTnJHOXZ0aFRnaGt6bmZnbUhTUzNnWC12ajlnZFBUekdTWFVwb2Z5MjBPYWVVMHJxM2NuWmdzVHd3WVNIdVdCQWVxdDdHZkxNbVpCd3VnXzBReG9tM1VvcTFEZFNHeXUxMS1yV0p1S0xIU3FfcGFTZHROazRadDhUQU4zUFdJQlZzUndj?oc=5",
@@ -570,7 +525,22 @@
     "urgente": false
   },
   {
-    "id": 39,
+    "id": 36,
+    "titulo": "Flávio desmente Lula sobre cortes no Bolsa Família: \"É sagrado, ninguém toca\"",
+    "veiculo": "Band",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcFQxMlZ5X0FBVThsNGQtb0JnMXg1RGZwQjJMc1AzcEhBMTdYYVlyMnprZ190a2p0ZE5VNTFPbGlGeWFUbk5OWUZxZ0ZaSWROeENoR2RKekhOQTMwaEd6eHFrbk9kWUl0T0wwMEhRNnZrQk9NOUwzdXZSUWtZM3dfVDBqWGV6cXZRUWs4WnJjOVJNdGlWcXV5c1FidlZ3UHJnQ0NFLVVJNWFMeTQxMTNPb3lpZ2hHdw?oc=5",
+    "resumo": "Flávio desmente Lula sobre cortes no Bolsa Família: \"É sagrado, ninguém toca\"  Band",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-08",
+    "hora": "Há 9h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 37,
     "titulo": "Aedes aegypti: quase metade dos municípios está em alerta ou risco",
     "veiculo": "Agência Brasil",
     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPa0xGazRaNUxYNlQxU3d3SGJDd0NrbkJob2NwRVlDUVJCN2F3cHB3TGdRRmdPamllVDNtLTBDd0w3R084R2dkOWVQUk05b0YxMHpEeVBjTzN3dGlHNkVfN1YydzRXVGpwRmpXZTdQZWRVWVRobHE4U0pLVXMzWnhRRWJyQmJEYUl0T1Ewck0ybXNpYkJIZmYzWXBsdHdxZ1ZkRVhhR1gwYkZGMGRiM2Q0eTJQNnRhUGVnRVdKcA?oc=5",
@@ -580,12 +550,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-08",
-    "hora": "Há 10h",
+    "hora": "Há 17h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 40,
+    "id": 38,
     "titulo": "Ministério da Saúde apresenta campanha com orientações sobre acesso a consultas, exames e cirurgias pelo SUS",
     "veiculo": "Governo Federal",
     "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPQndERFQ3R0pqT2d5MXpaTGhBQ3EtaW0xTkRRMzFUZFZtWmpLTEVQVnBQa2x6dmF2bVZ3N29Dam5zeGVIWThCVjB3ZjU0aEN0VENGWTJuZkR4VnhGWFZIRzVkb1lTbkttbmhZLWZhUFZ0bmxkVjdyVGltUWN4VVYwRGFJWUZrclRqTDhZUVRVQTlyOHlnemRHc21rVnM4WmJiMVdXT2hLVkdYaTlySldXeG91dkN5QzRreG5RXzhReXNQTGo2WG5NbkFqRHFyVTJWa2FmWElMLXZsSE9HWTcyYThOcXRwd2lPckxYc3Y1MzZlQ3d4M213WnhzT3FTbnJ2Ync?oc=5",
@@ -600,6 +570,36 @@
     "urgente": false
   },
   {
+    "id": 39,
+    "titulo": "Lula diz que plano de ajuste de Flávio Bolsonaro é para 'cortar do sangue do povo'",
+    "veiculo": "Folha de S.Paulo",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQS3RJOTc3OE1jQnBwMjFmWWVELVh0M1B2QnVUb2RCRFhqNk5pb2ljVWpGbms2ZDBxWkV5UVB5RzUxd1NrOVdzRUFMaHBfM2pRWDB4X09BbXlQQWpnbm5qUXIwTVpXenZGN2dCMVEtRVVGUkx0TmVidjJZRE9mak42UEZTa0dlN2pNNFI0OUEyQ3p5NWs2bkpNSHdLT2p5WHp5R1htWlc2cnItTDE3eHdncnpUYkR6dmdhTVRjUElYeWNWWG1KWXE4NE1jSXA?oc=5",
+    "resumo": "Lula diz que plano de ajuste de Flávio Bolsonaro é para 'cortar do sangue do povo'  Folha de S.Paulo",
+    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
+    "categoria": "geral",
+    "categoria_label": "📢 Notícias do Povo",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-08",
+    "hora": "Há 17h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 40,
+    "titulo": "Raio-x da votação: dias após reajuste, Lula teve desempenho abaixo de 2022 em municípios dependentes do Bolsa Família",
+    "veiculo": "O GLOBO",
+    "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPWnR0SndtaE14czdhc0IxUl9SdUVTUEZLajRGU0s1bjdUekpxc08tZVhUVExlWkJLamFrSndTVURrYXFseXFYSjBPWGx5M3o1RXZOa2xOUDNjY1hGRkFEX0NYZGJXMi12eEgzZ3hJcDNRWmRZNXZwajBwNmV6Y0xiR3N6QkZJdE03b2EyNkY3YlVqSm1Ja2pyNTE1S1BRVU9RZTJtN2Nnb2VaZTNWY2JxM3dhc2VncF9XVzJtV2hQSGQ2X3paeTdVLXk3VUlocjludzdXVnEtSEsxS2dVREhwZ1BnTzZRc2U0Ym1jVVM2SXZZckt6RUROSFk4RE5GLThBYjBWUmkxX29SWjJfRG95bldiNFVyOG_SAaYCQVVfeXFMUFRsRlA5Q0NTdDYwcExObWpDUWoxQlF3SHZIMzZxeVZIemR1NGgwWGFDLTR6ZUQzUHVpOG9vNEhId2RhbW5PaGtYR1FyWnd3QUlmcXY5SldiUkF1SGh4Y1dlcDl1bUpMMUxVSUdLNEtBcnJRVGJLdU5QeVl2TXlQb3lsZTdtXzB4bDlLbzh6SWoyaGxXUWg0R043N0FvS1NGY3ZYVWNyNzRSbnM5bXBqVzVPSGpkLUNndnh2czV1UHFyc0lSMlZEUm4zZ21rZ2l0U0hxUEZhQ1Noei1ZX2dkYkN6WkRsdHJlYnYzNVZvZUJfcnFNa0ZRNkdqOEZNYzVwOWtJZld1WDVwcFZjeXYwOTJsQ2ZUc3lZZGZxUlpvS2kwM0FCMXpR?oc=5",
+    "resumo": "Raio-x da votação: dias após reajuste, Lula teve desempenho abaixo de 2022 em municípios dependentes do Bolsa Família  O GLOBO",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-08",
+    "hora": "08/10 03:30",
+    "tempo_leitura": "2 min de leitura",
+    "urgente": false
+  },
+  {
     "id": 41,
     "titulo": "Eleições 2026 com inclusão em todo o Pará: Apoio e adaptações fazem a diferença",
     "veiculo": "Tribunal Regional Eleitoral do Pará",
@@ -610,22 +610,22 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Norte",
     "data_dia": "2026-10-08",
-    "hora": "Há 9h",
+    "hora": "Há 16h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
     "id": 42,
-    "titulo": "Projeto de Flávio Bolsonaro para terras indígenas: muita soja e demarcação zero",
-    "veiculo": "O Joio e O Trigo",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQ05xdTlHNXhuUUEwWTk1ZlpoSjlNV0ktLWc3NlE4OERnU0E3SWgzYnBBbGZydFFaVUlJc1lPd1dERTdYYS1JMXB0cVlJX1JBelZVNVIzamIwbzc4ZmM1YTNlOTFjTGw3bnJSWnpfRHhoYTJNbTlBUVpNZ01oTUJNSF9HZmxDal9OR092MkN5Y01xU19UVXloTElibjd6RTlfZ1hBNVJXNjZjQ0poSEhFZ21mWUZMUQ?oc=5",
-    "resumo": "Projeto de Flávio Bolsonaro para terras indígenas: muita soja e demarcação zero  O Joio e O Trigo",
-    "imagem": "https://images.unsplash.com/photo-1531206715517-5c0ba140b2b8?w=800&q=80",
-    "categoria": "direitos",
-    "categoria_label": "✊ Direitos & Mobilização",
+    "titulo": "MST elege oito candidaturas nas eleições de 2026",
+    "veiculo": "mst.org.br",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZk5EVEVJTEh5dEFQTlBwMUhua2Z5WUdscmx6XzhTZnZCaVR2Mjhha3pYS0w3TElGbm9yVWx6YmN4clBBVE9DdEpvYWJ1MjI3S1dwZXU0MEhPdVhMX0hlZUNOUDBuQ0NIQUZLeXFvN096cVhjU25PX3M2blRLT1lTYldnUGRrQQ?oc=5",
+    "resumo": "MST elege oito candidaturas nas eleições de 2026  mst.org.br",
+    "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
+    "categoria": "eleicoes",
+    "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
-    "data_dia": "2026-10-08",
-    "hora": "Há 13h",
+    "data_dia": "2026-10-05",
+    "hora": "05/10 11:33",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   }
