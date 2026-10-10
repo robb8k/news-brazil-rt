@@ -1,6 +1,36 @@
 [
   {
     "id": 1,
+    "titulo": "Seleção feminina faz 3 a 1 na Argentina em primeiro jogo no Beira-Rio",
+    "veiculo": "Agência Brasil",
+    "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-10/selecao-feminina-faz-3-1-na-argentina-em-primeiro-jogo-no-beira-rio",
+    "resumo": "O Brasil sobrou diante da Argentina na primeira partida da seleção feminina de futebol no Estádio do Beira-Rio, um dos palcos da Copa do Mundo de 2027. Na tarde deste sáb...",
+    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
+    "categoria": "geral",
+    "categoria_label": "📢 Notícias do Povo",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-10",
+    "hora": "Há 1h",
+    "tempo_leitura": "2 min de leitura",
+    "urgente": true
+  },
+  {
+    "id": 2,
+    "titulo": "Após ameaças de morte, deputada eleita Ana Elisa receberá proteção",
+    "veiculo": "Agência Brasil",
+    "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/apos-ameacas-de-morte-deputada-eleita-ana-elisa-recebera-protecao",
+    "resumo": "Em meio a ameaças de morte e estupro nas redes sociais contra a deputada federal eleita Ana Elisa, do Partido dos Trabalhadores (PT), o Ministério dos Direitos Humanos e ...",
+    "imagem": "https://images.unsplash.com/photo-1531206715517-5c0ba140b2b8?w=800&q=80",
+    "categoria": "direitos",
+    "categoria_label": "✊ Direitos & Mobilização",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-10",
+    "hora": "Há 1h",
+    "tempo_leitura": "2 min de leitura",
+    "urgente": true
+  },
+  {
+    "id": 3,
     "titulo": "Malária: Anvisa autoriza teste em humanos de vacina 100% brasileira",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/malaria-anvisa-autoriza-teste-em-humanos-de-vacina-100-brasileira",
@@ -10,12 +40,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-10",
-    "hora": "Há 1h",
+    "hora": "Há 4h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 2,
+    "id": 4,
     "titulo": "Após retotalização dos votos, Douglas Ruas tem 50,88% dos votos no RJ",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/apos-retotalizacao-dos-votos-douglas-ruas-tem-5088-dos-votos-no-rj",
@@ -25,12 +55,12 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Sudeste",
     "data_dia": "2026-10-10",
-    "hora": "Há 1h",
+    "hora": "Há 4h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 3,
+    "id": 5,
     "titulo": "Estudo sugere melhorias para alertas de desastres no Brasil",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-10/estudo-sugere-melhora-para-alertas-de-desastres-no-pais",
@@ -40,12 +70,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-10",
-    "hora": "Há 2h",
+    "hora": "Há 5h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 4,
+    "id": 6,
     "titulo": "Ibama extingue 229 incêndios no Amazonas e segue no combate ao fogo",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-10/ibama-extingue-229-incendios-no-amazonas-e-segue-no-combate-ao-fogo",
@@ -55,12 +85,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Norte",
     "data_dia": "2026-10-10",
-    "hora": "Há 2h",
+    "hora": "Há 5h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 5,
+    "id": 7,
     "titulo": "Calderano derrota favorito Felix Lebrun e avança à semi do China Smash",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-10/calderano-derrota-favorito-felix-lebrun-e-avanca-semi-do-china-smash",
@@ -70,12 +100,12 @@
     "categoria_label": "📈 Conquistas & Economia",
     "regiao": "Nacional",
     "data_dia": "2026-10-10",
-    "hora": "Há 2h",
+    "hora": "Há 6h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 6,
+    "id": 8,
     "titulo": "Acidente na BR-393, no RJ, deixa cinco mortos e nove feridos",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/acidente-na-br-393-no-RJ-deixa-cinco-mortos-e-nove-feridos",
@@ -85,12 +115,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Sul",
     "data_dia": "2026-10-10",
-    "hora": "Há 5h",
+    "hora": "Há 9h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
-    "id": 7,
+    "id": 9,
     "titulo": "Bets: mais de R$ 1 bilhão foram devolvidos a apostadores",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/bets-mais-de-r-1-bilhao-foram-devolvidos-apostadores",
@@ -100,37 +130,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-10",
-    "hora": "Há 6h",
-    "tempo_leitura": "2 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 8,
-    "titulo": "José Sarney é internado em UTI após procedimento abdominal",
-    "veiculo": "Agência Brasil",
-    "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/jose-sarney-e-internado-em-uti-apos-procedimento-abdominal",
-    "resumo": "O ex-presidente José Sarney, de 96 anos, está internado na unidade de terapia intensiva (UTI) do UDI Hospital, em São Luiz, após passar por uma cirurgia no abdômen.\n\nO bo...",
-    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
-    "categoria": "geral",
-    "categoria_label": "📢 Notícias do Povo",
-    "regiao": "Nacional",
-    "data_dia": "2026-10-10",
-    "hora": "Há 6h",
-    "tempo_leitura": "2 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 9,
-    "titulo": "Festival do Rio chega ao último fim de semana",
-    "veiculo": "Agência Brasil",
-    "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-10/festival-do-rio-chega-ao-ultimo-fim-de-semana",
-    "resumo": "O Festival do Rio chega ao último fim de semana com a expectativa de superar o público de 140 mil pessoas que participaram da edição passada. O evento trouxe mais de 350 ...",
-    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
-    "categoria": "geral",
-    "categoria_label": "📢 Notícias do Povo",
-    "regiao": "Nacional",
-    "data_dia": "2026-10-10",
-    "hora": "Há 7h",
+    "hora": "Há 9h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -145,7 +145,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-09",
-    "hora": "Há 22h",
+    "hora": "09/10 19:30",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -160,7 +160,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-09",
-    "hora": "Há 23h",
+    "hora": "09/10 18:40",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -295,7 +295,7 @@
     "categoria_label": "🌿 Meio Ambiente",
     "regiao": "Nacional",
     "data_dia": "2026-10-10",
-    "hora": "Há 6h",
+    "hora": "Há 10h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -310,7 +310,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-10",
-    "hora": "Há 7h",
+    "hora": "Há 10h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -325,7 +325,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-10",
-    "hora": "Há 8h",
+    "hora": "Há 11h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -340,7 +340,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-09",
-    "hora": "Há 23h",
+    "hora": "09/10 18:25",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -430,7 +430,7 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-10-10",
-    "hora": "Há 3h",
+    "hora": "Há 6h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -445,7 +445,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-10",
-    "hora": "Há 6h",
+    "hora": "Há 9h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -460,7 +460,7 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-10-10",
-    "hora": "Há 4h",
+    "hora": "Há 7h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -505,12 +505,27 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-10-10",
-    "hora": "Há 11 min",
+    "hora": "Há 3h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 35,
+    "titulo": "Lula acusa Flávio Bolsonaro de planejar cortes no Bolsa Família e em outros programas sociais",
+    "veiculo": "Jornal Opção",
+    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOc0QtZlNqNW9NWGRPRjM4Y3BoR19VNVFwMlFSbzlBekNhUks2dHIxUG5Pdzh3RDlyMHBEU1k0UXVkdm81VEctejNWY212azBNVkZtMGpPVDNSZ1p6MVAwX1JhUHd1UkpsOEJSMTM4cHV1amkwNjF1ZEJ3cV8tZXo4bGlvTnNtaHRHdl9uaWRDZ0JBUWhxal9DcjNTdy1pbGlUb3l4S0JNVWM2dEdCdlo0cWQwUUg1Y1plWXIwV0Z5MGxWYVI2YWVxSWdkRExSaGNSMUhxcl9GS1FIbTV3eFNDVHlPcw?oc=5",
+    "resumo": "Lula acusa Flávio Bolsonaro de planejar cortes no Bolsa Família e em outros programas sociais  Jornal Opção",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-10",
+    "hora": "Há 6h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 36,
     "titulo": "Secretaria da Saúde recebe representantes da Hemobrás e do Ministério da Saúde para discutir ampliação da oferta de plasma",
     "veiculo": "Secretaria da Saúde",
     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUGx5SFlWM0ZYeG9jSWJkRjd4b1p5LXhqZXJfUkxCVno2OU5CWEZlYVcwMEtxdjJrZTFfenhEMzhKSE9ETlc5SjltMmpIdHVTOFZOYTlRckthaThNTnJHOXZ0aFRnaGt6bmZnbUhTUzNnWC12ajlnZFBUekdTWFVwb2Z5MjBPYWVVMHJxM2NuWmdzVHd3WVNIdVdCQWVxdDdHZkxNbVpCd3VnXzBReG9tM1VvcTFEZFNHeXUxMS1yV0p1S0xIU3FfcGFTZHROazRadDhUQU4zUFdJQlZzUndj?oc=5",
@@ -525,22 +540,22 @@
     "urgente": false
   },
   {
-    "id": 36,
-    "titulo": "Visita Técnica do Ministério da Saúde pode garantir Certificação da Eliminação da Transmissão Vertical do HIV e da sífilis",
-    "veiculo": "Prefeitura Municipal de Caxias",
-    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNWU5zcjFQbjVyRl9OaWZtNHBNd05lU2NudXdjeEFGSDFyUkt5UVhubTcyZ1RNaF8xRzdfcVMtRHRzeDF0enZESUw5c3pWMGNYWG1JX1ZFcVBDRGE2MU5LRER1ZldFMkh5TDMxYUEzajB1azZPTk5XamhJYVlWTmNQcFBESF9Ka0dvd1hvcXdiSDhEYWYzYUFJRWhvTFpwYjZ5elJRTHB0Q296Sk1URWw5MnRoMVBCRzd5a21pNVBmQkZPeFhUZzVoTDgxQ3JpUUZuMUo3VTlfa2V4X1VlM0NmSXMzM0w2amc4SV9Gc19TY1Q?oc=5",
-    "resumo": "Visita Técnica do Ministério da Saúde pode garantir Certificação da Eliminação da Transmissão Vertical do HIV e da sífilis  Prefeitura Municipal de Caxias",
+    "id": 37,
+    "titulo": "Lula diz que Flávio vai cortar programas sociais e senador reage prometendo aumentar bolsa família",
+    "veiculo": "Estadão",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORVIwWFl6U1NKMmp1bGZFNnhjYVpNa1RCU1N2LTlfQ2ZOQ195ay1uaDZXTGt4RXRFYWZzalJpUGo1REVWUjVqal85WHVwSG1DclJwX3Rib0xvcmJ2WVpsVnI5R2Utc2tGR1kwYTMyajdiVlhoZmpjUmZWaTB0b0piUTBvUHNKTFl6elduVWF5ckVXUG5LZ0JiQ0h0NGVMOFVNYmVmZEEtNHJSYy11UVJTUWZ6V085c2thbWxpNllKX093aHNaMlpWVzh4RlFibDZKRGhYZmtR0gHbAUFVX3lxTFA3ZkVKVGtFMWdsWENRVkZhdWZxTlFVeHctUHkwUlNwYWpPWlNnZE02LU93cHBQd2VETjFPVzJLa1VYUGQwU2g4RGZQbGZwbWdta3ZsUlBMTEtmQUlGT25MZW1TZnhEbHh3M2k4Mjc1R1NSRlZHODdmMERqTTJmc1JzSnQ0VWhMOUNfekpJbXpiZzY0MVBWWXpXWVpZUERFOGtqV1BDbDE0aW51SHZYM1RvejNfT3NWcFVqRUV3NDZENElDaXlQa3NkeXRoUmtoN3Y5MGxWanFBTENkTQ?oc=5",
+    "resumo": "Lula diz que Flávio vai cortar programas sociais e senador reage prometendo aumentar bolsa família  Estadão",
     "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
     "categoria": "social",
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
-    "data_dia": "2026-10-09",
-    "hora": "Há 23h",
-    "tempo_leitura": "2 min de leitura",
+    "data_dia": "2026-10-08",
+    "hora": "08/10 19:23",
+    "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 37,
+    "id": 38,
     "titulo": "Alexandre Padilha: ‘Só Lula protege o SUS da tesoura do Milei que Flávio Bolsonaro quer trazer para cá’",
     "veiculo": "Brasil de Fato",
     "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOejc4dXN6VFZKNDJJZTlUb0NIeFBfMEpHWnJTYjh3MDhzYkRlNTc1UHVjcFY3d2hmc2JOQ3VXRVhiVU40VGJTUXQtWU9kMDIwbDNOUVJQNmliUzY0UG1LMFNnVGEzSXpjNjdibjFUQy11VE44T2RyaHRlZmpRM2d5Sll3UGR6Zk5DXzZnY1NJZHBDejN2ejJDamMxMzlZRFN2b2Q5aTU4TUlaeG5YUDFXYnVUNm5EMktteFFIOTllTGdPMHdab3ZIaDZvc1V2cnNJX0FhWDRENlkzc0FSQjk0U2F2QXJ1SUswVGQxeVdELVVSd0NO?oc=5",
@@ -555,7 +570,22 @@
     "urgente": false
   },
   {
-    "id": 38,
+    "id": 39,
+    "titulo": "Lula endurece ataques a Flávio na TV com caso Master; senador promete reajustar o Bolsa Família",
+    "veiculo": "O GLOBO",
+    "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPRzkyN3RWeGZxYnNCY0llbUFDYXZuczEwUXJkVHZiczZXNGV3V0hQd1BFc1ZfazRvZnQ1UFdLMWZSNGpGVTRBQWJlLWNzaGF5N2RER2h1a1h1V0RUa1BBam1iUGMwb0dLUkh2TUJkTnFhZng4bXZnX1dFX0pFeUtlc2VDdmdweUZPVlRqd1BhWF9ZRDVQNEpHbkExMHJKUTEtQUFjRVVyVFQweEE2OTZNTWlXcWZmYjVUYzl3UWdrdTV6Y19mcWp1Mm5pYUlFeUFMSFhTekJ2dnJGX1FpdllkVWhuWTRGbURZcVpGWU5NUWFzRkcwTjRZdkEyOA?oc=5",
+    "resumo": "Lula endurece ataques a Flávio na TV com caso Master; senador promete reajustar o Bolsa Família  O GLOBO",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-10",
+    "hora": "Há 6h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 40,
     "titulo": "Novas UBSs vão ampliar atendimento à população de Divinópolis, Monte Alegre e Cavalcante, em Goiás",
     "veiculo": "Governo Federal",
     "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNbmhyUmRDd2xkZjBpUnp1SmhMaElINUl5MTI4MWJBRkhHcHd3Z1BNdlBBbDlmWGRGVDhjd09lcGN3NGRkc2hoT2FkUG1BUU5IZ0lWdVpGcThlUlRUcWp2S3IxckxZZ3VMOGFmN0QxMjNxblk5N2tKN3lmTW5ET0dZOERmQ0tvaFF0Y1FfaFo4cGZRMTBOdTNIN1RQSVpFTGI0MHZOMk1Uc3A0Tk5TWHpMZW1lU3AwZi11LV9zNjRVclNBQnd2MFhmUWgyYmZoXzdYbVZPWWxPQ1lmVXR6aGZfS1NUeW9WVE5oWVRlOS1aS1JUSUU?oc=5",
@@ -565,54 +595,24 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Centro-Oeste",
     "data_dia": "2026-10-09",
-    "hora": "Há 22h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 39,
-    "titulo": "Lula endurece ataques a Flávio na TV com caso Master; senador promete reajustar o Bolsa Família",
-    "veiculo": "O GLOBO",
-    "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPRzkyN3RWeGZxYnNCY0llbUFDYXZuczEwUXJkVHZiczZXNGV3V0hQd1BFc1ZfazRvZnQ1UFdLMWZSNGpGVTRBQWJlLWNzaGF5N2RER2h1a1h1V0RUa1BBam1iUGMwb0dLUkh2TUJkTnFhZng4bXZnX1dFX0pFeUtlc2VDdmdweUZPVlRqd1BhWF9ZRDVQNEpHbkExMHJKUTEtQUFjRVVyVFQweEE2OTZNTWlXcWZmYjVUYzl3UWdrdTV6Y19mcWp1Mm5pYUlFeUFMSFhTekJ2dnJGX1FpdllkVWhuWTRGbURZcVpGWU5NUWFzRkcwTjRZdkEyONIBigJBVV95cUxQV0c1X240OUhTUVZFcnBfTmtoMnZZSlUyMzRPZ3ZmRXZYcFFERXJ4bWg3Mk53SnM1Y2JJb2oydjd0UWU4bm11UWRxaTB4TVBVSWlYY2s0a1NNd205NTFZNTF0em9xQ0V1SVBpU0Q3YzdNN3EyNVplbzlxeDdCY3pzbnNtbU9Xa1pCeXowYkkyTDhaUlRJODhJN2docUZ4MUIxNUV1NVl0TXQtcUhoVXBHbWJBd0hNZjRNdTYzUVBMdDNXMlRha0JkNzVVcE1PMkl1cnJ0SzJKbEZudHlWeXprSFRpWmd3cE1oX01sQVp1Q0ltdXJvb2VCU04yMDdib0pzQzhaQkdhcUFLdw?oc=5",
-    "resumo": "Lula endurece ataques a Flávio na TV com caso Master; senador promete reajustar o Bolsa Família  O GLOBO",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
-    "regiao": "Nacional",
-    "data_dia": "2026-10-10",
-    "hora": "Há 3h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 40,
-    "titulo": "Aedes aegypti: quase metade dos municípios está em alerta ou risco",
-    "veiculo": "Agência Brasil",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPa0xGazRaNUxYNlQxU3d3SGJDd0NrbkJob2NwRVlDUVJCN2F3cHB3TGdRRmdPamllVDNtLTBDd0w3R084R2dkOWVQUk05b0YxMHpEeVBjTzN3dGlHNkVfN1YydzRXVGpwRmpXZTdQZWRVWVRobHE4U0pLVXMzWnhRRWJyQmJEYUl0T1Ewck0ybXNpYkJIZmYzWXBsdHdxZ1ZkRVhhR1gwYkZGMGRiM2Q0eTJQNnRhUGVnRVdKcA?oc=5",
-    "resumo": "Aedes aegypti: quase metade dos municípios está em alerta ou risco  Agência Brasil",
-    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
-    "categoria": "geral",
-    "categoria_label": "📢 Notícias do Povo",
-    "regiao": "Nacional",
-    "data_dia": "2026-10-08",
-    "hora": "08/10 13:07",
+    "hora": "09/10 19:04",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
     "id": 41,
-    "titulo": "Eleições 2026: as propostas de Lula e Flávio Bolsonaro para a Cultura",
-    "veiculo": "BBC",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Vb3NQbXdGWjFkdEVxLVNvbUFKQzBzOHR6VzBoTWRId2VQOUZGYWE0dm80TmRidUpIZWZvZXNsbGdKeDNTZ29YYXBib3ViNmFNaEZHNnBGOFVpa1A4b3lGdmRPVdIBaEFVX3lxTE10SHlrOGVHOVJrUHp5dG43QVJJTUNMZjNudDdxYXAtTHBmY3ROUXExRDRQNV9OVGhQOFdySGNWOG9VdTlUYW9mcDB2Z2ZEeFR6UnFNSXZYdE8tZFRGYUNCcE11eEp2V2hq?oc=5",
-    "resumo": "Eleições 2026: as propostas de Lula e Flávio Bolsonaro para a Cultura  BBC",
-    "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
-    "categoria": "eleicoes",
-    "categoria_label": "🗳️ Eleições & Campanhas",
+    "titulo": "Ratinho Jr declara apoio a Flávio Bolsonaro no 2º turno",
+    "veiculo": "Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbng0b2dvMHJqNDdqUGlfcmpFZ1djdzlIdXZHVzdYNl9aelNkNjhoVHVzTTdaUnhaVGh2V0dPdkFSeGxIZkNtSnkyMlpyNkQ2MkFvQ19taVI4b3dTa05iYVhTcHBLRDFpQ1VyNEhxTm9BM1hRWmVyY1lDYW5kYUtLOG5GMUhiNU5hSUtZc001MGZQeGJhS05aNGpzWUhDVHRUYUFzSklkLVE5UkhlSmhZR2gzMVpTa2c3UV9Na3NwUThodkXSAdIBQVVfeXFMT2ppU1hodG9kandFWGxfSTRqMEtLbTE2WUZOU0hibUxoNXl0MVdRQkk3dHRCal93UUlNX2FjNUJjNmlTeVhNNk53c0NUeWxWNk1tcHY2TVVPbEJMNDBpbGZxdlZLaTU1d3JQNEszb3F4YjRfcWpxaEVXUGVZVndPUERQemJqUERDNzJoRV9MMnhTZ1J3OHV0MXVXM1dvaU5MVUZ0aHJlcTZ2WVB6RDF4WW5VRDRDS0l3d3B5ajdIdHl1Z3ZmWDJvdk96VURMR2l4Rkt3?oc=5",
+    "resumo": "Ratinho Jr declara apoio a Flávio Bolsonaro no 2º turno  Valor Econômico",
+    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
+    "categoria": "geral",
+    "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-10",
-    "hora": "Há 7h",
+    "hora": "Há 52 min",
     "tempo_leitura": "1 min de leitura",
-    "urgente": false
+    "urgente": true
   },
   {
     "id": 42,
@@ -625,7 +625,7 @@
     "categoria_label": "✊ Direitos & Mobilização",
     "regiao": "Nacional",
     "data_dia": "2026-10-10",
-    "hora": "Há 5h",
+    "hora": "Há 8h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   }
