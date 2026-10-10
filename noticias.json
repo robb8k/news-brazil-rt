@@ -1,6 +1,36 @@
 [
   {
     "id": 1,
+    "titulo": "TSE manda suspender site que oferece criptomoedas por apoio a Flávio",
+    "veiculo": "Agência Brasil",
+    "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/tse-manda-suspender-site-que-oferece-criptomoedas-por-apoio-flavio",
+    "resumo": "O Tribunal Superior Eleitoral (TSE) determinou nesta sexta-feira (9) a suspensão de um site que oferecia criptomoedas a usuários que publicassem postagens favoráveis ao c...",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-09",
+    "hora": "Há 5h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 2,
+    "titulo": "Alcolumbre marca votação da PEC pelo fim da 6x1 para quarta-feira",
+    "veiculo": "Agência Brasil",
+    "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/alcolumbre-marca-votacao-da-pec-pelo-fim-da-6x1-para-quarta-feira",
+    "resumo": "O presidente do Senado Federal, Davi Alcolumbre (União-AP), marcou para a próxima quarta-feira (14) a votação, em primeiro turno, da Proposta de Emenda à Constituição (PE...",
+    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
+    "categoria": "geral",
+    "categoria_label": "📢 Notícias do Povo",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-09",
+    "hora": "Há 5h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 3,
     "titulo": "Edson Fachin manda PF investigar ameaças contra Flávio Dino",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/edson-fachin-manda-pf-investigar-ameacas-contra-flavio-dino",
@@ -10,12 +40,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-09",
-    "hora": "Há 1h",
+    "hora": "Há 6h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 2,
+    "id": 4,
     "titulo": "Justiça derruba decisão que liberou operação de plataforma de apostas",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/justica-derruba-decisao-que-liberou-operacao-de-plataforma-de-apostas",
@@ -25,12 +55,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-09",
-    "hora": "Há 1h",
+    "hora": "Há 7h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 3,
+    "id": 5,
     "titulo": "Pesquisa mostra que 82% são contra crianças de até 3 anos com celular",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/pesquisa-mostra-que-82-sao-contra-criancas-de-ate-3-anos-com-celular",
@@ -40,12 +70,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-09",
-    "hora": "Há 1h",
+    "hora": "Há 7h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 4,
+    "id": 6,
     "titulo": "CBF divulga calendário masculino para 2027 com pausa da Copa Feminina",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-10/cbf-divulga-calendario-masculino-para-2027-com-pausa-da-copa-feminina",
@@ -55,12 +85,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-09",
-    "hora": "Há 1h",
+    "hora": "Há 7h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 5,
+    "id": 7,
     "titulo": "Estudantes fazem atos pelo país em apoio a Lula",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/estudantes-fazem-atos-pelo-pais-em-apoio-lula",
@@ -70,12 +100,12 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-09",
-    "hora": "Há 1h",
+    "hora": "Há 7h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 6,
+    "id": 8,
     "titulo": "Dólar cai a R$ 4,98 e acumula perda de 4,44% na semana",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/dolar-cai-r-498-e-acumula-perda-de-444-na-semana",
@@ -85,12 +115,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-09",
-    "hora": "Há 2h",
+    "hora": "Há 8h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 7,
+    "id": 9,
     "titulo": "O novo Brasil que a política (ainda) ignora",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/crise-brasileira/novo-brasil-que-a-politica-ainda-ignora/",
@@ -100,12 +130,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-09",
-    "hora": "Há 2h",
+    "hora": "Há 8h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 8,
+    "id": 10,
     "titulo": "Platão – E quando deixamos de disputar a ideia de futuro",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/movimentoserebeldias/platao-e-quando-deixamos-de-disputar-a-ideia-de-futuro/",
@@ -115,12 +145,12 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-09",
-    "hora": "Há 3h",
+    "hora": "Há 8h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 9,
+    "id": 11,
     "titulo": "Memórias do Jornalismo: Quando o partido já não basta",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/historia-e-memoria/memoria-do-jornalismo-quando-partido-nao-basta/",
@@ -130,12 +160,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-09",
-    "hora": "Há 4h",
+    "hora": "Há 9h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
-    "id": 10,
+    "id": 12,
     "titulo": "A luta dos inquilinos incendeia a Espanha",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/outras-cidades/a-luta-dos-inquilinos-incendeia-a-espanha/",
@@ -145,12 +175,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-09",
-    "hora": "Há 4h",
+    "hora": "Há 10h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 11,
+    "id": 13,
     "titulo": "Antropologia das bets: de Bali ao Brasil",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/crise-civilizatoria/antropologia-das-bets-de-bali-ao-brasil/",
@@ -160,12 +190,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-09",
-    "hora": "Há 4h",
+    "hora": "Há 10h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 12,
+    "id": 14,
     "titulo": "Assim se encara a ultradireita",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/crise-brasileira/assim-se-enfrenta-ultradireita/",
@@ -180,7 +210,7 @@
     "urgente": false
   },
   {
-    "id": 13,
+    "id": 15,
     "titulo": "Brasil: O que une os ricos decadentes e os pobres ressentidos",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/desigualdades-mundo/brasil-o-que-une-os-ricos-decadentes-e-os-pobres-ressentidos/",
@@ -195,7 +225,7 @@
     "urgente": false
   },
   {
-    "id": 14,
+    "id": 16,
     "titulo": "Byung-Chul Han, a Europa liberal e nós",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/crise-civilizatoria/byung-chul-han-a-europa-liberal-e-nos/",
@@ -210,7 +240,7 @@
     "urgente": false
   },
   {
-    "id": 15,
+    "id": 17,
     "titulo": "Para entender a fundo as desigualdades globais",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/desigualdades-mundo/para-entender-a-fundo-as-desigualdades-globais/",
@@ -225,7 +255,7 @@
     "urgente": false
   },
   {
-    "id": 16,
+    "id": 18,
     "titulo": "Cidades: O que fazer com os camelôs?",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/outras-cidades/cidades-o-que-fazer-com-os-camelos/",
@@ -240,7 +270,7 @@
     "urgente": false
   },
   {
-    "id": 17,
+    "id": 19,
     "titulo": "Governo Lula zera impostos da gasolina por 30 dias com chance de prorrogação",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/10/09/governo-lula-zera-impostos-da-gasolina-por-30-dias-com-chance-de-prorrogacao/?utm_source=rss&utm_medium=rss&utm_campaign=governo-lula-zera-impostos-da-gasolina-por-30-dias-com-chance-de-prorrogacao",
@@ -250,12 +280,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-09",
-    "hora": "Há 3h",
+    "hora": "Há 9h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
-    "id": 18,
+    "id": 20,
     "titulo": "Campanha de Lula pede cassação da candidatura de Flávio por fake news em perfil de Marçal",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/10/09/campanha-de-lula-pede-cassacao-de-flavio-por-fake-news-em-perfil-de-marcal/?utm_source=rss&utm_medium=rss&utm_campaign=campanha-de-lula-pede-cassacao-de-flavio-por-fake-news-em-perfil-de-marcal",
@@ -265,12 +295,12 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Sudeste",
     "data_dia": "2026-10-09",
-    "hora": "Há 5h",
+    "hora": "Há 11h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
-    "id": 19,
+    "id": 21,
     "titulo": "Bolsonaristas querem calar estudantes pró-Lula com ameaças terroristas",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/10/09/bolsonaristas-querem-calar-estudantes-pro-lula-com-ameacas-terroristas/?utm_source=rss&utm_medium=rss&utm_campaign=bolsonaristas-querem-calar-estudantes-pro-lula-com-ameacas-terroristas",
@@ -280,12 +310,12 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-10-09",
-    "hora": "Há 5h",
+    "hora": "Há 11h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 20,
+    "id": 22,
     "titulo": "Dino denuncia ameaças de morte e alerta para risco à independência do Judiciário",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/10/09/dino-denuncia-ameacas-de-morte-e-alerta-para-risco-a-independencia-do-judiciario/?utm_source=rss&utm_medium=rss&utm_campaign=dino-denuncia-ameacas-de-morte-e-alerta-para-risco-a-independencia-do-judiciario",
@@ -295,12 +325,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-09",
-    "hora": "Há 6h",
+    "hora": "Há 11h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
-    "id": 21,
+    "id": 23,
     "titulo": "PF e PGR desmentem revista Veja sobre suposta delação contra Lula",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/10/09/pf-e-pgr-desmentem-revista-veja-sobre-suposta-delacao-contra-lula/?utm_source=rss&utm_medium=rss&utm_campaign=pf-e-pgr-desmentem-revista-veja-sobre-suposta-delacao-contra-lula",
@@ -310,12 +340,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-09",
-    "hora": "Há 6h",
+    "hora": "Há 11h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
-    "id": 22,
+    "id": 24,
     "titulo": "Para eleger Lula, UJS realiza encontro virtual no próximo domingo (11)",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/10/09/para-eleger-lula-ujs-realiza-encontro-virtual-no-proximo-domingo-11/?utm_source=rss&utm_medium=rss&utm_campaign=para-eleger-lula-ujs-realiza-encontro-virtual-no-proximo-domingo-11",
@@ -325,12 +355,12 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-09",
-    "hora": "Há 6h",
+    "hora": "Há 12h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
-    "id": 23,
+    "id": 25,
     "titulo": "Juíza que denunciou genocídio em Gaza ganha Nobel da Paz e EUA sancionam Tribunal",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/10/09/juiza-que-denunciou-genocidio-em-gaza-ganha-nobel-da-paz-e-eua-sancionam-tribunal/?utm_source=rss&utm_medium=rss&utm_campaign=juiza-que-denunciou-genocidio-em-gaza-ganha-nobel-da-paz-e-eua-sancionam-tribunal",
@@ -340,12 +370,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-09",
-    "hora": "Há 8h",
+    "hora": "Há 13h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
-    "id": 24,
+    "id": 26,
     "titulo": "O bolsonarismo engoliu a direita e sequestrou a política",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/10/09/o-bolsonarismo-engoliu-a-direita-e-sequestrou-a-politica/?utm_source=rss&utm_medium=rss&utm_campaign=o-bolsonarismo-engoliu-a-direita-e-sequestrou-a-politica",
@@ -355,12 +385,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-09",
-    "hora": "Há 8h",
+    "hora": "Há 13h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 25,
+    "id": 27,
     "titulo": "“País não voltará a ser governado pelo fascismo”, diz Lula em Ceilândia (DF)",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/10/09/pais-nao-voltara-a-ser-governado-pelo-fascismo-diz-lula-em-ceilandia-df/?utm_source=rss&utm_medium=rss&utm_campaign=pais-nao-voltara-a-ser-governado-pelo-fascismo-diz-lula-em-ceilandia-df",
@@ -370,12 +400,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-09",
-    "hora": "Há 8h",
+    "hora": "Há 14h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
-    "id": 26,
+    "id": 28,
     "titulo": "Juventude reage à extrema direita e toma as ruas do Brasil por Lula",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/10/09/juventude-reage-a-extrema-direita-e-toma-as-ruas-do-brasil-por-lula/?utm_source=rss&utm_medium=rss&utm_campaign=juventude-reage-a-extrema-direita-e-toma-as-ruas-do-brasil-por-lula",
@@ -385,12 +415,12 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-10-09",
-    "hora": "Há 8h",
+    "hora": "Há 14h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
-    "id": 27,
+    "id": 29,
     "titulo": "Novas UBSs vão ampliar atendimento à população de Divinópolis, Monte Alegre e Cavalcante, em Goiás",
     "veiculo": "Governo Federal",
     "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNbmhyUmRDd2xkZjBpUnp1SmhMaElINUl5MTI4MWJBRkhHcHd3Z1BNdlBBbDlmWGRGVDhjd09lcGN3NGRkc2hoT2FkUG1BUU5IZ0lWdVpGcThlUlRUcWp2S3IxckxZZ3VMOGFmN0QxMjNxblk5N2tKN3lmTW5ET0dZOERmQ0tvaFF0Y1FfaFo4cGZRMTBOdTNIN1RQSVpFTGI0MHZOMk1Uc3A0Tk5TWHpMZW1lU3AwZi11LV9zNjRVclNBQnd2MFhmUWgyYmZoXzdYbVZPWWxPQ1lmVXR6aGZfS1NUeW9WVE5oWVRlOS1aS1JUSUU?oc=5",
@@ -400,12 +430,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Centro-Oeste",
     "data_dia": "2026-10-09",
-    "hora": "Há 2h",
+    "hora": "Há 8h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 28,
+    "id": 30,
     "titulo": "Visita Técnica do Ministério da Saúde pode garantir Certificação da Eliminação da Transmissão Vertical do HIV e da sífilis",
     "veiculo": "Prefeitura Municipal de Caxias",
     "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNWU5zcjFQbjVyRl9OaWZtNHBNd05lU2NudXdjeEFGSDFyUkt5UVhubTcyZ1RNaF8xRzdfcVMtRHRzeDF0enZESUw5c3pWMGNYWG1JX1ZFcVBDRGE2MU5LRER1ZldFMkh5TDMxYUEzajB1azZPTk5XamhJYVlWTmNQcFBESF9Ka0dvd1hvcXdiSDhEYWYzYUFJRWhvTFpwYjZ5elJRTHB0Q296Sk1URWw5MnRoMVBCRzd5a21pNVBmQkZPeFhUZzVoTDgxQ3JpUUZuMUo3VTlfa2V4X1VlM0NmSXMzM0w2amc4SV9Gc19TY1Q?oc=5",
@@ -415,12 +445,12 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-10-09",
-    "hora": "Há 3h",
+    "hora": "Há 8h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
-    "id": 29,
+    "id": 31,
     "titulo": "Lula celebra avanço do fim da 6x1 e defende investimento público",
     "veiculo": "Agência Brasil",
     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUWNxWlFZWFV2VWVVVlNRZmx0QU1ETk43U2MtVmdvRWlRR2ZIVXFCS3p4WnB5amFKa3ExbndTbVh4SnBRWFN4a2tTcmtKME1DNnhOc3lqeUlFYkx4YXVlU3RBS2xnWld2RHBXVjRRM24wQloyUzByMG8wbWh3c0ZZZHJ1WmxIdy1MZmktc1ZGRV8wQ21vck1wRlZxazRFVU1mRzFXVTlBclBzM2dvRXk0MTNEdFJiWGkzQW8zQ0JUVQ?oc=5",
@@ -435,7 +465,7 @@
     "urgente": false
   },
   {
-    "id": 30,
+    "id": 32,
     "titulo": "Bolsa Família: o que Lula e Flávio propõem sobre o programa",
     "veiculo": "BBC",
     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1oWVJvbjZTNm1CaUZjd0NFNFhpY01KOFJPX3hQUmpYdFV5N2hWNy1LTDdzODRjaEtSU0RpNzg3QzB3eHJ2NW1QOG05TDVxLTFZbVB4RWZZTy1mWm43b29vTlNBTdIBaEFVX3lxTFBDX2RLaG05bjg3WC1YaWYwdzBqOVpFazlLZ3NCSFY4dF9sRXBRaXk1NTRONVRLaWdlTTc1TGhTeWhLOHRUd09pMjFPYV9Mc2hQZmF6Y1VwZklGd3VzcWhvV0FKZmt5MzNs?oc=5",
@@ -450,7 +480,7 @@
     "urgente": false
   },
   {
-    "id": 31,
+    "id": 33,
     "titulo": "Ministério da Saúde muda normas para doação de sangue no país - Notícias",
     "veiculo": "Canção Nova",
     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdjJwU2kwYURmLTZLVDdjSURRR0t2bDdKOTVIaG8yeU1hblBsandlYmJBQ0Y4eGNfZHlFTnVFbjlxUnplZGVKdWVXalNoY1ZyQmFmNHJNU3dJVHo2Y3BsQWFYeENKQnE3d0NBdUtxSndRM3NfTjRyVzR6YkNsNFBxY2FUUDlBZU9MNDV0MHFGX1FkZzVRNnlSWTQyLVY4cVNIMUNJ?oc=5",
@@ -460,12 +490,12 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-10-09",
-    "hora": "Há 2h",
+    "hora": "Há 7h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 32,
+    "id": 34,
     "titulo": "Flávio Bolsonaro diz que vai manter programas sociais criados por Lula",
     "veiculo": "G1",
     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPT1Y4d0ZpeWF0UkVoRDVPM0tvajNsamFXQ3dOSDRNSjA5dlNRdVJ4emRqM3ZXQzNQNXJ5WWhDQ0htcURlVEpXTnpNRnJUd3dkN2xYY2pmdkFWYjNsS05PU3NHbjd4dzNBeVN3MVFuZmVjZTB5T3o4bk5TcUVRdnFiYUtMRDZUbHYtblFUelFQc0RoS3RPcEN0dUtZcHFxc2o2YkhLV2dpZ2J5OWJNbDZ0eFJGTkFlOWloWm41QlVFS1lRZEhwYWRhckZrOWtWdm9TQzB0QU1MVGNjTUlKclBTTHVR0gHwAUFVX3lxTE90MlN2NDMxYjNnMzJnMk05WlJwaTJTMHdJckNVYzg4WUlXcS1oVi1ubXpySHF0cFBiM0NjSmIwSTBneFQ0ZFVQWXZnSFdyTU1wQWV3Xy1XQ1FSbm5JZ2lvdFNYZ0hXdGlEdi1UN1Q0aldwV2Q3TnV0ZHgzekN2dHUtaDhISURNTjdwUmwxcEVhTzhxa2ZsUFhHRGpud1hRS183UlB1dTVwLVZBVTZjTGNyTlU5SnJOR0F2bXhRaHVYdDZfenBvVHZzSkN1Um9DRlJLLV9xLXVxT192LU9nbnJDNTdFT0hXOFR4RDN3MDlyag?oc=5",
@@ -475,12 +505,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-09",
-    "hora": "Há 7h",
+    "hora": "Há 13h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 33,
+    "id": 35,
     "titulo": "Rio de Janeiro recebe primeira carreta de cardiologia do SUS com oferta de consultas e exames especializados",
     "veiculo": "Governo Federal",
     "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNTU5SSkxrbkVTOTlFbFBqQURyeXhtUUkyZWduSGRocTNDTS1PUEczYTR4YmRMWGFQS3VCbW5aNEVodnJaZk9SMG4wcC1mNlZBckgxWW9PLWNJZDhOcEtHMGd6eFJLQzVGR21VNi1GQThfTjB0OXFBSzh6a0hMNmZseWhVWmJCSlVyUHNzdUVnUzNNTDRmRXRGRGQzZW14dHBHYjc4eGVsc1RubFZBb0V0MHh2bmlDMmRZSFE5RnZqUXh3VXlONlNOQzJqNy12ZmJuenRpd1owdUpoSmE5cDF3VjFveVZjNmUzYndLcnd0NEJ5YmVsQ3V2NUZYdEc0LWlTMVJ3?oc=5",
@@ -490,12 +520,12 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Sudeste",
     "data_dia": "2026-10-09",
-    "hora": "Há 6h",
+    "hora": "Há 11h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 34,
+    "id": 36,
     "titulo": "Políticas industriais de Lula e Bolsonaro revelam caminhos distintos para emprego e produção",
     "veiculo": "SMABC",
     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZjFSVVlSZGtuTnFPb1dkRFlpU0dseTJ6RFJlRUM4VVlKeGE3VTJBQTVGc1JVLXNaUWlBOWRNOGY5UVotU2FaVC1LdTlBc0t5SHFvNmpnTzJnUHRvaG9uUmU1SVRWRHdkWEhSOFJDcXhLanlzZWN4VU56bnQ4TjJucXlHbl9TbVNnMFJPekZfaW1OdUVEamV3UjJVYmR5ZlBBa3daVU5IeXNtUjhGVWJZRUV4SHM?oc=5",
@@ -505,12 +535,12 @@
     "categoria_label": "📈 Conquistas & Economia",
     "regiao": "Nacional",
     "data_dia": "2026-10-09",
-    "hora": "Há 4h",
+    "hora": "Há 10h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 35,
+    "id": 37,
     "titulo": "Lula e Flávio trocam acusações sobre o Bolsa Família; entenda a disputa",
     "veiculo": "VEJA",
     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZmhBdVBuZ2pJNzBVX1RlY2NrVHRNbGNnZmZoUVdGZDhtMllONjVyY1FwQnVISlc5c3BPd2p2QWdNaS14S1JjWEtVUEtrTFE4dW5TWTAyUkdWSExSdC1kZ0hGOE1iWXVYTXdXcGh0a0tJaVVvR3Q3ODN4ODkzTDhBTkQtY19GR0hrWk01Nlp1dGlhMUVwSHdYSWwtR0RzOEUxRW50MWxfR0Vpdw?oc=5",
@@ -520,72 +550,12 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-09",
-    "hora": "Há 12h",
+    "hora": "Há 18h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 36,
-    "titulo": "Flávio Bolsonaro cumpre agenda no Rio de Janeiro e Lula em Brasília",
-    "veiculo": "Agência Brasil",
-    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNLWJKSnVoLVVPN3JfMGZXcU1iOHV4RFNmWmdwR3dXZkhrc2RrU0tMWjZDcVI2RW5CRkZ4RmF6ai1tYXNvLTc2Qi13Q2h3WTk5SzQxa1RoVVhWZXZLM0U1d1Z4TUZaQURqeXE0c09UemxrOXdHNk5GMHk1R0hLVFhBU1hOcHRMaG8tQkJoWXgyZ0RTN2xjUk1ybEVqT3ZJbjItbGVHNDFhT1Vzc1FPX19QRklibm5hdUIwemVvRWZTU0piRUY2anRlYXN6RHM0X2YyMHdqdlFERHJFcFJkb3c?oc=5",
-    "resumo": "Flávio Bolsonaro cumpre agenda no Rio de Janeiro e Lula em Brasília  Agência Brasil",
-    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
-    "categoria": "geral",
-    "categoria_label": "📢 Notícias do Povo",
-    "regiao": "Sudeste",
-    "data_dia": "2026-10-09",
-    "hora": "Há 11h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 37,
-    "titulo": "Flávio diz no horário eleitoral que vai manter programas sociais após ofensiva de Lula, que volta a criticar rival sobre aposentadoria e 6x1",
-    "veiculo": "O GLOBO",
-    "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPaE5DX2NLVDR6cWVJdllyaERoX0JPYmo3RzUxVVd1SGZVemFlYjM3aDVmSzFRSTdNQk9qQUNGdHRsU2pqWGVMaXNEUTBGWWdpODJ6eWN3LUVYVGV0OWtEbWdQdGJDX3U1dEwwQ3FyXzA4VU0zeFhMR1VRS3Y4MnVwcnVzemIyRVM4XzRXSEZuSUlJRno1TWQ4bFBkcDJQSmo1ZGxMLVROSVpNT1phdVZOYzlPa2lYUzVVd0pkY05zRTQ1ZFA4TldaWTlRekFCdGlDMTYzem9jQUxKUkl1bjA1TWN3VllpeXQ5WGRjdVVFWnY1Vk1fX3ZsQWd6NXdiN3l5bGREWklrNVduV19ZNWVNQVhUS3h5OTh3RHJkUFRHSUtlRWFraDZiNXZ4RWNLZTRoU1VxLW9iNNIBxgJBVV95cUxQTl9aa2lnWXFtQlA2Z3ROZFdQNGNzUWFzWV9Odlk2Z0cwcjQzc1Z6YnY2eDYwN19XakJOd3Q5MWxmNlo2UGVvOHdXZEpES1pxTThCT0lBcUFWZlMySFJHOTZlOXB3OVNLc1ZMdERVS2xESG1RSEgzZVgtb2pIXzdrckRKdmtsRU1DUDkwS3hFc0NBWVFtU2F0aEdNLVhyNWw5OXZCQml5SE1VUGtoVUNPTDIxcG4yRUUwWHhDSkwzdjdrVlVLS3RHMzZXc0hLRlhSUk5lTFM3aGJGYTVNTF9mYnp3TjAyV215MHl5djVrWEdYM2IxZlh5X1hncHBhWm1Uc1A2aVFtTDdvT3djM1U3ZXd5ZFNWdlZUUnBFdUUzejh3MzlOb1REaHZGRENGZUZPSERMYnR1Zm00elJfOTJNV2JiNWFWQQ?oc=5",
-    "resumo": "Flávio diz no horário eleitoral que vai manter programas sociais após ofensiva de Lula, que volta a criticar rival sobre aposentadoria e 6x1  O GLOBO",
-    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
-    "categoria": "geral",
-    "categoria_label": "📢 Notícias do Povo",
-    "regiao": "Nacional",
-    "data_dia": "2026-10-09",
-    "hora": "Há 13h",
-    "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
     "id": 38,
-    "titulo": "Pescadores têm prazo ampliado para solicitar o Seguro-Defeso — Ministério do Trabalho e Emprego",
-    "veiculo": "Governo Federal",
-    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONHRKUy0ydW1wdE9CMXRQaVdjdnVydXpQa3NxdHl0b1duT1hGQVdENmV2akRlc1lKZTVuSHh5RnBKLUZiWEdPenU4eEhlbGRJSUV3M0NWUHZNYmZtMDlWOXI2TlZ4Y2lrV00tRmFSQVFKYnUzSkx6UlVWdTRXMFM1Q1BMSVhjUWMtajlVZ1NuSmdiU1FZVW5SNi04dFp1US0tZE9RTmVmOGtCZkx1MmdXQWpGTGhGekRxUU55cDJINFNDZVN3T1NaTm9IdXhHYlJRX3pz?oc=5",
-    "resumo": "Pescadores têm prazo ampliado para solicitar o Seguro-Defeso — Ministério do Trabalho e Emprego  Governo Federal",
-    "imagem": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
-    "categoria": "economia",
-    "categoria_label": "📈 Conquistas & Economia",
-    "regiao": "Nacional",
-    "data_dia": "2026-10-09",
-    "hora": "Há 11h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 39,
-    "titulo": "Carreta do Ministério da Saúde oferece exames gratuitos em Salgueiro",
-    "veiculo": "G1",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQalF6Z2xOclAzY2o3QXVlRjUxcEQ5djVrNzNvYllkRDF1XzE3aUZLX2NpTUhSVjNmS05BS0FnVlp4bTNpQVR1eEpkd0o1OWlKTTZWOTU5SHhOdkl0aTZfVkpGaFpvUWVyZWlUWFBPWXFwNnZGZjZOTngyT0psOW0zQ092TEJHUnZIcUNCRXREY1NsRFduU0ZDYWdYMTZkZWVKTGl5X0lpNTFuSlVWNWJodExLWDZTbFlZMEhFVXdZZW04ekx1bkNsR2p0RE1mMTDSAd4BQVVfeXFMTnZQaWtCanowdDg0bkxpZk5XT3FKWElSSGhPZXBFc0NsMXdPb0VWOGN4UGhOeGZSOGxWOFZjQ1N0bURvOWhDTE1QbkVELURxbHpxNUVqVUNMclBIMnJ0a0ZIV3NLTEV2SXEtTVRSekJESXVKSDE4Nko4eGFUWUJkbUR5cWFYM0lIbUd2alAxeW9XNHlYcVJVRU82akRiQ0Z4VkMtUzh4ZHZPM3FYVkhsQXVmV200a1NnLWc1NGZWNWdEbkdWYW1LYTZLR3h6X0RTQU5CQW1zMVdEWEF0a3J3?oc=5",
-    "resumo": "Carreta do Ministério da Saúde oferece exames gratuitos em Salgueiro  G1",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
-    "regiao": "Nacional",
-    "data_dia": "2026-10-09",
-    "hora": "Há 11h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 40,
     "titulo": "Aedes aegypti: quase metade dos municípios está em alerta ou risco",
     "veiculo": "Agência Brasil",
     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPa0xGazRaNUxYNlQxU3d3SGJDd0NrbkJob2NwRVlDUVJCN2F3cHB3TGdRRmdPamllVDNtLTBDd0w3R084R2dkOWVQUk05b0YxMHpEeVBjTzN3dGlHNkVfN1YydzRXVGpwRmpXZTdQZWRVWVRobHE4U0pLVXMzWnhRRWJyQmJEYUl0T1Ewck0ybXNpYkJIZmYzWXBsdHdxZ1ZkRVhhR1gwYkZGMGRiM2Q0eTJQNnRhUGVnRVdKcA?oc=5",
@@ -600,6 +570,36 @@
     "urgente": false
   },
   {
+    "id": 39,
+    "titulo": "Flávio diz no horário eleitoral que vai manter programas sociais após ofensiva de Lula, que volta a criticar rival sobre aposentadoria e 6x1",
+    "veiculo": "O GLOBO",
+    "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPaE5DX2NLVDR6cWVJdllyaERoX0JPYmo3RzUxVVd1SGZVemFlYjM3aDVmSzFRSTdNQk9qQUNGdHRsU2pqWGVMaXNEUTBGWWdpODJ6eWN3LUVYVGV0OWtEbWdQdGJDX3U1dEwwQ3FyXzA4VU0zeFhMR1VRS3Y4MnVwcnVzemIyRVM4XzRXSEZuSUlJRno1TWQ4bFBkcDJQSmo1ZGxMLVROSVpNT1phdVZOYzlPa2lYUzVVd0pkY05zRTQ1ZFA4TldaWTlRekFCdGlDMTYzem9jQUxKUkl1bjA1TWN3VllpeXQ5WGRjdVVFWnY1Vk1fX3ZsQWd6NXdiN3l5bGREWklrNVduV19ZNWVNQVhUS3h5OTh3RHJkUFRHSUtlRWFraDZiNXZ4RWNLZTRoU1VxLW9iNNIBxgJBVV95cUxQTl9aa2lnWXFtQlA2Z3ROZFdQNGNzUWFzWV9Odlk2Z0cwcjQzc1Z6YnY2eDYwN19XakJOd3Q5MWxmNlo2UGVvOHdXZEpES1pxTThCT0lBcUFWZlMySFJHOTZlOXB3OVNLc1ZMdERVS2xESG1RSEgzZVgtb2pIXzdrckRKdmtsRU1DUDkwS3hFc0NBWVFtU2F0aEdNLVhyNWw5OXZCQml5SE1VUGtoVUNPTDIxcG4yRUUwWHhDSkwzdjdrVlVLS3RHMzZXc0hLRlhSUk5lTFM3aGJGYTVNTF9mYnp3TjAyV215MHl5djVrWEdYM2IxZlh5X1hncHBhWm1Uc1A2aVFtTDdvT3djM1U3ZXd5ZFNWdlZUUnBFdUUzejh3MzlOb1REaHZGRENGZUZPSERMYnR1Zm00elJfOTJNV2JiNWFWQQ?oc=5",
+    "resumo": "Flávio diz no horário eleitoral que vai manter programas sociais após ofensiva de Lula, que volta a criticar rival sobre aposentadoria e 6x1  O GLOBO",
+    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
+    "categoria": "geral",
+    "categoria_label": "📢 Notícias do Povo",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-09",
+    "hora": "Há 18h",
+    "tempo_leitura": "2 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 40,
+    "titulo": "Pescadores têm prazo ampliado para solicitar o Seguro-Defeso — Ministério do Trabalho e Emprego",
+    "veiculo": "Governo Federal",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONHRKUy0ydW1wdE9CMXRQaVdjdnVydXpQa3NxdHl0b1duT1hGQVdENmV2akRlc1lKZTVuSHh5RnBKLUZiWEdPenU4eEhlbGRJSUV3M0NWUHZNYmZtMDlWOXI2TlZ4Y2lrV00tRmFSQVFKYnUzSkx6UlVWdTRXMFM1Q1BMSVhjUWMtajlVZ1NuSmdiU1FZVW5SNi04dFp1US0tZE9RTmVmOGtCZkx1MmdXQWpGTGhGekRxUU55cDJINFNDZVN3T1NaTm9IdXhHYlJRX3pz?oc=5",
+    "resumo": "Pescadores têm prazo ampliado para solicitar o Seguro-Defeso — Ministério do Trabalho e Emprego  Governo Federal",
+    "imagem": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
+    "categoria": "economia",
+    "categoria_label": "📈 Conquistas & Economia",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-09",
+    "hora": "Há 17h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
     "id": 41,
     "titulo": "Estudantes promovem ato de apoio a Lula em Belo Horizonte",
     "veiculo": "Valor Econômico",
@@ -610,9 +610,9 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Sudeste",
     "data_dia": "2026-10-09",
-    "hora": "Há 34 min",
+    "hora": "Há 6h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 42,
@@ -625,7 +625,7 @@
     "categoria_label": "✊ Direitos & Mobilização",
     "regiao": "Nacional",
     "data_dia": "2026-10-09",
-    "hora": "Há 6h",
+    "hora": "Há 12h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   }
