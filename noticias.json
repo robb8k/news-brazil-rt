@@ -1,6 +1,96 @@
 [
   {
     "id": 1,
+    "titulo": "Lula garante versão universitária do “Pé de Meia” caso seja reeleito",
+    "veiculo": "Agência Brasil",
+    "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/lula-garante-versao-universitaria-do-pe-de-meia-caso-seja-reeleito",
+    "resumo": "Candidato à reeleição, o presidente da República Luiz Inácio Lula da Silva (PT) anunciou, nesta terça-feira (13), a criação de uma versão do programa Pé de Meia para estu...",
+    "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
+    "categoria": "eleicoes",
+    "categoria_label": "🗳️ Eleições & Campanhas",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-13",
+    "hora": "Há 3h",
+    "tempo_leitura": "2 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 2,
+    "titulo": "Flávio faz visita ao pai em prisão domiciliar e recebe apoios em SP",
+    "veiculo": "Agência Brasil",
+    "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/flavio-faz-visita-ao-pai-em-prisao-domiciliar-e-recebe-apoios-em-sp",
+    "resumo": "O candidato do Partido Liberal à Presidência da República, Flávio Bolsonaro, fez na manhã desta terça-feira (13) a primeira visita a seu pai, Jair Bolsonaro, que está em ...",
+    "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
+    "categoria": "eleicoes",
+    "categoria_label": "🗳️ Eleições & Campanhas",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-13",
+    "hora": "Há 3h",
+    "tempo_leitura": "2 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 3,
+    "titulo": "Perdão de dívidas de MEIs terá impacto fiscal, mas redução de custos",
+    "veiculo": "Agência Brasil",
+    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/perdao-de-dividas-de-meis-tera-impacto-de-r-3-bilhoes",
+    "resumo": "O projeto de lei complementar que prevê o perdão de dívidas de microempreendedores individuais (MEIs) terá impacto fiscal de R$ 3,04 bilhões entre 2027 e 2029, informou n...",
+    "imagem": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
+    "categoria": "economia",
+    "categoria_label": "📈 Conquistas & Economia",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-13",
+    "hora": "Há 3h",
+    "tempo_leitura": "2 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 4,
+    "titulo": "Milhares de estudantes tomam a Esplanada em apoio a Lula",
+    "veiculo": "Agência Brasil",
+    "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/milhares-de-estudantes-tomam-esplanada-em-apoio-lula",
+    "resumo": "Uma grande manifestação no centro de Brasília mostrou o apoio de estudantes ao presidente e candidato à reeleição Luiz Inácio Lula da Silva (PT). \n\nOs manifestantes saíra...",
+    "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
+    "categoria": "eleicoes",
+    "categoria_label": "🗳️ Eleições & Campanhas",
+    "regiao": "Centro-Oeste",
+    "data_dia": "2026-10-13",
+    "hora": "Há 4h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 5,
+    "titulo": "TSE mantém veto a posts que ligam Lula e Flávio ao crime organizado",
+    "veiculo": "Agência Brasil",
+    "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/tse-mantem-veto-posts-que-ligam-lula-e-flavio-ao-crime-organizado",
+    "resumo": "O plenário do Tribunal Superior Eleitoral (TSE) decidiu nesta terça-feira (13) confirmar decisões individuais de ministros da Corte que determinaram a retirada de postage...",
+    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
+    "categoria": "geral",
+    "categoria_label": "📢 Notícias do Povo",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-13",
+    "hora": "Há 4h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 6,
+    "titulo": "Saiba o que é adenocarcinoma pulmonar, câncer que atinge o papa",
+    "veiculo": "Agência Brasil",
+    "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/saiba-o-que-e-adenocarcinoma-pulmonar-cancer-que-atinge-o-papa-leao-XIV",
+    "resumo": "O Papa Leão XIV passou nesta terça-feira (13) por uma cirurgia para retirada de um nódulo no pulmão direito após os médicos detectarem adenocarcinoma pulmonar, que é o su...",
+    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
+    "categoria": "geral",
+    "categoria_label": "📢 Notícias do Povo",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-13",
+    "hora": "Há 4h",
+    "tempo_leitura": "2 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 7,
     "titulo": "Bolsonaristas ofendem memória de Marielle Franco em ato no Rio",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/bolsonaristas-ofendem-memoria-de-marielle-franco-em-ato-no-rio",
@@ -10,12 +100,12 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Sudeste",
     "data_dia": "2026-10-13",
-    "hora": "Há 47 min",
+    "hora": "Há 5h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 2,
+    "id": 8,
     "titulo": "Kassio reúne campanhas de Lula e Flávio e alerta para alta de ações",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/kassio-reune-campanhas-de-lula-e-flavio-e-alerta-para-alta-de-acoes",
@@ -25,12 +115,12 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-13",
-    "hora": "Há 49 min",
+    "hora": "Há 5h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 3,
+    "id": 9,
     "titulo": "Fiocruz analisa impacto das queimadas na saúde indígena no Amazonas",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/fiocruz-analisa-impacto-das-queimadas-na-saude-indigena-no-amazonas",
@@ -40,12 +130,12 @@
     "categoria_label": "📈 Conquistas & Economia",
     "regiao": "Norte",
     "data_dia": "2026-10-13",
-    "hora": "Há 1h",
+    "hora": "Há 5h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 4,
+    "id": 10,
     "titulo": "Calendário especial pode acelerar votação da PEC do fim da escala 6x1",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/calendario-especial-pode-acelerar-votacao-da-pec-do-fim-da-escala-6x1",
@@ -55,72 +145,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-13",
-    "hora": "Há 2h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": true
-  },
-  {
-    "id": 5,
-    "titulo": "Dólar sobe 0,74% e volta a fechar acima de R$ 5",
-    "veiculo": "Agência Brasil",
-    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/dolar-sobe-074-e-volta-fechar-acima-de-r-5",
-    "resumo": "Na volta do feriado, o dólar fechou em alta, e a bolsa recuou após os recordes da semana passada. A moeda estadunidense voltou a ficar acima de R$ 5, apesar da queda no e...",
-    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
-    "categoria": "geral",
-    "categoria_label": "📢 Notícias do Povo",
-    "regiao": "Nacional",
-    "data_dia": "2026-10-13",
-    "hora": "Há 2h",
-    "tempo_leitura": "2 min de leitura",
-    "urgente": true
-  },
-  {
-    "id": 6,
-    "titulo": "Brasil abriu 700 mercados para agropecuária desde 2023",
-    "veiculo": "Agência Brasil",
-    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/exportacoes-ue-crescem-307-apos-acordo-com-mercosul",
-    "resumo": "O acordo comercial entre o Mercosul e a União Europeia impulsionou em 30,7% as exportações brasileiras para o bloco europeu entre maio e setembro de deste ano, na compara...",
-    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
-    "categoria": "geral",
-    "categoria_label": "📢 Notícias do Povo",
-    "regiao": "Sul",
-    "data_dia": "2026-10-13",
-    "hora": "Há 3h",
+    "hora": "Há 6h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 7,
-    "titulo": "Justiça determina que Vasco e Boca Juniors joguem no Maracanã",
-    "veiculo": "Agência Brasil",
-    "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-10/justica-determina-que-vasco-e-boca-juniors-joguem-no-maracana",
-    "resumo": "Em mais uma decisão, a Justiça do Rio restabeleceu nesta terça-feira (13) a determinação de que a partida entre Vasco da Gama e Boca Juniors, marcada para o dia 20 deste ...",
-    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
-    "categoria": "geral",
-    "categoria_label": "📢 Notícias do Povo",
-    "regiao": "Nacional",
-    "data_dia": "2026-10-13",
-    "hora": "Há 3h",
-    "tempo_leitura": "2 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 8,
-    "titulo": "Veja os planos de governo de Flávio e Lula para meio ambiente e clima",
-    "veiculo": "Agência Brasil",
-    "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-10/veja-como-os-planos-de-governo-de-flavio-e-lula-tratam-meio-ambiente",
-    "resumo": "Diante da urgência de uma crise climática, os temas relativos ao meio ambiente se impõem nas agendas dos candidatos ao segundo turno das eleições. \n\nFlávio Bolsonaro (PL)...",
-    "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
-    "categoria": "eleicoes",
-    "categoria_label": "🗳️ Eleições & Campanhas",
-    "regiao": "Nacional",
-    "data_dia": "2026-10-13",
-    "hora": "Há 4h",
-    "tempo_leitura": "2 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 9,
+    "id": 11,
     "titulo": "A luta além das urnas",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/descolonizacoes/a-luta-alem-das-urnas/",
@@ -130,12 +160,12 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-10-13",
-    "hora": "Há 1h",
+    "hora": "Há 6h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 10,
+    "id": 12,
     "titulo": "Eleições: há vida além do digital",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/estadoemdisputa/eleicoes-ha-vida-alem-do-digital/",
@@ -145,12 +175,12 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-13",
-    "hora": "Há 2h",
+    "hora": "Há 6h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 11,
+    "id": 13,
     "titulo": "França: os sentidos da grande revolta",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/movimentoserebeldias/franca-os-sentidos-da-grande-revolta/",
@@ -160,12 +190,12 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-10-13",
-    "hora": "Há 2h",
+    "hora": "Há 7h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 12,
+    "id": 14,
     "titulo": "Piketty: o Brasil precisa vencer",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/crise-brasileira/piketty-obrasil-precisa-vencer/",
@@ -175,12 +205,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-13",
-    "hora": "Há 3h",
+    "hora": "Há 7h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 13,
+    "id": 15,
     "titulo": "O que o bolsonarismo poderia negociar com o STF",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/estadoemdisputa/o-que-o-bolsonarismo-poderia-negociar-com-o-stf/",
@@ -190,12 +220,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-13",
-    "hora": "Há 4h",
+    "hora": "Há 9h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 14,
+    "id": 16,
     "titulo": "O “tesouraço” de Flávio",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/estadoemdisputa/o-tesouraco-de-flavio/",
@@ -205,12 +235,12 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-13",
-    "hora": "Há 5h",
+    "hora": "Há 10h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 15,
+    "id": 17,
     "titulo": "O novo Brasil que a política (ainda) ignora",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/crise-brasileira/novo-brasil-que-a-politica-ainda-ignora/",
@@ -225,7 +255,7 @@
     "urgente": false
   },
   {
-    "id": 16,
+    "id": 18,
     "titulo": "Platão – E quando deixamos de disputar a ideia de futuro",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/movimentoserebeldias/platao-e-quando-deixamos-de-disputar-a-ideia-de-futuro/",
@@ -240,7 +270,7 @@
     "urgente": false
   },
   {
-    "id": 17,
+    "id": 19,
     "titulo": "Memórias do Jornalismo: Quando o partido já não basta",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/historia-e-memoria/memoria-do-jornalismo-quando-partido-nao-basta/",
@@ -255,7 +285,7 @@
     "urgente": false
   },
   {
-    "id": 18,
+    "id": 20,
     "titulo": "A luta dos inquilinos incendeia a Espanha",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/outras-cidades/a-luta-dos-inquilinos-incendeia-a-espanha/",
@@ -270,7 +300,7 @@
     "urgente": false
   },
   {
-    "id": 19,
+    "id": 21,
     "titulo": "Chegou o dia: Senado vota fim da escala 6×1 em sessão histórica nesta quarta-feira (14)",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/10/13/senado-vota-fim-da-escala-6x1-em-sessao-historica-nesta-quarta-feira/?utm_source=rss&utm_medium=rss&utm_campaign=senado-vota-fim-da-escala-6x1-em-sessao-historica-nesta-quarta-feira",
@@ -280,12 +310,12 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-13",
-    "hora": "Há 2h",
+    "hora": "Há 6h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 20,
+    "id": 22,
     "titulo": "Marcha pede Lula presidente por respeito aos direitos civis e pela vida do povo negro",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/10/13/marcha-pede-lula-presidente-por-respeito-aos-direitos-civis-e-pela-vida-do-povo-negro/?utm_source=rss&utm_medium=rss&utm_campaign=marcha-pede-lula-presidente-por-respeito-aos-direitos-civis-e-pela-vida-do-povo-negro",
@@ -295,12 +325,12 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-13",
-    "hora": "Há 2h",
+    "hora": "Há 7h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 21,
+    "id": 23,
     "titulo": "Venda de veículos no Brasil se aproxima da maior alta em 12 anos",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/10/13/venda-de-veiculos-em-2026-se-aproxima-da-maior-alta-em-12-anos/?utm_source=rss&utm_medium=rss&utm_campaign=venda-de-veiculos-em-2026-se-aproxima-da-maior-alta-em-12-anos",
@@ -310,12 +340,12 @@
     "categoria_label": "📈 Conquistas & Economia",
     "regiao": "Nacional",
     "data_dia": "2026-10-13",
-    "hora": "Há 3h",
+    "hora": "Há 8h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
-    "id": 22,
+    "id": 24,
     "titulo": "“PEC do Patrão”, apoiada por Flávio Bolsonaro, sofre revés no Senado e na sociedade",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/10/13/apoiada-por-flavio-bolsonaro-pec-7x0-sofre-reves-no-senado-e-na-sociedade/?utm_source=rss&utm_medium=rss&utm_campaign=apoiada-por-flavio-bolsonaro-pec-7x0-sofre-reves-no-senado-e-na-sociedade",
@@ -325,12 +355,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-13",
-    "hora": "Há 4h",
+    "hora": "Há 9h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
-    "id": 23,
+    "id": 25,
     "titulo": "Votação do fim da 6×1 levou TSE a censurar canal pró-Lula, sugere Janones",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/10/13/janones-denuncia-relacao-entre-censura-a-canal-pro-lula-e-votacao-do-fim-da-6x1/?utm_source=rss&utm_medium=rss&utm_campaign=janones-denuncia-relacao-entre-censura-a-canal-pro-lula-e-votacao-do-fim-da-6x1",
@@ -340,12 +370,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-13",
-    "hora": "Há 4h",
+    "hora": "Há 9h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
-    "id": 24,
+    "id": 26,
     "titulo": "PF liga Kassio Nunes a orgia “com 5 meninas” em triplex de Vorcaro",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/10/13/pf-liga-kassio-nunes-a-orgia-paga-por-vorcaro/?utm_source=rss&utm_medium=rss&utm_campaign=pf-liga-kassio-nunes-a-orgia-paga-por-vorcaro",
@@ -355,12 +385,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-13",
-    "hora": "Há 6h",
+    "hora": "Há 10h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
-    "id": 25,
+    "id": 27,
     "titulo": "É preciso transformar a indignação coletiva em esperança e luta",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/10/13/e-preciso-transformar-a-indignacao-coletiva-em-esperanca-e-luta/?utm_source=rss&utm_medium=rss&utm_campaign=e-preciso-transformar-a-indignacao-coletiva-em-esperanca-e-luta",
@@ -370,12 +400,12 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-13",
-    "hora": "Há 6h",
+    "hora": "Há 10h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
-    "id": 26,
+    "id": 28,
     "titulo": "A democracia desperta para além das fronteiras da esquerda",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/10/13/a-democracia-desperta-para-alem-das-fronteiras-da-esquerda/?utm_source=rss&utm_medium=rss&utm_campaign=a-democracia-desperta-para-alem-das-fronteiras-da-esquerda",
@@ -385,12 +415,12 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-13",
-    "hora": "Há 6h",
+    "hora": "Há 10h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
-    "id": 27,
+    "id": 29,
     "titulo": "Lula anuncia PixMEI de até R$ 5 mil e perdão de dívidas dos micro empreendedores individuais",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/10/13/lula-anuncia-pixmei-de-ate-r-5-mil-e-perdao-de-dividas-dos-meis/?utm_source=rss&utm_medium=rss&utm_campaign=lula-anuncia-pixmei-de-ate-r-5-mil-e-perdao-de-dividas-dos-meis",
@@ -400,12 +430,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-13",
-    "hora": "Há 7h",
+    "hora": "Há 12h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
-    "id": 28,
+    "id": 30,
     "titulo": "Milei corta novas aposentadorias em 53% e expõe riscos do plano de Flávio Bolsonaro",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/10/13/milei-corta-novos-aposentados-em-53-e-expoe-riscos-do-plano-de-flavio-bolsonaro/?utm_source=rss&utm_medium=rss&utm_campaign=milei-corta-novos-aposentados-em-53-e-expoe-riscos-do-plano-de-flavio-bolsonaro",
@@ -415,16 +445,31 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-13",
-    "hora": "Há 7h",
+    "hora": "Há 12h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
-    "id": 29,
+    "id": 31,
     "titulo": "Registro profissional de sanitaristas avança e Ministério da Saúde inicia emissão das carteiras",
     "veiculo": "Governo Federal",
     "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQeUhCeGRLbzUwemxzUlAzSDBVVWRjY3NyTWg1Z01VYTBFNmhNRnVrYWlSM1FjTXNRckRhYmdFNlF0S1RBVkNBbWVWR3VvQUlRRXZnZnVVYU1FR2hTVHVDa3lmQkw5NWZEVGg1a0xTVnRnV1paYUVJNkRmVElIU0FweDBEb3JGUXV6U2JYNkJpUV9mSFVIdG5uem1SWk42WF9tMTJzSnhYbE5QbGVUdzRpVjg4RElpSG14NmR4NEczNlo0bVJfc19MSmlZbWRNbUVpT0VGei1odE1GcWlYUV9XNnhHUzVCSHMzdUVucXFBZU1aUQ?oc=5",
     "resumo": "Registro profissional de sanitaristas avança e Ministério da Saúde inicia emissão das carteiras  Governo Federal",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-13",
+    "hora": "Há 15h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 32,
+    "titulo": "Compare as propostas de Lula e Flávio Bolsonaro para a saúde pública",
+    "veiculo": "Assine Abril",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9PT0dieDNmZzd4WFdQRW1ySGNPUzR4V3NuQWNYeUx4Tmt4MWkwM21BUUdYa19Xa1BvTHZ0NUpnSmJrRE1Ya0ZJeW1JVlZNTVYzQ3kyTC0xM1Jhb2txOGhUdGxZLUd3QkRDTE92QXVTVXowSDhaSG5F?oc=5",
+    "resumo": "Compare as propostas de Lula e Flávio Bolsonaro para a saúde pública  Assine Abril",
     "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
     "categoria": "social",
     "categoria_label": "🏛️ Políticas Públicas",
@@ -435,22 +480,7 @@
     "urgente": false
   },
   {
-    "id": 30,
-    "titulo": "Prefeitura de Itabuna recebe do Ministério da Saúde dois veículos para ampliar a frota do SAMU-192",
-    "veiculo": "Prefeitura de Itabuna",
-    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMHpnRDdwV1hBaUQ5OEQ0cndPMXcteWpnYU93ZzlrVndhbl9QVFM0U2JXQXYtN2hhSkZQTG5kX1EwZTJrbGJWdVg2b2NEMWJYZ0xEVlJHWFU5WlZmRFp3U1NhR3I2ZWlKQVJBTTM5UnRvZDhMUUplMXlRTUZFaDRTajVIV0xmYURkT0JWcFRZcVRwbjhwLTZqZi1HZ3RkNFN0MXBPTTl4T3lYUVA4MEpxbnlVajJCQk5hTWVGZXRYazZQMUtJNEMyRXZSZy1UVll3cVE?oc=5",
-    "resumo": "Prefeitura de Itabuna recebe do Ministério da Saúde dois veículos para ampliar a frota do SAMU-192  Prefeitura de Itabuna",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
-    "regiao": "Nacional",
-    "data_dia": "2026-10-13",
-    "hora": "Há 7h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 31,
+    "id": 33,
     "titulo": "Iniciativas de proteção à mulher, igualdade racial, educação, saúde mental e saneamento concorrem ao Prêmio CNMP 2026",
     "veiculo": "Conselho Nacional do Ministério Público (CNMP)",
     "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQVk9iajdGMVB0WkNVRUJOUHVxT0U4N2U5VjZVSU0zaDlnVGo0bTdCbXhiS1diZExEWk9UQjRmMXVFZTlKQ2psa2hkMEd3TkYyUGpMUHR0dXM3VVY4LVVQSmtDcC1sVzgxNWdUN1kwSmRWS2J0V3FscnJSc0J2X2pITk9FOFFTQkV4Zy1jeVZyMWVIUF8xbWxLNGlMX0luaktvaEsxSG9uX1c4amFuR2h4MzFhbzVRTlZ4Qml6RDhLcXpPU3F4NW84akctYnljUUdDcU5jZGZfWjE4NGNXYVFTSEM5N0dwSGRXTXlvU05FSHh5cXRwYTdldFdNSm4?oc=5",
@@ -460,12 +490,12 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-10-13",
-    "hora": "Há 12h",
+    "hora": "Há 17h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
-    "id": 32,
+    "id": 34,
     "titulo": "Cadu de Lula visita feira na Zona Oeste de Natal e apresenta propostas para saúde e educação",
     "veiculo": "G1",
     "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOU3VCRWtLM3otNkNaaFVYZGtuTG5JbWVtUWVxNHdlTVpKeDFVdU5RcVNucUlvRmRuWThuYkM3NlhTNzhuc2Ffenc2dS16YndabERqOTRueDE5ZEx6MlJiam56b2hoVC0yT1NkckJia2lYMnB2Ml8tcFBoeXZSQUNUWTFWZmdaSHRMZmxZUHNzRzd4M1F3a0F1UlM3ZlIyMDRPODZ0T2N1QzJFWDVfUVpuOW1yako1WENpYnFpS3hIUW5lZHZSbjVkcTFVTnR4NlZERDl5OW85M2dvTDB1dDhhWXJEZVpQd3Z4MkJ3b3ZTTGZJaWNHWHRIQXJUWmFWUVZuTEF4OFpB0gGUAkFVX3lxTFBXaDUtd0ZUdzBOanVfVzlJNVhTdm56ZjlpeXhtMjdieElvdGphUHhRNnVOem90SFBSMXY4SzVocUdxT1Rad3dUYWxqR0xCU09TdDdHaUFSbkZRQ3FsekR3Z2o3TF9tRDUzN0lONlZKUWJwYVJRbGRYb3A2UXFRS2g0bUo2UGFSLTRQM3NmQ3UwMmJlNzJaWUFjR2RvX1YtNDFXY2RVWkpJYTJnRXhxZzFTTVNXWFJaNUJGSXF5QXdCUXhiMV9CRXllVmUyQmwzNTJjb1B4RlRnOTlaNG1XYTJVNFREeHFYek81cFVBdUZrZmlDVHJUeDFQdUZrNXc2dWIzblNJT0NQNW9MMEp0am9oWDJuZQ?oc=5",
@@ -475,27 +505,12 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-10-13",
-    "hora": "Há 5h",
+    "hora": "Há 10h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 33,
-    "titulo": "Compare as propostas de Lula e Flávio Bolsonaro para a saúde pública",
-    "veiculo": "Assine Abril",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9PT0dieDNmZzd4WFdQRW1ySGNPUzR4V3NuQWNYeUx4Tmt4MWkwM21BUUdYa19Xa1BvTHZ0NUpnSmJrRE1Ya0ZJeW1JVlZNTVYzQ3kyTC0xM1Jhb2txOGhUdGxZLUd3QkRDTE92QXVTVXowSDhaSG5F?oc=5",
-    "resumo": "Compare as propostas de Lula e Flávio Bolsonaro para a saúde pública  Assine Abril",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
-    "regiao": "Nacional",
-    "data_dia": "2026-10-13",
-    "hora": "Há 5h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 34,
+    "id": 35,
     "titulo": "Governo anuncia perdão de dívidas e pacote de estímulo para MEIs",
     "veiculo": "Agência Brasil",
     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZFBTZ1ZNa3Z3VEJkb2lnOUk4TThLbE0yWHpfdWJIUlplMm9sQXRvaUo5cWtHQzZyWjRhY2JROUJkQjJkVXBoeFl0MUxtRXNkTkY5SWtHUzNQT2puMFowME5jLTRfUmdhclhPUXdRcG1MWVRTZ3Bibl8zaUotRFlwVVZOT2lveGZQQ0xvTWxhYksyZVk5TUlsZkZZV3kwd0g1TGNiVU9QWGxoZUJlaFlMMjQ1V1ZSWEwzU1BBLV9QRQ?oc=5",
@@ -505,12 +520,12 @@
     "categoria_label": "📈 Conquistas & Economia",
     "regiao": "Nacional",
     "data_dia": "2026-10-13",
-    "hora": "Há 8h",
+    "hora": "Há 13h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 35,
+    "id": 36,
     "titulo": "Ministério da Saúde mobiliza Força Nacional do SUS para apoiar serviços de saúde no Amazonas",
     "veiculo": "Governo Federal",
     "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQOU1jc0U5NVdKNWticHJ6aXY2OTZWYlFWTFNaVXlwdlZJWmo5aDNnNVpjZFAyVlhwV1I3T3BVSWZVZm5oTGE1bENsOWVjZ1lSOHU3VHloQ2xyZWh3dDZfNmJCWDJ3a3B4RC1uQVltUEpnM2FYMi1HbDVCanEyUTZuSUo4Ym0zWXo5cklyZWpfazU2RWJSZVU1cFlBTnNhZlVWYnBENWk2eF9EVmgyRVVyRDNYTGh1dGRFYlpnckxiTlJ2NjhvZ0dDVVlzeHFtMGx0NHU1WU9LNXdqTkxIMHY4Q1lDcnM4SWFsZ1dOTElR?oc=5",
@@ -520,12 +535,12 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Norte",
     "data_dia": "2026-10-13",
-    "hora": "Há 8h",
+    "hora": "Há 13h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 36,
+    "id": 37,
     "titulo": "Bolsa Família: o que Lula e Flávio propõem sobre o programa",
     "veiculo": "BBC",
     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1oWVJvbjZTNm1CaUZjd0NFNFhpY01KOFJPX3hQUmpYdFV5N2hWNy1LTDdzODRjaEtSU0RpNzg3QzB3eHJ2NW1QOG05TDVxLTFZbVB4RWZZTy1mWm43b29vTlNBTdIBaEFVX3lxTFBDX2RLaG05bjg3WC1YaWYwdzBqOVpFazlLZ3NCSFY4dF9sRXBRaXk1NTRONVRLaWdlTTc1TGhTeWhLOHRUd09pMjFPYV9Mc2hQZmF6Y1VwZklGd3VzcWhvV0FKZmt5MzNs?oc=5",
@@ -540,33 +555,18 @@
     "urgente": false
   },
   {
-    "id": 37,
-    "titulo": "Em disputa pelo segundo turno, Lula promete 3 milhões de moradias do Minha Casa, Minha Vida",
-    "veiculo": "NSC Total",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWkFmWHRySC1TZkplamE3aU9xOEJ1OGlxRmk1OEstWm1VdjVMbm1BWE5yWWdlM2dVUjBtYm5PY25raEJtU3BneUxoU1V3aThCQzEzdjlRSFlNYkNPMjFFTjlTQ3ZxcEQ5UTI0M0Y0Z1ZwMlBXRkd6NkFVM181MGV4U2dTaWZ6RXZOSWdsUWo0SVM5aEdPUzhnUFQ1Y21LckRVY0x0WXl2eUxaUQ?oc=5",
-    "resumo": "Em disputa pelo segundo turno, Lula promete 3 milhões de moradias do Minha Casa, Minha Vida  NSC Total",
-    "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
-    "categoria": "eleicoes",
-    "categoria_label": "🗳️ Eleições & Campanhas",
-    "regiao": "Nacional",
-    "data_dia": "2026-10-13",
-    "hora": "Há 9h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
     "id": 38,
-    "titulo": "Lula e Eduardo da Fonte propõem inclusão de remédio para ataxia de Friedreich no SUS",
-    "veiculo": "Blog Cenário",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOczhWbVZaZEFLdHVhZGNRVWxweWVRUU9sUXpndS1HTV9OSXFhc1B6djZOM0FlbVlXS0tkTEtQcDNFUzR6a0VUODRWRHNZNkNka3d1ZUd4Z0ZSUjd2RXVpNnhqb1FlUTVZVlBpOHJkZjhSV0FQOXgwd2JxR0J4aWdnVWluS09wZm9odHAzR2RVS1l3VTBMYUdQS2dwME8wV2hjUDdXRjdGcjdDZjdONWJ1VkVlUXhvb2t2RFk0UjB3OA?oc=5",
-    "resumo": "Lula e Eduardo da Fonte propõem inclusão de remédio para ataxia de Friedreich no SUS  Blog Cenário",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
-    "regiao": "Nacional",
+    "titulo": "Governos Lula e Jerônimo formalizam R$ 3 bilhões para Ponte Salvador–Itaparica e consolidam Novo PAC em obra de R$ 11,6 bilhões",
+    "veiculo": "Jornal Grande Bahia",
+    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNQ08tODAyTHBzak5nTDE5WWljUHM5UFFPNVJSejBaZVlRU2J6b1p2bVFPTVZKdGIyWFRIZTd4M2NaOHlaOWdEZFhGVjJnUjhvS3B2bG9vRHFUWEhwSVRIZk5nc1Z6czdrNm1YeU9ZRmk2OGFjVEIyUzE0YktlVC1Wc1I1aTJ2eDd3dnA4d0x6UHVaVi12WnRIUVhreUZNZzBNNUVOMlp1TnZsZUlwQ1BJenJxYWw4NHJMR1dZVmVpd2pMZWpIbXpkQ184eWI5N3l2aEpBZzI0ak0wYmxndmQtX3JsUWVZX1ZoZ0d1U000UXNGam42MUNNbmNR?oc=5",
+    "resumo": "Governos Lula e Jerônimo formalizam R$ 3 bilhões para Ponte Salvador–Itaparica e consolidam Novo PAC em obra de R$ 11,6 bilhões  Jornal Grande Bahia",
+    "imagem": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
+    "categoria": "economia",
+    "categoria_label": "📈 Conquistas & Economia",
+    "regiao": "Nordeste",
     "data_dia": "2026-10-13",
-    "hora": "Há 3h",
-    "tempo_leitura": "1 min de leitura",
+    "hora": "Há 7h",
+    "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
@@ -580,23 +580,23 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-10-13",
-    "hora": "Há 2h",
+    "hora": "Há 6h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 40,
-    "titulo": "A diferença na intenção de voto em Flávio e Lula entre quem recebe e não recebe Bolsa Família, segundo a pesquisa BTG/Nexus",
-    "veiculo": "VEJA",
-    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQV3l3ZTc2UFZaRVBIRlVxZldaVlYxZGxBVUowVklRalFaZkVNY0tZMk93UXZmZ0pPSGVsYll6UVhGdk1IM3NZLWZ6WXQ2SmdwMDlra0tndFpYWEcxelBkblVKQlN2eXJOTzBwSDVFUHl4S0UxNzJtQ2NSNkpXSTZvd0tCWkprWmRTTlJwdkZRSE5DY1BFeXFxVDBkS3pVQ3FTaGVaT1FyQzQ3aXBvVjk3ZjA1TWs3YVR5UEVjYTAwWW9yUlB0MkNGMzN2MkxTeVVxY1FiYnE1aFE4V29CU0xOaC1STXB2TlJJeGNBMg?oc=5",
-    "resumo": "A diferença na intenção de voto em Flávio e Lula entre quem recebe e não recebe Bolsa Família, segundo a pesquisa BTG/Nexus  VEJA",
+    "titulo": "Em disputa pelo segundo turno, Lula promete 3 milhões de moradias do Minha Casa, Minha Vida",
+    "veiculo": "NSC Total",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWkFmWHRySC1TZkplamE3aU9xOEJ1OGlxRmk1OEstWm1VdjVMbm1BWE5yWWdlM2dVUjBtYm5PY25raEJtU3BneUxoU1V3aThCQzEzdjlRSFlNYkNPMjFFTjlTQ3ZxcEQ5UTI0M0Y0Z1ZwMlBXRkd6NkFVM181MGV4U2dTaWZ6RXZOSWdsUWo0SVM5aEdPUzhnUFQ1Y21LckRVY0x0WXl2eUxaUQ?oc=5",
+    "resumo": "Em disputa pelo segundo turno, Lula promete 3 milhões de moradias do Minha Casa, Minha Vida  NSC Total",
     "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
     "categoria": "eleicoes",
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-13",
-    "hora": "Há 14h",
-    "tempo_leitura": "2 min de leitura",
+    "hora": "Há 13h",
+    "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
@@ -610,7 +610,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nordeste",
     "data_dia": "2026-10-13",
-    "hora": "Há 5h",
+    "hora": "Há 10h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -625,8 +625,8 @@
     "categoria_label": "✊ Direitos & Mobilização",
     "regiao": "Nacional",
     "data_dia": "2026-10-13",
-    "hora": "Há 1h",
+    "hora": "Há 6h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   }
 ]
