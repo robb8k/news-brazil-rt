@@ -1,6 +1,21 @@
 [
   {
     "id": 1,
+    "titulo": "Lula defende redução da maioridade penal para crimes hediondos",
+    "veiculo": "Agência Brasil",
+    "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/lula-defende-reducao-da-maioridade-penal-para-crimes-hediondos",
+    "resumo": "Candidato à reeleição, o presidente da República Luiz Inácio Lula da Silva (PT) participou de sabatina no Jornal Nacional (TV Globo) nesta quinta-feira (15) e defendeu a ...",
+    "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
+    "categoria": "eleicoes",
+    "categoria_label": "🗳️ Eleições & Campanhas",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-15",
+    "hora": "Há 4h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 2,
     "titulo": "Congresso aprova exame obrigatório para exercício da medicina",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/congresso-aprova-exame-obrigatorio-para-exercicio-da-medicina",
@@ -10,12 +25,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-15",
-    "hora": "Há 2h",
+    "hora": "Há 6h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 2,
+    "id": 3,
     "titulo": "Alcolumbre retira PEC da Segurança Pública da pauta do Senado",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/alcolumbre-retira-pec-da-seguranca-publica-da-pauta-do-senado",
@@ -25,12 +40,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-15",
-    "hora": "Há 2h",
+    "hora": "Há 7h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 3,
+    "id": 4,
     "titulo": "Dólar sobe 1,15% e fecha a R$ 5,09 em dia de cautela",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/dolar-sobe-115-e-fecha-r-509-em-dia-de-cautela",
@@ -40,12 +55,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-15",
-    "hora": "Há 3h",
+    "hora": "Há 7h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
-    "id": 4,
+    "id": 5,
     "titulo": "TSE determina isonomia após IA da Meta barrar imagens de Lula",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/tse-determina-isonomia-apos-ia-da-meta-barrar-imagens-de-lula",
@@ -55,12 +70,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-15",
-    "hora": "Há 3h",
+    "hora": "Há 8h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 5,
+    "id": 6,
     "titulo": "Estaleiro no RS começa a construir navios encomendados pela Transpetro",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/estaleiro-no-rs-comeca-construir-navios-encomendados-pela-transpetro",
@@ -70,12 +85,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Sul",
     "data_dia": "2026-10-15",
-    "hora": "Há 3h",
+    "hora": "Há 8h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
-    "id": 6,
+    "id": 7,
     "titulo": "Alcolumbre vai promulgar fim da escala 6x1 nesta sexta",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/alcolumbre-vai-promulgar-fim-da-escala-6x1-nesta-sexta",
@@ -85,12 +100,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-15",
-    "hora": "Há 3h",
+    "hora": "Há 8h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 7,
+    "id": 8,
     "titulo": "Senado aprova aumento de limite e perdão de dívida para MEIs",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/senado-aprova-aumento-de-limite-e-perdao-de-divida-para-meis",
@@ -100,12 +115,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-15",
-    "hora": "Há 3h",
+    "hora": "Há 8h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
-    "id": 8,
+    "id": 9,
     "titulo": "Três suspeitos são mortos pela polícia militar em assalto a casa em SP",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/tres-suspeitos-sao-mortos-pela-policia-militar-em-assalto-casa-em-sp",
@@ -115,22 +130,7 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-10-15",
-    "hora": "Há 4h",
-    "tempo_leitura": "2 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 9,
-    "titulo": "Museu da UFRJ irá receber mais R$ 10 milhões para restauração",
-    "veiculo": "Agência Brasil",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/museu-da-ufrj-ira-receber-mais-r-10-milhoes-para-restauracao",
-    "resumo": "O Museu Nacional da Universidade Federal do Rio de Janeiro (UFRJ) irá receber o investimento de R$ 10 milhões para dar continuidade aos trabalhos de recuperação após o in...",
-    "imagem": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
-    "categoria": "economia",
-    "categoria_label": "📈 Conquistas & Economia",
-    "regiao": "Sudeste",
-    "data_dia": "2026-10-15",
-    "hora": "Há 4h",
+    "hora": "Há 9h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -145,7 +145,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-15",
-    "hora": "Há 4h",
+    "hora": "Há 9h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -160,7 +160,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-15",
-    "hora": "Há 4h",
+    "hora": "Há 9h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -175,7 +175,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-15",
-    "hora": "Há 4h",
+    "hora": "Há 9h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -190,7 +190,7 @@
     "categoria_label": "✊ Direitos & Mobilização",
     "regiao": "Nacional",
     "data_dia": "2026-10-15",
-    "hora": "Há 6h",
+    "hora": "Há 10h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -205,7 +205,7 @@
     "categoria_label": "📈 Conquistas & Economia",
     "regiao": "Nacional",
     "data_dia": "2026-10-15",
-    "hora": "Há 6h",
+    "hora": "Há 11h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -220,7 +220,7 @@
     "categoria_label": "🌿 Meio Ambiente",
     "regiao": "Sul",
     "data_dia": "2026-10-15",
-    "hora": "Há 7h",
+    "hora": "Há 12h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -235,7 +235,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-15",
-    "hora": "Há 7h",
+    "hora": "Há 12h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -250,7 +250,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-15",
-    "hora": "Há 9h",
+    "hora": "Há 14h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -265,7 +265,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Sul",
     "data_dia": "2026-10-15",
-    "hora": "Há 10h",
+    "hora": "Há 15h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -280,7 +280,7 @@
     "categoria_label": "📈 Conquistas & Economia",
     "regiao": "Nacional",
     "data_dia": "2026-10-15",
-    "hora": "Há 11h",
+    "hora": "Há 15h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -295,7 +295,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-15",
-    "hora": "Há 3h",
+    "hora": "Há 7h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -310,7 +310,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-15",
-    "hora": "Há 3h",
+    "hora": "Há 8h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -325,7 +325,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-15",
-    "hora": "Há 4h",
+    "hora": "Há 9h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -340,7 +340,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-15",
-    "hora": "Há 5h",
+    "hora": "Há 10h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -355,7 +355,7 @@
     "categoria_label": "✊ Direitos & Mobilização",
     "regiao": "Nacional",
     "data_dia": "2026-10-15",
-    "hora": "Há 5h",
+    "hora": "Há 10h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -370,7 +370,7 @@
     "categoria_label": "📈 Conquistas & Economia",
     "regiao": "Nacional",
     "data_dia": "2026-10-15",
-    "hora": "Há 6h",
+    "hora": "Há 11h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -385,7 +385,7 @@
     "categoria_label": "📈 Conquistas & Economia",
     "regiao": "Nacional",
     "data_dia": "2026-10-15",
-    "hora": "Há 6h",
+    "hora": "Há 11h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -400,7 +400,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-15",
-    "hora": "Há 7h",
+    "hora": "Há 12h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -415,7 +415,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-15",
-    "hora": "Há 7h",
+    "hora": "Há 12h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -430,7 +430,7 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-10-15",
-    "hora": "Há 7h",
+    "hora": "Há 12h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -445,9 +445,9 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-10-15",
-    "hora": "Há 54 min",
+    "hora": "Há 5h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 31,
@@ -460,9 +460,9 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-15",
-    "hora": "Há 1h",
+    "hora": "Há 6h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 32,
@@ -474,8 +474,8 @@
     "categoria": "eleicoes",
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
-    "data_dia": "2026-10-15",
-    "hora": "Há 1h",
+    "data_dia": "2026-10-16",
+    "hora": "Há 2h",
     "tempo_leitura": "1 min de leitura",
     "urgente": true
   },
@@ -490,9 +490,9 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-15",
-    "hora": "Há 1h",
+    "hora": "Há 6h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 34,
@@ -505,42 +505,12 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-15",
-    "hora": "Há 1h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": true
-  },
-  {
-    "id": 35,
-    "titulo": "Lula reafirma que vai manter reajuste do salário mínimo acima da inflação, em sabatina do Jornal Nacional",
-    "veiculo": "Brasil de Fato",
-    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZXltWll5dmpUNDRIQmdMWVdMSXpHVllxQUhNbDlEOV9CeUkwRk51b2xOZk41WF9xeEY4WHh5RGllV3VTOHNLeDVKRTQ0a0JVR0VsWDRJNnlGSXNldHl5Nlk4MG9mSWR6b3JlQ3lkcVJhZGhabnRlNnlIM0lTVGstRHZvT1BIWFh6dFhTQkpoYVVsUl9MbDFpNnhQNzlZbzktamlnbEI2MGNWVHBNTkphUHd0NjdnYVEzTzdQRjBiMzloeGFlMS0tUXRVSHNMd0RybUpKcjFZRmtoLURuaENwX2lB?oc=5",
-    "resumo": "Lula reafirma que vai manter reajuste do salário mínimo acima da inflação, em sabatina do Jornal Nacional  Brasil de Fato",
-    "imagem": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
-    "categoria": "economia",
-    "categoria_label": "📈 Conquistas & Economia",
-    "regiao": "Nacional",
-    "data_dia": "2026-10-15",
-    "hora": "Há 1h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": true
-  },
-  {
-    "id": 36,
-    "titulo": "Propostas de Lula e Flávio apontam caminhos diferentes para educação",
-    "veiculo": "APP-Sindicato",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSjk3UHRjT21mUzJUZnpaVFBUYjdSeEtDTUVhZ3lvRW5Fa0xzRkVfMTd3S3BuNnZ4dW5zM3R6OF83ZWdsaDVkZlUtWElXVjd5a0xmRDVCR1pjSWhuVzEyM1p2YlRPd18ybndIUFpGWEVQRmJ0YmgxS3JybER3VXVDNEtucVA5cnFSaXVzU0N2OExNWENxazJQWVJ2Zy1iTkh6Q29Va09waw?oc=5",
-    "resumo": "Propostas de Lula e Flávio apontam caminhos diferentes para educação  APP-Sindicato",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
-    "regiao": "Nacional",
-    "data_dia": "2026-10-15",
-    "hora": "Há 7h",
+    "hora": "Há 5h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 37,
+    "id": 35,
     "titulo": "Lula diz que \"não sabia\" que Bolsa Família não havia sido reajustado",
     "veiculo": "CNN Brasil",
     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZnpyeGVvZHo4VVc1eGthbUVxQ0lwQ0dETjNPbGN3Y0RTVXhYZXJ1c1NISC01WU85U2pGMGo4aE40TnlRTWY4LU9udThTOWVfOC1iWlpId0w0WFlhWHMyc2p2c2ZOc2JtUjNFalZpTUN0alZDc2tsc2c2Nm5Mbjl3RUFHVXNOdHpMZzdnSnc0UERBWnZ1dkUyY0pNbDczMkp2OEVhOFE2N0k?oc=5",
@@ -550,27 +520,27 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-10-15",
-    "hora": "Há 58 min",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": true
-  },
-  {
-    "id": 38,
-    "titulo": "Flávio quer escolas militares; Lula propõe ampliar educação integral",
-    "veiculo": "Agência Brasil",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdlEtbTU3ejhmRmpMaDZTOEtxSEJNMUZjQWVPNlJHcHRZY1JHdV9kd0RVbWE2Rks0Z1FzUjFaODF1R1hLVlBlMDNEaHRMUWE2ZUFIUkV4Z0FMWGRJQm5tS0dsdF9rR0paWU04TGI0M3hkdW5lT0I5OVg3Slk0R0xzWHVhbnZYYTk5NVdvYWlQNDFlZTladDNYMXBhSG1wM291RGdYcDZHaEstLVZ2ZHJaekdTS18xYWJidHFCZWFmWTZCenc?oc=5",
-    "resumo": "Flávio quer escolas militares; Lula propõe ampliar educação integral  Agência Brasil",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
-    "regiao": "Nacional",
-    "data_dia": "2026-10-15",
-    "hora": "Há 15h",
+    "hora": "Há 5h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 39,
+    "id": 36,
+    "titulo": "Lula reafirma que vai manter reajuste do salário mínimo acima da inflação, em sabatina do Jornal Nacional",
+    "veiculo": "Brasil de Fato",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZXltWll5dmpUNDRIQmdMWVdMSXpHVllxQUhNbDlEOV9CeUkwRk51b2xOZk41WF9xeEY4WHh5RGllV3VTOHNLeDVKRTQ0a0JVR0VsWDRJNnlGSXNldHl5Nlk4MG9mSWR6b3JlQ3lkcVJhZGhabnRlNnlIM0lTVGstRHZvT1BIWFh6dFhTQkpoYVVsUl9MbDFpNnhQNzlZbzktamlnbEI2MGNWVHBNTkphUHd0NjdnYVEzTzdQRjBiMzloeGFlMS0tUXRVSHNMd0RybUpKcjFZRmtoLURuaENwX2lB?oc=5",
+    "resumo": "Lula reafirma que vai manter reajuste do salário mínimo acima da inflação, em sabatina do Jornal Nacional  Brasil de Fato",
+    "imagem": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
+    "categoria": "economia",
+    "categoria_label": "📈 Conquistas & Economia",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-15",
+    "hora": "Há 6h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 37,
     "titulo": "Hospital Geral de Bonsucesso tem segundo tomógrafo e chega a 450 leitos para atendimento do SUS",
     "veiculo": "Governo Federal",
     "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQTC01czJLa2VoR2ZGN21iako2eHpGSlUxeFNpdG1OdzZuMXVhZTFVTzRRYkpjREwtRkNPM1o1VGlqRGdVNUlwblVhX0ZvU25BUVU4T296V0JONjdSWVphYUFod2xOQXBxc19Qb1lsbkdNN1Z6UzhERFpGNjg5SXAwS3pnRmJsMkN3UVNSdnBNbTB0dGdIX2toclFiVE85Vm96UEhIaXRQckZqVTgxMy04bWdfVHFrQUxicHJFY2ZkRy1nZ2RxbFhYUGRna1l5UVJ5bGx2eHowb0lIRU1IRGVXZWd2dm1jbzd3LUwtcW1SVmpaUQ?oc=5",
@@ -580,24 +550,54 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-10-15",
-    "hora": "Há 6h",
+    "hora": "Há 11h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 40,
-    "titulo": "Análise: Pergunta sobre congelamento do Bolsa Família constrange Lula na sabatina da TV Globo",
+    "id": 38,
+    "titulo": "Em entrevista à TV, Lula diz que 'não sabia' que Bolsa Família não tinha sido reajustado em seu governo",
     "veiculo": "Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNN2xKejlheVpGdE0ybUZTbWJvMzJ4QUxBanY4ZlJhOVRmZkVacXp2SFpZS1M0aUstNUVYUmU5VkxMVzV2cHFfcFI0SHVJN0dTdU02dDBXYVRNUkhfSk14ZWgxVnlUYUpjSUcwYlE2SUFLLXhjeUFoX3pHX2hqQ1hveEh2ZDh1NHVhQmxMdFpwNGFDbWQtOWI0R1JPNzJ2bExaUE1PaFBFakN6N0JhdXFSY3NTUW9kSXp4b0w1YW5UMHB0dDhVQ3djZHN1MXdobkRIcy10UFlGYXJFNHNod1NsTkZSeWhMM3NUQWFFS1B3OHIwc3g5MmxJ0gGGAkFVX3lxTE56bV9fTWV6ZVdLdDA5UnlqY09KNUxCYUtDbjV6WnJfY1poTGZmNXc2ZDd3M1lVUnpQWTdDYjVxUHdibXVJUjIzZ2NqWTM1NTJVQXc1OWNFczNxdXl6VnhNLWFOUmlyakVXelZVNXB4OTFnRWRadThaYTRPS3JJcXFSTUZDakdpQ0ZaUkMwNVFPN1luemI5bUt6NU5vMFZDUGRIYkVwMVFTUEp3RU1VWlM4d3ZKSHhvcV9NUnAwQnRBRWV4V1NrMHRHMkNfbmx5eVhxaUdFX3B2R2xVYi1wREVxQm1KQ2U1T2pISXRlQzE2T2JQRjU4LWVMaFhMU3AzMFBicktOa0E?oc=5",
-    "resumo": "Análise: Pergunta sobre congelamento do Bolsa Família constrange Lula na sabatina da TV Globo  Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPMkRjNkpDb3NRUW1CdmRZaktPcVEydmQzX01ZUGtmUkNOZk1hQUE2RFRZZGNaSjFQRXZ4bnE5Z3Y4d0NXaVVzRE9PSzQyRmtmdlFIR1M3bl9yOWVValB6Zk51MnNRVkxnRUtQS1RyclVMU3phbzJoV0dxc2ZKWkMtcGxnZy1JVUJlU2RZX1hjcUdvdm5EQzBGVlNGM1FtOEpWZTVOU0hzZHlERFg3cHJRSDN4YVpDRlpjMXJ1endlWFliY20xUXpLeFRtbUNVNEFRWjliaVdvVDhUSmlDUGJ3LUtnRkg2Rzd0eUdxSEVCUGNwd1pRR1B6YTNVZnVlSVpMWmfSAZACQVVfeXFMUG1wWDF4OExqMFNPd1ItQmtYeC02NHVEckFjQkxZT09ZRmVtTnluUlFCMXNpMXdpUlZvcjU0c0FQbGd5dEVrOVNRemtWS2UtT05HZlN4aENQVXdyWURwalo4Sy1KaU5SSndhVE95RFZUMzF3X05xWllvZnE2Q3l3eXdOYlZFUDFQcjJQUV9PUTRZeVFUMHc5ZmthTXc0NlBFaDZtOHF6N2NOX09jVzJoQkxGN1NnOV9KdHg2Q3hqbk9PdkdTbDAzMHRsMXpqMTZjWm9wQlRLeG55V0pEMkRtUWhkTTFZbk4wZ0Z1dVhaMVRNcVVjWlRUdFNIWHkxekVwNko2ZTRTVDN2N3VtcUp3T3E?oc=5",
+    "resumo": "Em entrevista à TV, Lula diz que 'não sabia' que Bolsa Família não tinha sido reajustado em seu governo  Valor Econômico",
     "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
     "categoria": "social",
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-10-15",
-    "hora": "Há 41 min",
+    "hora": "Há 6h",
+    "tempo_leitura": "2 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 39,
+    "titulo": "Toledo: Pior fala de Lula foi a que não sabia de Bolsa Família sem reajuste",
+    "veiculo": "UOL Notícias",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbHpsOFc2R2tLdm94ZUdGMWV6STI3dUZ2ZjZya2h6dDNzeWtSekR4M2hWM0piTHpoUHIzZGtNSHdaRFphUElzb3JpWjJJVzYtRG5Wb19NOXl2NlJuZTh3QkRPbzNuYXJmZ25Qamo4M1hOOG9DTXBES2piUjVIMTg4Z2dKZVpsaDYwOUpBWFFUaWx5VEllN0tYZXlmRTIxRVNNSGpRZXFCZHM1cHNDbDlzNW9UdDk2aFNDWnNkY3BaM3RfeHU3bXAw?oc=5",
+    "resumo": "Toledo: Pior fala de Lula foi a que não sabia de Bolsa Família sem reajuste  UOL Notícias",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-15",
+    "hora": "Há 5h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
+  },
+  {
+    "id": 40,
+    "titulo": "Na Globo, Lula diz que 'não sabia' que seu governo deixou de reajustar o Bolsa Família por quatro anos: 'É inexplicável'",
+    "veiculo": "O GLOBO",
+    "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQRTg4eVZGNUluUk1JeHRkc2ZaWWU1UWNZMmx6dEJCbUdHT3lKM3BGVlNwTm9JZ0ZVZEI4d1AtNTJ5cktWSUhXd2Y4dlZpQVZDNkFOSkRRWGYxTmdzRU9jUlBSZ0l3U05VSlBoZVJiczVyZFprcXBaYU5VMkZrSkc2VlRaX2xrR0RqSGZGNkFPbEVrcExXaF9aTzRxdkFEbXFfbVM0b3RPRmNCN1NKTDNwWWtnNDU4a21EdmIxNURtTlhuT2NzUmJweTF2V2NZcHFmRjFMMXktSGlId2IxSWJ3T1pLU1RNUkJYSGw0akJuM1BUemFjRGF4MWdnUkFnYVZiVGtRRjFyVUllaGRmYVJVWk9Bcl95d9IBpAJBVV95cUxOTG9Gem9TS21zV3QwTUplUEpXb2lNWGtOMkkxSGNDLVFGbnFkZUZ6SHZaUTQ4bVd4SGI1LWNqdE16c2JWRTFYVHpwWHI4cDlMVXdSRFhib3JOX0YtSms1YVJxbWFhb2pwVEdubVgzLWI3YnpWbFdZQWFxTktfY3pibWZ0a0F6Y0RwWUg0SXNnNFdNc19XRzN1SExCcHlEUEtKQlNpbGVxRzhqb05YTHBxZTlHNEo0RU43U2J5VEtNbTIwTGFMTmR1NDlBOVFBbW9jM21KR0lFVUlPVU5pdzdFVjhtazQ5MUJraldUVkg0eGcxSXkxNmpXMUx4M0RmRDBycE9kUG1sdURKTFdKVXVOUm1MTmwtb1JSUFlTM2E2SjRyZFFa?oc=5",
+    "resumo": "Na Globo, Lula diz que 'não sabia' que seu governo deixou de reajustar o Bolsa Família por quatro anos: 'É inexplicável'  O GLOBO",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-15",
+    "hora": "Há 6h",
+    "tempo_leitura": "2 min de leitura",
+    "urgente": false
   },
   {
     "id": 41,
@@ -609,24 +609,24 @@
     "categoria": "eleicoes",
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
-    "data_dia": "2026-10-15",
-    "hora": "Há 5h",
+    "data_dia": "2026-10-16",
+    "hora": "Há 4h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
     "id": 42,
-    "titulo": "Mais de 100 indígenas Warao participam de entrevistas de elegibilidade para processo de solicitação de refúgio no Brasil",
-    "veiculo": "ACNUR",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMm1GczhqVjhFUjJGanFjZjdjSFlodXZOWl9panZ4QVNyM09WV0xCUzNBNndHQ1h4dTlhRnVtTHV4R29FLXA1cEpzZWdFNE12LW9RaVVwQjBPWlhkU2hRYVFQb0VZMWsyTGkxWkM2SXNwd2dVMkdkSVN4MGk3UVFpZGY3M2Nvd0NTMHpiM3FiaWRhYmpvMHFqdWtJcHZkejYx?oc=5",
-    "resumo": "Mais de 100 indígenas Warao participam de entrevistas de elegibilidade para processo de solicitação de refúgio no Brasil  ACNUR",
-    "imagem": "https://images.unsplash.com/photo-1531206715517-5c0ba140b2b8?w=800&q=80",
-    "categoria": "direitos",
-    "categoria_label": "✊ Direitos & Mobilização",
+    "titulo": "Salário mínimo: veja o que já defenderam as campanhas dos candidatos a presidente",
+    "veiculo": "G1",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOckQ2UHZ4SXhUeFZWRHNDdzY5WVc3OE9GUkdFdE84T3B1MGd1Y1JIOENjYk5ublMweXg0R3dhS2Q0QjRJYzRWSi1La3NVdkk2RDdtdVU2al9mQS1xck1qYlFHTVFxNWktUVdfNDZZQUk2TzlMQW1oWGFZVUhvLW1hV1hNQ1FucGd6X18zSzlyQllLQ3MwRDRHNlBfNmNWMm9kQ2pVOGtLbFRUU2E1ZGQxTGlvUU1INDYxWFhVd3huMHd6Y21ZMUttcmk5b08xSTc30gHfAUFVX3lxTE9ieXhoaGNSdV9kZng2SkNzZWIteWdsY2FlS0dRVmNHeXNiMFFmNW5IckpTaGl6akEzaWVIcVdFaUxrVE1TM3VfWk9nb25RbjluemVBTDYxQlU0R3hma2NSaUFQNks4ZEN2T0EyNUk5X3JGVWJXZ3Zyb1FUTmtSMGgyU3l5Z3NlUDNwU21JT2wxby1tZE5PbWtlZGJ1ZGMxMzhZR0xVUDhGRHhDSGV1N0VKMldBOFFYNDFMOWdNTFdwN2VyY3lvYXl5OUhVTjM1R3ltckRnY0c4THl5LW1Xdm8?oc=5",
+    "resumo": "Salário mínimo: veja o que já defenderam as campanhas dos candidatos a presidente  G1",
+    "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
+    "categoria": "eleicoes",
+    "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
-    "data_dia": "2026-10-15",
-    "hora": "Há 1h",
+    "data_dia": "2026-10-16",
+    "hora": "Há 4h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   }
 ]
