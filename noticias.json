@@ -10,9 +10,9 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Sudeste",
     "data_dia": "2026-10-16",
-    "hora": "Há 2h",
+    "hora": "Há 6h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 2,
@@ -25,7 +25,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-16",
-    "hora": "Há 3h",
+    "hora": "Há 7h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -40,7 +40,7 @@
     "categoria_label": "✊ Direitos & Mobilização",
     "regiao": "Nordeste",
     "data_dia": "2026-10-16",
-    "hora": "Há 4h",
+    "hora": "Há 8h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -55,7 +55,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-16",
-    "hora": "Há 4h",
+    "hora": "Há 8h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -70,7 +70,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-16",
-    "hora": "Há 5h",
+    "hora": "Há 9h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -85,7 +85,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-16",
-    "hora": "Há 5h",
+    "hora": "Há 9h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -100,7 +100,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-16",
-    "hora": "Há 6h",
+    "hora": "Há 10h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -115,7 +115,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-16",
-    "hora": "Há 6h",
+    "hora": "Há 10h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -130,7 +130,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-16",
-    "hora": "Há 7h",
+    "hora": "Há 11h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -145,7 +145,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-16",
-    "hora": "Há 7h",
+    "hora": "Há 11h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -160,7 +160,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-16",
-    "hora": "Há 7h",
+    "hora": "Há 11h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -175,7 +175,7 @@
     "categoria_label": "✊ Direitos & Mobilização",
     "regiao": "Nacional",
     "data_dia": "2026-10-16",
-    "hora": "Há 7h",
+    "hora": "Há 11h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -190,7 +190,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-16",
-    "hora": "Há 8h",
+    "hora": "Há 12h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -205,7 +205,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-16",
-    "hora": "Há 10h",
+    "hora": "Há 14h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -220,7 +220,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Norte",
     "data_dia": "2026-10-16",
-    "hora": "Há 10h",
+    "hora": "Há 14h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -235,7 +235,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-16",
-    "hora": "Há 10h",
+    "hora": "Há 15h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -250,7 +250,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-16",
-    "hora": "Há 12h",
+    "hora": "Há 16h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -265,7 +265,7 @@
     "categoria_label": "🌿 Meio Ambiente",
     "regiao": "Norte",
     "data_dia": "2026-10-16",
-    "hora": "Há 6h",
+    "hora": "Há 10h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -280,7 +280,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Norte",
     "data_dia": "2026-10-16",
-    "hora": "Há 7h",
+    "hora": "Há 11h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -295,7 +295,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-16",
-    "hora": "Há 8h",
+    "hora": "Há 12h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -310,7 +310,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Norte",
     "data_dia": "2026-10-16",
-    "hora": "Há 8h",
+    "hora": "Há 12h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -325,7 +325,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-16",
-    "hora": "Há 9h",
+    "hora": "Há 13h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -340,7 +340,7 @@
     "categoria_label": "📈 Conquistas & Economia",
     "regiao": "Nacional",
     "data_dia": "2026-10-16",
-    "hora": "Há 9h",
+    "hora": "Há 13h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -355,7 +355,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-16",
-    "hora": "Há 9h",
+    "hora": "Há 13h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -370,7 +370,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-16",
-    "hora": "Há 10h",
+    "hora": "Há 14h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -385,7 +385,7 @@
     "categoria_label": "🌿 Meio Ambiente",
     "regiao": "Nacional",
     "data_dia": "2026-10-16",
-    "hora": "Há 10h",
+    "hora": "Há 14h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -400,7 +400,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-16",
-    "hora": "Há 10h",
+    "hora": "Há 14h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -415,7 +415,7 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-10-16",
-    "hora": "Há 6h",
+    "hora": "Há 10h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -445,7 +445,7 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-10-16",
-    "hora": "Há 13h",
+    "hora": "Há 17h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -460,7 +460,7 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-10-16",
-    "hora": "Há 12h",
+    "hora": "Há 16h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -475,12 +475,27 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-16",
-    "hora": "Há 23h",
+    "hora": "16/10 02:08",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
     "id": 33,
+    "titulo": "A explicação de Lula sobre aumento do Bolsa Família às vésperas da eleição",
+    "veiculo": "VEJA",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQjZ2ZGcyRGltdkVWdmd1dDJKTGNwTExFVzJDdFFPZUdkS1JuY0NtWWQta1FMc2t5a3FNWXZPZ3Nla21GRm5jSXVfMDZxQzM3eGVSQmllWVFqT2JvckdNVE1tQkk4SkhRVmR4dGpGb0pwd0d2d1c2MW1ONllsWDRQY0syNG9mMEhUUENIWjRlVWVFLWNsVFpYeWh3OG1henoxWV8tMzE1b0cwTXpvUy1r?oc=5",
+    "resumo": "A explicação de Lula sobre aumento do Bolsa Família às vésperas da eleição  VEJA",
+    "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
+    "categoria": "eleicoes",
+    "categoria_label": "🗳️ Eleições & Campanhas",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-15",
+    "hora": "15/10 21:56",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 34,
     "titulo": "Ministério da Saúde, estados e municípios promovem Circuito de Cuidado da Mulher neste sábado",
     "veiculo": "Governo Federal",
     "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNYjdmWWNpT0p4Ung5Y2VBSlpkMXNyb2xqZzJ0SDRyNnJfY2ZIMHJpUk1hZVVTSk1qTHB2cjRka2lENUpBZHVtVVpYRWxBTDR1SXhlbnp5bnItTWFVMnZxeUNPSGFacVRULW0ybUk4UHVIcVBEaEpRcjMwSGlpbVhfNFppYjBjeEUwS214VjJuaTFNZW1qaUtRN1FVcHMzRTNWLUZSbVN2TzFWQVVhZnJKR18takJzZ0ZnRmVQSTRHUC1HVkJ6UTVWZ0h0SVA1ZHlSaUVsWFBVbDgwTVhrZ1FXSE1SR3J2ZVJiaFVTWkdB?oc=5",
@@ -490,12 +505,42 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-10-16",
-    "hora": "Há 11h",
+    "hora": "Há 15h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 34,
+    "id": 35,
+    "titulo": "Do salário mínimo ao Bolsa Família: Lula e Flávio apresentam divergências sobre benefícios sociais e trabalho",
+    "veiculo": "O GLOBO",
+    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNYWNHUnNkZTZGb3psSldMekxlOTZwYzVXTW5BQzRUREFBOGItbjZvcEpfdTVlUjdWalNvR2tzNjFyMjMxR2JWdTAwTS1ZY2ZmVUJqOThCdVRlUG9GaDdVN1NCUnVfS20yTC1GcGphTzhqQ0FFOG9yRkY3ZkQ2ZVFyYV9FREJqeUFuSkV6d3NpNDEzQ25BZTBidEZSZUxHYXBscXljREhKZDRORGJ1bTZQVXQzMGpVanRfa2xabVVxM3QweXR0SGFMczc1R2tqSDFvUkJkV0VOdGJka19YSzhkZEFreW50LW5JeERPWGxR0gH8AUFVX3lxTE5tdVViZmNWUzc5WmNWUmxGeHR1S2RLZHVJcTBYbDN6a2dBZUI5bG11dGRCY1UxMFdQNVVkOTBBT1kyak9TVWtoeXExNDNYcGE1Z0JfYnFubnNrXzFrYVM4NVJNWnpXeHBjUUhJeF9veVB3U1hqMi1xbDBqWGMwUHVNa2NQRlRtaXl3U3ZiWXc0ZnpxVV92UkdxckNaRWhYV2IyTkVVTzgxRHg2QUlkTUh5YW1jLWo0WDZrcW0zM19IMmphODR4elktRUd5aEJvMzNtWmNRclNhejRWeWhpdTNrbzJYMnJvSlNQMUdTU1FhU3lOT1hFbm1HUVgyaw?oc=5",
+    "resumo": "Do salário mínimo ao Bolsa Família: Lula e Flávio apresentam divergências sobre benefícios sociais e trabalho  O GLOBO",
+    "imagem": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
+    "categoria": "economia",
+    "categoria_label": "📈 Conquistas & Economia",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-17",
+    "hora": "Há 1h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": true
+  },
+  {
+    "id": 36,
+    "titulo": "Hospital São Paulo volta a integrar programa de reestruturação de hospitais universitários — Ministério da Saúde",
+    "veiculo": "Governo Federal",
+    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNd09ZbHJFdVRZZ3BxaHFkQ25BM3MwM0xncmpmdXdBUHRieEJzU0xaU0tFeWtmbTlfOXBsNFF2Q3dER181Q1JjYUx4cXZCdWhTT3l0ZHoyV0dkTGxUYS1mLW1OdEcwRHlJWm9wNkNUTUt4V3BkbWdNdnJNZHVJT19Id192aURrLVhHX3VVRERNV1ptdlZEVHhkMVhfalZhOXpobTdFUHlQOXBYY0JBTnl3dENubm85cVpFNHpHTTVyRDlaV2VjNnFSXzdIakhGN0dPVEV6SUFLZ04xZDVWOW1FRVFXYll5enFlaVRn?oc=5",
+    "resumo": "Hospital São Paulo volta a integrar programa de reestruturação de hospitais universitários — Ministério da Saúde  Governo Federal",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
+    "regiao": "Sudeste",
+    "data_dia": "2026-10-16",
+    "hora": "Há 16h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 37,
     "titulo": "Na Globo, Lula diz que 'não sabia' que seu governo deixou de reajustar o Bolsa Família por quatro anos: 'É inexplicável'",
     "veiculo": "O GLOBO",
     "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQRTg4eVZGNUluUk1JeHRkc2ZaWWU1UWNZMmx6dEJCbUdHT3lKM3BGVlNwTm9JZ0ZVZEI4d1AtNTJ5cktWSUhXd2Y4dlZpQVZDNkFOSkRRWGYxTmdzRU9jUlBSZ0l3U05VSlBoZVJiczVyZFprcXBaYU5VMkZrSkc2VlRaX2xrR0RqSGZGNkFPbEVrcExXaF9aTzRxdkFEbXFfbVM0b3RPRmNCN1NKTDNwWWtnNDU4a21EdmIxNURtTlhuT2NzUmJweTF2V2NZcHFmRjFMMXktSGlId2IxSWJ3T1pLU1RNUkJYSGw0akJuM1BUemFjRGF4MWdnUkFnYVZiVGtRRjFyVUllaGRmYVJVWk9Bcl95d9IBpAJBVV95cUxOTG9Gem9TS21zV3QwTUplUEpXb2lNWGtOMkkxSGNDLVFGbnFkZUZ6SHZaUTQ4bVd4SGI1LWNqdE16c2JWRTFYVHpwWHI4cDlMVXdSRFhib3JOX0YtSms1YVJxbWFhb2pwVEdubVgzLWI3YnpWbFdZQWFxTktfY3pibWZ0a0F6Y0RwWUg0SXNnNFdNc19XRzN1SExCcHlEUEtKQlNpbGVxRzhqb05YTHBxZTlHNEo0RU43U2J5VEtNbTIwTGFMTmR1NDlBOVFBbW9jM21KR0lFVUlPVU5pdzdFVjhtazQ5MUJraldUVkg0eGcxSXkxNmpXMUx4M0RmRDBycE9kUG1sdURKTFdKVXVOUm1MTmwtb1JSUFlTM2E2SjRyZFFa?oc=5",
@@ -510,51 +555,6 @@
     "urgente": false
   },
   {
-    "id": 35,
-    "titulo": "Congresso promulga emenda de aposentadoria especial de agente de saúde",
-    "veiculo": "Agência Brasil",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNN29ELXFfbHAySUhDX0hFWFptRjAwLWtCOXhnUmo2LW81eFkxVlNqZTllSk1YeWV1bk56alM4SkNyOFN3c2FSWFN1WlhvdHBPNzhXNFd2MnBGSmMxNFJjelREcHFtOWJzdUs2TzFFZmQzTjhwOUtYZTR6eDZpRWozQ014VDVtSEptLVR4NHNkQ3VoTnRxME4tZXh2cjQzak1kbEJRYmlPc1ZaUmt6QUxkOVVoOUdIaWxjWDFvZGZYUWEzQmFneUlv?oc=5",
-    "resumo": "Congresso promulga emenda de aposentadoria especial de agente de saúde  Agência Brasil",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
-    "regiao": "Nacional",
-    "data_dia": "2026-10-16",
-    "hora": "Há 12h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 36,
-    "titulo": "Hospital São Paulo volta a integrar programa de reestruturação de hospitais universitários — Ministério da Saúde",
-    "veiculo": "Governo Federal",
-    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNd09ZbHJFdVRZZ3BxaHFkQ25BM3MwM0xncmpmdXdBUHRieEJzU0xaU0tFeWtmbTlfOXBsNFF2Q3dER181Q1JjYUx4cXZCdWhTT3l0ZHoyV0dkTGxUYS1mLW1OdEcwRHlJWm9wNkNUTUt4V3BkbWdNdnJNZHVJT19Id192aURrLVhHX3VVRERNV1ptdlZEVHhkMVhfalZhOXpobTdFUHlQOXBYY0JBTnl3dENubm85cVpFNHpHTTVyRDlaV2VjNnFSXzdIakhGN0dPVEV6SUFLZ04xZDVWOW1FRVFXYll5enFlaVRn?oc=5",
-    "resumo": "Hospital São Paulo volta a integrar programa de reestruturação de hospitais universitários — Ministério da Saúde  Governo Federal",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
-    "regiao": "Sudeste",
-    "data_dia": "2026-10-16",
-    "hora": "Há 12h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 37,
-    "titulo": "Economia: Lula e Flávio divergem sobre ajuste fiscal e papel do Estado",
-    "veiculo": "Agência Brasil",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSGR1M1o2WTAyYW9KcnE4MHo1TXl4MTJlT2xYdk5BYy1DbVBOVEVGOUlGWldUV1AwZ1NMVkxERkNlRmxZeHcyTFpxVGw1NUpHOS1CbFNMal81WVdLMmFNeVItYTNHNDhwUXUxTHBpVWplWDZSN2Y0U1oxWG5DTTY4aDZzem9kNFQ2bjdMajM4d2ZRN3BkNkRJY3MxMVBjT21FNWdOdzhKd24wS1M4NzFMamx4LURPOVE1OG9IZUFKTTZDVTJoZUE?oc=5",
-    "resumo": "Economia: Lula e Flávio divergem sobre ajuste fiscal e papel do Estado  Agência Brasil",
-    "imagem": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
-    "categoria": "economia",
-    "categoria_label": "📈 Conquistas & Economia",
-    "regiao": "Nacional",
-    "data_dia": "2026-10-16",
-    "hora": "Há 17h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
     "id": 38,
     "titulo": "Ministério da Saúde, em conjunto com o estado e os municípios, monitora a assistência em saúde à população no Amazonas",
     "veiculo": "Governo Federal",
@@ -565,7 +565,7 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Norte",
     "data_dia": "2026-10-16",
-    "hora": "Há 16h",
+    "hora": "Há 20h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -610,23 +610,23 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-16",
-    "hora": "Há 6h",
+    "hora": "Há 10h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
     "id": 42,
-    "titulo": "Flávio Bolsonaro afirma que vai manter regra de reajuste do salário mínimo e nega rever fim da escala 6x1",
-    "veiculo": "Valor Econômico",
-    "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQYV9VUG1xb1FFWk8tYUhjYUZyc20yLUdFclpFaGJKRzJkZEt0MEtjOU1FU2J0Nk10X3ZrbXpxdW05M01xV2RWeFlER2dGWVZ3RHM0SExGVFU0bzlDb3ItRGp4N3RielYzLW9qTDhiTEU0UXd3bWMxcEFPandoWGN3Mi01ZDJ2c01NYjJ4T2ktOTdjNWhzdWNreUJGUGE0b3h0cjRwTldBM1p3SjFPNlVueTNtU2JkT2NwdHlDSWU2X0w2ZzQ0ZlF2MnJBRFFPVy02b2RFOUVUbXlmUnlMelF2bkZYLXdLZTZXNzEzWGRlejFoc2g1RllJNUIyT0FFTWNW0gGPAkFVX3lxTE5iY0Q4R1k4dHR3RjdUUG5zRjZiZ0dtZXBGOF84R2Voc2lUMVdub1YtWjNnaVNXUFMtRklaalBJdERuVFVwN29nWXZwQUxYLUpkdWE3cGxlWHhjalVjYTVVVm9PUnpMZ0RjcFpjNW5vZzRhNFdtaEg3Vm9ZcVBnQ2Nacy1HZUNuSG42alVzWVZfMGM0QXRvX3VSNC1Mb1k4cTk1OVZBSzMtbzZLNHlyZGpzM1FEMmFiaVNiRWlXWGhKNlZIdUFZN3FvdlNlSTd6NFhIWkxfM0YwOWRfOUVmN2YzbURoekthdVNqN0UwWndGTFdiMkJjQ1dxR2lldS1JTld5VHFwa0FyQWFsOV94U0U?oc=5",
-    "resumo": "Flávio Bolsonaro afirma que vai manter regra de reajuste do salário mínimo e nega rever fim da escala 6x1  Valor Econômico",
+    "titulo": "Escala 6x1, salário mínimo, cargos para a família em eventual governo: a entrevista de Flávio à TV Globo em seis pontos",
+    "veiculo": "O GLOBO",
+    "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNSDFXc1RKYkZ2Qkx0OUNrU2dZMVNOX1NRR2ZJVzlqM0swTlRKaXMtTGp2VHVhQXkwSXBLdVdaTjlURllhTk5iY3hqVnV0SVZsM1RtRGc0R21tcDg2eENxcm5ubWNkcWZJcDRIS0Nma0NINDE0U1ZCZlE2S1JIVWVZeVMxNVQtTlV3QXhlVnNmN3lUakQwQWYwNXVZbDF0RzJlN2RzSzlrMWIyNUMyLXhHVmtXdHYtM2otRnV5ZVR6UXpnX0xGbHBKZW9YeGZvX3VQRl8yVk5DZUpubnlldG1XMHJlOWsxRWxPcHE5X2h5UkZ1MFdKdjFLa256SFZIYmNjcDlqOGY1WF82bW9uZEY0MS1xVFR0eVhN0gGnAkFVX3lxTFB2UU9jSzVBVDJ6Zkc5NEh0NUFMejdTUE9iOTUxZk1qYkw5amVHQTlpbzc0emRhMWlZX0hxMmh6dGJNa21CMUVoZzRnRkh0bl9xOC1FQUUwbU9qT0tiMjFoMWFMeGdtc1JCRFlpWVlWS3dzenZXbXJvSzY3Ti1UeHdoRE5nNTMwMy1NdmtKZGhEZVNJU05pcHZLazNLdkN5N3RhZXdsaWR0YWw0S1M3a2x5TDh4c0daaVBDcUdrTEN6a0YtQmRnYjVSbngzVlNfdlJKemRzRjFHWk83ZVRzY3RmS2l2VjZ1QzBQMHpIMnhXY01ILXJUOXZxV2NVV0laODB6eFB3Rk95UHZ0R3JqU0NfRlN6TUxrSHE3UENTNU8xa01nOTRib1k?oc=5",
+    "resumo": "Escala 6x1, salário mínimo, cargos para a família em eventual governo: a entrevista de Flávio à TV Globo em seis pontos  O GLOBO",
     "imagem": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
     "categoria": "economia",
     "categoria_label": "📈 Conquistas & Economia",
     "regiao": "Nacional",
-    "data_dia": "2026-10-16",
-    "hora": "Há 4h",
+    "data_dia": "2026-10-17",
+    "hora": "Há 2h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": false
+    "urgente": true
   }
 ]
