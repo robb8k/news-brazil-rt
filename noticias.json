@@ -1,6 +1,36 @@
 [
   {
     "id": 1,
+    "titulo": "Rádio Nacional transmite duelo Fluminense x Santos pelo Brasileirão",
+    "veiculo": "Agência Brasil",
+    "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-10/radio-nacional-transmite-duelo-fluminense-x-santos-pelo-brasileirao",
+    "resumo": "A Rádio Nacional leva ao ar neste domingo (18) o confronto entre Fluminense e Santos, válido pela 31ª rodada do Brasileirão Masculino 2026. A bola rola a partir das 15h30...",
+    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
+    "categoria": "geral",
+    "categoria_label": "📢 Notícias do Povo",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-18",
+    "hora": "Há 1h",
+    "tempo_leitura": "2 min de leitura",
+    "urgente": true
+  },
+  {
+    "id": 2,
+    "titulo": "COP17 da Biodiversidade começa segunda-feira na Armênia",
+    "veiculo": "Agência Brasil",
+    "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-10/cop17-da-biodiversidade-comeca-segunda-feira-na-armenia",
+    "resumo": "Representantes de mais de 200 países se reunirão a partir desta segunda-feira (16), na Armênia, na 17ª Conferência das Partes das Nações Unidas (COP17) da Convenção sobre...",
+    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
+    "categoria": "geral",
+    "categoria_label": "📢 Notícias do Povo",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-18",
+    "hora": "Há 2h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": true
+  },
+  {
+    "id": 3,
     "titulo": "Partido Novo entra com ação no TSE contra atos musicais por democracia",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/partido-novo-entra-com-acao-no-tse-contra-atos-musicais-por-democracia",
@@ -10,12 +40,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-17",
-    "hora": "Há 12h",
+    "hora": "Há 16h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
-    "id": 2,
+    "id": 4,
     "titulo": "Cortes em auxílios sociais podem gerar retração em cidades do interior",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/cortes-em-auxilios-sociais-podem-gerar-retracao-em-cidades-do-interior",
@@ -25,12 +55,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Sudeste",
     "data_dia": "2026-10-17",
-    "hora": "Há 12h",
+    "hora": "Há 16h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
-    "id": 3,
+    "id": 5,
     "titulo": "Justiça Federal manda Meta restabelecer contas estudantis do RS",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/justica-federal-manda-meta-restabelecer-contas-estudantis-do-rs",
@@ -40,12 +70,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Sul",
     "data_dia": "2026-10-17",
-    "hora": "Há 13h",
+    "hora": "Há 17h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
-    "id": 4,
+    "id": 6,
     "titulo": "Festival de Cinema valoriza produções de crianças e adolescentes",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-10/festival-de-cinema-valoriza-producoes-de-criancas-e-adolescentes",
@@ -55,12 +85,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-17",
-    "hora": "Há 13h",
+    "hora": "Há 17h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 5,
+    "id": 7,
     "titulo": "Organizações promovem ação de empregabilidade para refugiados",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-10/organizacoes-promovem-acao-de-empregabilidade-para-refugiados",
@@ -70,12 +100,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-17",
-    "hora": "Há 14h",
+    "hora": "Há 18h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
-    "id": 6,
+    "id": 8,
     "titulo": "Mais de 4 mil seções eleitorais tiveram locais de votação alterados",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/mais-de-4-mil-secoes-eleitorais-tiveram-locais-de-votacao-alterados",
@@ -85,12 +115,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-17",
-    "hora": "Há 15h",
+    "hora": "Há 19h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
-    "id": 7,
+    "id": 9,
     "titulo": "Rio: reserva marinha alia proteção ambiental com atividades econômicas",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-10/rio-reserva-marinha-alia-protecao-ambiental-com-atividades-economicas",
@@ -100,12 +130,12 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Sudeste",
     "data_dia": "2026-10-17",
-    "hora": "Há 16h",
+    "hora": "Há 20h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 8,
+    "id": 10,
     "titulo": "José Sarney recebe alta hospitalar após nove dias de internação",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/jose-sarney-recebe-alta-hospitalar-apos-nove-dias-de-internacao",
@@ -115,38 +145,8 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-17",
-    "hora": "Há 17h",
+    "hora": "Há 21h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 9,
-    "titulo": "Recife vai sediar maior festival de animação do Brasil, o Animage",
-    "veiculo": "Agência Brasil",
-    "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-10/recife-vai-sediar-maior-festival-de-animacao-do-brasil-o-animage",
-    "resumo": "Amantes de filmes de animação vão se encontrar em novembro no 16º Festival Animage, em Recife. A mostra é a maior do país para esse tipo de filme e um dos mais importante...",
-    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
-    "categoria": "geral",
-    "categoria_label": "📢 Notícias do Povo",
-    "regiao": "Nordeste",
-    "data_dia": "2026-10-17",
-    "hora": "Há 17h",
-    "tempo_leitura": "2 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 10,
-    "titulo": "Chuvas provocam alagamentos e deslizamentos pelo interior paulista",
-    "veiculo": "Agência Brasil",
-    "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-10/chuvas-provocam-alagamentos-e-deslizamentos-pelo-interior-paulista",
-    "resumo": "As fortes chuvas que atingiram o estado de São Paulo nas últimas horas provocaram alagamentos, queda de árvores, deslizamentos de terra e até interdições de rodovias em d...",
-    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
-    "categoria": "geral",
-    "categoria_label": "📢 Notícias do Povo",
-    "regiao": "Sudeste",
-    "data_dia": "2026-10-17",
-    "hora": "Há 18h",
-    "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
@@ -301,6 +301,36 @@
   },
   {
     "id": 21,
+    "titulo": "Denúncia contra a Meta chega à ONU e expõe interferência na eleição brasileira",
+    "veiculo": "Vermelho",
+    "link": "https://vermelho.org.br/2026/10/18/denuncia-contra-a-meta-chega-a-onu-e-expoe-interferencia-na-eleicao-brasileira/?utm_source=rss&utm_medium=rss&utm_campaign=denuncia-contra-a-meta-chega-a-onu-e-expoe-interferencia-na-eleicao-brasileira",
+    "resumo": "Coligação de Lula denuncia à ONU favorecimento digital a Flávio e pede investigação sobre vantagens econômicas; caso coloca poder das Big Techs sobre eleições sob investi...",
+    "imagem": "https://vermelho.org.br/wp-content/uploads/2026/10/55580922798_dec7b944f0_k-1024x550.jpg",
+    "categoria": "eleicoes",
+    "categoria_label": "🗳️ Eleições & Campanhas",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-18",
+    "hora": "Há 29 min",
+    "tempo_leitura": "2 min de leitura",
+    "urgente": true
+  },
+  {
+    "id": 22,
+    "titulo": "Lula vira e vai a 51% contra 49% de Flávio Bolsonaro, mostra pesquisa Vox Brasil",
+    "veiculo": "Vermelho",
+    "link": "https://vermelho.org.br/2026/10/18/lula-vai-a-51-contra-49-de-flavio-bolsonaro-mostra-pesquisa-vox-brasil/?utm_source=rss&utm_medium=rss&utm_campaign=lula-vai-a-51-contra-49-de-flavio-bolsonaro-mostra-pesquisa-vox-brasil",
+    "resumo": "Na reta final da disputa presidencial, levantamento aponta Lula numericamente à frente, enquanto Flávio Bolsonaro tenta reverter o cenário até o segundo turno.\nO post Lul...",
+    "imagem": "https://vermelho.org.br/wp-content/uploads/2026/08/lula-caminhada-belford-roxo-rio-de-janeiro-ricardostuckert-33.jpg",
+    "categoria": "eleicoes",
+    "categoria_label": "🗳️ Eleições & Campanhas",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-18",
+    "hora": "Há 1h",
+    "tempo_leitura": "2 min de leitura",
+    "urgente": true
+  },
+  {
+    "id": 23,
     "titulo": "Manifesto pró-Lula une centro e direita contra ameaças bolsonaristas",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/10/17/manifesto-reune-centro-direita-por-lula-e-contra-ameacas-do-projeto-de-flavio/?utm_source=rss&utm_medium=rss&utm_campaign=manifesto-reune-centro-direita-por-lula-e-contra-ameacas-do-projeto-de-flavio",
@@ -310,12 +340,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-17",
-    "hora": "Há 11h",
+    "hora": "Há 16h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 22,
+    "id": 24,
     "titulo": "Justiça Eleitoral muda 4,3 mil seções para o 2º turno; veja onde votar",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/10/17/justica-eleitoral-muda-43-mil-secoes-para-o-2o-turno-veja-onde-votar/?utm_source=rss&utm_medium=rss&utm_campaign=justica-eleitoral-muda-43-mil-secoes-para-o-2o-turno-veja-onde-votar",
@@ -325,12 +355,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-17",
-    "hora": "Há 14h",
+    "hora": "Há 18h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
-    "id": 23,
+    "id": 25,
     "titulo": "Promessa de Flávio a aposentados contradiz seu plano econômico",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/10/17/promessa-de-flavio-a-aposentados-contradiz-seu-plano-economico/?utm_source=rss&utm_medium=rss&utm_campaign=promessa-de-flavio-a-aposentados-contradiz-seu-plano-economico",
@@ -340,12 +370,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-17",
-    "hora": "Há 14h",
+    "hora": "Há 18h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
-    "id": 24,
+    "id": 26,
     "titulo": "Kremlin chama suspensão de sanções dos EUA à Rússia de “momento histórico”",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/10/17/kremlin-chama-suspensao-de-sancoes-dos-eua-a-russia-de-momento-historico/?utm_source=rss&utm_medium=rss&utm_campaign=kremlin-chama-suspensao-de-sancoes-dos-eua-a-russia-de-momento-historico",
@@ -355,12 +385,12 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-10-17",
-    "hora": "Há 14h",
+    "hora": "Há 18h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
-    "id": 25,
+    "id": 27,
     "titulo": "Bolivianos denunciam censura de Paz à rádio RKC, “voz de referência nacional”",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/10/17/bolivianos-denunciam-censura-de-paz-a-radio-rkc-voz-de-referencia-nacional/?utm_source=rss&utm_medium=rss&utm_campaign=bolivianos-denunciam-censura-de-paz-a-radio-rkc-voz-de-referencia-nacional",
@@ -370,12 +400,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-17",
-    "hora": "Há 16h",
+    "hora": "Há 20h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
-    "id": 26,
+    "id": 28,
     "titulo": "Panelaços ecoam em várias cidades durante sabatina de Flávio na Globo",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/10/17/panelacos-ecoam-em-varias-cidades-durante-sabatina-de-flavio-na-globo/?utm_source=rss&utm_medium=rss&utm_campaign=panelacos-ecoam-em-varias-cidades-durante-sabatina-de-flavio-na-globo",
@@ -385,12 +415,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-17",
-    "hora": "Há 16h",
+    "hora": "Há 20h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 27,
+    "id": 29,
     "titulo": "Na Globo, Flávio foge das perguntas e desfila fake news contra Lula",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/10/17/na-globo-flavio-foge-das-perguntas-e-desfila-fake-news-contra-lula/?utm_source=rss&utm_medium=rss&utm_campaign=na-globo-flavio-foge-das-perguntas-e-desfila-fake-news-contra-lula",
@@ -400,12 +430,12 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-17",
-    "hora": "Há 17h",
+    "hora": "Há 21h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
-    "id": 28,
+    "id": 30,
     "titulo": "Com Lula, Brasil atinge menor desmatamento da história",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/10/16/brasil-atinge-menor-desmatamento-da-historia-na-amazonia-e-cerrado/?utm_source=rss&utm_medium=rss&utm_campaign=brasil-atinge-menor-desmatamento-da-historia-na-amazonia-e-cerrado",
@@ -420,37 +450,22 @@
     "urgente": false
   },
   {
-    "id": 29,
-    "titulo": "Flávio Bolsonaro se opõe à tarifa zero: “Tem gente que acredita nisso?”",
-    "veiculo": "Vermelho",
-    "link": "https://vermelho.org.br/2026/10/16/flavio-debocha-de-tarifa-zero-no-transporte-publico-aos-fins-de-semana/?utm_source=rss&utm_medium=rss&utm_campaign=flavio-debocha-de-tarifa-zero-no-transporte-publico-aos-fins-de-semana",
-    "resumo": "Senador mostrou ser contra proposta de Lula para garantir passe livre, questiona se alguém acredita no projeto e acaba expondo resistência a uma medida voltada aos trabal...",
-    "imagem": "https://vermelho.org.br/wp-content/uploads/2026/10/Captura-de-Tela-2026-10-16-as-18.11.59-1024x717.png",
-    "categoria": "geral",
-    "categoria_label": "📢 Notícias do Povo",
-    "regiao": "Norte",
-    "data_dia": "2026-10-16",
-    "hora": "16/10 18:14",
-    "tempo_leitura": "2 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 30,
-    "titulo": "Riachuelo é suspeita de usar notas fiscais para acobertar verba do PL",
-    "veiculo": "Vermelho",
-    "link": "https://vermelho.org.br/2026/10/16/compras-na-riachuelo-aparecem-como-pagamentos-ao-pl-e-exigem-investigacao/?utm_source=rss&utm_medium=rss&utm_campaign=compras-na-riachuelo-aparecem-como-pagamentos-ao-pl-e-exigem-investigacao",
-    "resumo": "Deputado do PT e outros consumidores relatam identificação do diretório do partido em comprovantes; empresa nega repasse e caso ainda não chegou ao MP Eleitoral\nO post Ri...",
-    "imagem": "https://vermelho.org.br/wp-content/uploads/2026/10/riachuelo1.webp",
+    "id": 31,
+    "titulo": "Ministério da Saúde visita Carreta da Saúde da Mulher e destaca…",
+    "veiculo": "Prefeitura de Maceió",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOOEZJWGc3MjYtOU9VZmxOMEFXN0Y5dWRRc01wazNTeUo5ZEFqZ0dXckk1TU9nTHNFM19nczhQSFpoZXpyZ18wWHdETUVGbkgycDVPUU1LdVhQMy1QZ0ptWDk0SmFDem5uU3U3NjZtYTVFWGY1RDh4dmF2QnRncTItSE1qdXQ1dVhuM2NDZzVQa19MakhoMFFNVWF4MmRJUWpxZnZJazVteG55TFhqV0dXcGJZU19GSlhNckk2V2NQY2xWSmtpLWVOSkFyZzRPOXVCWHc?oc=5",
+    "resumo": "Ministério da Saúde visita Carreta da Saúde da Mulher e destaca…  Prefeitura de Maceió",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
     "categoria": "social",
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
-    "data_dia": "2026-10-16",
-    "hora": "16/10 17:50",
-    "tempo_leitura": "2 min de leitura",
-    "urgente": false
+    "data_dia": "2026-10-18",
+    "hora": "Há 9 min",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": true
   },
   {
-    "id": 31,
+    "id": 32,
     "titulo": "Santos (SP) passa a contar com dois aceleradores lineares para tratar pacientes com câncer — Ministério da Saúde",
     "veiculo": "Governo Federal",
     "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNTTJhcmZzckZRY0x5UHhtX0JhVGVBTlk0WlNhSUREbkRqdVVTRC1iV0R1dmstMV9zcUVtS3UzSEltUzYweEgyYVpWU29rbkJzMlNlTUU3SDFNTHl1ZVpZR0RuREg2SVM4X2gweGJvREhGQU5TZ19aS0JWdy1OUjd3amVPZ2JyUVNwcGlWMHlLbnh6NmNwM0dwOVBSM1hqa2hyc0JMdDVtdVFJNURwb0tNR3dfV0t6anpya2ZwbzFyMGVhYXZvS2NZT3Y3QVVvdDhtX0NHbzc2bTRjTmROUGpqTXNPaVJoNC02?oc=5",
@@ -460,12 +475,12 @@
     "categoria_label": "📈 Conquistas & Economia",
     "regiao": "Nacional",
     "data_dia": "2026-10-17",
-    "hora": "Há 16h",
+    "hora": "Há 20h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
-    "id": 32,
+    "id": 33,
     "titulo": "Lula diz que não sabia que Bolsa Família passou quase 4 anos sem reajuste",
     "veiculo": "G1",
     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdnhySWpmbm0xOWYxOVc1a194MXg5SkhnVWtvbzMyNzR4bWphSVFzU3UwdXRUblh2X2xJcXotMmdWVlNYc25ubjdidUZCd1dmbXZkMGQ0SndkTC1tU05wajZiblBoZ3RhT0RLWUR3dzBLalU1cUI5WER5YXoxQzM4RzRfejdZMmhHSVZhaDdRNFktY1kyX01oamJnRF9HWmxRZ0hLNDRtVTg3NTM2U2p3Tm93d9IBwgFBVV95cUxPMFdZNDhRUF81MUhsRGE4TGxnN1d0aEpoNFViNEswakFvcllhWG1hZTNSdENVbzJOTTdRMzhRM0NEOFB6OEFSbC1ockNFbXZDajR0VUtKS3NHWUlsbU9JeGZhS2djX1JVR29Zb3ZhU1M0TGQ5MVFWaHd1UVdRUTExdmVHNkVxdldBbm5nOXZtd1FRUUtPVmZZMWRGTGYyem9LNFVIM1pGNlBmS1JrbW5Iam9yakJLYmpPdUJ1MVVVNm9RUQ?oc=5",
@@ -480,7 +495,7 @@
     "urgente": false
   },
   {
-    "id": 33,
+    "id": 34,
     "titulo": "Painel: Lula aumenta em 5 pontos vantagem sobre Flávio entre beneficiários do Bolsa Família, diz Datafolha",
     "veiculo": "Folha de S.Paulo",
     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQWG0yc0pNVV9ZT2dzYWpqOVJleWFPM1VWY1hqWEc0SzRHY2wxWDR2SDFvaURoTnpBRDFvSlNiX0NSdmoybWE5X0Z0Zl9HX003cmVFODNZdkNsSEo1ZEdqVVJWaS1lRVJ4M2lOLWxfdkEzNGx5ejc3QmM5MUxwUEpUTVp4cWhXVTk1MDc3c2h6ZVFYOUExOWJMcVFqWXNHOElEeFo3c1Z1ZGhoY3JnNkUtMjlfSXMxQkNmMGwxZnJnaHV2cUlDZ0FsTWhiV1ZpYl9IMHVDeXYxcEthX3FBYjJUWWFvVFg4TlB2cDlhZg?oc=5",
@@ -490,12 +505,12 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-10-17",
-    "hora": "Há 7h",
+    "hora": "Há 11h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 34,
+    "id": 35,
     "titulo": "A explicação de Lula sobre aumento do Bolsa Família às vésperas da eleição",
     "veiculo": "VEJA",
     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQjZ2ZGcyRGltdkVWdmd1dDJKTGNwTExFVzJDdFFPZUdkS1JuY0NtWWQta1FMc2t5a3FNWXZPZ3Nla21GRm5jSXVfMDZxQzM3eGVSQmllWVFqT2JvckdNVE1tQkk4SkhRVmR4dGpGb0pwd0d2d1c2MW1ONllsWDRQY0syNG9mMEhUUENIWjRlVWVFLWNsVFpYeWh3OG1henoxWV8tMzE1b0cwTXpvUy1r?oc=5",
@@ -510,7 +525,7 @@
     "urgente": false
   },
   {
-    "id": 35,
+    "id": 36,
     "titulo": "Lula diz que \"não sabia\" que Bolsa Família não havia sido reajustado",
     "veiculo": "CNN Brasil",
     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZnpyeGVvZHo4VVc1eGthbUVxQ0lwQ0dETjNPbGN3Y0RTVXhYZXJ1c1NISC01WU85U2pGMGo4aE40TnlRTWY4LU9udThTOWVfOC1iWlpId0w0WFlhWHMyc2p2c2ZOc2JtUjNFalZpTUN0alZDc2tsc2c2Nm5Mbjl3RUFHVXNOdHpMZzdnSnc0UERBWnZ1dkUyY0pNbDczMkp2OEVhOFE2N0k?oc=5",
@@ -525,7 +540,7 @@
     "urgente": false
   },
   {
-    "id": 36,
+    "id": 37,
     "titulo": "Ministério da Saúde, estados e municípios promovem Circuito de Cuidado da Mulher neste sábado",
     "veiculo": "Governo Federal",
     "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNYjdmWWNpT0p4Ung5Y2VBSlpkMXNyb2xqZzJ0SDRyNnJfY2ZIMHJpUk1hZVVTSk1qTHB2cjRka2lENUpBZHVtVVpYRWxBTDR1SXhlbnp5bnItTWFVMnZxeUNPSGFacVRULW0ybUk4UHVIcVBEaEpRcjMwSGlpbVhfNFppYjBjeEUwS214VjJuaTFNZW1qaUtRN1FVcHMzRTNWLUZSbVN2TzFWQVVhZnJKR18takJzZ0ZnRmVQSTRHUC1HVkJ6UTVWZ0h0SVA1ZHlSaUVsWFBVbDgwTVhrZ1FXSE1SR3J2ZVJiaFVTWkdB?oc=5",
@@ -540,7 +555,7 @@
     "urgente": false
   },
   {
-    "id": 37,
+    "id": 38,
     "titulo": "Na Globo, Lula diz que 'não sabia' que seu governo deixou de reajustar o Bolsa Família por quatro anos: 'É inexplicável'",
     "veiculo": "O GLOBO",
     "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQRTg4eVZGNUluUk1JeHRkc2ZaWWU1UWNZMmx6dEJCbUdHT3lKM3BGVlNwTm9JZ0ZVZEI4d1AtNTJ5cktWSUhXd2Y4dlZpQVZDNkFOSkRRWGYxTmdzRU9jUlBSZ0l3U05VSlBoZVJiczVyZFprcXBaYU5VMkZrSkc2VlRaX2xrR0RqSGZGNkFPbEVrcExXaF9aTzRxdkFEbXFfbVM0b3RPRmNCN1NKTDNwWWtnNDU4a21EdmIxNURtTlhuT2NzUmJweTF2V2NZcHFmRjFMMXktSGlId2IxSWJ3T1pLU1RNUkJYSGw0akJuM1BUemFjRGF4MWdnUkFnYVZiVGtRRjFyVUllaGRmYVJVWk9Bcl95d9IBpAJBVV95cUxOTG9Gem9TS21zV3QwTUplUEpXb2lNWGtOMkkxSGNDLVFGbnFkZUZ6SHZaUTQ4bVd4SGI1LWNqdE16c2JWRTFYVHpwWHI4cDlMVXdSRFhib3JOX0YtSms1YVJxbWFhb2pwVEdubVgzLWI3YnpWbFdZQWFxTktfY3pibWZ0a0F6Y0RwWUg0SXNnNFdNc19XRzN1SExCcHlEUEtKQlNpbGVxRzhqb05YTHBxZTlHNEo0RU43U2J5VEtNbTIwTGFMTmR1NDlBOVFBbW9jM21KR0lFVUlPVU5pdzdFVjhtazQ5MUJraldUVkg0eGcxSXkxNmpXMUx4M0RmRDBycE9kUG1sdURKTFdKVXVOUm1MTmwtb1JSUFlTM2E2SjRyZFFa?oc=5",
@@ -555,7 +570,7 @@
     "urgente": false
   },
   {
-    "id": 38,
+    "id": 39,
     "titulo": "Lula diz que desconhecia falta de aumento no Bolsa Família antes da eleição",
     "veiculo": "UOL Notícias",
     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTGlWYjdGTG5fSFdmTjZpazVNUFg1T1VrMFdWU3ZoY2xOU2xyWEVibDNTWUU0OEdFRFNSdU9LRFVRYjh5NUR2RG02VWxWWGxlSHJHcW9KcUVKN1pYbGwxT3JUVHlwUkZXVGFwMWh3ZzlLUmlTdlJCWUczdFR2T0QxRkRFNFJyX2Y2Y05BMmlaMlVYSVIxY0lEYW4yZDJzLWZWdXdFeER0Y3ZPWmF2UFNIMFJLZ1ppNUNaQVZoYXk2Q2RTYU5QQllB?oc=5",
@@ -570,7 +585,7 @@
     "urgente": false
   },
   {
-    "id": 39,
+    "id": 40,
     "titulo": "Cuidado ao diabetes na Atenção Primária: profissionais do SUS terão acesso a curso gratuito com certificação",
     "veiculo": "Governo Federal",
     "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQYzBJSUMtUksxYlpKWVI0MzNlNXl6ZmN4S2g0UGlOMDI5cHJxeUMxQ1A2dXJOZ0dqaXZrRGdQLVdoWFNXVXRRMUtXUTBoWUVBcTRfTWl3TW04dk9KVE5UNU94QTNCY0NjeVdTczZ5aTloRGdZOUM0LU9LcjVja0Zaek1iUzNVd0VEVzVHd2tUQkhRVUFyam53T0o0ejdLaEg5U1BudEgxMTJuWnNFNHE5YUJEM3BlUjhaS28zVFdrajNLR0xMZkN5OHB0SUtxX3h3VEEyWHh6ZkpJMFZWQlk2UXZneVJxblpnaXlsSDVQb182M1BTM3ZLb3dCa29ub2E1TEE?oc=5",
@@ -585,48 +600,33 @@
     "urgente": false
   },
   {
-    "id": 40,
-    "titulo": "Ministério da Saúde apoia estados e municípios para ampliar a proteção da população",
-    "veiculo": "Governo Federal",
-    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQR1AwX1hqMHkza2JpeVNRUS1xd3VRUzdFZ0pmTTBkemJkaHdBd2ZqQlZuUHV6Uk80akpFRjlVUkFadERWQ0lhVXpkWkpXVXlYajNlQTliaWphX004MU90RTcwTlVLMzI3U3lzNzVlaWFPSUlNZkRleVVCRzlRYVBrUTZOeV9HRUtUTkFJSGNoTzNqdWhzdU1rTF9jMzZsajhwMGRnUmtQMWVJRm5TeTNVX3NuLVhoTVhtSnpvNXNFSVV3U3Z3OUtPeHl3R3ROeWN4OXVkNGdhQzBKaWlYMHE4ZU1B?oc=5",
-    "resumo": "Ministério da Saúde apoia estados e municípios para ampliar a proteção da população  Governo Federal",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
-    "regiao": "Nacional",
-    "data_dia": "2026-10-16",
-    "hora": "16/10 19:20",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
     "id": 41,
-    "titulo": "Eleições 2026 elegem 61 mulheres a mais que em 2022",
-    "veiculo": "Tribunal Superior Eleitoral",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNejF4TUtuMGg4MHdpU3VjRDg4OW5ramc1ZVZkS09XRHpMcWRTR0syekJRYmJjdWszcXNSVXFMU0FxZ0x4UWdwdjA5UEk5MmdfVndadF9vOTNnZHN3OGdYaS1EdnJHWTVib3BVb2pNWWwyel9wbTJwMUNIaWN2UWFERjk0VnhlSDY3T2UyYmZpSjBLRndTdFROdFpKN1gza0YwbzlVM2JTT3RzSXlB?oc=5",
-    "resumo": "Eleições 2026 elegem 61 mulheres a mais que em 2022  Tribunal Superior Eleitoral",
+    "titulo": "Lula e Flávio disputam as ruas na reta final da campanha",
+    "veiculo": "Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWUdiMEpQVmtnUlFQVjBIUnBWcDJ4TWpaNTZueFdqbTg5RmNORURLbDlWRkhPVS1WczRnSjV5a2c2ZVllLUdYaDdwbmJKT3NIcWMwdGxWbDd2eGZlZG45OW9aaFlranV6bVprOW5iUjZ5WG9FMmlSTEU3SHNDaXdiNnlZOVpsbnk0QzJ4Z2RMejluQUdyVXFieER0MWRlZ3M4bTFQQ2g2cEs4VjEzZGZOVUY4Zm0tZXdGX0lFZFptY3VmZk5pMXFV0gHWAUFVX3lxTE5zT2pBYVVsWm85MzFnQXlWSExSdDZlVkJGRUVfRFR0WTFfaGx1YTVWSTRQeGFaSXFHSkdpZE9vQzFodldYVUVWaDZaSHQxZmU0VndXcDhVb3hXZDctbWpRd2s4NGVfSTlaemg3TUw1bll0Ylh1eUhlRXVFeVBCM2lSTE9RQ2RYSW5CV1Q0ZzRGalV4Mm1rTFRmMDN3TkRYSmQ4U0N5TGY4dkw1MzVSdm9WZkZpd1ZXd05BLUJDVWFKMnhULW1vaW1RUFhIb0QxSUR5ZEVYOUE?oc=5",
+    "resumo": "Lula e Flávio disputam as ruas na reta final da campanha  Valor Econômico",
     "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
     "categoria": "eleicoes",
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
-    "data_dia": "2026-10-16",
-    "hora": "16/10 18:22",
+    "data_dia": "2026-10-18",
+    "hora": "Há 4h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
     "id": 42,
-    "titulo": "MST é retratado em documentário de canal de TV de Xangai sobre cooperação Brasil-China",
-    "veiculo": "Brasil de Fato",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOelAyNW90VUdwSGZKZ2dGNDdCUG9OMUk0WjdXYXF2Z1VrU1R2T3ZQUDMwazVzMFp6Qm0tRXZYOU5mVlotR3EwdG13eG9uV3lGdHBxX1NkazZjeFA0MmR5TmRqa0JtVFhya0wyTEZDWDhYdDd5MDlBZHVDRE96QXZtQURtZi1RemdUU2g2ZkN5Z1NYZTVGVEEzX05CcHR1c0dFZmRvNktEMU1XRFQ2cloxWVFCWVlxRFhRaE5rV2ZueXdnVjdKUnEwZi1R?oc=5",
-    "resumo": "MST é retratado em documentário de canal de TV de Xangai sobre cooperação Brasil-China  Brasil de Fato",
+    "titulo": "Exposição desconstrói estereótipos sobre indígenas que vivem em São Paulo",
+    "veiculo": "Alma Preta Jornalismo",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPR1BHVlVVQ1JaZXdJV09sMTRhd3RISVBpLU1IdUQzMy1fbzhWM2FKdmhEODJhOHEycUE5LU12Si04bHJnMjhleHpIYnVrNmF4aG5Pbk5MUlBuN2tPLXFBRERLT29qQWo2VDB0blY4UUNmWk5BUzk0aXdsNWQxOGU3WFRUYXhFdw?oc=5",
+    "resumo": "Exposição desconstrói estereótipos sobre indígenas que vivem em São Paulo  Alma Preta Jornalismo",
     "imagem": "https://images.unsplash.com/photo-1531206715517-5c0ba140b2b8?w=800&q=80",
     "categoria": "direitos",
     "categoria_label": "✊ Direitos & Mobilização",
-    "regiao": "Nacional",
-    "data_dia": "2026-10-17",
-    "hora": "Há 15h",
+    "regiao": "Sudeste",
+    "data_dia": "2026-10-18",
+    "hora": "Há 41 min",
     "tempo_leitura": "1 min de leitura",
-    "urgente": false
+    "urgente": true
   }
 ]
