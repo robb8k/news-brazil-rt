@@ -10,9 +10,9 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-17",
-    "hora": "Há 1h",
+    "hora": "Há 3h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 2,
@@ -25,9 +25,9 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Sudeste",
     "data_dia": "2026-10-17",
-    "hora": "Há 2h",
+    "hora": "Há 3h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 3,
@@ -40,9 +40,9 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Sul",
     "data_dia": "2026-10-17",
-    "hora": "Há 2h",
+    "hora": "Há 4h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 4,
@@ -55,7 +55,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-17",
-    "hora": "Há 3h",
+    "hora": "Há 4h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -70,7 +70,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-17",
-    "hora": "Há 3h",
+    "hora": "Há 5h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -79,13 +79,13 @@
     "titulo": "Mais de 4 mil seções eleitorais tiveram locais de votação alterados",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/mais-de-4-mil-secoes-eleitorais-tiveram-locais-de-votacao-alterados",
-    "resumo": "O Tribunal Superior Eleitoral (TSE) alterou o local de votação de 4.352 seções eleitorais neste 2º turno. Isso corresponde a apenas 0,87% das seções do país. \n\nMesmo assi...",
+    "resumo": "O Tribunal Regional Eleitoral (TRE) alterou o local de votação de 4.352 seções eleitorais neste 2º turno. Isso corresponde a apenas 0,87% das seções do país. \n\nMesmo assi...",
     "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
     "categoria": "geral",
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-17",
-    "hora": "Há 5h",
+    "hora": "Há 6h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -100,7 +100,7 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Sudeste",
     "data_dia": "2026-10-17",
-    "hora": "Há 6h",
+    "hora": "Há 7h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -115,7 +115,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-17",
-    "hora": "Há 7h",
+    "hora": "Há 8h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -130,7 +130,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nordeste",
     "data_dia": "2026-10-17",
-    "hora": "Há 7h",
+    "hora": "Há 8h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -145,7 +145,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Sudeste",
     "data_dia": "2026-10-17",
-    "hora": "Há 7h",
+    "hora": "Há 9h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -310,9 +310,9 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-17",
-    "hora": "Há 1h",
+    "hora": "Há 3h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 22,
@@ -325,7 +325,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-17",
-    "hora": "Há 4h",
+    "hora": "Há 5h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -340,7 +340,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-17",
-    "hora": "Há 4h",
+    "hora": "Há 5h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -355,7 +355,7 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-10-17",
-    "hora": "Há 4h",
+    "hora": "Há 6h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -370,7 +370,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-17",
-    "hora": "Há 5h",
+    "hora": "Há 7h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -385,7 +385,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-17",
-    "hora": "Há 5h",
+    "hora": "Há 7h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -400,7 +400,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-17",
-    "hora": "Há 7h",
+    "hora": "Há 8h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -460,7 +460,7 @@
     "categoria_label": "📈 Conquistas & Economia",
     "regiao": "Nacional",
     "data_dia": "2026-10-17",
-    "hora": "Há 5h",
+    "hora": "Há 7h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -526,6 +526,21 @@
   },
   {
     "id": 36,
+    "titulo": "Governo monitora saúde de amazonenses em locais afetados por queimadas",
+    "veiculo": "Agência Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaW91WUx4YkVzTG9ka3A4ck53U09QcHBhT3l2MVFJVnlBQ1Y1RVZlc2EzbVpWNjdKalBKTk1UVmI4RVl2UjhoOFJGNjJmR0Y1S2NiUGpXd0E3clBtLVZEdUViXzBwbFVLNVVYU3pLWlBpQmFfN0ZObmRhMjhRUG1KbmloUGVrcldRZ3BpcUJPTnUyTzNyYmJjc2VaX1kxVG5UcTBKNzgxakJRalk3cFczOWNXd0NBb0RpU214NU1sYTlaQkk?oc=5",
+    "resumo": "Governo monitora saúde de amazonenses em locais afetados por queimadas  Agência Brasil",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-16",
+    "hora": "16/10 13:50",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 37,
     "titulo": "Ministério da Saúde, estados e municípios promovem Circuito de Cuidado da Mulher neste sábado",
     "veiculo": "Governo Federal",
     "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNYjdmWWNpT0p4Ung5Y2VBSlpkMXNyb2xqZzJ0SDRyNnJfY2ZIMHJpUk1hZVVTSk1qTHB2cjRka2lENUpBZHVtVVpYRWxBTDR1SXhlbnp5bnItTWFVMnZxeUNPSGFacVRULW0ybUk4UHVIcVBEaEpRcjMwSGlpbVhfNFppYjBjeEUwS214VjJuaTFNZW1qaUtRN1FVcHMzRTNWLUZSbVN2TzFWQVVhZnJKR18takJzZ0ZnRmVQSTRHUC1HVkJ6UTVWZ0h0SVA1ZHlSaUVsWFBVbDgwTVhrZ1FXSE1SR3J2ZVJiaFVTWkdB?oc=5",
@@ -540,7 +555,7 @@
     "urgente": false
   },
   {
-    "id": 37,
+    "id": 38,
     "titulo": "Na Globo, Lula diz que 'não sabia' que seu governo deixou de reajustar o Bolsa Família por quatro anos: 'É inexplicável'",
     "veiculo": "O GLOBO",
     "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQRTg4eVZGNUluUk1JeHRkc2ZaWWU1UWNZMmx6dEJCbUdHT3lKM3BGVlNwTm9JZ0ZVZEI4d1AtNTJ5cktWSUhXd2Y4dlZpQVZDNkFOSkRRWGYxTmdzRU9jUlBSZ0l3U05VSlBoZVJiczVyZFprcXBaYU5VMkZrSkc2VlRaX2xrR0RqSGZGNkFPbEVrcExXaF9aTzRxdkFEbXFfbVM0b3RPRmNCN1NKTDNwWWtnNDU4a21EdmIxNURtTlhuT2NzUmJweTF2V2NZcHFmRjFMMXktSGlId2IxSWJ3T1pLU1RNUkJYSGw0akJuM1BUemFjRGF4MWdnUkFnYVZiVGtRRjFyVUllaGRmYVJVWk9Bcl95d9IBpAJBVV95cUxOTG9Gem9TS21zV3QwTUplUEpXb2lNWGtOMkkxSGNDLVFGbnFkZUZ6SHZaUTQ4bVd4SGI1LWNqdE16c2JWRTFYVHpwWHI4cDlMVXdSRFhib3JOX0YtSms1YVJxbWFhb2pwVEdubVgzLWI3YnpWbFdZQWFxTktfY3pibWZ0a0F6Y0RwWUg0SXNnNFdNc19XRzN1SExCcHlEUEtKQlNpbGVxRzhqb05YTHBxZTlHNEo0RU43U2J5VEtNbTIwTGFMTmR1NDlBOVFBbW9jM21KR0lFVUlPVU5pdzdFVjhtazQ5MUJraldUVkg0eGcxSXkxNmpXMUx4M0RmRDBycE9kUG1sdURKTFdKVXVOUm1MTmwtb1JSUFlTM2E2SjRyZFFa?oc=5",
@@ -555,7 +570,7 @@
     "urgente": false
   },
   {
-    "id": 38,
+    "id": 39,
     "titulo": "Cuidado ao diabetes na Atenção Primária: profissionais do SUS terão acesso a curso gratuito com certificação",
     "veiculo": "Governo Federal",
     "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQYzBJSUMtUksxYlpKWVI0MzNlNXl6ZmN4S2g0UGlOMDI5cHJxeUMxQ1A2dXJOZ0dqaXZrRGdQLVdoWFNXVXRRMUtXUTBoWUVBcTRfTWl3TW04dk9KVE5UNU94QTNCY0NjeVdTczZ5aTloRGdZOUM0LU9LcjVja0Zaek1iUzNVd0VEVzVHd2tUQkhRVUFyam53T0o0ejdLaEg5U1BudEgxMTJuWnNFNHE5YUJEM3BlUjhaS28zVFdrajNLR0xMZkN5OHB0SUtxX3h3VEEyWHh6ZkpJMFZWQlk2UXZneVJxblpnaXlsSDVQb182M1BTM3ZLb3dCa29ub2E1TEE?oc=5",
@@ -566,21 +581,6 @@
     "regiao": "Nacional",
     "data_dia": "2026-10-14",
     "hora": "14/10 12:15",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 39,
-    "titulo": "Do salário mínimo ao Bolsa Família: Lula e Flávio apresentam divergências sobre benefícios sociais e trabalho",
-    "veiculo": "O GLOBO",
-    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNYWNHUnNkZTZGb3psSldMekxlOTZwYzVXTW5BQzRUREFBOGItbjZvcEpfdTVlUjdWalNvR2tzNjFyMjMxR2JWdTAwTS1ZY2ZmVUJqOThCdVRlUG9GaDdVN1NCUnVfS20yTC1GcGphTzhqQ0FFOG9yRkY3ZkQ2ZVFyYV9FREJqeUFuSkV6d3NpNDEzQ25BZTBidEZSZUxHYXBscXljREhKZDRORGJ1bTZQVXQzMGpVanRfa2xabVVxM3QweXR0SGFMczc1R2tqSDFvUkJkV0VOdGJka19YSzhkZEFreW50LW5JeERPWGxR0gH8AUFVX3lxTE5tdVViZmNWUzc5WmNWUmxGeHR1S2RLZHVJcTBYbDN6a2dBZUI5bG11dGRCY1UxMFdQNVVkOTBBT1kyak9TVWtoeXExNDNYcGE1Z0JfYnFubnNrXzFrYVM4NVJNWnpXeHBjUUhJeF9veVB3U1hqMi1xbDBqWGMwUHVNa2NQRlRtaXl3U3ZiWXc0ZnpxVV92UkdxckNaRWhYV2IyTkVVTzgxRHg2QUlkTUh5YW1jLWo0WDZrcW0zM19IMmphODR4elktRUd5aEJvMzNtWmNRclNhejRWeWhpdTNrbzJYMnJvSlNQMUdTU1FhU3lOT1hFbm1HUVgyaw?oc=5",
-    "resumo": "Do salário mínimo ao Bolsa Família: Lula e Flávio apresentam divergências sobre benefícios sociais e trabalho  O GLOBO",
-    "imagem": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
-    "categoria": "economia",
-    "categoria_label": "📈 Conquistas & Economia",
-    "regiao": "Nacional",
-    "data_dia": "2026-10-17",
-    "hora": "Há 15h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -610,7 +610,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nordeste",
     "data_dia": "2026-10-17",
-    "hora": "Há 43 min",
+    "hora": "Há 2h",
     "tempo_leitura": "1 min de leitura",
     "urgente": true
   },
@@ -625,7 +625,7 @@
     "categoria_label": "✊ Direitos & Mobilização",
     "regiao": "Nacional",
     "data_dia": "2026-10-17",
-    "hora": "Há 4h",
+    "hora": "Há 6h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   }
