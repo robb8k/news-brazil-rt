@@ -10,7 +10,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-17",
-    "hora": "Há 7h",
+    "hora": "Há 12h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -25,7 +25,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Sudeste",
     "data_dia": "2026-10-17",
-    "hora": "Há 8h",
+    "hora": "Há 12h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -40,7 +40,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Sul",
     "data_dia": "2026-10-17",
-    "hora": "Há 9h",
+    "hora": "Há 13h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -55,7 +55,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-17",
-    "hora": "Há 9h",
+    "hora": "Há 13h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -70,7 +70,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-17",
-    "hora": "Há 9h",
+    "hora": "Há 14h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -85,7 +85,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-17",
-    "hora": "Há 11h",
+    "hora": "Há 15h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -100,7 +100,7 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Sudeste",
     "data_dia": "2026-10-17",
-    "hora": "Há 12h",
+    "hora": "Há 16h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -115,7 +115,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-17",
-    "hora": "Há 13h",
+    "hora": "Há 17h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -130,7 +130,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nordeste",
     "data_dia": "2026-10-17",
-    "hora": "Há 13h",
+    "hora": "Há 17h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -145,7 +145,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Sudeste",
     "data_dia": "2026-10-17",
-    "hora": "Há 13h",
+    "hora": "Há 18h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -310,7 +310,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-17",
-    "hora": "Há 7h",
+    "hora": "Há 11h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -325,7 +325,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-17",
-    "hora": "Há 10h",
+    "hora": "Há 14h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -340,7 +340,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-17",
-    "hora": "Há 10h",
+    "hora": "Há 14h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -355,7 +355,7 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-10-17",
-    "hora": "Há 10h",
+    "hora": "Há 14h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -370,7 +370,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-17",
-    "hora": "Há 11h",
+    "hora": "Há 16h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -385,7 +385,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-17",
-    "hora": "Há 12h",
+    "hora": "Há 16h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -400,7 +400,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-17",
-    "hora": "Há 13h",
+    "hora": "Há 17h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -460,27 +460,12 @@
     "categoria_label": "📈 Conquistas & Economia",
     "regiao": "Nacional",
     "data_dia": "2026-10-17",
-    "hora": "Há 12h",
+    "hora": "Há 16h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
     "id": 32,
-    "titulo": "Painel: Lula aumenta em 5 pontos vantagem sobre Flávio entre beneficiários do Bolsa Família, diz Datafolha",
-    "veiculo": "Folha de S.Paulo",
-    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQWG0yc0pNVV9ZT2dzYWpqOVJleWFPM1VWY1hqWEc0SzRHY2wxWDR2SDFvaURoTnpBRDFvSlNiX0NSdmoybWE5X0Z0Zl9HX003cmVFODNZdkNsSEo1ZEdqVVJWaS1lRVJ4M2lOLWxfdkEzNGx5ejc3QmM5MUxwUEpUTVp4cWhXVTk1MDc3c2h6ZVFYOUExOWJMcVFqWXNHOElEeFo3c1Z1ZGhoY3JnNkUtMjlfSXMxQkNmMGwxZnJnaHV2cUlDZ0FsTWhiV1ZpYl9IMHVDeXYxcEthX3FBYjJUWWFvVFg4TlB2cDlhZg?oc=5",
-    "resumo": "Painel: Lula aumenta em 5 pontos vantagem sobre Flávio entre beneficiários do Bolsa Família, diz Datafolha  Folha de S.Paulo",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
-    "regiao": "Nacional",
-    "data_dia": "2026-10-17",
-    "hora": "Há 2h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": true
-  },
-  {
-    "id": 33,
     "titulo": "Lula diz que não sabia que Bolsa Família passou quase 4 anos sem reajuste",
     "veiculo": "G1",
     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdnhySWpmbm0xOWYxOVc1a194MXg5SkhnVWtvbzMyNzR4bWphSVFzU3UwdXRUblh2X2xJcXotMmdWVlNYc25ubjdidUZCd1dmbXZkMGQ0SndkTC1tU05wajZiblBoZ3RhT0RLWUR3dzBLalU1cUI5WER5YXoxQzM4RzRfejdZMmhHSVZhaDdRNFktY1kyX01oamJnRF9HWmxRZ0hLNDRtVTg3NTM2U2p3Tm93d9IBwgFBVV95cUxPMFdZNDhRUF81MUhsRGE4TGxnN1d0aEpoNFViNEswakFvcllhWG1hZTNSdENVbzJOTTdRMzhRM0NEOFB6OEFSbC1ockNFbXZDajR0VUtKS3NHWUlsbU9JeGZhS2djX1JVR29Zb3ZhU1M0TGQ5MVFWaHd1UVdRUTExdmVHNkVxdldBbm5nOXZtd1FRUUtPVmZZMWRGTGYyem9LNFVIM1pGNlBmS1JrbW5Iam9yakJLYmpPdUJ1MVVVNm9RUQ?oc=5",
@@ -491,6 +476,21 @@
     "regiao": "Nacional",
     "data_dia": "2026-10-15",
     "hora": "15/10 22:56",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 33,
+    "titulo": "Painel: Lula aumenta em 5 pontos vantagem sobre Flávio entre beneficiários do Bolsa Família, diz Datafolha",
+    "veiculo": "Folha de S.Paulo",
+    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQWG0yc0pNVV9ZT2dzYWpqOVJleWFPM1VWY1hqWEc0SzRHY2wxWDR2SDFvaURoTnpBRDFvSlNiX0NSdmoybWE5X0Z0Zl9HX003cmVFODNZdkNsSEo1ZEdqVVJWaS1lRVJ4M2lOLWxfdkEzNGx5ejc3QmM5MUxwUEpUTVp4cWhXVTk1MDc3c2h6ZVFYOUExOWJMcVFqWXNHOElEeFo3c1Z1ZGhoY3JnNkUtMjlfSXMxQkNmMGwxZnJnaHV2cUlDZ0FsTWhiV1ZpYl9IMHVDeXYxcEthX3FBYjJUWWFvVFg4TlB2cDlhZg?oc=5",
+    "resumo": "Painel: Lula aumenta em 5 pontos vantagem sobre Flávio entre beneficiários do Bolsa Família, diz Datafolha  Folha de S.Paulo",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-17",
+    "hora": "Há 7h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -601,16 +601,16 @@
   },
   {
     "id": 41,
-    "titulo": "Elmano fala sobre renovação das lideranças de esquerda: “Para ser liderança do país, tem que andar o país”",
-    "veiculo": "OpiniãoCE",
-    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOMk9lTmlmY1JyZk94cEtYa3pxODRHaXpoT1dIOFVTZ0lTRVhsRE9iZTdTdTBSRVVPYlo4V1NXMzNRU19qQzBLR0FqeWhIRVB1OGFvNTN6RGhQUWFLYVJKdXo0MURJRkNQU0lCdktaYVNhYi1iX3h2bko1QldRaW5td0FrZDh4OVd5NmNJcnBJUmtNbER1QWFrcXIwTzlVSWJRSWhJZHJLNU5PTEVhUTJpRDhZck4yYTV6V3hlaHVPTXBBblo1XzR4d2VhRnJBanQ0bFVCaDJsWnQ2ZGVwbWlfVS1NLU1HS0U?oc=5",
-    "resumo": "Elmano fala sobre renovação das lideranças de esquerda: “Para ser liderança do país, tem que andar o país”  OpiniãoCE",
-    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
-    "categoria": "geral",
-    "categoria_label": "📢 Notícias do Povo",
+    "titulo": "Eleições 2026 elegem 61 mulheres a mais que em 2022",
+    "veiculo": "Tribunal Superior Eleitoral",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNejF4TUtuMGg4MHdpU3VjRDg4OW5ramc1ZVZkS09XRHpMcWRTR0syekJRYmJjdWszcXNSVXFMU0FxZ0x4UWdwdjA5UEk5MmdfVndadF9vOTNnZHN3OGdYaS1EdnJHWTVib3BVb2pNWWwyel9wbTJwMUNIaWN2UWFERjk0VnhlSDY3T2UyYmZpSjBLRndTdFROdFpKN1gza0YwbzlVM2JTT3RzSXlB?oc=5",
+    "resumo": "Eleições 2026 elegem 61 mulheres a mais que em 2022  Tribunal Superior Eleitoral",
+    "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
+    "categoria": "eleicoes",
+    "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
-    "data_dia": "2026-10-17",
-    "hora": "Há 8h",
+    "data_dia": "2026-10-16",
+    "hora": "16/10 18:22",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -625,7 +625,7 @@
     "categoria_label": "✊ Direitos & Mobilização",
     "regiao": "Nacional",
     "data_dia": "2026-10-17",
-    "hora": "Há 10h",
+    "hora": "Há 15h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   }
