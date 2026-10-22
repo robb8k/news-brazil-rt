@@ -1,6 +1,51 @@
 [
   {
     "id": 1,
+    "titulo": "Brasil fica em 5º lugar na final por equipes do Mundial de Ginástica",
+    "veiculo": "Agência Brasil",
+    "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-10/brasil-fica-em-5o-lugar-na-final-por-equipes-do-mundial-de-ginastica",
+    "resumo": "A seleção brasileira terminou em quinto lugar na final por equipes do Mundial de Ginástica Artística, que reúne as maiores potências da modalidade em Roterdã (Países Baix...",
+    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
+    "categoria": "geral",
+    "categoria_label": "📢 Notícias do Povo",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-21",
+    "hora": "Há 1h",
+    "tempo_leitura": "2 min de leitura",
+    "urgente": true
+  },
+  {
+    "id": 2,
+    "titulo": "Ministro prevê renegociação de R$ 90 bi em 3ª fase do Desenrola",
+    "veiculo": "Agência Brasil",
+    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/ministro-preve-renegociacao-de-r-90-bi-em-3a-fase-do-desenrola",
+    "resumo": "As instituições financeiras poderão apresentar até R$ 90 bilhões em dívidas antigas a serem renegociadas na primeira etapa do Desenrola 3.0, disse nesta quarta-feira (21)...",
+    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
+    "categoria": "geral",
+    "categoria_label": "📢 Notícias do Povo",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-21",
+    "hora": "Há 1h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": true
+  },
+  {
+    "id": 3,
+    "titulo": "Lula aceita proposta de Flávio para quebra de sigilo bancário",
+    "veiculo": "Agência Brasil",
+    "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/lula-aceita-proposta-de-flavio-para-quebra-de-sigilo-bancario",
+    "resumo": "A coordenação da campanha de Luiz Inácio Lula da Silva à reeleição afirmou que o candidato do PT aceitou as condições de seu adversário, Flávio Bolsonaro (PL), para quebr...",
+    "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
+    "categoria": "eleicoes",
+    "categoria_label": "🗳️ Eleições & Campanhas",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-21",
+    "hora": "Há 2h",
+    "tempo_leitura": "2 min de leitura",
+    "urgente": true
+  },
+  {
+    "id": 4,
     "titulo": "Perdão de dívidas e novo teto do MEI: entenda o que muda",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/perdao-de-dividas-e-novo-teto-do-mei-entenda-o-que-muda",
@@ -10,12 +55,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-21",
-    "hora": "Há 1h",
+    "hora": "Há 3h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 2,
+    "id": 5,
     "titulo": "TSE: informação de que 4 mil seções mudaram de lugar estava incorreta",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/tse-informacao-de-que-4-mil-secoes-mudaram-de-lugar-estava-incorreta",
@@ -25,12 +70,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-21",
-    "hora": "Há 1h",
+    "hora": "Há 3h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 3,
+    "id": 6,
     "titulo": "Flávio Bolsonaro impõe condições para liberar sigilos",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/flavio-bolsonaro-impoe-condicoes-para-liberar-sigilos",
@@ -40,12 +85,12 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-21",
-    "hora": "Há 1h",
+    "hora": "Há 4h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 4,
+    "id": 7,
     "titulo": "Prêmio TV Brasil Petrobras Para Elas anuncia finalistas entre goleiras",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-10/premio-tv-brasil-petrobras-para-elas-anuncia-finalistas-entre-goleiras",
@@ -55,12 +100,12 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-21",
-    "hora": "Há 1h",
+    "hora": "Há 4h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 5,
+    "id": 8,
     "titulo": "STF decide que ISS não integra base de cálculo do PIS/Cofins",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/stf-decide-que-iss-nao-integra-base-de-calculo-do-piscofins",
@@ -70,27 +115,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-21",
-    "hora": "Há 2h",
+    "hora": "Há 4h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 6,
-    "titulo": "ONU aponta falta de isenção da Meta em eleição brasileira",
-    "veiculo": "Agência Brasil",
-    "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/onu-aponta-falta-de-isencao-da-meta-em-eleicao-brasileira",
-    "resumo": "Especialistas das Organizações das Nações Unidas (ONU) assinaram uma carta em que apontam restrições à liberdade de expressão em plataformas como Instagram, Facebook e Wh...",
-    "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
-    "categoria": "eleicoes",
-    "categoria_label": "🗳️ Eleições & Campanhas",
-    "regiao": "Nacional",
-    "data_dia": "2026-10-21",
-    "hora": "Há 2h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": true
-  },
-  {
-    "id": 7,
+    "id": 9,
     "titulo": "Justiça torna réus 12 denunciados por queda de avião da Voepass",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/justica-torna-reus-12-denunciados-por-queda-de-aviao-da-voepass",
@@ -100,49 +130,19 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-21",
-    "hora": "Há 2h",
-    "tempo_leitura": "2 min de leitura",
-    "urgente": true
-  },
-  {
-    "id": 8,
-    "titulo": "Negacionismo impulsiona sarampo nos EUA e representa ameaça ao Brasil",
-    "veiculo": "Agência Brasil",
-    "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/negacionismo-impulsiona-sarampo-nos-eua-e-representa-ameaca-ao-brasil",
-    "resumo": "Mudanças recentes no calendário vacinal dos Estados Unidos, impulsionadas por discursos antivacinação do governo Donald Trump, ajudam a explicar por que o país está passa...",
-    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
-    "categoria": "geral",
-    "categoria_label": "📢 Notícias do Povo",
-    "regiao": "Nacional",
-    "data_dia": "2026-10-21",
-    "hora": "Há 4h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 9,
-    "titulo": "Força Nacional do SUS apoia atendimentos no Amazonas após incêndios",
-    "veiculo": "Agência Brasil",
-    "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-10/forca-nacional-do-sus-apoia-atendimentos-no-amazonas-apos-incendios",
-    "resumo": "Com o aumento da demanda de atendimento em saúde em razão dos incêndios florestais na região, começou a funcionar em Manaus uma base regional da Força Nacional do SUS. Se...",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
-    "regiao": "Norte",
-    "data_dia": "2026-10-21",
     "hora": "Há 5h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
     "id": 10,
-    "titulo": "Importações para pesquisa pública terão imunidade tributária",
+    "titulo": "ONU aponta falta de isenção da Meta em eleição brasileira",
     "veiculo": "Agência Brasil",
-    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/importacoes-para-pesquisa-publica-terao-imunidade-tributaria",
-    "resumo": "O Ministério da Fazenda anunciou nesta quarta-feira (21) medidas para assegurar a aplicação da imunidade tributária prevista na Constituição nas importações para projetos...",
-    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
-    "categoria": "geral",
-    "categoria_label": "📢 Notícias do Povo",
+    "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/onu-aponta-falta-de-isencao-da-meta-em-eleicao-brasileira",
+    "resumo": "Especialistas das Organizações das Nações Unidas (ONU) assinaram uma carta em que apontam restrições à liberdade de expressão em plataformas como Instagram, Facebook e Wh...",
+    "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
+    "categoria": "eleicoes",
+    "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-21",
     "hora": "Há 5h",
@@ -160,9 +160,9 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-10-21",
-    "hora": "Há 52 min",
+    "hora": "Há 3h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 12,
@@ -175,9 +175,9 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Sul",
     "data_dia": "2026-10-21",
-    "hora": "Há 1h",
+    "hora": "Há 3h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 13,
@@ -190,9 +190,9 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-21",
-    "hora": "Há 1h",
+    "hora": "Há 3h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 14,
@@ -205,9 +205,9 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Sul",
     "data_dia": "2026-10-21",
-    "hora": "Há 2h",
+    "hora": "Há 4h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 15,
@@ -220,7 +220,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-21",
-    "hora": "Há 3h",
+    "hora": "Há 5h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -235,7 +235,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Sul",
     "data_dia": "2026-10-21",
-    "hora": "Há 4h",
+    "hora": "Há 6h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -310,7 +310,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-21",
-    "hora": "Há 10 min",
+    "hora": "Há 2h",
     "tempo_leitura": "2 min de leitura",
     "urgente": true
   },
@@ -325,7 +325,7 @@
     "categoria_label": "✊ Direitos & Mobilização",
     "regiao": "Nacional",
     "data_dia": "2026-10-21",
-    "hora": "Há 42 min",
+    "hora": "Há 2h",
     "tempo_leitura": "2 min de leitura",
     "urgente": true
   },
@@ -340,9 +340,9 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-21",
-    "hora": "Há 1h",
+    "hora": "Há 3h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 24,
@@ -355,9 +355,9 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-21",
-    "hora": "Há 2h",
+    "hora": "Há 4h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 25,
@@ -370,9 +370,9 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-10-21",
-    "hora": "Há 2h",
+    "hora": "Há 4h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 26,
@@ -385,9 +385,9 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-21",
-    "hora": "Há 2h",
+    "hora": "Há 4h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 27,
@@ -400,7 +400,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-21",
-    "hora": "Há 3h",
+    "hora": "Há 6h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -415,7 +415,7 @@
     "categoria_label": "✊ Direitos & Mobilização",
     "regiao": "Nacional",
     "data_dia": "2026-10-21",
-    "hora": "Há 4h",
+    "hora": "Há 6h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -430,7 +430,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-21",
-    "hora": "Há 4h",
+    "hora": "Há 7h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -445,7 +445,7 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-10-21",
-    "hora": "Há 3h",
+    "hora": "Há 6h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -460,27 +460,12 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-10-21",
-    "hora": "Há 7h",
+    "hora": "Há 9h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
     "id": 32,
-    "titulo": "Flávio orienta auxiliares a evitar declarações sobre propostas até domingo após embate com Lula sobre Bolsa Família",
-    "veiculo": "O GLOBO",
-    "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNYnh5MnhKNGQ4T3Joempxb00zLUdEcE56MXQ4UEp0RFk4cHRmek12bDltVWgyUzRxVkMtYVZlNUhMdzd2U0ZjV1BXVzhtSWYwLUgxOXBPeWhGR3dYX2ZYY05OdGN5cWVGRV9EMFNKM1ZJbENhM3FZeEVIeGZtdmZnYTdxdFk3LVEycG0zMHA1SzlRd04tVTAweEZ5WjVSbXBjNDBOdDRZVnp0WThrUS14ZXhpZ3I2LWpKYWtZLWJKdktYT0E0REU4eDJsMGxTT2VCalZrYy1PQ0FDRlk5akdtamU3aVVMTWJRNElxZzBKRU5nZnk1U1JuZFY4ZEJRY0h1ZFFIalQtb05qWktPTzlsTzRMd1pnX29xRnfSAagCQVVfeXFMUENMOThhTnJEQVVONHpjT29LTVBpM0xSbzhpNVZnd3Q4akkzdFFYNF8yRHlxZWdsZ3p1TTJBMFZjVjJCVlFpUHhNNUZIa0poeU5yU0JOcWxaTUxoX0hsUjhadnVoSWFyd0NtRmdmWE1KX0NweUZaQUhpbUhsMmhNZjdUT1UzZTBVbTRBdkpjcGIxRWFUUE1sbXlvNTJkQUZOODE4eHR2bmtoNkRrZWU3eVV1YVFhek9NUm5kdnZZc1RzQ1hlZmxXSWlsdGNIRjhhVDBwWjNBTk9ZZTR5YnZfYjlULUEzSHFQTlBfbVBRRkh4ZTRPZFBfc2YyVnFwdUhaa3VhblNfeGVDWGlaRTFnejBtUWZUMkZ2UmVsTUlvdlkwTnM3VEtBZkc?oc=5",
-    "resumo": "Flávio orienta auxiliares a evitar declarações sobre propostas até domingo após embate com Lula sobre Bolsa Família  O GLOBO",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
-    "regiao": "Nacional",
-    "data_dia": "2026-10-21",
-    "hora": "Há 4h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 33,
     "titulo": "Na Saúde, Lula aposta em Mais Médicos; Flávio quer uso de rede privada",
     "veiculo": "UOL Notícias",
     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWjdnLWozbEhvb0UwTmZwT1NOYXRUTGdQMGpTbkJmWVFHSU1TVzVROWhBMzBsRklIUWdjcGxJLXVQVlJ0NEtBQ3gtQUdRUGczaTdwd1puX2ZxOFV3M0U3WHRLOU5GUG1WQTRlTS0xVEdsVGpYS056WmxRYlUtaHlyUUV6REhiUFhodE50UmFaZkxCYzVTUVRTc054R2NXc1U1Yi1sZGR3bzl3ZnhWSTdSNW9rSnlfaWZZWktuYU1MaWdWM1U?oc=5",
@@ -490,27 +475,12 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-10-21",
-    "hora": "Há 10h",
+    "hora": "Há 12h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 34,
-    "titulo": "Rio de Janeiro conta com 15 unidades móveis para atendimento à população em situação de rua",
-    "veiculo": "Governo Federal",
-    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOb0dRZndZc1dSX1ZjSDBrUndFSDY4WGczNkpXOGdtbldMTmM5YlRTYjVxRG1BemhQNE1QaDFJb21mYzh2NXROLUFaX3lwM2x5MzlEdEhLTVJUVUx2Yk9jdE5MT2NuLUJGRGkwT2YwbWFNdGRhV25nTXdEbjcyZFNBY3lWRlMtM05hZm53SlNPYmtxNXVNN25NLTdPOENZNUdQSktQMlpHTjBVT1R0QzJJZ3pidURNendySXIzUmluZVgtZW5md21vankyVjltTlpVTktOY3F5c191TEJOekhwNXZnaTMxOGc0Q0tJcw?oc=5",
-    "resumo": "Rio de Janeiro conta com 15 unidades móveis para atendimento à população em situação de rua  Governo Federal",
-    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
-    "categoria": "geral",
-    "categoria_label": "📢 Notícias do Povo",
-    "regiao": "Sudeste",
-    "data_dia": "2026-10-21",
-    "hora": "Há 5h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 35,
+    "id": 33,
     "titulo": "Capão Bonito sedia encontro regional do Ministério da Saúde sobre integração dos serviços do SUS",
     "veiculo": "Prefeitura Municipal de Capão Bonito",
     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZVBvNG1qcC1GeGdpWWUwMTQ4VTJnYUZBVTBwVlczTEx0LUhlOU9RVHY4Vk55SW94dnBQaTNZUlBSMXkwWXBua0FjQ2o2WXJLbnBUSWFLUzE0d3YwdnNQQ1RHeVhXenRjQ3VnM1owN0tWekFLX0duX0RQV0pGNlZra2ROWER4U3J1WEJZSmdsM2dNYUU5N0NQRm9zWlpFaExRRUxpQVM1Q2xQTXFMd3l5TTJZbFRnSUl5RmFGMkJZR1ZvcTJQQ2c?oc=5",
@@ -520,27 +490,42 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-10-21",
-    "hora": "Há 3h",
+    "hora": "Há 6h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 36,
-    "titulo": "Governo Lula manda zaps em massa falando do reajuste do Bolsa Família",
-    "veiculo": "Poder360",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWmEtUGFpTzVXT002VVZNel9SbkJ2d05OTm9DVVQ0bDZPRmtpTjA3YXRrak5MdU9Ud0ppUWozbHVjUXZMdU1iWlhONl9VbDgxYmZ4YjZQUkNWbnBqcjV3MHRwS0xFek9NT2hJMWc5dWI5ZGxMS1BNUURIbUVyMjlPYWd3MTc2N3dxanNFa0dWdEppb1RIejFIc3FOLXY0SmlzS29DWHhDWXVGeHpLem5TVHdQTQ?oc=5",
-    "resumo": "Governo Lula manda zaps em massa falando do reajuste do Bolsa Família  Poder360",
+    "id": 34,
+    "titulo": "Flávio orienta auxiliares a evitar declarações sobre propostas até domingo após embate com Lula sobre Bolsa Família",
+    "veiculo": "O GLOBO",
+    "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNYnh5MnhKNGQ4T3Joempxb00zLUdEcE56MXQ4UEp0RFk4cHRmek12bDltVWgyUzRxVkMtYVZlNUhMdzd2U0ZjV1BXVzhtSWYwLUgxOXBPeWhGR3dYX2ZYY05OdGN5cWVGRV9EMFNKM1ZJbENhM3FZeEVIeGZtdmZnYTdxdFk3LVEycG0zMHA1SzlRd04tVTAweEZ5WjVSbXBjNDBOdDRZVnp0WThrUS14ZXhpZ3I2LWpKYWtZLWJKdktYT0E0REU4eDJsMGxTT2VCalZrYy1PQ0FDRlk5akdtamU3aVVMTWJRNElxZzBKRU5nZnk1U1JuZFY4ZEJRY0h1ZFFIalQtb05qWktPTzlsTzRMd1pnX29xRnfSAagCQVVfeXFMUENMOThhTnJEQVVONHpjT29LTVBpM0xSbzhpNVZnd3Q4akkzdFFYNF8yRHlxZWdsZ3p1TTJBMFZjVjJCVlFpUHhNNUZIa0poeU5yU0JOcWxaTUxoX0hsUjhadnVoSWFyd0NtRmdmWE1KX0NweUZaQUhpbUhsMmhNZjdUT1UzZTBVbTRBdkpjcGIxRWFUUE1sbXlvNTJkQUZOODE4eHR2bmtoNkRrZWU3eVV1YVFhek9NUm5kdnZZc1RzQ1hlZmxXSWlsdGNIRjhhVDBwWjNBTk9ZZTR5YnZfYjlULUEzSHFQTlBfbVBRRkh4ZTRPZFBfc2YyVnFwdUhaa3VhblNfeGVDWGlaRTFnejBtUWZUMkZ2UmVsTUlvdlkwTnM3VEtBZkc?oc=5",
+    "resumo": "Flávio orienta auxiliares a evitar declarações sobre propostas até domingo após embate com Lula sobre Bolsa Família  O GLOBO",
     "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
     "categoria": "social",
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-10-21",
-    "hora": "Há 13h",
+    "hora": "Há 6h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 37,
+    "id": 35,
+    "titulo": "Rio de Janeiro conta com 15 unidades móveis para atendimento à população em situação de rua",
+    "veiculo": "Governo Federal",
+    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOb0dRZndZc1dSX1ZjSDBrUndFSDY4WGczNkpXOGdtbldMTmM5YlRTYjVxRG1BemhQNE1QaDFJb21mYzh2NXROLUFaX3lwM2x5MzlEdEhLTVJUVUx2Yk9jdE5MT2NuLUJGRGkwT2YwbWFNdGRhV25nTXdEbjcyZFNBY3lWRlMtM05hZm53SlNPYmtxNXVNN25NLTdPOENZNUdQSktQMlpHTjBVT1R0QzJJZ3pidURNendySXIzUmluZVgtZW5md21vankyVjltTlpVTktOY3F5c191TEJOekhwNXZnaTMxOGc0Q0tJcw?oc=5",
+    "resumo": "Rio de Janeiro conta com 15 unidades móveis para atendimento à população em situação de rua  Governo Federal",
+    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
+    "categoria": "geral",
+    "categoria_label": "📢 Notícias do Povo",
+    "regiao": "Sudeste",
+    "data_dia": "2026-10-21",
+    "hora": "Há 7h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 36,
     "titulo": "Cuiabá esclarece dúvidas sobre mensagens do Ministério da Saúde referentes à vacina Pneumo 20",
     "veiculo": "Prefeitura de Cuiabá",
     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWG43ZUt6QzM4THBDYmJxOEgteG1ja1lBYVhuLTdtR3A2djdTMlBXd3lPMmNlSnNhQmxGLUFGV0lyZmtKNDI0QWIydHdiQjE0Y3E1Z0hkY21MdWw3R3dMN2EtMHBvNk1sMU9vWVhWWXl2cFBhNG9PQ1NDX3JRWkt4ejhrMWt3VUdGZ3J6MmpGVk9GcXBVR0piajZ6U3Y1aW1RMDc0MWZHQXhaZGZfR1FsLUlNMWs4dDJ1bmxyN2ZIM2F1TEdmRDNQS2t2WQ?oc=5",
@@ -550,12 +535,12 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-10-21",
-    "hora": "Há 8h",
+    "hora": "Há 10h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 38,
+    "id": 37,
     "titulo": "Ministério da Saúde visita Policlínica de Floriano e discute ampliação de atendimentos especializados",
     "veiculo": "Prefeitura Municipal de Floriano",
     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUVpvLS0wTWdlSDB1bXNFQ3N6TkxVNG4zaV9ZaW05Q1loZWUwUm1uS1Nha29xQzZFczk5QjNaMWtRZWJlQkdtdkV5UWRvckJOX3lRc2tCenJxQm1FYkxWenZkbzBWV0Y5Z19BV1NlM2lnWUhPUnlaQXZEMVFZSV94cFlDMUtGd05VMlk3OUFIS0RILTF2ZGQ2MU5KUFkyMWlvWmItWTI1WnpXcTk0TGlsMWI1MlRPZ1A5bExmYlFtc0lqd3p5ZUtXZFRPUFY?oc=5",
@@ -565,37 +550,52 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-10-21",
-    "hora": "Há 9h",
+    "hora": "Há 11h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 38,
+    "titulo": "Governo Lula manda zaps em massa falando do reajuste do Bolsa Família",
+    "veiculo": "Poder360",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWmEtUGFpTzVXT002VVZNel9SbkJ2d05OTm9DVVQ0bDZPRmtpTjA3YXRrak5MdU9Ud0ppUWozbHVjUXZMdU1iWlhONl9VbDgxYmZ4YjZQUkNWbnBqcjV3MHRwS0xFek9NT2hJMWc5dWI5ZGxMS1BNUURIbUVyMjlPYWd3MTc2N3dxanNFa0dWdEppb1RIejFIc3FOLXY0SmlzS29DWHhDWXVGeHpLem5TVHdQTQ?oc=5",
+    "resumo": "Governo Lula manda zaps em massa falando do reajuste do Bolsa Família  Poder360",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-21",
+    "hora": "Há 15h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
     "id": 39,
+    "titulo": "Caminhada Saúde com Lula reúne centenas em SP",
+    "veiculo": "Outras Palavras",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcEhkUG1Rb3YxWHM5UmxZRE5MOVZOZGtkZ1gtcGJ3NlVDWTlWTmg5YmwxdmhucFJsdWFlVGs2SVJjNFp1Y2pXOFAxOFlXNFUwZTNJRVhnZ1hwM3lhV2NoUVNUd0loMUNvaEd0cW5rTnZDYWNQR0YzUDc2TDZyeEVkTmhTaEVPUkowZkxkTw?oc=5",
+    "resumo": "Caminhada Saúde com Lula reúne centenas em SP  Outras Palavras",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-21",
+    "hora": "Há 6h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 40,
     "titulo": "Ministério da Saúde inicia oferta no SUS de nove medicamentos oncológicos de alta tecnologia em todas as regiões do país",
     "veiculo": "ba.gov.br",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWGtHekktYzBveXVNOXZYZHBMV0xYZ0FFT2NQTE0tYk80c2hycnJ6aG1DS2s4akNITnZldml2TmpLUXBEaUZmcElOT01IWXdGNVlzYjh3d1I1WEVvdHBNdXNmTFNFVTVxalRPMmVzRFRTZ0l4MkhaV01FZDc0b0h3dGNINWxDZUhkRUt4SEEtcWZ4OU1jVzJqbHROeVd5THZ2U3hEQnZmZ1JVZ3JEUVgwOGFhMkRsTlNBTjhCNnpJMTAyR0h5Q1V1bWVzZw?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObEc3akhsdlpUTVFrTnB1QmVNZkE5czNXUVk3ZEZZREwzLUJFVXN5RkZ3MzF1UThVREZvYWQ0WUYwV0VPOUgzeEUxbDZRcy1IdktDYXBaeW5VTHRrRGlscVRxUTRNaW1ZaDVwN3hiSWJiWnBmTDlWdG1rbUhJcVpKV3dfYTFpczFaaUtvaEV6LTJvOXRKdm5hUEt3NlJ2XzdkQUxQWTR5bVcwdWcwM29Vc0RUWEd4bXBjUGU4MkJueFdMRENuYV9pSjFR?oc=5",
     "resumo": "Ministério da Saúde inicia oferta no SUS de nove medicamentos oncológicos de alta tecnologia em todas as regiões do país  ba.gov.br",
     "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
     "categoria": "social",
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-10-21",
-    "hora": "Há 10h",
-    "tempo_leitura": "2 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 40,
-    "titulo": "Bolsa Família volta a pautar campanha após falas de Flávio e cotada a ministra abastecerem ataques de Lula",
-    "veiculo": "O GLOBO",
-    "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPUFZzNjBfc0pWUVZ1bFdzdFNha2Y5UThjVzhTVF9WTHMxQjM0TFVzQUoza1BHTkxXRjlIV0l1bEloUU9jcVZJQ09tOFo3dUpuMFVCVVpMMGZyN2hKa2lEM256S2E5bWdkcjU4V2pWMnFwQzI0aWtXMlZib1h0a05VWlJxNUI4WXFtZGVMQzd0ZktQaWZhY2QtYVFFaUJvUEVWdkFJaWJNY2VpU3d0YkNKeVNaR3lTNHgtTjFCTlJVQlkyREg2bDBKVUhieXNzc0VmRzJxTDJ0clRtVzItUk56YlBOWlV4a0JHd1Z2c3Bzak83OGViRXVxMVBPLVR5d2REZWZZLTNhOFN5TlnSAZoCQVVfeXFMUERvVF9pNUVBa2lDN2lidC1oRVNaeE41Q1YwcWk2ZXUyellldHNDQmpreTZsZ05lR1phclR6Zlk1OU5CZzZYSkVDbkdLTlpIMlpYWUVxbmd0b3JZMl80bHFJclNFZzhmaW9tcTBaWkhBTmdFM3Mxd1dCNHZtV2hTUVpnQzhlaDY2Q1VSOGVJQV9hUEY2LUQtWm1RWFdDZ1p5ODZOd1pFOVdtNEh3R2otMUx1ME8tajNNN2JRZm43cGRqVkYyQUxSMWtHdG5JQ1lEZWNzOTdQZHdqZGZIdUZMWGM1eGtNMlFOQlhZVmc0RWN5WV84MTVvdjdCV3EtQVJTRHZiNEEzUjJpelRoNG1abXVWeFdzRFdZV1Vn?oc=5",
-    "resumo": "Bolsa Família volta a pautar campanha após falas de Flávio e cotada a ministra abastecerem ataques de Lula  O GLOBO",
-    "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
-    "categoria": "eleicoes",
-    "categoria_label": "🗳️ Eleições & Campanhas",
-    "regiao": "Nacional",
-    "data_dia": "2026-10-21",
-    "hora": "Há 16h",
+    "hora": "Há 12h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -610,7 +610,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-21",
-    "hora": "Há 6h",
+    "hora": "Há 8h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -625,7 +625,7 @@
     "categoria_label": "✊ Direitos & Mobilização",
     "regiao": "Nacional",
     "data_dia": "2026-10-21",
-    "hora": "Há 9h",
+    "hora": "Há 11h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   }
