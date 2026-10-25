@@ -10,9 +10,9 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-24",
-    "hora": "Há 1h",
+    "hora": "Há 6h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 2,
@@ -25,9 +25,9 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Centro-Oeste",
     "data_dia": "2026-10-24",
-    "hora": "Há 1h",
+    "hora": "Há 6h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 3,
@@ -40,9 +40,9 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Sudeste",
     "data_dia": "2026-10-24",
-    "hora": "Há 2h",
+    "hora": "Há 7h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 4,
@@ -55,7 +55,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-24",
-    "hora": "Há 3h",
+    "hora": "Há 9h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -70,7 +70,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Sul",
     "data_dia": "2026-10-24",
-    "hora": "Há 3h",
+    "hora": "Há 9h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -85,7 +85,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-24",
-    "hora": "Há 4h",
+    "hora": "Há 10h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -100,7 +100,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-24",
-    "hora": "Há 5h",
+    "hora": "Há 10h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -115,7 +115,7 @@
     "categoria_label": "✊ Direitos & Mobilização",
     "regiao": "Nacional",
     "data_dia": "2026-10-24",
-    "hora": "Há 6h",
+    "hora": "Há 11h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -130,7 +130,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-24",
-    "hora": "Há 6h",
+    "hora": "Há 11h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -145,7 +145,7 @@
     "categoria_label": "✊ Direitos & Mobilização",
     "regiao": "Nacional",
     "data_dia": "2026-10-24",
-    "hora": "Há 7h",
+    "hora": "Há 12h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -160,7 +160,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-24",
-    "hora": "Há 10h",
+    "hora": "Há 15h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -175,7 +175,7 @@
     "categoria_label": "📈 Conquistas & Economia",
     "regiao": "Nacional",
     "data_dia": "2026-10-24",
-    "hora": "Há 10h",
+    "hora": "Há 15h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -190,7 +190,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-24",
-    "hora": "Há 10h",
+    "hora": "Há 15h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -205,7 +205,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-24",
-    "hora": "Há 10h",
+    "hora": "Há 16h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -220,7 +220,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-24",
-    "hora": "Há 10h",
+    "hora": "Há 16h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -235,7 +235,7 @@
     "categoria_label": "✊ Direitos & Mobilização",
     "regiao": "Nacional",
     "data_dia": "2026-10-24",
-    "hora": "Há 11h",
+    "hora": "Há 16h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -250,7 +250,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-24",
-    "hora": "Há 11h",
+    "hora": "Há 16h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -310,7 +310,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-24",
-    "hora": "Há 3h",
+    "hora": "Há 8h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -325,7 +325,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-24",
-    "hora": "Há 3h",
+    "hora": "Há 8h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -340,7 +340,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-24",
-    "hora": "Há 4h",
+    "hora": "Há 9h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -355,7 +355,7 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-10-24",
-    "hora": "Há 5h",
+    "hora": "Há 10h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -370,7 +370,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-24",
-    "hora": "Há 7h",
+    "hora": "Há 12h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -385,7 +385,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-24",
-    "hora": "Há 7h",
+    "hora": "Há 12h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -400,7 +400,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-24",
-    "hora": "Há 7h",
+    "hora": "Há 12h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -415,7 +415,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-24",
-    "hora": "Há 8h",
+    "hora": "Há 13h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -430,7 +430,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Norte",
     "data_dia": "2026-10-24",
-    "hora": "Há 8h",
+    "hora": "Há 13h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -445,7 +445,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-24",
-    "hora": "Há 8h",
+    "hora": "Há 13h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -466,21 +466,36 @@
   },
   {
     "id": 32,
-    "titulo": "Eleição 2026: maiores doadores de Flávio Bolsonaro e Lula são do agro; veja propostas e desafios para o setor",
-    "veiculo": "G1",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSGZpTVpDN01JS2gwcW9oUTNqRmd2Y19zUlVtTDhNWXJOdGtCMlBta0Q5SjNRU1RRTDI2Wmt4X0pmUDRTWThsdGNiTGZLZFVHelZuYkpXUFhUdldyNGY0UjM4YTBOb0ZZWGtVeHFaZF9OcVRBT0dtUkdTNjJnTzkxU3J1ZnBxY0JzVnZtdGtzSlVzbFYwRHZB0gGmAUFVX3lxTE1lOVQ3X0tZakw1cUZMbDQ5U25GQi02UGdZWGVxMjZhbDFRTjlFaml1R21WYkdVMnB5WUZ0VE5ZWjZzclFrNjYzMEF4eVdqUGpiV18xRnA4ZGpzdDBUOHlnZUZRUG1IbTJUVU94WEc4LWxuRGpyNFRYcjFMUWU2azFIQlZWOFpzOFdQOHhPbWJ4Yl9xZ0FuVnVUVWtMT1l5eGo5OTBqNmc?oc=5",
-    "resumo": "Eleição 2026: maiores doadores de Flávio Bolsonaro e Lula são do agro; veja propostas e desafios para o setor  G1",
+    "titulo": "Flávio gasta 6 vezes o valor de Lula em anúncios na última semana de campanha",
+    "veiculo": "BBC",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAxa1dRNFFHM25RVllyTlRNTzVZMkFCYmJmb2xOOWpQLVFtbFV4QjZCQm15UHFaazNnWlZhQlRlOWNPVDlBRU9KbDgteHpraUFRV2J3UWZUS0ZuSUdiNFh3Szd5VQ?oc=5",
+    "resumo": "Flávio gasta 6 vezes o valor de Lula em anúncios na última semana de campanha  BBC",
     "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
     "categoria": "eleicoes",
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-24",
-    "hora": "Há 17h",
-    "tempo_leitura": "2 min de leitura",
+    "hora": "Há 12h",
+    "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
     "id": 33,
+    "titulo": "Lula x Flávio Bolsonaro: o que cada um propõe para a saúde e o SUS?",
+    "veiculo": "Exame",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRV9jWE83cEdKbmJLemotMm9XTS1taXJpUHZUN0lQLVM1QldHTy1SVC1zelkyeE1sZnhBYVN4clZQMVlPVFVFLWQtV2tqNnlQVGo5Xzc2V1RYZTZacGFQVGx6Vmk1dVdzM1cwSnZWbHpmanFmOG1OU2ZlcldxV2JTWmFMeHFsOEJBY18zYjAzRk5ObjAtM2c?oc=5",
+    "resumo": "Lula x Flávio Bolsonaro: o que cada um propõe para a saúde e o SUS?  Exame",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-25",
+    "hora": "Há 3h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 34,
     "titulo": "Governo Federal e Estado ampliam investimentos na saúde do Sudoeste baiano",
     "veiculo": "ba.gov.br",
     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQkh4QlFrUXBMNzBUVXpCRER3MTY4UTVWWm9EczZBcVJ4Z3JHeVF1ZEJwTFc3aGR3TmliUVdBTG9Lems0VGVBNTcxaDRGRzI1c0xzQ1hRby13d3RoRDVqa3RnRXIwOXhlU0oxbnFlS2RlbVl1SGVseXhLVzk1SktyVGxqWkkyblV3WF9YMGQxcFpvdnd0QU43YXRsb3BwQ29XaklKemxaWWZ5S1AxM3ZOeFozamFlblpzSXNUOUhaVmZ6aUdMVmdNSWxudw?oc=5",
@@ -495,7 +510,22 @@
     "urgente": false
   },
   {
-    "id": 34,
+    "id": 35,
+    "titulo": "Lula e o PT votaram contra a Constituição de 1988? Entenda o tema citado por Flávio Bolsonaro em debate da TV Globo",
+    "veiculo": "O GLOBO",
+    "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNeUg2T1lBcXdweWktMzZ0UDFDZVZ3ME1YVDNjcVo3bm5MdmJRX25CZGFrVkVUcUNiVkxXQ1U1eDdGRmFxa0E1cDAtcG9QeXdkaFRQRUpFcFVMMlFyVFl2X2hxcHc1MVhZeWtXN0ozM2p0QzhrSkpYbVFYa0RDM0E2eC1Eb1hfR3dDTHRKOHJyOFNEdDZXdnF1SktCcUlHS3lndkxHcnlBODhGS3QyYmx4QURDYzRZNE9xMXlJdDdGaV83UmVEUUtMSVNkdFJoXzFGR2hxVkRrWjR1ZzBZaWxSbWZaQ3FJX0FCZUpXa3h1UTRGUFhaVVRCQkQwaE1SdjlVUVdtdVJIWHFMTGtkQ1B2dTFXY2NjUdIBpAJBVV95cUxNWDlraG1DZmRYclMtMW9USEhsM2Jnd0x3QXVDSjdFZU92STl4c0k2eG8wREVZZlNNb1NzUXN0OWFNYUNIN3NLaEN2RW11dzFtSlAwWEdlcW8xUWlfbDBhUU9WaDJjWi1MRmo5Um5HSUxodWxFODk0eWZxM2JKaDlzTFgxRm5DczBXaTVkbmliVDJSamZSdUl1ZkNGQmZWSjVGSll2TWl3UTNIMUxHbWdyTXFUNDc4MVVQMDNkM3BFMFVzN1VWX09zVC1jTmZFZHUyWkFsUHdPel9JVmlfTUZLcjBLOGJDbDBSRFRXeVFGczNhdGtrZzJZTVEtU0d2NDF2aXRsY1k2MG5SWi02Ml9FeEJncTNuOTZHaGx4NXFtSEhKSm95?oc=5",
+    "resumo": "Lula e o PT votaram contra a Constituição de 1988? Entenda o tema citado por Flávio Bolsonaro em debate da TV Globo  O GLOBO",
+    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
+    "categoria": "geral",
+    "categoria_label": "📢 Notícias do Povo",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-23",
+    "hora": "23/10 23:47",
+    "tempo_leitura": "2 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 36,
     "titulo": "Checagem aponta falsidades e distorções de Flávio sobre Bolsa Família, segurança e patrimônio de Lula",
     "veiculo": "Brasil de Fato",
     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZHBHNmhVNnhzcGVXcFZyekVYS0ZXVGc5LXYxTUNkdWxjT2I4Y3dBMnp1Mktva3VjdkQ2bGVhOEt5UVFmMDR3Rnlja0VKeW9WY3A3QUo1d2txS1cxNFVYVmNIV0o1eHphaXp6cnkzLWFZQ1hHQzFBYkhWWWl3djVHSEpMdnI1TFc0VTRYQ2Z3b2cwN3ZHVDlqY205TVNudmJVSWVmMi1McXJUeTJrSW5iS01yVkpwRWNxMmF1YjlNRkRKb1BYSUJFeDQxUnNuZFhaU3pWak1LaW81ZTNC?oc=5",
@@ -505,12 +535,42 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-10-24",
-    "hora": "Há 10h",
+    "hora": "Há 15h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 35,
+    "id": 37,
+    "titulo": "Governo Lula preparou documentos para reajustar Bolsa Família na véspera do anúncio e sob sigilo",
+    "veiculo": "Folha de S.Paulo",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTDJjM244MGZ3Q2tOcklKYms2ZEMxRzk5Ymc5aWFIaWVOSHFQMVU3bS1vcURGdklzaUNLVUtTdVZIMTdwM3NsMm8wNUZkSlNsaDk5cWxiTi1ZRXdaSVlXSHlSZ3lpNWRsdmtWR3VzbGxsektGd0JvaWFVazZsTnZkNEI0dVJfQW1VQ0tnZnRrUXJ0dzB2WHlwdFR3aTF5bGNKVVF0ODR4LWlqVm04Yms0YTQtNUFhOHN6NjVFeFEteV84OXY5Y3ZjdWpBM1JMUFNzWVZQeGQ0ZDFXUmEzV09iYnBB?oc=5",
+    "resumo": "Governo Lula preparou documentos para reajustar Bolsa Família na véspera do anúncio e sob sigilo  Folha de S.Paulo",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-19",
+    "hora": "19/10 21:23",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 38,
+    "titulo": "Lula diz que Flávio Bolsonaro fará tesouraço no SUS; senador promete investimentos",
+    "veiculo": "Terra",
+    "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOVlYyMGd5V3dTLWJfaFFITVY3V1kzRnNqWVVsSDdadmwyUDMtaENyYjNmal9SZHBuSHJjWENPUV9xMDQyVzBvSkpwMnNDMmYtWjFQdk1kNERDaU05OTFLSnZocDNiM0ZUVjRIOUdUVW92VVFZdUd0VVBXM3dWMnJDUnNQOC1kZlBEVVZDaUhHTG1ZVC1UOEtYd0RJZ0F5S3oxQ2RhbnJzY2N6NENwSnMzT0lGek9vTmdaMGRtTFBEMnhUNVhXUU8zUGQwNTdqMUdaNm0yNm9qMkdUc0VwQlpJbTJEbWZOZGh5VU5TNFlJU1gzTkpHVWozWGZXTkNMN1lXRHM2ZWFDMmQ?oc=5",
+    "resumo": "Lula diz que Flávio Bolsonaro fará tesouraço no SUS; senador promete investimentos  Terra",
+    "imagem": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
+    "categoria": "economia",
+    "categoria_label": "📈 Conquistas & Economia",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-24",
+    "hora": "Há 4h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 39,
     "titulo": "Termina visita de equipe do Ministério da Saúde para avaliação das ações de prevenção",
     "veiculo": "Prefeitura Municipal de Senador Canedo",
     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUkt1TUVaMkZHcUFKN1gyN2RyVnhxaXBFZWxpLWN4cTQyMWVrNE50eC1nam9SMm53ZVNFNk5jLWhXd1VCUHd1X2l1Q2cyVWJkVXJSU2NVWlBPdGhKa2NYd0VRcVFHNGhEdEhvajh1a2l5aERKb3MwUjBCMlo0QndZNm5IcDhkNnJ3MU5vbGhPazlPRzlLWWw0ZUpSMVFEeUxBTEFSV05xeEEyRHFEZmpaNzdHTVd4Ymx3d0E?oc=5",
@@ -525,37 +585,7 @@
     "urgente": false
   },
   {
-    "id": 36,
-    "titulo": "Lula pede a adversário explicação sobre ‘Bolsa-Farelo’, licença-maternidade e covid",
-    "veiculo": "Partido dos Trabalhadores",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOb1RBY2ZISklVWXNZbkZ3TnZDUUIxLS1aUDdPNFRWSUV4NThyRWJpM3FOdEM4TXNXOGJOVnZXQzdLaXoxRWMtZno5QlZXck1ORzVya0VBWUJiMXJYdzNrd2Jtd0FEeVZrSm1lSzltdFRFZE9DZVlMbTEyZEdqUGxVODA4YTFfZ0JxVGdmdXVTV2p4RnJwbHhWU2Q3UHE0dWxF0gGoAUFVX3lxTE1EQURTRHZjOE1TM3FrQkdLakxCNThhb0o1TTBzcF9uVVRqSkJtSmZEbHVuSTk2Mm42WUNNUzA3aVZITVYzN0E3Vlllbnp5REtucmd0dUQ2dmE5VUNBUGdrb01DbUlGQzE5RWdBajRaOUVhbTViQzYxeW9MRHBBUlZxcGpfeldoUURBNEhJdXlmVllhSGhuZ05jRlNUa1BKLWxxbWFfcEF6TA?oc=5",
-    "resumo": "Lula pede a adversário explicação sobre ‘Bolsa-Farelo’, licença-maternidade e covid  Partido dos Trabalhadores",
-    "imagem": "https://images.unsplash.com/photo-1531206715517-5c0ba140b2b8?w=800&q=80",
-    "categoria": "direitos",
-    "categoria_label": "✊ Direitos & Mobilização",
-    "regiao": "Nacional",
-    "data_dia": "2026-10-24",
-    "hora": "Há 21h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 37,
-    "titulo": "Entenda a origem do SUS e as diferenças entre as propostas de Lula e Flávio Bolsonaro",
-    "veiculo": "OpiniãoCE",
-    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZTNjZE5zcWs5N0h0YU5TbUlYS0JuWjhFblhWY3V3WXU2YXlNVVZTUzEyVFlsUmtZQm1VNjE3cDI5bC10MS1YeW4zRmV4Y1djY1VPVEhxazZIMVBpS0pyeEJ5OG0yZ2ZZcXgxVHBYX3BYd282cmRTczBsVkNVSndqTURBMTNFbzVFS3dadkZlRUdXUGl5b08xczFHVEhKazRUa0t6SjhLSFdmZzBYMlpFejRaUUU5czZJdkdpUG9OYWhVVTVMSjBTRFJFdjE1RGh5?oc=5",
-    "resumo": "Entenda a origem do SUS e as diferenças entre as propostas de Lula e Flávio Bolsonaro  OpiniãoCE",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
-    "regiao": "Nacional",
-    "data_dia": "2026-10-23",
-    "hora": "23/10 10:28",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 38,
+    "id": 40,
     "titulo": "Bahia: ambulâncias e carreta de saúde da mulher recebem visita técnica — Ministério da Saúde",
     "veiculo": "Governo Federal",
     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVTlyMGNJbDItV2NhZmlMZE0zOWdtTE9IUi0tVXdVM2FFck15QUFUYXdhTmttZzdLY0duYnNDNjJ5dFEzSFQ0NHhfem13NHphRTBKdEhyb0dvLVUxS2Rpc015TnNWLXNHdWpjWWNOcGdKRUM5OVhZNVVWU1RiTkE2SmxIbDljRzF3NFdJZzhRQ250NHVJclRnOUt3cFhtaDNpR0RESHVMXzdHMlFGTS14N0pNZmR3RFFVRnBSYUFXWUpPNE9yd2hjSlJRM1hmb28?oc=5",
@@ -570,48 +600,18 @@
     "urgente": false
   },
   {
-    "id": 39,
-    "titulo": "Lula e o PT votaram contra a Constituição de 1988? Entenda o tema citado por Flávio Bolsonaro em debate da TV Globo",
-    "veiculo": "O GLOBO",
-    "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNeUg2T1lBcXdweWktMzZ0UDFDZVZ3ME1YVDNjcVo3bm5MdmJRX25CZGFrVkVUcUNiVkxXQ1U1eDdGRmFxa0E1cDAtcG9QeXdkaFRQRUpFcFVMMlFyVFl2X2hxcHc1MVhZeWtXN0ozM2p0QzhrSkpYbVFYa0RDM0E2eC1Eb1hfR3dDTHRKOHJyOFNEdDZXdnF1SktCcUlHS3lndkxHcnlBODhGS3QyYmx4QURDYzRZNE9xMXlJdDdGaV83UmVEUUtMSVNkdFJoXzFGR2hxVkRrWjR1ZzBZaWxSbWZaQ3FJX0FCZUpXa3h1UTRGUFhaVVRCQkQwaE1SdjlVUVdtdVJIWHFMTGtkQ1B2dTFXY2NjUdIBpAJBVV95cUxNWDlraG1DZmRYclMtMW9USEhsM2Jnd0x3QXVDSjdFZU92STl4c0k2eG8wREVZZlNNb1NzUXN0OWFNYUNIN3NLaEN2RW11dzFtSlAwWEdlcW8xUWlfbDBhUU9WaDJjWi1MRmo5Um5HSUxodWxFODk0eWZxM2JKaDlzTFgxRm5DczBXaTVkbmliVDJSamZSdUl1ZkNGQmZWSjVGSll2TWl3UTNIMUxHbWdyTXFUNDc4MVVQMDNkM3BFMFVzN1VWX09zVC1jTmZFZHUyWkFsUHdPel9JVmlfTUZLcjBLOGJDbDBSRFRXeVFGczNhdGtrZzJZTVEtU0d2NDF2aXRsY1k2MG5SWi02Ml9FeEJncTNuOTZHaGx4NXFtSEhKSm95?oc=5",
-    "resumo": "Lula e o PT votaram contra a Constituição de 1988? Entenda o tema citado por Flávio Bolsonaro em debate da TV Globo  O GLOBO",
-    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
-    "categoria": "geral",
-    "categoria_label": "📢 Notícias do Povo",
-    "regiao": "Nacional",
-    "data_dia": "2026-10-23",
-    "hora": "Há 22h",
-    "tempo_leitura": "2 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 40,
-    "titulo": "Porto Velho passa a contar com base da Força Nacional do SUS para apoiar resposta a emergências em saúde",
-    "veiculo": "Governo Federal",
-    "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNMDh2X0hQUFBWU2NadElXQ29XcEZROEkyYS1RLXBFTElVUDVIcmpCUWl1M1huNVZERUY3REhtOGIwSnV6WlNMTzl0WGstNGMtZ3NSczlWeW5SeXZyYnk1YnhnSTNmUm92dGxnOVhZM0xoQS1mY19JZHBwdFZBajVDT0YwYldVYVFHSlZCMEJILWV3SkdzUXc3SFVxMG4yYklNVFRyX3M0RGY0Y2lZVldGNlM5UmkwLXFqelJuMnhBbnNVeFNtQndEdU9aOUNUeFJ0V2NaMXpKekQxMGNXV2M1Z3BsUGlHOE94ZUFWOXEwMm13RGlwekNiY2tFR21kUQ?oc=5",
-    "resumo": "Porto Velho passa a contar com base da Força Nacional do SUS para apoiar resposta a emergências em saúde  Governo Federal",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
-    "regiao": "Nacional",
-    "data_dia": "2026-10-22",
-    "hora": "22/10 13:09",
-    "tempo_leitura": "2 min de leitura",
-    "urgente": false
-  },
-  {
     "id": 41,
-    "titulo": "Na reta final do segundo turno, campanhas de Lula (PT) e Flávio (PL) seguem disputando as redes e às ruas do Ceará",
-    "veiculo": "Brasil de Fato",
-    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNeUtPOEpLZFB0UWZmMmJpODhxcGczVy1lb0FTVER4UmRrNks5dEJ1Q1B5Yk1JeVlrM3gxOFp2a3oza0hsMUdHVkFIUWJMbkFFbkpkbE84MERCQjFEd1RMOHpiWUZHcGdOY21DSHlFSzg0dmZCMzhvdWdLb25KTmNpRWZ5ZFFyTzYzNDBEYWk1NlctQnVjaHA0N0NJVVZHbm44bW9zXzQwZzR5cGFhSnY4N25nNzF1b05TZWdJbE1sQTJ1MzVzWHBEVHZ0MVFSeVJSOUQ5dDNzVVJwN2VmY1ZKSlloLTk0MDdX?oc=5",
-    "resumo": "Na reta final do segundo turno, campanhas de Lula (PT) e Flávio (PL) seguem disputando as redes e às ruas do Ceará  Brasil de Fato",
+    "titulo": "Pedro Pascal declara apoio à reeleição de Lula nas redes sociais",
+    "veiculo": "UOL",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNV051a1JYQ0trUHBEMTZqa1A2dzdyMFpDWm1uRVhGMWVxTDZka0t6c3VVeUdwejAxVkJGdmpheGUyWElzcmNUYVVJUW9CUDJHdTFkOXhRZm5KSGdwZDNBUkNNZUFtNFdnODdPeGE4dlU0ZEhaSHNld3NuRUpERWszck9US3pZWXFWdjB2TGhNTU51MU5DenhvcTNMeUtKN01YQmhtSWYtVkZidFYwTFZYZjg2QmdrQ3ZxNTg4?oc=5",
+    "resumo": "Pedro Pascal declara apoio à reeleição de Lula nas redes sociais  UOL",
     "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
     "categoria": "eleicoes",
     "categoria_label": "🗳️ Eleições & Campanhas",
-    "regiao": "Nordeste",
+    "regiao": "Nacional",
     "data_dia": "2026-10-24",
-    "hora": "Há 3h",
-    "tempo_leitura": "2 min de leitura",
+    "hora": "Há 9h",
+    "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
@@ -625,8 +625,8 @@
     "categoria_label": "✊ Direitos & Mobilização",
     "regiao": "Nacional",
     "data_dia": "2026-10-24",
-    "hora": "Há 2h",
+    "hora": "Há 7h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   }
 ]
