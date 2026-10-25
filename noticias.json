@@ -1,6 +1,51 @@
 [
   {
     "id": 1,
+    "titulo": "Nunes Marques pede vigilância e senso crítico com notícias no 2º turno",
+    "veiculo": "Agência Brasil",
+    "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/nunes-marques-pede-vigilancia-e-senso-critico-com-noticias-no-2o-turno",
+    "resumo": "O presidente do Tribunal Superior Eleitoral (TSE), ministro Kassio Nunes Marques, pediu, neste sábado (24), que a população se mantenha vigilante e eleve o senso critico ...",
+    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
+    "categoria": "geral",
+    "categoria_label": "📢 Notícias do Povo",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-24",
+    "hora": "Há 1h",
+    "tempo_leitura": "2 min de leitura",
+    "urgente": true
+  },
+  {
+    "id": 2,
+    "titulo": "Em Brasília, atos por Lula e Flávio ficam a 2 km de distância",
+    "veiculo": "Agência Brasil",
+    "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/em-brasilia-atos-por-lula-e-flavio-ficam-2-km-de-distancia",
+    "resumo": "Apenas dois quilômetros separaram, no centro de Brasília, as multidões de simpatizantes de Luiz Inácio Lula da Silva (PT) e Flávio Bolsonaro (PL), candidatos à Presidênci...",
+    "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
+    "categoria": "eleicoes",
+    "categoria_label": "🗳️ Eleições & Campanhas",
+    "regiao": "Centro-Oeste",
+    "data_dia": "2026-10-24",
+    "hora": "Há 1h",
+    "tempo_leitura": "2 min de leitura",
+    "urgente": true
+  },
+  {
+    "id": 3,
+    "titulo": "Candidatos à Presidência reúnem apoiadores no último dia de campanha",
+    "veiculo": "Agência Brasil",
+    "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/candidatos-presidencia-reunem-apoiadores-no-ultimo-dia-de-campanha",
+    "resumo": "Os candidatos à Presidência da República Flávio Bolsonaro (PL) e Luiz Inácio Lula da Silva (PT) reuniram multidões em atos com apoiadores no Rio de Janeiro, em Minas Gera...",
+    "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
+    "categoria": "eleicoes",
+    "categoria_label": "🗳️ Eleições & Campanhas",
+    "regiao": "Sudeste",
+    "data_dia": "2026-10-24",
+    "hora": "Há 2h",
+    "tempo_leitura": "2 min de leitura",
+    "urgente": true
+  },
+  {
+    "id": 4,
     "titulo": "Votação: eleitores podem usar itens que expressem preferência política",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/votacao-eleitores-podem-usar-itens-que-expressem-preferencia-politica",
@@ -10,12 +55,12 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-24",
-    "hora": "Há 1h",
+    "hora": "Há 3h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 2,
+    "id": 5,
     "titulo": "Eleições: saiba como consultar locais de votação para o segundo turno",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/eleicoes-saiba-como-consultar-locais-de-votacao-para-o-segundo-turno",
@@ -25,12 +70,12 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Sul",
     "data_dia": "2026-10-24",
-    "hora": "Há 2h",
+    "hora": "Há 3h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 3,
+    "id": 6,
     "titulo": "Justiça proíbe rede de supermercados de praticar assédio eleitoral",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/justica-proibe-rede-de-supermercados-de-fazer-assedio-eleitoral",
@@ -40,12 +85,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-24",
-    "hora": "Há 2h",
+    "hora": "Há 4h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 4,
+    "id": 7,
     "titulo": "Veja quem tem prioridade nas seções eleitorais no segundo turno",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/veja-quem-tem-prioridade-nas-secoes-eleitorais-no-segundo-turno",
@@ -55,12 +100,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-24",
-    "hora": "Há 3h",
+    "hora": "Há 5h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 5,
+    "id": 8,
     "titulo": "Transporte de indígenas deve ser aprovado por juiz, diz Nunes Marques",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/nunes-marques-nega-autorizacao-para-transporte-de-eleitores-indigenas",
@@ -70,12 +115,12 @@
     "categoria_label": "✊ Direitos & Mobilização",
     "regiao": "Nacional",
     "data_dia": "2026-10-24",
-    "hora": "Há 4h",
+    "hora": "Há 6h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 6,
+    "id": 9,
     "titulo": "Tribunais eleitorais definem urnas que serão auditadas no 2º turno",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/tribunais-eleitorais-definem-urnas-que-serao-auditadas-no-2o-turno",
@@ -85,12 +130,12 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-24",
-    "hora": "Há 4h",
+    "hora": "Há 6h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 7,
+    "id": 10,
     "titulo": "Saiba os direitos de idosos e pessoas com deficiência para votar",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/saiba-os-direitos-de-idosos-e-pessoas-com-deficiencia-para-votar",
@@ -100,52 +145,7 @@
     "categoria_label": "✊ Direitos & Mobilização",
     "regiao": "Nacional",
     "data_dia": "2026-10-24",
-    "hora": "Há 5h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 8,
-    "titulo": "Rebeca Andrade conquista o tri no Mundial de Ginástica na Holanda",
-    "veiculo": "Agência Brasil",
-    "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-10/rebeca-andrade-conquista-o-tri-no-mundial-de-ginastica-na-holanda",
-    "resumo": "A brasileira Rebeca Andrade conquistou neste sábado (24) o tricampeonato no Campeonato Mundial de Ginástica Artística 2026, em Roterdã, Holanda. \n\nRebeca levou o primeiro...",
-    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
-    "categoria": "geral",
-    "categoria_label": "📢 Notícias do Povo",
-    "regiao": "Nacional",
-    "data_dia": "2026-10-24",
-    "hora": "Há 5h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 9,
-    "titulo": "Trabalhador tem direito de sair do serviço para votar; confira a lei",
-    "veiculo": "Agência Brasil",
-    "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/trabalhador-tem-direito-de-sair-do-servico-para-votar-confira-lei",
-    "resumo": "O eleitor que vai trabalhar no dia da eleição tem o direito de se ausentar do serviço para exercer o direito ao voto, sem prejuízo de salário. A regra está prevista no ar...",
-    "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
-    "categoria": "eleicoes",
-    "categoria_label": "🗳️ Eleições & Campanhas",
-    "regiao": "Nacional",
-    "data_dia": "2026-10-24",
-    "hora": "Há 6h",
-    "tempo_leitura": "2 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 10,
-    "titulo": "Bullying: cartórios têm recorde de atas que podem comprovar agressões",
-    "veiculo": "Agência Brasil",
-    "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/bullying-cartorios-tem-recorde-de-atas-que-podem-comprovar-agressoes",
-    "resumo": "Em 2025, os cartórios de notas brasileiros registraram 153.267 atas notariais, documento que pode ser utilizado para comprovar mensagens, publicações e outras evidências ...",
-    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
-    "categoria": "geral",
-    "categoria_label": "📢 Notícias do Povo",
-    "regiao": "Nacional",
-    "data_dia": "2026-10-24",
-    "hora": "Há 6h",
+    "hora": "Há 7h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -160,7 +160,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-24",
-    "hora": "Há 8h",
+    "hora": "Há 10h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -175,7 +175,7 @@
     "categoria_label": "📈 Conquistas & Economia",
     "regiao": "Nacional",
     "data_dia": "2026-10-24",
-    "hora": "Há 8h",
+    "hora": "Há 10h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -190,7 +190,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-24",
-    "hora": "Há 8h",
+    "hora": "Há 10h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -205,7 +205,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-24",
-    "hora": "Há 8h",
+    "hora": "Há 10h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -220,7 +220,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-24",
-    "hora": "Há 9h",
+    "hora": "Há 10h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -235,7 +235,7 @@
     "categoria_label": "✊ Direitos & Mobilização",
     "regiao": "Nacional",
     "data_dia": "2026-10-24",
-    "hora": "Há 9h",
+    "hora": "Há 11h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -250,7 +250,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-24",
-    "hora": "Há 9h",
+    "hora": "Há 11h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -310,9 +310,9 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-24",
-    "hora": "Há 1h",
+    "hora": "Há 3h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 22,
@@ -325,9 +325,9 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-24",
-    "hora": "Há 1h",
+    "hora": "Há 3h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 23,
@@ -340,9 +340,9 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-24",
-    "hora": "Há 2h",
+    "hora": "Há 4h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 24,
@@ -355,7 +355,7 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-10-24",
-    "hora": "Há 3h",
+    "hora": "Há 5h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -370,7 +370,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-24",
-    "hora": "Há 5h",
+    "hora": "Há 7h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -385,7 +385,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-24",
-    "hora": "Há 5h",
+    "hora": "Há 7h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -400,7 +400,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-24",
-    "hora": "Há 5h",
+    "hora": "Há 7h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -415,7 +415,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-24",
-    "hora": "Há 6h",
+    "hora": "Há 8h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -430,7 +430,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Norte",
     "data_dia": "2026-10-24",
-    "hora": "Há 6h",
+    "hora": "Há 8h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -445,7 +445,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-24",
-    "hora": "Há 6h",
+    "hora": "Há 8h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -475,27 +475,12 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-24",
-    "hora": "Há 15h",
+    "hora": "Há 17h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
     "id": 33,
-    "titulo": "Checagem aponta falsidades e distorções de Flávio sobre Bolsa Família, segurança e patrimônio de Lula",
-    "veiculo": "Brasil de Fato",
-    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZHBHNmhVNnhzcGVXcFZyekVYS0ZXVGc5LXYxTUNkdWxjT2I4Y3dBMnp1Mktva3VjdkQ2bGVhOEt5UVFmMDR3Rnlja0VKeW9WY3A3QUo1d2txS1cxNFVYVmNIV0o1eHphaXp6cnkzLWFZQ1hHQzFBYkhWWWl3djVHSEpMdnI1TFc0VTRYQ2Z3b2cwN3ZHVDlqY205TVNudmJVSWVmMi1McXJUeTJrSW5iS01yVkpwRWNxMmF1YjlNRkRKb1BYSUJFeDQxUnNuZFhaU3pWak1LaW81ZTNC?oc=5",
-    "resumo": "Checagem aponta falsidades e distorções de Flávio sobre Bolsa Família, segurança e patrimônio de Lula  Brasil de Fato",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
-    "regiao": "Nacional",
-    "data_dia": "2026-10-24",
-    "hora": "Há 8h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 34,
     "titulo": "Governo Federal e Estado ampliam investimentos na saúde do Sudoeste baiano",
     "veiculo": "ba.gov.br",
     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQkh4QlFrUXBMNzBUVXpCRER3MTY4UTVWWm9EczZBcVJ4Z3JHeVF1ZEJwTFc3aGR3TmliUVdBTG9Lems0VGVBNTcxaDRGRzI1c0xzQ1hRby13d3RoRDVqa3RnRXIwOXhlU0oxbnFlS2RlbVl1SGVseXhLVzk1SktyVGxqWkkyblV3WF9YMGQxcFpvdnd0QU43YXRsb3BwQ29XaklKemxaWWZ5S1AxM3ZOeFozamFlblpzSXNUOUhaVmZ6aUdMVmdNSWxudw?oc=5",
@@ -510,7 +495,37 @@
     "urgente": false
   },
   {
+    "id": 34,
+    "titulo": "Checagem aponta falsidades e distorções de Flávio sobre Bolsa Família, segurança e patrimônio de Lula",
+    "veiculo": "Brasil de Fato",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZHBHNmhVNnhzcGVXcFZyekVYS0ZXVGc5LXYxTUNkdWxjT2I4Y3dBMnp1Mktva3VjdkQ2bGVhOEt5UVFmMDR3Rnlja0VKeW9WY3A3QUo1d2txS1cxNFVYVmNIV0o1eHphaXp6cnkzLWFZQ1hHQzFBYkhWWWl3djVHSEpMdnI1TFc0VTRYQ2Z3b2cwN3ZHVDlqY205TVNudmJVSWVmMi1McXJUeTJrSW5iS01yVkpwRWNxMmF1YjlNRkRKb1BYSUJFeDQxUnNuZFhaU3pWak1LaW81ZTNC?oc=5",
+    "resumo": "Checagem aponta falsidades e distorções de Flávio sobre Bolsa Família, segurança e patrimônio de Lula  Brasil de Fato",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-24",
+    "hora": "Há 10h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
     "id": 35,
+    "titulo": "Termina visita de equipe do Ministério da Saúde para avaliação das ações de prevenção",
+    "veiculo": "Prefeitura Municipal de Senador Canedo",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUkt1TUVaMkZHcUFKN1gyN2RyVnhxaXBFZWxpLWN4cTQyMWVrNE50eC1nam9SMm53ZVNFNk5jLWhXd1VCUHd1X2l1Q2cyVWJkVXJSU2NVWlBPdGhKa2NYd0VRcVFHNGhEdEhvajh1a2l5aERKb3MwUjBCMlo0QndZNm5IcDhkNnJ3MU5vbGhPazlPRzlLWWw0ZUpSMVFEeUxBTEFSV05xeEEyRHFEZmpaNzdHTVd4Ymx3d0E?oc=5",
+    "resumo": "Termina visita de equipe do Ministério da Saúde para avaliação das ações de prevenção  Prefeitura Municipal de Senador Canedo",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-23",
+    "hora": "23/10 08:55",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 36,
     "titulo": "Lula pede a adversário explicação sobre ‘Bolsa-Farelo’, licença-maternidade e covid",
     "veiculo": "Partido dos Trabalhadores",
     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOb1RBY2ZISklVWXNZbkZ3TnZDUUIxLS1aUDdPNFRWSUV4NThyRWJpM3FOdEM4TXNXOGJOVnZXQzdLaXoxRWMtZno5QlZXck1ORzVya0VBWUJiMXJYdzNrd2Jtd0FEeVZrSm1lSzltdFRFZE9DZVlMbTEyZEdqUGxVODA4YTFfZ0JxVGdmdXVTV2p4RnJwbHhWU2Q3UHE0dWxF0gGoAUFVX3lxTE1EQURTRHZjOE1TM3FrQkdLakxCNThhb0o1TTBzcF9uVVRqSkJtSmZEbHVuSTk2Mm42WUNNUzA3aVZITVYzN0E3Vlllbnp5REtucmd0dUQ2dmE5VUNBUGdrb01DbUlGQzE5RWdBajRaOUVhbTViQzYxeW9MRHBBUlZxcGpfeldoUURBNEhJdXlmVllhSGhuZ05jRlNUa1BKLWxxbWFfcEF6TA?oc=5",
@@ -520,12 +535,27 @@
     "categoria_label": "✊ Direitos & Mobilização",
     "regiao": "Nacional",
     "data_dia": "2026-10-24",
-    "hora": "Há 19h",
+    "hora": "Há 21h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 36,
+    "id": 37,
+    "titulo": "Entenda a origem do SUS e as diferenças entre as propostas de Lula e Flávio Bolsonaro",
+    "veiculo": "OpiniãoCE",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZTNjZE5zcWs5N0h0YU5TbUlYS0JuWjhFblhWY3V3WXU2YXlNVVZTUzEyVFlsUmtZQm1VNjE3cDI5bC10MS1YeW4zRmV4Y1djY1VPVEhxazZIMVBpS0pyeEJ5OG0yZ2ZZcXgxVHBYX3BYd282cmRTczBsVkNVSndqTURBMTNFbzVFS3dadkZlRUdXUGl5b08xczFHVEhKazRUa0t6SjhLSFdmZzBYMlpFejRaUUU5czZJdkdpUG9OYWhVVTVMSjBTRFJFdjE1RGh5?oc=5",
+    "resumo": "Entenda a origem do SUS e as diferenças entre as propostas de Lula e Flávio Bolsonaro  OpiniãoCE",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-23",
+    "hora": "23/10 10:28",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 38,
     "titulo": "Bahia: ambulâncias e carreta de saúde da mulher recebem visita técnica — Ministério da Saúde",
     "veiculo": "Governo Federal",
     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVTlyMGNJbDItV2NhZmlMZE0zOWdtTE9IUi0tVXdVM2FFck15QUFUYXdhTmttZzdLY0duYnNDNjJ5dFEzSFQ0NHhfem13NHphRTBKdEhyb0dvLVUxS2Rpc015TnNWLXNHdWpjWWNOcGdKRUM5OVhZNVVWU1RiTkE2SmxIbDljRzF3NFdJZzhRQ250NHVJclRnOUt3cFhtaDNpR0RESHVMXzdHMlFGTS14N0pNZmR3RFFVRnBSYUFXWUpPNE9yd2hjSlJRM1hmb28?oc=5",
@@ -540,7 +570,7 @@
     "urgente": false
   },
   {
-    "id": 37,
+    "id": 39,
     "titulo": "Lula e o PT votaram contra a Constituição de 1988? Entenda o tema citado por Flávio Bolsonaro em debate da TV Globo",
     "veiculo": "O GLOBO",
     "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNeUg2T1lBcXdweWktMzZ0UDFDZVZ3ME1YVDNjcVo3bm5MdmJRX25CZGFrVkVUcUNiVkxXQ1U1eDdGRmFxa0E1cDAtcG9QeXdkaFRQRUpFcFVMMlFyVFl2X2hxcHc1MVhZeWtXN0ozM2p0QzhrSkpYbVFYa0RDM0E2eC1Eb1hfR3dDTHRKOHJyOFNEdDZXdnF1SktCcUlHS3lndkxHcnlBODhGS3QyYmx4QURDYzRZNE9xMXlJdDdGaV83UmVEUUtMSVNkdFJoXzFGR2hxVkRrWjR1ZzBZaWxSbWZaQ3FJX0FCZUpXa3h1UTRGUFhaVVRCQkQwaE1SdjlVUVdtdVJIWHFMTGtkQ1B2dTFXY2NjUdIBpAJBVV95cUxNWDlraG1DZmRYclMtMW9USEhsM2Jnd0x3QXVDSjdFZU92STl4c0k2eG8wREVZZlNNb1NzUXN0OWFNYUNIN3NLaEN2RW11dzFtSlAwWEdlcW8xUWlfbDBhUU9WaDJjWi1MRmo5Um5HSUxodWxFODk0eWZxM2JKaDlzTFgxRm5DczBXaTVkbmliVDJSamZSdUl1ZkNGQmZWSjVGSll2TWl3UTNIMUxHbWdyTXFUNDc4MVVQMDNkM3BFMFVzN1VWX09zVC1jTmZFZHUyWkFsUHdPel9JVmlfTUZLcjBLOGJDbDBSRFRXeVFGczNhdGtrZzJZTVEtU0d2NDF2aXRsY1k2MG5SWi02Ml9FeEJncTNuOTZHaGx4NXFtSEhKSm95?oc=5",
@@ -550,12 +580,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-23",
-    "hora": "Há 20h",
+    "hora": "Há 22h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
-    "id": 38,
+    "id": 40,
     "titulo": "Porto Velho passa a contar com base da Força Nacional do SUS para apoiar resposta a emergências em saúde",
     "veiculo": "Governo Federal",
     "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNMDh2X0hQUFBWU2NadElXQ29XcEZROEkyYS1RLXBFTElVUDVIcmpCUWl1M1huNVZERUY3REhtOGIwSnV6WlNMTzl0WGstNGMtZ3NSczlWeW5SeXZyYnk1YnhnSTNmUm92dGxnOVhZM0xoQS1mY19JZHBwdFZBajVDT0YwYldVYVFHSlZCMEJILWV3SkdzUXc3SFVxMG4yYklNVFRyX3M0RGY0Y2lZVldGNlM5UmkwLXFqelJuMnhBbnNVeFNtQndEdU9aOUNUeFJ0V2NaMXpKekQxMGNXV2M1Z3BsUGlHOE94ZUFWOXEwMm13RGlwekNiY2tFR21kUQ?oc=5",
@@ -570,63 +600,33 @@
     "urgente": false
   },
   {
-    "id": 39,
-    "titulo": "Debate na Globo: Lula pergunta a Flávio Bolsonaro sobre SUS e melhorias na saúde pública; VÍDEO",
-    "veiculo": "G1",
-    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPNGdQdHYzM2xUZnBoUmhfSTJWaVZnMkstM21BeXlTZUY4OVlXZDhXTy0tZzJxT0NQVFhHTjNVZ2NIVTN4bEl4OE1URnEyZHRwbXBVSGdtUGh0aHZKNXJnc1JOTHRjMHBMeWpIWmhHMzlRNVhTbUtMSnlJQmVIWFE4NlplUGZiRW9rZkVGVEU1WHBxX1hpTEdwVnVjMmg1aV81cWtDN2JuQ2lHWUJhVTQ1c015cjFsd2ZqT3hNVGFaS3oxSXFoWF9kX29qSU1reFdLYU9MVHhQRlpTT1VTbzh1QU1xY3VVSjhEbEFSYjJLQmszcFRr0gGDAkFVX3lxTE9ua0NxYTkzOW1kcXNHWnJ1clQ1NklaS2puTmxpOTdKM0RyeDI4M00xYjFlbzVmZm9OaGlocFR6dW1wanJNRC1TZklRMENjRDd4ckxOTDJzM0dEbGVxWF82MUd0SGoyTE5MVXJLZFZIUlMwTGhucnUyNWU1RXlHVUdxNEZNQUMyNmJaX3ZOSW8xNzlMTnBPNWxGTEJKUC14VHI1TmtwYVl1Tk5WTVBjSFVsbFFPUFRNSkgzVVBKdjRHV2tEUWJWRDJnNFM0ZHA5a1Z6RlJKTWpGTG1yTXRDV0JhYkZGREZMaUpKRzZkd3BqR0NfNFlkMzUzRFFGd3BqRXV4M0E?oc=5",
-    "resumo": "Debate na Globo: Lula pergunta a Flávio Bolsonaro sobre SUS e melhorias na saúde pública; VÍDEO  G1",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
-    "regiao": "Nacional",
-    "data_dia": "2026-10-23",
-    "hora": "Há 21h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 40,
-    "titulo": "Ministério da Saúde inicia oferta no SUS de nove medicamentos oncológicos de alta tecnologia em todas as regiões do país",
-    "veiculo": "Governo Federal",
-    "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOYUpBTHpHTkxpaEREc1ZiMm1VMmtmaU5YNnJ6TDhVVXlPdlRwZ1cxY2xYT2puVEk0SFpRRzVlWEVHMXNKMEJsV0NhREpXaHAtbUZCbzBHRjk1bnJnTmtoSHFuc2tBcDlIdm1NVllHMkd4Qm1ETm5MS3N6UENacHBGbW9RM0t6SHhkR2tHVHJTbVVyQ3N5QzBQUnliSjJjQUxrMjVmZmt1bDlLSWhpMDdrWWNhc1ZBRVFzSVVlWEtITUNYY2o4RXVlWnhuQkhaQTJubEw4SmtHNVVXQ241N2NXNnU3cjk5TDJmQ0NpWnJHWmF2WkY1S2s2YWZtUmZnWVNpS1JqZ2FtNmZNR0xtbGVocXNtNA?oc=5",
-    "resumo": "Ministério da Saúde inicia oferta no SUS de nove medicamentos oncológicos de alta tecnologia em todas as regiões do país  Governo Federal",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
-    "regiao": "Nacional",
-    "data_dia": "2026-10-20",
-    "hora": "20/10 12:54",
+    "id": 41,
+    "titulo": "Na reta final do segundo turno, campanhas de Lula (PT) e Flávio (PL) seguem disputando as redes e às ruas do Ceará",
+    "veiculo": "Brasil de Fato",
+    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNeUtPOEpLZFB0UWZmMmJpODhxcGczVy1lb0FTVER4UmRrNks5dEJ1Q1B5Yk1JeVlrM3gxOFp2a3oza0hsMUdHVkFIUWJMbkFFbkpkbE84MERCQjFEd1RMOHpiWUZHcGdOY21DSHlFSzg0dmZCMzhvdWdLb25KTmNpRWZ5ZFFyTzYzNDBEYWk1NlctQnVjaHA0N0NJVVZHbm44bW9zXzQwZzR5cGFhSnY4N25nNzF1b05TZWdJbE1sQTJ1MzVzWHBEVHZ0MVFSeVJSOUQ5dDNzVVJwN2VmY1ZKSlloLTk0MDdX?oc=5",
+    "resumo": "Na reta final do segundo turno, campanhas de Lula (PT) e Flávio (PL) seguem disputando as redes e às ruas do Ceará  Brasil de Fato",
+    "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
+    "categoria": "eleicoes",
+    "categoria_label": "🗳️ Eleições & Campanhas",
+    "regiao": "Nordeste",
+    "data_dia": "2026-10-24",
+    "hora": "Há 3h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
-    "id": 41,
-    "titulo": "Em São Paulo, ato final da campanha de Lula leva multidão inédita à Avenida Paulista",
-    "veiculo": "Alma Preta Jornalismo",
-    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBIcjlKUGtrNzhKOXc5MVVxSnVZalN1TDJOTGkxd0RjbVpxR1NiMkI0NmhVNEFfSWd4WW9sZXBTWFhDeUNFQ2xqWkU4MnI4YkJyX3AyUHBySk9BTHJjSHN2TVF6S3k0d1BKMlJJX0hTb1l4SWJtLVhiVkhORVFydw?oc=5",
-    "resumo": "Em São Paulo, ato final da campanha de Lula leva multidão inédita à Avenida Paulista  Alma Preta Jornalismo",
-    "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
-    "categoria": "eleicoes",
-    "categoria_label": "🗳️ Eleições & Campanhas",
-    "regiao": "Sudeste",
-    "data_dia": "2026-10-24",
-    "hora": "Há 1h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": true
-  },
-  {
     "id": 42,
-    "titulo": "Nunes Marques barra transporte de indígenas sem aval da Justiça Eleitoral",
-    "veiculo": "CartaCapital",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOTZQZWdMbEIwYUtXcm1BUjdQQnB5REVZZ1d1SGdOQW1wU2lCN194MnNidkNJbFdKVlZZcjdBTEczUFpCaDRpQVhmQ1d1SDAwb0hfV29LRFFKZkJoYllfWXp4cnRPUkpXWGlwQnJHWXpxR3kyWDgxTURaZ2QzeHNJQ1h3X1QwUDVnVnpHR2FDb3JGUnZuMGowMVlZaGdiU0docmpTUkM5dXFKZVN1eDZfVm5CT3g?oc=5",
-    "resumo": "Nunes Marques barra transporte de indígenas sem aval da Justiça Eleitoral  CartaCapital",
+    "titulo": "Nunes Marques reconsidera decisão e autoriza uso da frota de órgãos federais para transporte de indígenas no 2º turno",
+    "veiculo": "G1",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVFVkSWlCQ19mN2ZoNDd3dTdZcGVqakdscGJUdkxaOVJ4blNLX2pMYUl0b0dJMjB2ZEhzS3ExWG1ZNTROSTFlMkthNmZZZEJndmNVczNFTGpNQkFPZXVoRk5hY0JwdzVLV2R6ZkY4ajVldEp1SnhMOEM2Z2k2NUljM1Bfc2Z6UFJMeklOWldQdmtaa2RKZHNpajJtdmVoT3gxb0I3QVI0cTJWcnVZa25qcFJXQnRFVW5rdjFEa0djRURVQkF40gHTAUFVX3lxTE4zY1dCU1RMV2lqeFExZ0l2enVObG9GMDJoeWZmN3BTWW9vUjBQeFFVX3h4dFo2ZS1GdGd0Z0Nkb1ZZUUhScTF1MHRneWczZGI5dWRvck5kS0diTTM3bEtFQWdycjhyeHZQTW1tcUN2eDJUaUFQX25TenNhS2NyM2NrUFMtVXlzS1FqdDktX21JZ001UElZY0ZjVmxwb0NVb3B5a1FGVVRVdzdJQVlqWF9vNk1IUFhfU2xtUzE5ckM3WUdOamUtbzBMS2VrRVJPTl9walk?oc=5",
+    "resumo": "Nunes Marques reconsidera decisão e autoriza uso da frota de órgãos federais para transporte de indígenas no 2º turno  G1",
     "imagem": "https://images.unsplash.com/photo-1531206715517-5c0ba140b2b8?w=800&q=80",
     "categoria": "direitos",
     "categoria_label": "✊ Direitos & Mobilização",
     "regiao": "Nacional",
     "data_dia": "2026-10-24",
-    "hora": "Há 7h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
+    "hora": "Há 2h",
+    "tempo_leitura": "2 min de leitura",
+    "urgente": true
   }
 ]
