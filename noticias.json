@@ -1,6 +1,21 @@
 [
   {
     "id": 1,
+    "titulo": "Mega-Sena não tem ganhador e prêmio sobe para R$ 6 milhões",
+    "veiculo": "Agência Brasil",
+    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/mega-sena-nao-tem-ganhador-e-premio-sobe-para-r-6-milhoes",
+    "resumo": "Nenhum apostador acertou as seis dezenas do Concurso 3.078 da Mega-Sena, sorteado nesta quinta-feira (29). O prêmio acumulou novamente e está estimado em R$ 6 milhões par...",
+    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
+    "categoria": "geral",
+    "categoria_label": "📢 Notícias do Povo",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-29",
+    "hora": "Há 5h",
+    "tempo_leitura": "2 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 2,
     "titulo": "Petrobras anuncia 3ª descoberta de petróleo em poço na Foz do Amazonas",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/petrobras-anuncia-3a-descoberta-de-petroleo-em-poco-na-foz-do-amazonas",
@@ -10,12 +25,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Norte",
     "data_dia": "2026-10-29",
-    "hora": "Há 1h",
+    "hora": "Há 7h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 2,
+    "id": 3,
     "titulo": "Prêmio TV Brasil Petrobras Para Elas vai reconhecer melhor gestão",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-10/premio-tv-brasil-petrobras-para-elas-vai-reconhecer-melhor-gestao",
@@ -25,12 +40,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-29",
-    "hora": "Há 1h",
+    "hora": "Há 7h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 3,
+    "id": 4,
     "titulo": "FGTS mantém orçamento de R$ 144,5 bilhões para habitação em 2027",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/fgts-mantem-orcamento-de-r-1445-bilhoes-para-habitacao-em-2027",
@@ -40,12 +55,12 @@
     "categoria_label": "📈 Conquistas & Economia",
     "regiao": "Nacional",
     "data_dia": "2026-10-29",
-    "hora": "Há 2h",
+    "hora": "Há 7h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 4,
+    "id": 5,
     "titulo": "Dólar sobe 0,76% e fecha a R$ 5,39 em dia de cautela",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/dolar-sobe-076-e-fecha-r-539-em-dia-de-cautela",
@@ -55,12 +70,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-29",
-    "hora": "Há 2h",
+    "hora": "Há 7h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 5,
+    "id": 6,
     "titulo": "CMN amplia em R$ 2 bi limite de crédito a estados e municípios",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/cmn-amplia-em-r-2-bi-limite-de-credito-estados-e-municipios",
@@ -70,12 +85,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-29",
-    "hora": "Há 2h",
+    "hora": "Há 8h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 6,
+    "id": 7,
     "titulo": "EBC conquista mais R$ 23 milhões para investimento na TV 3.0 no Brasil",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/ebc-conquista-mais-r-23-milhoes-para-investimento-na-tv-30-no-brasil",
@@ -85,12 +100,12 @@
     "categoria_label": "📈 Conquistas & Economia",
     "regiao": "Nacional",
     "data_dia": "2026-10-29",
-    "hora": "Há 3h",
+    "hora": "Há 8h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
-    "id": 7,
+    "id": 8,
     "titulo": "Republicação de conteúdos após período de defeso eleitoral é concluída",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/ebc-conclui-republicacao-de-conteudos-apos-periodo-de-defeso-eleitoral",
@@ -100,23 +115,8 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-29",
-    "hora": "Há 3h",
+    "hora": "Há 9h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 8,
-    "titulo": "Temporada de cruzeiros começa na sexta com projeção de mais empregos",
-    "veiculo": "Agência Brasil",
-    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/temporada-de-cruzeiros-comeca-na-sexta-com-projecao-de-mais-empregos",
-    "resumo": "A temporada brasileira de cruzeiros turísticos 2026/2027 começa nesta sexta-feira (30), com um quarto a mais de leitos e a perspectiva de superar a marca de 72 mil empreg...",
-    "imagem": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
-    "categoria": "economia",
-    "categoria_label": "📈 Conquistas & Economia",
-    "regiao": "Nacional",
-    "data_dia": "2026-10-29",
-    "hora": "Há 3h",
-    "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
@@ -130,9 +130,9 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-29",
-    "hora": "Há 2h",
+    "hora": "Há 8h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 10,
@@ -145,9 +145,9 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-29",
-    "hora": "Há 2h",
+    "hora": "Há 8h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 11,
@@ -160,7 +160,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-29",
-    "hora": "Há 3h",
+    "hora": "Há 9h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -175,7 +175,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-29",
-    "hora": "Há 5h",
+    "hora": "Há 10h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -190,7 +190,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-29",
-    "hora": "Há 5h",
+    "hora": "Há 11h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -205,7 +205,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-29",
-    "hora": "Há 5h",
+    "hora": "Há 11h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -280,7 +280,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-29",
-    "hora": "Há 3h",
+    "hora": "Há 9h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -295,7 +295,7 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-10-29",
-    "hora": "Há 3h",
+    "hora": "Há 9h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -310,7 +310,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-29",
-    "hora": "Há 4h",
+    "hora": "Há 9h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -325,7 +325,7 @@
     "categoria_label": "📈 Conquistas & Economia",
     "regiao": "Nordeste",
     "data_dia": "2026-10-29",
-    "hora": "Há 4h",
+    "hora": "Há 9h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -340,7 +340,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Sudeste",
     "data_dia": "2026-10-29",
-    "hora": "Há 4h",
+    "hora": "Há 10h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -355,7 +355,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-29",
-    "hora": "Há 5h",
+    "hora": "Há 10h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -370,7 +370,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-29",
-    "hora": "Há 5h",
+    "hora": "Há 11h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -385,7 +385,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-29",
-    "hora": "Há 6h",
+    "hora": "Há 12h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -400,27 +400,12 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-10-29",
-    "hora": "Há 5h",
+    "hora": "Há 11h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
     "id": 28,
-    "titulo": "Instituto prevê impacto fiscal de R$ 40 bilhões com medidas de Lula",
-    "veiculo": "Agência Brasil",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSjNFR2NSdk1MWVdrM1dSN1IzQjVfcHJ6UnJ1SXNZTlVzZGt1OFU1RmV1YmRvb2d5V2NqSHM3STRqWG9aZGxkN2xGT0Z4bGxydl9sV2I3OVZKRVpjZ2JNYUR3S3ZmY2hjeElwRFdPX0ViRWpKM04yenFqWE52TlhTeWh5TzEzMjZmQnpmdmY5TjhBblNvaWZnS2VqM3QyR1dPS3QtUjFZSTIydG1tOWVmdFBCYWNyeW5NdzZaRFdzSVhVdw?oc=5",
-    "resumo": "Instituto prevê impacto fiscal de R$ 40 bilhões com medidas de Lula  Agência Brasil",
-    "imagem": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
-    "categoria": "economia",
-    "categoria_label": "📈 Conquistas & Economia",
-    "regiao": "Nacional",
-    "data_dia": "2026-10-29",
-    "hora": "Há 5h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 29,
     "titulo": "Alexandre Padilha deve permanecer no Ministério da Saúde",
     "veiculo": "JOTA Info",
     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRS1EVXRKTFMzLUZwZm91cWE1NFR0WHRhSDhDaW1KVk9MWWRvczBVczJId1UzTVE0elVFXzBLRHB1ZHhZRFZDMkR1dVY5QkxyREd2T2RFaE1rbFkzdDljMGRaemRwRGNHV1Rza05VRzFaZjVVRG8zWnN5UGZUZzdVZEZVM0hGZWI1UWs5WQ?oc=5",
@@ -430,9 +415,24 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-10-29",
-    "hora": "Há 2h",
+    "hora": "Há 7h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
+  },
+  {
+    "id": 29,
+    "titulo": "Instituto prevê impacto fiscal de R$ 40 bilhões com medidas de Lula",
+    "veiculo": "Agência Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSjNFR2NSdk1MWVdrM1dSN1IzQjVfcHJ6UnJ1SXNZTlVzZGt1OFU1RmV1YmRvb2d5V2NqSHM3STRqWG9aZGxkN2xGT0Z4bGxydl9sV2I3OVZKRVpjZ2JNYUR3S3ZmY2hjeElwRFdPX0ViRWpKM04yenFqWE52TlhTeWh5TzEzMjZmQnpmdmY5TjhBblNvaWZnS2VqM3QyR1dPS3QtUjFZSTIydG1tOWVmdFBCYWNyeW5NdzZaRFdzSVhVdw?oc=5",
+    "resumo": "Instituto prevê impacto fiscal de R$ 40 bilhões com medidas de Lula  Agência Brasil",
+    "imagem": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
+    "categoria": "economia",
+    "categoria_label": "📈 Conquistas & Economia",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-29",
+    "hora": "Há 11h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
   },
   {
     "id": 30,
@@ -445,7 +445,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-29",
-    "hora": "Há 6h",
+    "hora": "Há 11h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -460,7 +460,7 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-10-29",
-    "hora": "Há 6h",
+    "hora": "Há 11h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -475,7 +475,7 @@
     "categoria_label": "📈 Conquistas & Economia",
     "regiao": "Nacional",
     "data_dia": "2026-10-29",
-    "hora": "Há 5h",
+    "hora": "Há 11h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -490,7 +490,7 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-10-29",
-    "hora": "Há 7h",
+    "hora": "Há 13h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -505,27 +505,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-29",
-    "hora": "Há 6h",
+    "hora": "Há 11h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
     "id": 35,
-    "titulo": "SUS amplia acesso à mamografia e ao tratamento do câncer de mama — Ministério da Saúde",
-    "veiculo": "Governo Federal",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQa0JrWnpFRnBfMjNmVnpwcFU1XzdXbDZSQWNtbjJHVzRYTTUzSlo0ZFRCbV96VVRlNHhpV0RzeVlEbnlRVE1NYmN6U2l1RkVsa3JLdlJyY0FjNHUzTVBtbXdwaDE5eWxibFdLS2xUdWFIMzVrTk83UVE2VENwWEZPekdnRGxYYkFBeXJtUlNrRERJUDZJS01XWFZGZlh2aVRieWdiUHE0SjJwVzdIQlhuS05MTzBxZUxvMEdQcmVwNFpobGJU?oc=5",
-    "resumo": "SUS amplia acesso à mamografia e ao tratamento do câncer de mama — Ministério da Saúde  Governo Federal",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
-    "regiao": "Nacional",
-    "data_dia": "2026-10-29",
-    "hora": "Há 10h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 36,
     "titulo": "Conselho Curador do FGTS aprova orçamento de R$ 169 bilhões para investimentos em 2027",
     "veiculo": "Governo Federal",
     "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPY2dfOTlWMUZWVEpDTHFZMGVhZmpXNXZNOFVQaXFoalUtMnZ4RjRvUDRfTU9nRF92NGR2R0pWaU5ZZzJQUjRmUlZsSmlUd3BIOWIxNWZRWnp1ZjZxTjNqQ2R0bWxBRkJBeFlPNm1jT2VHMVZHVzd3Vm5tWVB1VUpyOWpQM0cyNHB5UnVSSk5MSGJiVmJaQlo1Xy03aEhxQzBWamw0VUkwb1hybW4xSmo2VDhBM2JMeWprZmJRSUxqYVJMVHZuYTFWWkljZDhKUl82d25nbVB0RWNQMmhPOVlST2dWcHN3OFMtMjBWQjdZaU5tblBa?oc=5",
@@ -535,7 +520,22 @@
     "categoria_label": "📈 Conquistas & Economia",
     "regiao": "Nacional",
     "data_dia": "2026-10-29",
-    "hora": "Há 4h",
+    "hora": "Há 9h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 36,
+    "titulo": "SUS amplia acesso à mamografia e ao tratamento do câncer de mama — Ministério da Saúde",
+    "veiculo": "Governo Federal",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQa0JrWnpFRnBfMjNmVnpwcFU1XzdXbDZSQWNtbjJHVzRYTTUzSlo0ZFRCbV96VVRlNHhpV0RzeVlEbnlRVE1NYmN6U2l1RkVsa3JLdlJyY0FjNHUzTVBtbXdwaDE5eWxibFdLS2xUdWFIMzVrTk83UVE2VENwWEZPekdnRGxYYkFBeXJtUlNrRERJUDZJS01XWFZGZlh2aVRieWdiUHE0SjJwVzdIQlhuS05MTzBxZUxvMEdQcmVwNFpobGJU?oc=5",
+    "resumo": "SUS amplia acesso à mamografia e ao tratamento do câncer de mama — Ministério da Saúde  Governo Federal",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-29",
+    "hora": "Há 16h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -550,7 +550,7 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-10-29",
-    "hora": "Há 9h",
+    "hora": "Há 15h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -601,16 +601,16 @@
   },
   {
     "id": 41,
-    "titulo": "Para aliados, Flávio esvazia liderança política ao apresentar dupla personalidade: moderado na campanha e extremista em carta",
-    "veiculo": "G1",
-    "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNZGNnMVhXN3pnRnJaamhwQ2VwOU52TlJLemNFN2tyRDJ3cXNlWFBrdkRRSHNPeHo3X2F2REZMTlNBSFZERGNLTFNkMkVueWREOFM1cld1LVZ2NnI1SDRuS3NZNll0Vk5CSFo1VWg4Q3A4aGs4MmthQWgwckVqYTV3TldfZWt2c3VpV0dIUVhVMnpZLVA1SzYyNFl6WTdWMHhXNXlBOW1rRWZVVzBOM0lhZWdZOXVyblE5V3JlN2w4NTZic3RlRHhMbHZvcnI2em8wRkZPYlJkYWh0b2Rjd1hzMHZKZ052NjZ0UlZzZ0pDSjZ2Zl9pSmNpUG10TlJ5YVh6cDFrdWp6VnptRm8wVERabVRqa1ItVjJkbnRwWmZCdmlKLUnSAbICQVVfeXFMTlVNOVp1SEVjQV9BY2RTallPMmoybG5CeXBmQnJycnp5MDdFamFJejc5ZWlNNjVwbTl3NXhrcG5obFV1N0NuSVVlMDFFcGduNmJHWWljY2lpeEJZQTZOT1A0WGZIaGZMaFM4SVUtdnVFdTI4ZUVrVWRldkNLbXdSb1ppWXFIQmtaZnVDU3c2UW1naEJmS09qWmhhb2ZTNmsyZlRJcmpDVUFvY2ZjMjdVUGdTY1RBbDdoYlBXTW02M0pjRUdHaEVaeDFVbFRGUTVsMXplYTI5T0ZWMDBWUHdMMDFvTEYwSVZnRU5xMGVYT3Q3Ykt5SUNzVFhXVGU1dnhhVnVPemw4clhyNVhPblBZNEFpQ3MyQUViZjYySk52V3MxVVdDelhRVGpSRVBkemsxUGd3?oc=5",
-    "resumo": "Para aliados, Flávio esvazia liderança política ao apresentar dupla personalidade: moderado na campanha e extremista em carta  G1",
-    "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
-    "categoria": "eleicoes",
-    "categoria_label": "🗳️ Eleições & Campanhas",
-    "regiao": "Nacional",
+    "titulo": "Posição de Trump sobre resultado eleitoral no Brasil exige atenção, diz PT",
+    "veiculo": "CartaCapital",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaEF2UHpwVF90TnFxSmhDTzkwaDQ0R2UtdGtkeFZTcmRzd2xweEEzMFBWUGsyQ1hCd3pYV2dobGJPODE2d1FkY29vWEV5Q1VydzFEZU0tS2N6bmZTRENfVVZvLUpGYnFLSzNsZWdETVV1Q0pUcUZNeERGeTFfcVRUZjZqT1ZRUm1peWJXcUFfQzYtcVNNSUY5MTdQQXZKQVNNZm9RR05tRk5DZkM3MnVPM0MyS1VnZw?oc=5",
+    "resumo": "Posição de Trump sobre resultado eleitoral no Brasil exige atenção, diz PT  CartaCapital",
+    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
+    "categoria": "geral",
+    "categoria_label": "📢 Notícias do Povo",
+    "regiao": "Sul",
     "data_dia": "2026-10-29",
-    "hora": "Há 4h",
+    "hora": "Há 6h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -625,7 +625,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-29",
-    "hora": "Há 6h",
+    "hora": "Há 11h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   }
