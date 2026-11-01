@@ -1,6 +1,21 @@
 [
   {
     "id": 1,
+    "titulo": "MTE recebe 4,3 mil denúncias de assédio eleitoral em três dias",
+    "veiculo": "Agência Brasil",
+    "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/mte-recebe-43-mil-denuncias-de-assedio-eleitoral-em-tres-dias",
+    "resumo": "O Ministério do Trabalho e Emprego (MTE) recebeu aproximadamente 4,3 mil denúncias de assédio eleitoral no ambiente de trabalho apenas nos três primeiros dias de funciona...",
+    "imagem": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
+    "categoria": "economia",
+    "categoria_label": "📈 Conquistas & Economia",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-31",
+    "hora": "Há 2h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": true
+  },
+  {
+    "id": 2,
     "titulo": "Aldeias Guarani Kaiowá vão receber proteção da Força Nacional",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-10/aldeias-guarani-kaiowa-vao-receber-protecao-da-forca-nacional",
@@ -10,12 +25,12 @@
     "categoria_label": "✊ Direitos & Mobilização",
     "regiao": "Sul",
     "data_dia": "2026-10-31",
-    "hora": "Há 50 min",
+    "hora": "Há 3h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 2,
+    "id": 3,
     "titulo": "Brasil avança às quartas da AmeriCup no basquete masculino 3x3",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-10/brasil-avanca-quartas-da-americup-no-basquete-masculino-3x3",
@@ -25,12 +40,12 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-31",
-    "hora": "Há 1h",
+    "hora": "Há 4h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 3,
+    "id": 4,
     "titulo": "Protestos da Geração Z chegam à Alemanha; milhares se manifestam",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-10/protestos-da-geracao-z-chegam-alemanha-milhares-se-manifestam",
@@ -40,12 +55,12 @@
     "categoria_label": "✊ Direitos & Mobilização",
     "regiao": "Nacional",
     "data_dia": "2026-10-31",
-    "hora": "Há 1h",
+    "hora": "Há 4h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 4,
+    "id": 5,
     "titulo": "Aluno é ameaçado de morte no DF por opção política",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/aluno-e-ameacado-de-morte-no-df-por-opcao-politica",
@@ -55,12 +70,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-31",
-    "hora": "Há 2h",
+    "hora": "Há 5h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 5,
+    "id": 6,
     "titulo": "Corinthians encerra jejum com vitória sobre o Mirassol: 2 a 0",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-10/corinthians-encerra-jejum-com-vitoria-sobre-o-mirassol-2-0",
@@ -70,12 +85,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-31",
-    "hora": "Há 2h",
+    "hora": "Há 5h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 6,
+    "id": 7,
     "titulo": "Estudo mostra necessidade de proteger soja para evitar perdas",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/estudo-mostra-necessidade-de-proteger-soja-para-evitar-perdas",
@@ -85,12 +100,12 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-10-31",
-    "hora": "Há 2h",
+    "hora": "Há 5h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 7,
+    "id": 8,
     "titulo": "Incêndio na APA Alter do Chão (PA) foi controlado, diz prefeitura",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-10/incendio-na-apa-alter-do-chao-pa-foi-controlado-diz-prefeitura",
@@ -100,12 +115,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Norte",
     "data_dia": "2026-10-31",
-    "hora": "Há 2h",
+    "hora": "Há 5h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 8,
+    "id": 9,
     "titulo": "STF determina soltura de desembargador preso na Operação Unha e Carne",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/stf-determina-soltura-de-desembargador-preso-na-operacao-unha-e-carne",
@@ -115,12 +130,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-31",
-    "hora": "Há 2h",
+    "hora": "Há 5h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 9,
+    "id": 10,
     "titulo": "Estudantes relatam violência relacionada à eleição presidencial",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/estudantes-relatam-violencia-relacionada-eleicao-presidencial",
@@ -130,22 +145,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-31",
-    "hora": "Há 3h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 10,
-    "titulo": "Ação Popular pede suspensão de salário do senador Flávio Bolsonaro",
-    "veiculo": "Agência Brasil",
-    "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/acao-popular-pede-suspensao-de-salario-do-senador-flavio-bolsonaro",
-    "resumo": "Dois advogados entraram, na sexta-feira (31), com uma ação popular para pedir que sejam interrompidos os pagamentos de subsídios e verbas públicas ao senador Flávio Bolso...",
-    "imagem": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
-    "categoria": "economia",
-    "categoria_label": "📈 Conquistas & Economia",
-    "regiao": "Nacional",
-    "data_dia": "2026-10-31",
-    "hora": "Há 3h",
+    "hora": "Há 6h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -160,7 +160,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-30",
-    "hora": "Há 23h",
+    "hora": "30/10 18:40",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -310,7 +310,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-31",
-    "hora": "Há 4h",
+    "hora": "Há 7h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -325,7 +325,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-31",
-    "hora": "Há 5h",
+    "hora": "Há 8h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -340,7 +340,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-31",
-    "hora": "Há 7h",
+    "hora": "Há 10h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -437,16 +437,16 @@
   {
     "id": 30,
     "titulo": "Teste para detecção precoce do câncer do colo do útero já está disponível em 26 estados do país",
-    "veiculo": "Governo Federal",
+    "veiculo": "GOV.BR",
     "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPNTdzWm8zU3plcm5YUzRVQVpnVWtLRjZxLVpsN0JzaDh0am1wSE1jZHFlUE9Bc0NiekZETUFadEMzbEhHcEhzNjJHbHdMQUhBY3RTWGF2MFZqNk1qYXFhZHZQVTBSUVEzYWkxYlU5MUNOdUVJaWwyM1NiY3VYQUpuR3MxbzRjOFJVTVp2U21QYkNJTFlDSlhwWmsxRk91TW1oM3FkUllJMHJiZ2ZnaHVaNDloeDdTaFRjMkFiNkFmd0x4Rm9yNG9YUGFjSE1Wakx6bU1EUUkwSDV4WjFzeWVQR2FFZjcweV9aWDA1cjhB?oc=5",
-    "resumo": "Teste para detecção precoce do câncer do colo do útero já está disponível em 26 estados do país  Governo Federal",
+    "resumo": "Teste para detecção precoce do câncer do colo do útero já está disponível em 26 estados do país  GOV.BR",
     "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
     "categoria": "geral",
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-28",
     "hora": "28/10 15:59",
-    "tempo_leitura": "2 min de leitura",
+    "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
@@ -460,7 +460,7 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-10-31",
-    "hora": "Há 9h",
+    "hora": "Há 12h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -475,7 +475,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-31",
-    "hora": "Há 7h",
+    "hora": "Há 10h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -490,7 +490,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-31",
-    "hora": "Há 12h",
+    "hora": "Há 15h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -526,16 +526,16 @@
   },
   {
     "id": 36,
-    "titulo": "Padilha diz estar à disposição de Lula para continuar no Ministério da Saúde",
-    "veiculo": "viva.com.br",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUHNCemxueFRjVUt3SWowcEpaS01BUkJHZmplOE5FbV9XMkE3LWU4d1Qxc3pTRUg4UmVodEFFcUtKUVltT0o4akpMNldBdnVXN29WcVRhaEZOQjRHS1lfTGpZQ1dod1FWQlZYY1ltVmpSRHhja1gtWjM4dXhZNUE1cXU5eTNZeWdmTzhycG5wcGJhdUlESzFlTjdYY1MzNHpFaHhzOVdkMDNZVDE1TVhWN2NTRVlkakdBZnZxTw?oc=5",
-    "resumo": "Padilha diz estar à disposição de Lula para continuar no Ministério da Saúde  viva.com.br",
+    "titulo": "Novas regras do Ministério da Saúde aumentam possibilidades de doação",
+    "veiculo": "Agência Brasil",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWkF6OXZDZVNqd09Td3BGcktSZzlSLUg0bFZHVVhic2lpVXRNXzFRcDdUX1dPYVBtXzZOZ2VQdWg0WDFsTUxONUtxcnY2d05Lc0RfQ3RZMkg1cnFIVjNpaUh3cS0wYVlxUUJrU25HZkw5cEw2Q0lVQTZLaGF4YzNERzJvcGtZMUxhakladGk5UVN6TzhQZmVId2IxaXBvbS03YURIUGdVNmNka0RyQUxxbnRBZGE2aUVtUENQSFBsSnItODZLVXM0ckt3ZHNmOF9mNk01X3NFaFdSLXZF?oc=5",
+    "resumo": "Novas regras do Ministério da Saúde aumentam possibilidades de doação  Agência Brasil",
     "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
     "categoria": "social",
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
-    "data_dia": "2026-10-31",
-    "hora": "Há 6h",
+    "data_dia": "2026-10-30",
+    "hora": "30/10 12:01",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -572,9 +572,9 @@
   {
     "id": 39,
     "titulo": "SUS amplia acesso à mamografia e ao tratamento do câncer de mama — Ministério da Saúde",
-    "veiculo": "Governo Federal",
+    "veiculo": "GOV.BR",
     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQa0JrWnpFRnBfMjNmVnpwcFU1XzdXbDZSQWNtbjJHVzRYTTUzSlo0ZFRCbV96VVRlNHhpV0RzeVlEbnlRVE1NYmN6U2l1RkVsa3JLdlJyY0FjNHUzTVBtbXdwaDE5eWxibFdLS2xUdWFIMzVrTk83UVE2VENwWEZPekdnRGxYYkFBeXJtUlNrRERJUDZJS01XWFZGZlh2aVRieWdiUHE0SjJwVzdIQlhuS05MTzBxZUxvMEdQcmVwNFpobGJU?oc=5",
-    "resumo": "SUS amplia acesso à mamografia e ao tratamento do câncer de mama — Ministério da Saúde  Governo Federal",
+    "resumo": "SUS amplia acesso à mamografia e ao tratamento do câncer de mama — Ministério da Saúde  GOV.BR",
     "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
     "categoria": "social",
     "categoria_label": "🏛️ Políticas Públicas",
@@ -601,17 +601,17 @@
   },
   {
     "id": 41,
-    "titulo": "Após apoiadores de Flávio Bolsonaro (PL) divulgarem listas de estabelecimentos supostamente ligados à esquerda para incentivar consumidores a deixar de frequentá-los, usuários das redes sociais passaram a compartilhar nomes de bares, restaurantes e",
-    "veiculo": "Instagram",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEalJadm1LWWlEdXU5Vk1BMzJYWFJ0MVhGZlJTQWRrU3dqYjBpTzVCSHVZZFI3WGFCVUtQelhrOVJOTmY4UkxYWk9UU1dRTDlFRXc?oc=5",
-    "resumo": "Após apoiadores de Flávio Bolsonaro (PL) divulgarem listas de estabelecimentos supostamente ligados à esquerda para incentivar consumidores a deixar de frequentá-los, usu...",
-    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
-    "categoria": "geral",
-    "categoria_label": "📢 Notícias do Povo",
+    "titulo": "Entenda como funcionam as eleições de meio de mandato nos Estados Unidos",
+    "veiculo": "Brasil de Fato",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPX2JKekdnb1Q5d29fOGVlMHd5YVlqR0NnU0JJcG9YbkY1RkxfNjJLX05HLWV1aU1NYjRkZVZuWUk0UFBXa1BELWNidHlHajhTTzVNaWItRS1LYml0XzNnWW12OThpM0xKV0tsdFRKUDNOVjB0YTRIZ2laWktnQms0Y0Z6T1pGLVpNR2xIeTBSN0FsMDI3SzJ3TDZHNkl0MzY0aWZpZzVmSjdueGJwR3NNeVFhTkZNT28?oc=5",
+    "resumo": "Entenda como funcionam as eleições de meio de mandato nos Estados Unidos  Brasil de Fato",
+    "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
+    "categoria": "eleicoes",
+    "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-10-31",
-    "hora": "Há 11h",
-    "tempo_leitura": "2 min de leitura",
+    "hora": "Há 15h",
+    "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
@@ -625,7 +625,7 @@
     "categoria_label": "✊ Direitos & Mobilização",
     "regiao": "Nacional",
     "data_dia": "2026-10-31",
-    "hora": "Há 3h",
+    "hora": "Há 5h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   }
