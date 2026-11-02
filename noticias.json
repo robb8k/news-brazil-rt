@@ -10,9 +10,9 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-01",
-    "hora": "Há 1h",
+    "hora": "Há 4h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 2,
@@ -25,9 +25,9 @@
     "categoria_label": "✊ Direitos & Mobilização",
     "regiao": "Nacional",
     "data_dia": "2026-11-01",
-    "hora": "Há 2h",
+    "hora": "Há 5h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 3,
@@ -40,7 +40,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-01",
-    "hora": "Há 3h",
+    "hora": "Há 6h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -55,7 +55,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-01",
-    "hora": "Há 3h",
+    "hora": "Há 7h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -70,7 +70,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-01",
-    "hora": "Há 4h",
+    "hora": "Há 7h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -85,7 +85,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-01",
-    "hora": "Há 4h",
+    "hora": "Há 7h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -100,7 +100,7 @@
     "categoria_label": "✊ Direitos & Mobilização",
     "regiao": "Sudeste",
     "data_dia": "2026-11-01",
-    "hora": "Há 5h",
+    "hora": "Há 8h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -115,7 +115,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-01",
-    "hora": "Há 6h",
+    "hora": "Há 9h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -130,7 +130,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-01",
-    "hora": "Há 6h",
+    "hora": "Há 9h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -286,6 +286,21 @@
   },
   {
     "id": 20,
+    "titulo": "Das urnas às ruas, juventude mobiliza o Brasil pela democracia e soberania",
+    "veiculo": "Vermelho",
+    "link": "https://vermelho.org.br/2026/11/01/das-urnas-as-ruas-juventude-mobiliza-o-brasil-pela-democracia-e-soberania/?utm_source=rss&utm_medium=rss&utm_campaign=das-urnas-as-ruas-juventude-mobiliza-o-brasil-pela-democracia-e-soberania",
+    "resumo": "Atos da UNE e Ubes celebram a vitória de Lula, denunciam a violência contra os povos indígenas e reafirmam a mobilização popular em defesa dos direitos sociais.\nO post Da...",
+    "imagem": "https://vermelho.org.br/wp-content/uploads/2026/11/Ubes-manifestacao-01-de-novembro-na-roosevel-1024x683.jpg",
+    "categoria": "direitos",
+    "categoria_label": "✊ Direitos & Mobilização",
+    "regiao": "Nacional",
+    "data_dia": "2026-11-01",
+    "hora": "Há 2h",
+    "tempo_leitura": "2 min de leitura",
+    "urgente": true
+  },
+  {
+    "id": 21,
     "titulo": "MEC aciona PF contra violência política nas universidades federais",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/11/01/mec-aciona-pf-contra-violencia-politica-nas-universidades-federais/?utm_source=rss&utm_medium=rss&utm_campaign=mec-aciona-pf-contra-violencia-politica-nas-universidades-federais",
@@ -295,12 +310,12 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-11-01",
-    "hora": "Há 3h",
+    "hora": "Há 6h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 21,
+    "id": 22,
     "titulo": "Luciana Santos destaca ações de Lula para conter fuga de cientistas",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/11/01/luciana-santos-destaca-acoes-de-lula-para-conter-fuga-de-cientistas/?utm_source=rss&utm_medium=rss&utm_campaign=luciana-santos-destaca-acoes-de-lula-para-conter-fuga-de-cientistas",
@@ -310,12 +325,12 @@
     "categoria_label": "📈 Conquistas & Economia",
     "regiao": "Nacional",
     "data_dia": "2026-11-01",
-    "hora": "Há 5h",
+    "hora": "Há 8h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 22,
+    "id": 23,
     "titulo": "O mercado foi derrotado. As ruas venceram",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/11/01/o-mercado-foi-derrotado-as-ruas-venceram/?utm_source=rss&utm_medium=rss&utm_campaign=o-mercado-foi-derrotado-as-ruas-venceram",
@@ -325,12 +340,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-01",
-    "hora": "Há 8h",
+    "hora": "Há 11h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 23,
+    "id": 24,
     "titulo": "É tempo de ocupar tudo!",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/11/01/e-tempo-de-ocupar-tudo/?utm_source=rss&utm_medium=rss&utm_campaign=e-tempo-de-ocupar-tudo",
@@ -340,12 +355,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-01",
-    "hora": "Há 8h",
+    "hora": "Há 11h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 24,
+    "id": 25,
     "titulo": "Juventude volta às ruas pelo “Brasil com S” contra o golpismo",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/11/01/juventude-volta-as-ruas-pelo-brasil-com-s-contra-o-golpismo/?utm_source=rss&utm_medium=rss&utm_campaign=juventude-volta-as-ruas-pelo-brasil-com-s-contra-o-golpismo",
@@ -355,12 +370,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-01",
-    "hora": "Há 9h",
+    "hora": "Há 12h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
-    "id": 25,
+    "id": 26,
     "titulo": "Promessa acaba na urna e governadores aprovam aumento do ICMS",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/10/31/promessa-acaba-na-urna-e-governadores-aprovam-aumento-do-icms/?utm_source=rss&utm_medium=rss&utm_campaign=promessa-acaba-na-urna-e-governadores-aprovam-aumento-do-icms",
@@ -375,7 +390,7 @@
     "urgente": false
   },
   {
-    "id": 26,
+    "id": 27,
     "titulo": "Vitória de Lula é reconhecida por 107 países e isola discurso bolsonarista",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/10/31/vitoria-de-lula-e-reconhecida-por-107-paises-e-isola-discurso-bolsonarista/?utm_source=rss&utm_medium=rss&utm_campaign=vitoria-de-lula-e-reconhecida-por-107-paises-e-isola-discurso-bolsonarista",
@@ -390,7 +405,7 @@
     "urgente": false
   },
   {
-    "id": 27,
+    "id": 28,
     "titulo": "Derrota de Trump nos EUA pode deixar Flávio Bolsonaro sem proteção",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/10/31/derrota-de-trump-nos-eua-pode-deixar-flavio-bolsonaro-sem-protecao/?utm_source=rss&utm_medium=rss&utm_campaign=derrota-de-trump-nos-eua-pode-deixar-flavio-bolsonaro-sem-protecao",
@@ -405,33 +420,18 @@
     "urgente": false
   },
   {
-    "id": 28,
-    "titulo": "Ex-presidente da Ubes revela como estudantes de Niterói iniciaram a virada",
-    "veiculo": "Vermelho",
-    "link": "https://vermelho.org.br/2026/10/30/ex-presidente-da-ubes-revela-como-estudantes-de-niteroi-iniciaram-a-virada/?utm_source=rss&utm_medium=rss&utm_campaign=ex-presidente-da-ubes-revela-como-estudantes-de-niteroi-iniciaram-a-virada",
-    "resumo": "Em entrevista ao Portal Vermelho, Hugo Silva conta como começou a mobilização que encantou os brasileiros. Depois de presidir a União Brasileira de Estudantes Secundarist...",
-    "imagem": "https://vermelho.org.br/wp-content/uploads/2026/10/Estudantes-Niteroi.jpg",
-    "categoria": "geral",
-    "categoria_label": "📢 Notícias do Povo",
-    "regiao": "Nacional",
-    "data_dia": "2026-10-30",
-    "hora": "30/10 17:42",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
     "id": 29,
     "titulo": "Teste para detecção precoce do câncer do colo do útero já está disponível em 26 estados do país",
-    "veiculo": "GOV.BR",
+    "veiculo": "Governo Federal",
     "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPNTdzWm8zU3plcm5YUzRVQVpnVWtLRjZxLVpsN0JzaDh0am1wSE1jZHFlUE9Bc0NiekZETUFadEMzbEhHcEhzNjJHbHdMQUhBY3RTWGF2MFZqNk1qYXFhZHZQVTBSUVEzYWkxYlU5MUNOdUVJaWwyM1NiY3VYQUpuR3MxbzRjOFJVTVp2U21QYkNJTFlDSlhwWmsxRk91TW1oM3FkUllJMHJiZ2ZnaHVaNDloeDdTaFRjMkFiNkFmd0x4Rm9yNG9YUGFjSE1Wakx6bU1EUUkwSDV4WjFzeWVQR2FFZjcweV9aWDA1cjhB?oc=5",
-    "resumo": "Teste para detecção precoce do câncer do colo do útero já está disponível em 26 estados do país  GOV.BR",
+    "resumo": "Teste para detecção precoce do câncer do colo do útero já está disponível em 26 estados do país  Governo Federal",
     "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
     "categoria": "geral",
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-10-28",
     "hora": "28/10 15:59",
-    "tempo_leitura": "1 min de leitura",
+    "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
@@ -445,27 +445,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-01",
-    "hora": "Há 13h",
+    "hora": "Há 16h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
     "id": 31,
-    "titulo": "Alexandre Padilha deve permanecer no Ministério da Saúde",
-    "veiculo": "JOTA Info",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRS1EVXRKTFMzLUZwZm91cWE1NFR0WHRhSDhDaW1KVk9MWWRvczBVczJId1UzTVE0elVFXzBLRHB1ZHhZRFZDMkR1dVY5QkxyREd2T2RFaE1rbFkzdDljMGRaemRwRGNHV1Rza05VRzFaZjVVRG8zWnN5UGZUZzdVZEZVM0hGZWI1UWs5WQ?oc=5",
-    "resumo": "Alexandre Padilha deve permanecer no Ministério da Saúde  JOTA Info",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
-    "regiao": "Nacional",
-    "data_dia": "2026-10-29",
-    "hora": "29/10 19:37",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 32,
     "titulo": "MTE recebe 4,3 mil denúncias de assédio eleitoral em três dias",
     "veiculo": "Agência Brasil",
     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY2dmUl9uTTU5OURCZFVUNlVZS3hBcDFCdFB2Yk04QUMyY1VZWE1MTmRyMlk1UjJKMFBaVGM3U3hBaGVSVUs5TFRvTjF4cmh6SnQ1Uk0zbl9yVkpZbzFrM2x0ZmFrTENCLTRxdk0xLXpBNXBLc3JpMnhMbEpiR1d4cXBjdUp3Wk9yODZNOE1keEZFVVJ4MDZqZ19SV29rcElyX21QUTJXVlVpRU1MSm13Skc3OXdRWlJMWWxB?oc=5",
@@ -476,6 +461,21 @@
     "regiao": "Nacional",
     "data_dia": "2026-10-31",
     "hora": "31/10 18:24",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 32,
+    "titulo": "Alexandre Padilha deve permanecer no Ministério da Saúde",
+    "veiculo": "JOTA Info",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRS1EVXRKTFMzLUZwZm91cWE1NFR0WHRhSDhDaW1KVk9MWWRvczBVczJId1UzTVE0elVFXzBLRHB1ZHhZRFZDMkR1dVY5QkxyREd2T2RFaE1rbFkzdDljMGRaemRwRGNHV1Rza05VRzFaZjVVRG8zWnN5UGZUZzdVZEZVM0hGZWI1UWs5WQ?oc=5",
+    "resumo": "Alexandre Padilha deve permanecer no Ministério da Saúde  JOTA Info",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-29",
+    "hora": "29/10 19:37",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -496,21 +496,6 @@
   },
   {
     "id": 34,
-    "titulo": "Fux inclui Ministério da Saúde e da Justiça em audiência do STF sobre bets",
-    "veiculo": "Metrópoles",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUHRISzJtWDhheFppSXkyaTQ4aVd1WlVjRXNUZ1RIQWdtTTdBaVVreXFDYVRaMXlHdllxQzduVzA4X2wyWjRxTlJDTWFKTnFqZmd0cUp5bDdKTDlxTEFQT3kxOHJPd1ZXOHRrbGRMX0VkdWp3SjZneE5GUDl1ckNnNk1QOGQ0ajByUy1zMWF6Nm5DZkhrX25pbkI5bkU2NUVEelhEUWJqUzMxVXRtS1pQTHJtMXpURmNzZVdOV1A5aGhDZU5WSHc?oc=5",
-    "resumo": "Fux inclui Ministério da Saúde e da Justiça em audiência do STF sobre bets  Metrópoles",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
-    "regiao": "Nacional",
-    "data_dia": "2026-11-01",
-    "hora": "Há 4h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 35,
     "titulo": "Lula não anunciou corte bilionário em Saúde e Educação; notícia é de 2024",
     "veiculo": "UOL Notícias",
     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZktFWDhDM1NUSnVVVFFBamhHSmZBUFpNeWMtTkVFS29XTlBLN3NvMllHeldRdXVsOFFQZjBLQVktQ1VMS05GSk54SnFOZDZqRVlwT095bzM3eld3cVhRT1dlMEhLb18zelNiU1VsVUhTdXhjOVItUmFKOFpkSzZQNjROQnBOY0MxY1ZiUFZ5M1BXVUU5MHJ6OEZaX1ZrTnBjamw5WkdUYTZKYUN4QkhBOHpYX0tsWTlyeHBINDdrYng4ekU4M0dEeUROXzNRdzEyOVdWeEZpb3dmUUE?oc=5",
@@ -525,7 +510,37 @@
     "urgente": false
   },
   {
+    "id": 35,
+    "titulo": "É #FAKE que Lula anunciou corte de R$ 6 bilhões na Saúde e na Educação após eleição de 2026; vídeo foi exibido no ano retrasado",
+    "veiculo": "G1",
+    "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPZl9ld3gyYWh4VElTZnZ0clRjWDRRdVQ4X3NOQXlnYWtwNjc1WG1Hd053ZzV0V1J0bDB5UHc0NzdKZkowRG1CajhLRlpwLWZzR2kwMzJaYTVGcmx4VEVWeVV2bzlUalFRRldKcjhnaEZ5eUpyZ0tOV1lSVjl6dzI3ODNaUWgxdXdENVl5RlFPZEw2djhsZUFMeDF0YXFISEdWVVJROFBSX2xldmk4djdaU2lOWFN5bUIyc2Jib0lwSFU5R3RiT1k5MFdXbUJfZ0dtNlpHSVBDd2JDMmJKTFVMNGRQbTZYXzI0eWNic2xPQS1DbzFxeWtkWDVhTzBjZ2xOQkNqLWVyNERQaVI1akhBTdIBnwJBVV95cUxOa3RxUmRkazNkUW1BTEtLZl9uU3B6dUVpQkFxbDZDamlRb3c1dGN3QVQ5U09kT2NaemZjbnRraFhDYzhpc2ZuZlVIVTVvQWtHUmgxZ2pmZnZFNW9xc1N0Sk5fQjZOOEhjaWdncEoydGFkUDRNY1p3akpKNHZkVDQ0S1N4WTNEMEhuSG56YlNvUTlCQUU5TlhQWl96VldnZUZBVTUwZnZ3TnptSktEN3BGRFRTNDFrSGdHQlRLLVZxQ00zVU1sVm1MMXYyVGUyYVpTVVRTNHE3b2tCOTN1UlV5Ym43LXpFcjk2ZUc4TThaMEJvUWtwRTNDVXFmSHBVMTlzZlpQeWhSWjhsQTVjYmQ3UmQzcUdicFV0dzJ6ckVGWQ?oc=5",
+    "resumo": "É #FAKE que Lula anunciou corte de R$ 6 bilhões na Saúde e na Educação após eleição de 2026; vídeo foi exibido no ano retrasado  G1",
+    "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
+    "categoria": "eleicoes",
+    "categoria_label": "🗳️ Eleições & Campanhas",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-30",
+    "hora": "30/10 18:33",
+    "tempo_leitura": "2 min de leitura",
+    "urgente": false
+  },
+  {
     "id": 36,
+    "titulo": "Fux inclui Ministério da Saúde e da Justiça em audiência do STF sobre bets",
+    "veiculo": "Metrópoles",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUHRISzJtWDhheFppSXkyaTQ4aVd1WlVjRXNUZ1RIQWdtTTdBaVVreXFDYVRaMXlHdllxQzduVzA4X2wyWjRxTlJDTWFKTnFqZmd0cUp5bDdKTDlxTEFQT3kxOHJPd1ZXOHRrbGRMX0VkdWp3SjZneE5GUDl1ckNnNk1QOGQ0ajByUy1zMWF6Nm5DZkhrX25pbkI5bkU2NUVEelhEUWJqUzMxVXRtS1pQTHJtMXpURmNzZVdOV1A5aGhDZU5WSHc?oc=5",
+    "resumo": "Fux inclui Ministério da Saúde e da Justiça em audiência do STF sobre bets  Metrópoles",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
+    "regiao": "Nacional",
+    "data_dia": "2026-11-01",
+    "hora": "Há 7h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 37,
     "titulo": "Ministério da Saúde amplia parceria com hospitais de referência e Proadi terá R$ 3,95 bilhões para fortalecer o SUS",
     "veiculo": "GOV.BR",
     "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPUlBVQUQxbkRWUW5tY0V1WlJURXUwVVA1VVNmcENnT3ZYMnN5bkdOWHBIR19rTExJZXNMcDNmWDgtN2VZeFhYUVZtUVhIYXRrcjdOdWtDcnI3NC1oN1piaS1DVWpZeTVPUHNJbzZrMkE2VEo3WUdvbWNGTm9abXlRejRwWHJENzdWRHJRYlg5WTdJMWpCeU45RTQxd3d5Ty03TktUbTYzU0pYV3c3amxLbTd6aHVTRXRwbFd5aFpmTzdRTVVEUnRHWlI2QkVzODBnTThzOTg3UWRuM191cWxDbkxvMXNha3l5cmhfQlcwNnBsdVVJeFdLZGRPR2xCX1V6OFRVU1dMSQ?oc=5",
@@ -540,26 +555,26 @@
     "urgente": false
   },
   {
-    "id": 37,
-    "titulo": "Instituto prevê impacto fiscal de R$ 40 bilhões com medidas de Lula",
+    "id": 38,
+    "titulo": "Novas regras do Ministério da Saúde aumentam possibilidades de doação",
     "veiculo": "Agência Brasil",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSjNFR2NSdk1MWVdrM1dSN1IzQjVfcHJ6UnJ1SXNZTlVzZGt1OFU1RmV1YmRvb2d5V2NqSHM3STRqWG9aZGxkN2xGT0Z4bGxydl9sV2I3OVZKRVpjZ2JNYUR3S3ZmY2hjeElwRFdPX0ViRWpKM04yenFqWE52TlhTeWh5TzEzMjZmQnpmdmY5TjhBblNvaWZnS2VqM3QyR1dPS3QtUjFZSTIydG1tOWVmdFBCYWNyeW5NdzZaRFdzSVhVdw?oc=5",
-    "resumo": "Instituto prevê impacto fiscal de R$ 40 bilhões com medidas de Lula  Agência Brasil",
-    "imagem": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
-    "categoria": "economia",
-    "categoria_label": "📈 Conquistas & Economia",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWkF6OXZDZVNqd09Td3BGcktSZzlSLUg0bFZHVVhic2lpVXRNXzFRcDdUX1dPYVBtXzZOZ2VQdWg0WDFsTUxONUtxcnY2d05Lc0RfQ3RZMkg1cnFIVjNpaUh3cS0wYVlxUUJrU25HZkw5cEw2Q0lVQTZLaGF4YzNERzJvcGtZMUxhakladGk5UVN6TzhQZmVId2IxaXBvbS03YURIUGdVNmNka0RyQUxxbnRBZGE2aUVtUENQSFBsSnItODZLVXM0ckt3ZHNmOF9mNk01X3NFaFdSLXZF?oc=5",
+    "resumo": "Novas regras do Ministério da Saúde aumentam possibilidades de doação  Agência Brasil",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
-    "data_dia": "2026-10-29",
-    "hora": "29/10 16:14",
+    "data_dia": "2026-10-30",
+    "hora": "30/10 12:01",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 38,
+    "id": 39,
     "titulo": "SUS amplia acesso à mamografia e ao tratamento do câncer de mama — Ministério da Saúde",
-    "veiculo": "GOV.BR",
+    "veiculo": "Governo Federal",
     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQa0JrWnpFRnBfMjNmVnpwcFU1XzdXbDZSQWNtbjJHVzRYTTUzSlo0ZFRCbV96VVRlNHhpV0RzeVlEbnlRVE1NYmN6U2l1RkVsa3JLdlJyY0FjNHUzTVBtbXdwaDE5eWxibFdLS2xUdWFIMzVrTk83UVE2VENwWEZPekdnRGxYYkFBeXJtUlNrRERJUDZJS01XWFZGZlh2aVRieWdiUHE0SjJwVzdIQlhuS05MTzBxZUxvMEdQcmVwNFpobGJU?oc=5",
-    "resumo": "SUS amplia acesso à mamografia e ao tratamento do câncer de mama — Ministério da Saúde  GOV.BR",
+    "resumo": "SUS amplia acesso à mamografia e ao tratamento do câncer de mama — Ministério da Saúde  Governo Federal",
     "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
     "categoria": "social",
     "categoria_label": "🏛️ Políticas Públicas",
@@ -570,26 +585,11 @@
     "urgente": false
   },
   {
-    "id": 39,
-    "titulo": "Conselho Curador do FGTS aprova orçamento de R$ 169 bilhões para investimentos em 2027",
-    "veiculo": "GOV.BR",
-    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPY2dfOTlWMUZWVEpDTHFZMGVhZmpXNXZNOFVQaXFoalUtMnZ4RjRvUDRfTU9nRF92NGR2R0pWaU5ZZzJQUjRmUlZsSmlUd3BIOWIxNWZRWnp1ZjZxTjNqQ2R0bWxBRkJBeFlPNm1jT2VHMVZHVzd3Vm5tWVB1VUpyOWpQM0cyNHB5UnVSSk5MSGJiVmJaQlo1Xy03aEhxQzBWamw0VUkwb1hybW4xSmo2VDhBM2JMeWprZmJRSUxqYVJMVHZuYTFWWkljZDhKUl82d25nbVB0RWNQMmhPOVlST2dWcHN3OFMtMjBWQjdZaU5tblBa?oc=5",
-    "resumo": "Conselho Curador do FGTS aprova orçamento de R$ 169 bilhões para investimentos em 2027  GOV.BR",
-    "imagem": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
-    "categoria": "economia",
-    "categoria_label": "📈 Conquistas & Economia",
-    "regiao": "Nacional",
-    "data_dia": "2026-10-29",
-    "hora": "29/10 17:39",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
     "id": 40,
     "titulo": "Ministério da Saúde moderniza tratamento e incorpora novo medicamento no SUS para hemoglobinúria paroxística noturna",
-    "veiculo": "GOV.BR",
+    "veiculo": "Governo Federal",
     "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOUWxWVkEzTEdtYnYya3ZIQUgwemFWV0hDV19zSmo1dWVLaU1lcmk2aGlHczduNTJHVlFvcF9sUzBGN3hpdm8zYmxnUFEtTVZvVXhxb05sZzJIRWhWdmtxbFN1aS1aRVFEWEstVFdzMHg0aTF3bE5feDBSS2JlbDR2YS1aMS1ZUGcwdkRkaVVBakxqbjczbVV5TExDNGFSc1Ata2xkMUlXQVdIRFdzN1hhV1pKTTR1VXQzQzV5NTI1bEE4dG5oaWRRU0VTcktvNDhzNlE1V3BxalVyZjVDQmFlVEpYdEhJaXhSTllOUnpacEktUGpaQVJHanNhRUhwOTF1amkyZFVJLWJ4QQ?oc=5",
-    "resumo": "Ministério da Saúde moderniza tratamento e incorpora novo medicamento no SUS para hemoglobinúria paroxística noturna  GOV.BR",
+    "resumo": "Ministério da Saúde moderniza tratamento e incorpora novo medicamento no SUS para hemoglobinúria paroxística noturna  Governo Federal",
     "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
     "categoria": "social",
     "categoria_label": "🏛️ Políticas Públicas",
@@ -610,7 +610,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-11-01",
-    "hora": "Há 4h",
+    "hora": "Há 7h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -625,7 +625,7 @@
     "categoria_label": "✊ Direitos & Mobilização",
     "regiao": "Nacional",
     "data_dia": "2026-11-01",
-    "hora": "Há 9h",
+    "hora": "Há 12h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   }
