@@ -1,6 +1,81 @@
 [
   {
     "id": 1,
+    "titulo": "A menos de uma semana para o Enem 2026, MEC dá dicas aos participantes",
+    "veiculo": "Agência Brasil",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/menos-de-uma-semana-para-o-enem-2026-mec-da-dicas-aos-participantes",
+    "resumo": "A primeira prova do Exame Nacional do Ensino Médio (Enem) de 2026 está marcada para o próximo domingo (8) e o Ministério da Educação (MEC) elaborou uma lista para facilit...",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
+    "regiao": "Nacional",
+    "data_dia": "2026-11-02",
+    "hora": "Há 3h",
+    "tempo_leitura": "2 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 2,
+    "titulo": "Desembargador assume governo de MS após licença de governador e vice",
+    "veiculo": "Agência Brasil",
+    "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/desembargador-assume-governo-de-ms-apos-licenca-de-governador-e-vice",
+    "resumo": "Terceiro na linha de sucessão ao governo de Mato Grosso do Sul em caso de vacância do cargo de governador, o presidente do Tribunal de Justiça estadual (TJ-MS), desembarg...",
+    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
+    "categoria": "geral",
+    "categoria_label": "📢 Notícias do Povo",
+    "regiao": "Sul",
+    "data_dia": "2026-11-02",
+    "hora": "Há 4h",
+    "tempo_leitura": "2 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 3,
+    "titulo": "Polícia investiga acidente com asa-delta que deixou dois mortos no Rio",
+    "veiculo": "Agência Brasil",
+    "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/policia-investiga-acidente-com-asa-delta-que-deixou-dois-mortos-no-rio",
+    "resumo": "A Polícia Civil investiga o acidente com uma asa-delta que deixou dois mortos nesta segunda-feira (2), na cidade do Rio de Janeiro. O equipamento de voo se chocou com o s...",
+    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
+    "categoria": "geral",
+    "categoria_label": "📢 Notícias do Povo",
+    "regiao": "Sudeste",
+    "data_dia": "2026-11-02",
+    "hora": "Há 5h",
+    "tempo_leitura": "2 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 4,
+    "titulo": "Impa Tech abre inscrições para graduação em matemática nesta terça",
+    "veiculo": "Agência Brasil",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-10/impa-tech-abre-inscricoes-para-graduacao-em-matematica-nesta-terca",
+    "resumo": "O período de inscrição para o curso de graduação em matemática da tecnologia e inovação do Impa Tech começa nesta terça-feira (3). \n\nPara esta edição serão ofertadas, pel...",
+    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
+    "categoria": "geral",
+    "categoria_label": "📢 Notícias do Povo",
+    "regiao": "Nacional",
+    "data_dia": "2026-11-02",
+    "hora": "Há 6h",
+    "tempo_leitura": "2 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 5,
+    "titulo": "ONU ressalta importância de proteger jornalistas e acesso à informação",
+    "veiculo": "Agência Brasil",
+    "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/onu-ressalta-importancia-de-proteger-jornalistas-e-acesso-informacao",
+    "resumo": "\"Em todo o mundo, jornalistas continuam pagando um preço exorbitante por dizerem a verdade”, o alerta foi feito nesta segunda-feira (2) pelo secretário-geral das Nações U...",
+    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
+    "categoria": "geral",
+    "categoria_label": "📢 Notícias do Povo",
+    "regiao": "Nacional",
+    "data_dia": "2026-11-02",
+    "hora": "Há 6h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 6,
     "titulo": "Novas regras de atendimento ao consumidor começam a valer hoje",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/novas-regras-de-atendimento-ao-consumidor-comecam-valer-hoje",
@@ -10,12 +85,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-02",
-    "hora": "Há 59 min",
+    "hora": "Há 7h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 2,
+    "id": 7,
     "titulo": "Duas pessoas morrem em queda de asa-delta em São Conrado, no Rio",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/duas-pessoas-morrem-em-queda-de-asa-delta-em-sao-conrado-no-rio",
@@ -25,12 +100,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Sudeste",
     "data_dia": "2026-11-02",
-    "hora": "Há 1h",
+    "hora": "Há 7h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 3,
+    "id": 8,
     "titulo": "Prêmio TV Brasil Petrobras Para Elas destaca ações contra feminicídio",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/premio-tv-brasil-petrobras-para-elas-destaca-acoes-contra-feminicidio",
@@ -40,12 +115,12 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-11-02",
-    "hora": "Há 1h",
+    "hora": "Há 8h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 4,
+    "id": 9,
     "titulo": "No Rio, familiares soltam balões em homenagem ao Dia de Finados",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/no-rio-familiares-soltam-baloes-em-homenagem-finados",
@@ -55,72 +130,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-02",
-    "hora": "Há 1h",
-    "tempo_leitura": "2 min de leitura",
-    "urgente": true
-  },
-  {
-    "id": 5,
-    "titulo": "Pnuma: emissões precisam cair 18% até 2030 para limitar aquecimento",
-    "veiculo": "Agência Brasil",
-    "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/pnuma-emissoes-precisam-cair-18-ate-2030-para-limitar-aquecimento",
-    "resumo": "Ainda é possível limitar o aquecimento global entre 1,7 graus Celsius (°C) e 1,8°C e retornar ao limite de 1,5°C acima dos níveis pré-industriais até 2100, se as emissões...",
-    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
-    "categoria": "geral",
-    "categoria_label": "📢 Notícias do Povo",
-    "regiao": "Nacional",
-    "data_dia": "2026-11-02",
-    "hora": "Há 3h",
+    "hora": "Há 8h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
-    "id": 6,
-    "titulo": "Eleitores dos EUA demonstram pessimismo em relação à economia",
-    "veiculo": "Agência Brasil",
-    "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/eleitores-dos-eua-demonstram-pessimismo-em-relacao-economia",
-    "resumo": "Na véspera das eleições que decidirão se o Partido Republicano do presidente Donald Trump manterá o controle do Congresso, a atenção dos eleitores está voltada para a eco...",
-    "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
-    "categoria": "eleicoes",
-    "categoria_label": "🗳️ Eleições & Campanhas",
-    "regiao": "Nacional",
-    "data_dia": "2026-11-02",
-    "hora": "Há 3h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 7,
-    "titulo": "Lembranças e saudades marcam Dia de Finados em Brasília",
-    "veiculo": "Agência Brasil",
-    "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/saudades-emocionam-visitantes-do-campo-da-esperanca-em-brasilia",
-    "resumo": "Gorete Nascimento, de 71 anos, saiu de casa hoje antes das 7h para cumprir o ritual que faz há 32 anos. Ela mora em Cidade Ocidental, município goiano que fica a 47 quilô...",
-    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
-    "categoria": "geral",
-    "categoria_label": "📢 Notícias do Povo",
-    "regiao": "Centro-Oeste",
-    "data_dia": "2026-11-02",
-    "hora": "Há 4h",
-    "tempo_leitura": "2 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 8,
-    "titulo": "REC'n'Play 2026 será palco de tecnologia e criatividade no Recife",
-    "veiculo": "Agência Brasil",
-    "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/recnplay-2026-sera-palco-de-tecnologia-e-criatividade-em-recife",
-    "resumo": "Berço histórico e cultural da capital pernambucana e palco tradicional do carnaval, o bairro do Recife Antigo vai receber folia diferente a partir da próxima semana. Dest...",
-    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
-    "categoria": "geral",
-    "categoria_label": "📢 Notícias do Povo",
-    "regiao": "Nordeste",
-    "data_dia": "2026-11-02",
-    "hora": "Há 4h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 9,
+    "id": 10,
     "titulo": "Gaza: Quando os vestígios de vida rompem o silêncio",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/descolonizacoes/gaza-quando-os-vestigios-de-vida-rompem-o-silencio/",
@@ -135,7 +150,7 @@
     "urgente": false
   },
   {
-    "id": 10,
+    "id": 11,
     "titulo": "Depois da grande vitória, a Pauta do Povo",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/outrapolitica/depois-da-grandevitoria-pauta-do-povo/",
@@ -150,7 +165,7 @@
     "urgente": false
   },
   {
-    "id": 11,
+    "id": 12,
     "titulo": "Dobramos as big techs, e agora?",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/tecnologiaemdisputa/dobramos-as-big-techs-e-agora/",
@@ -165,7 +180,7 @@
     "urgente": false
   },
   {
-    "id": 12,
+    "id": 13,
     "titulo": "“A IA assusta vocês?”",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/crise-civilizatoria/a-ia-assusta-voces/",
@@ -180,7 +195,7 @@
     "urgente": false
   },
   {
-    "id": 13,
+    "id": 14,
     "titulo": "Memórias do Jornalismo: Travessias políticas",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/historia-e-memoria/memorias-do-jornalismo-travessias-politicas/",
@@ -195,7 +210,7 @@
     "urgente": false
   },
   {
-    "id": 14,
+    "id": 15,
     "titulo": "Sanções: Breve história de uma arma de guerra",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/geopoliticaeguerra/sancoes-breve-historia-de-uma-arma-de-guerra/",
@@ -210,7 +225,7 @@
     "urgente": false
   },
   {
-    "id": 15,
+    "id": 16,
     "titulo": "As últimas batalhas de Santo Dias da Silva",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/historia-e-memoria/as-ultimas-batalhas-de-santo-dias-da-silva/",
@@ -225,7 +240,7 @@
     "urgente": false
   },
   {
-    "id": 16,
+    "id": 17,
     "titulo": "O amor à vida contra a barbárie",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/estadoemdisputa/o-amor-a-vida-contra-a-barbarie/",
@@ -240,7 +255,7 @@
     "urgente": false
   },
   {
-    "id": 17,
+    "id": 18,
     "titulo": "Hora de dar outro rumo ao BNDES",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/outras-cidades/as-distorcoes-do-bndes-e-futuro-das-cidades/",
@@ -255,7 +270,7 @@
     "urgente": false
   },
   {
-    "id": 18,
+    "id": 19,
     "titulo": "Exército de Lula: para não repetir o erro de 2014",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/crise-brasileira/exercito-de-lula-para-nao-repetir-o-erro-de-2014/",
@@ -270,7 +285,22 @@
     "urgente": false
   },
   {
-    "id": 19,
+    "id": 20,
+    "titulo": "Justiça quebra sigilo médico de Tancredo Neves após 41 anos",
+    "veiculo": "Vermelho",
+    "link": "https://vermelho.org.br/2026/11/02/justica-quebra-sigilo-medico-de-tancredo-neves-apos-41-anos/?utm_source=rss&utm_medium=rss&utm_campaign=justica-quebra-sigilo-medico-de-tancredo-neves-apos-41-anos",
+    "resumo": "Decisão do TRF1 atende a pedido do filho do presidente eleito e determina acesso a documentos que podem esclarecer as circunstâncias de sua morte, em 1985\nO post Justiça ...",
+    "imagem": "https://vermelho.org.br/wp-content/uploads/2026/11/Tancredo-Neves-1024x576.avif",
+    "categoria": "geral",
+    "categoria_label": "📢 Notícias do Povo",
+    "regiao": "Nacional",
+    "data_dia": "2026-11-02",
+    "hora": "Há 4h",
+    "tempo_leitura": "2 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 21,
     "titulo": "Após ataques, Força Nacional entra em defesa dos Guarani Kaiowá",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/11/02/apos-ataques-forca-nacional-entra-em-defesa-dos-guarani-kaiowa/?utm_source=rss&utm_medium=rss&utm_campaign=apos-ataques-forca-nacional-entra-em-defesa-dos-guarani-kaiowa",
@@ -280,12 +310,12 @@
     "categoria_label": "✊ Direitos & Mobilização",
     "regiao": "Centro-Oeste",
     "data_dia": "2026-11-02",
-    "hora": "Há 2h",
+    "hora": "Há 8h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 20,
+    "id": 22,
     "titulo": "Lula enfrenta fake news da extrema direita e garante programas sociais",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/11/02/lula-enfrenta-fake-news-da-extrema-direita-e-garante-programas-sociais/?utm_source=rss&utm_medium=rss&utm_campaign=lula-enfrenta-fake-news-da-extrema-direita-e-garante-programas-sociais",
@@ -295,12 +325,12 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-11-02",
-    "hora": "Há 3h",
+    "hora": "Há 10h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 21,
+    "id": 23,
     "titulo": "Economistas rejeitam “terceiro turno do mercado” após vitória de Lula",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/11/02/economistas-rejeitam-terceiro-turno-do-mercado-apos-vitoria-de-lula/?utm_source=rss&utm_medium=rss&utm_campaign=economistas-rejeitam-terceiro-turno-do-mercado-apos-vitoria-de-lula",
@@ -310,12 +340,12 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-11-02",
-    "hora": "Há 7h",
+    "hora": "Há 14h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 22,
+    "id": 24,
     "titulo": "Das urnas às ruas, juventude mobiliza o Brasil pela democracia e soberania",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/11/01/das-urnas-as-ruas-juventude-mobiliza-o-brasil-pela-democracia-e-soberania/?utm_source=rss&utm_medium=rss&utm_campaign=das-urnas-as-ruas-juventude-mobiliza-o-brasil-pela-democracia-e-soberania",
@@ -325,12 +355,12 @@
     "categoria_label": "✊ Direitos & Mobilização",
     "regiao": "Nacional",
     "data_dia": "2026-11-01",
-    "hora": "Há 19h",
+    "hora": "01/11 19:54",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
-    "id": 23,
+    "id": 25,
     "titulo": "MEC aciona PF contra violência política nas universidades federais",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/11/01/mec-aciona-pf-contra-violencia-politica-nas-universidades-federais/?utm_source=rss&utm_medium=rss&utm_campaign=mec-aciona-pf-contra-violencia-politica-nas-universidades-federais",
@@ -340,12 +370,12 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-11-01",
-    "hora": "Há 23h",
+    "hora": "01/11 16:20",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 24,
+    "id": 26,
     "titulo": "Luciana Santos destaca ações de Lula para conter fuga de cientistas",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/11/01/luciana-santos-destaca-acoes-de-lula-para-conter-fuga-de-cientistas/?utm_source=rss&utm_medium=rss&utm_campaign=luciana-santos-destaca-acoes-de-lula-para-conter-fuga-de-cientistas",
@@ -360,7 +390,7 @@
     "urgente": false
   },
   {
-    "id": 25,
+    "id": 27,
     "titulo": "O mercado foi derrotado. As ruas venceram",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/11/01/o-mercado-foi-derrotado-as-ruas-venceram/?utm_source=rss&utm_medium=rss&utm_campaign=o-mercado-foi-derrotado-as-ruas-venceram",
@@ -375,7 +405,7 @@
     "urgente": false
   },
   {
-    "id": 26,
+    "id": 28,
     "titulo": "É tempo de ocupar tudo!",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/11/01/e-tempo-de-ocupar-tudo/?utm_source=rss&utm_medium=rss&utm_campaign=e-tempo-de-ocupar-tudo",
@@ -390,7 +420,7 @@
     "urgente": false
   },
   {
-    "id": 27,
+    "id": 29,
     "titulo": "Juventude volta às ruas pelo “Brasil com S” contra o golpismo",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/11/01/juventude-volta-as-ruas-pelo-brasil-com-s-contra-o-golpismo/?utm_source=rss&utm_medium=rss&utm_campaign=juventude-volta-as-ruas-pelo-brasil-com-s-contra-o-golpismo",
@@ -405,22 +435,7 @@
     "urgente": false
   },
   {
-    "id": 28,
-    "titulo": "Promessa acaba na urna e governadores aprovam aumento do ICMS",
-    "veiculo": "Vermelho",
-    "link": "https://vermelho.org.br/2026/10/31/promessa-acaba-na-urna-e-governadores-aprovam-aumento-do-icms/?utm_source=rss&utm_medium=rss&utm_campaign=promessa-acaba-na-urna-e-governadores-aprovam-aumento-do-icms",
-    "resumo": "Aliados de Bolsonaro que fizeram campanha contra impostos rejeitaram proposta de Lula para baratear o diesel e, dois dias após a eleição, aprovaram reajuste dos combustív...",
-    "imagem": "https://vermelho.org.br/wp-content/uploads/2021/10/posto_de_combustivel_mcajr_abr_1609210451-1024x682.jpg",
-    "categoria": "eleicoes",
-    "categoria_label": "🗳️ Eleições & Campanhas",
-    "regiao": "Nacional",
-    "data_dia": "2026-10-31",
-    "hora": "31/10 14:12",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 29,
+    "id": 30,
     "titulo": "Teste para detecção precoce do câncer do colo do útero já está disponível em 26 estados do país",
     "veiculo": "Governo Federal",
     "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPNTdzWm8zU3plcm5YUzRVQVpnVWtLRjZxLVpsN0JzaDh0am1wSE1jZHFlUE9Bc0NiekZETUFadEMzbEhHcEhzNjJHbHdMQUhBY3RTWGF2MFZqNk1qYXFhZHZQVTBSUVEzYWkxYlU5MUNOdUVJaWwyM1NiY3VYQUpuR3MxbzRjOFJVTVp2U21QYkNJTFlDSlhwWmsxRk91TW1oM3FkUllJMHJiZ2ZnaHVaNDloeDdTaFRjMkFiNkFmd0x4Rm9yNG9YUGFjSE1Wakx6bU1EUUkwSDV4WjFzeWVQR2FFZjcweV9aWDA1cjhB?oc=5",
@@ -435,7 +450,22 @@
     "urgente": false
   },
   {
-    "id": 30,
+    "id": 31,
+    "titulo": "Rio registra aumento nos casos de Mpox e Ministério da Saúde reforça volume de vacinas",
+    "veiculo": "VEJA RIO",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZzNwNDBWeGhvd0d6Z0g2U3JpNGVTb3hJNUM2YjZhU3VnRHp1dEpDR3dFN3c0ckUyM0ZVZ1B0ajRJRXVRMDJpSnZ5OEdSMEY1WUZfTUFqT0JzSTFvdm9GeGZDdWkyMkpnTkNHV01INHRFbHVZQU9yR3NzRnFsRlNUaTlTMkZqT2FHVF9sR1BXVWl3SlVIdzg0?oc=5",
+    "resumo": "Rio registra aumento nos casos de Mpox e Ministério da Saúde reforça volume de vacinas  VEJA RIO",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
+    "regiao": "Nacional",
+    "data_dia": "2026-11-02",
+    "hora": "Há 6h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 32,
     "titulo": "MTE recebe 4,3 mil denúncias de assédio eleitoral em três dias",
     "veiculo": "Agência Brasil",
     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY2dmUl9uTTU5OURCZFVUNlVZS3hBcDFCdFB2Yk04QUMyY1VZWE1MTmRyMlk1UjJKMFBaVGM3U3hBaGVSVUs5TFRvTjF4cmh6SnQ1Uk0zbl9yVkpZbzFrM2x0ZmFrTENCLTRxdk0xLXpBNXBLc3JpMnhMbEpiR1d4cXBjdUp3Wk9yODZNOE1keEZFVVJ4MDZqZ19SV29rcElyX21QUTJXVlVpRU1MSm13Skc3OXdRWlJMWWxB?oc=5",
@@ -450,22 +480,7 @@
     "urgente": false
   },
   {
-    "id": 31,
-    "titulo": "Alexandre Padilha deve permanecer no Ministério da Saúde",
-    "veiculo": "JOTA Info",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRS1EVXRKTFMzLUZwZm91cWE1NFR0WHRhSDhDaW1KVk9MWWRvczBVczJId1UzTVE0elVFXzBLRHB1ZHhZRFZDMkR1dVY5QkxyREd2T2RFaE1rbFkzdDljMGRaemRwRGNHV1Rza05VRzFaZjVVRG8zWnN5UGZUZzdVZEZVM0hGZWI1UWs5WQ?oc=5",
-    "resumo": "Alexandre Padilha deve permanecer no Ministério da Saúde  JOTA Info",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
-    "regiao": "Nacional",
-    "data_dia": "2026-10-29",
-    "hora": "29/10 19:37",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 32,
+    "id": 33,
     "titulo": "Padrão SUS: Governo Lula anuncia cooperação com sete hospitais de excelência",
     "veiculo": "Partido dos Trabalhadores",
     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPS0NYbHRsSlZPbVJuMW16eS1VUGJEX2NFYkRQYVMydmdMOVRUNDRwZ1Ayc1E2NlZKd01RMkNPTUxyellpckxFVl9CSVFWeWF1ZExqUnd5aENQY0M2RWw0LS1rZzM4OHZNcmhvb2tPS2tNdnVSY2s5M1FWYm8wU0FZczVseUk1akRXZ2ExbzBlTWdPZmtlZDVpQ0tR0gGiAUFVX3lxTE9Pd0dabUhPbktZN3diYjhhMEJIbHlnNWhSSVJXaDRtMWFrR0F5b08ydkVNbnZ1N3NaLVRzZjY0YzFGWnE0WFN4VXVDM3Z5SFo3OXNBS3Z1RXFNWkVOSmRtLVlSMEFpQm9mNEpVSlNiQ0phTk5MZ2VwWlFNOE1VOHVXWm1SSklKZXNLUF9KMW12UnA4cFJuclBnTm9BMm1zTFctQQ?oc=5",
@@ -480,7 +495,22 @@
     "urgente": false
   },
   {
-    "id": 33,
+    "id": 34,
+    "titulo": "Alexandre Padilha deve permanecer no Ministério da Saúde",
+    "veiculo": "JOTA Info",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRS1EVXRKTFMzLUZwZm91cWE1NFR0WHRhSDhDaW1KVk9MWWRvczBVczJId1UzTVE0elVFXzBLRHB1ZHhZRFZDMkR1dVY5QkxyREd2T2RFaE1rbFkzdDljMGRaemRwRGNHV1Rza05VRzFaZjVVRG8zWnN5UGZUZzdVZEZVM0hGZWI1UWs5WQ?oc=5",
+    "resumo": "Alexandre Padilha deve permanecer no Ministério da Saúde  JOTA Info",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
+    "regiao": "Nacional",
+    "data_dia": "2026-10-29",
+    "hora": "29/10 19:37",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 35,
     "titulo": "Em manifesto, ex-ministros da Saúde citam mais de 700 mil mortes na pandemia e alertam para retrocessos no SUS com eventual governo de Flávio Bolsonaro",
     "veiculo": "Brasil de Fato",
     "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOOWtkTjVpMmU3SFNjRXlPeHVfNEhnR3JxM1loSFpBQ2hzSjJDcmMxZXZLbmpSV29Vd2NwNjVnVHpES1B4bURDVnFsbXNtaFlxYUlwbzd5ZzB1aGxpeEFNS0wtNDM5am82UVktaGpHa2laUXJweGRIVHhoWEdLa09JY1VfRnkxektSOUU4VDZzSDRINHRVckxSd2VSNE9sRkZvTHI3SnpyTUU2aXZXYk02Nm9ybWJHdklUeEpmcFh2WkRRYXFTNjgtTFVRcjhxblNlRkg4MlpvZDNFejV1V0RLN2hFVU5NMGxEelRzLTJsYjdMTlVVbXhpa0JwSzlvMlViNEthNVBwMGUtRlEzemc?oc=5",
@@ -495,7 +525,7 @@
     "urgente": false
   },
   {
-    "id": 34,
+    "id": 36,
     "titulo": "Duas receitas: Flávio aposta em parcerias privadas e Lula, em ampliação da rede própria para aumentar acesso ao SUS",
     "veiculo": "O GLOBO",
     "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPeEhHS0VGZDR2QmpKdVdXSUN6eXJzYlF5a3BVZk5TY2xlUmd4R3hwSVQzdUlzRDM1M0VabTNhaWwxVXBVdXUzX1ZlTndiT3haRkZLcXgzX1ZIZms4dGxvSnpOc290ZlVLdEkwcWotMTVFR3FlVjNxUmZ4ekVjSm5kRUZMaVJtV0c1NTYzUWZqNVV0SVBwblNmOWhfRXZmQmdnZHZRRGNNckl4cndPU3RqdHJ0dVR1d0NJUkE0a1RKVFVFSVRLUFVJWkdoNld5S3d0QVU2NVhiTXpGaG91RlBLeUh6ZTE0azBlNGQ5RUpmcGpnR3YzMThxSUhpdFF6NVBNNVBaUmNPS0dtWlE3RjFOZjZNejLSAaMCQVVfeXFMT3dadVJaNk5mWVk0OEZNa3ZhU24zUkQ3bDFBak9aRktBZ2N5X0h2UnZuSWZ4YkVxMFk0anQ2X1FWLWZFN3BYQVdVbU9WVGlQTzF1Z04yUldMZldJSVh3alQ4TnIwb2JsM3IwTXFRTEJpeFY0dWxXcGlFZk80aXpnZzAxdXRXXzBfZXF0dzVZWkZiTnZHcmxDaVRVTWdVTU40X2hJYkFPbjRBeUIzSlZvcEtjVHc2Uy05NjRBNy1XZm9iZkpJSlpxUkZPQWdJMF94T0xWNE91MTJJbGp2TklRMUpaYUk1LUl6MC1ndEUzT2dOb2gyZTRyaGlSUWROQUhiOHNtVkVjeVNnMjZoR0NYaVFNaUowT1dHaVl2NTNWbVVmcnNB?oc=5",
@@ -510,22 +540,7 @@
     "urgente": false
   },
   {
-    "id": 35,
-    "titulo": "Com queda de 10% sob ‘efeito Lula’, Bolsa foi o pior investimento em outubro",
-    "veiculo": "Revista Oeste",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOXFpdW9mNkJIQWFrTWY5czBJa3NKbjB1Zjg4YWNlOWRnbTdHQlZibzFOdks4Y093NmcyczJ2RWZMMWlwbHlXZHROR21DODJheFo5Y2sxbk93andlc1hZV0lVM2JpR0ZBa0lSc2plNHJfM0VSQW84S2RxX1VCUng0MUdKLWppYUJOSkZSS0hpYnJJMjg5VGh4cXhmNUhTTVFjWkNrN0FscmQ5OTA?oc=5",
-    "resumo": "Com queda de 10% sob ‘efeito Lula’, Bolsa foi o pior investimento em outubro  Revista Oeste",
-    "imagem": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
-    "categoria": "economia",
-    "categoria_label": "📈 Conquistas & Economia",
-    "regiao": "Nacional",
-    "data_dia": "2026-11-02",
-    "hora": "Há 5h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 36,
+    "id": 37,
     "titulo": "Lula não disse que mudará Bolsa Família; fala de 2025 foi distorcida",
     "veiculo": "UOL Notícias",
     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbWxuNXFFbjhPRFZINlNoLWVpcEJyN0NLVVZMVzE1OGZhWVg4TUdMM29FeHcybWhjUGZmUDU4WmI3NjlxdEdLZjBCYjJGMG1PUGt2WUIwdEd6d1ZRT2FNTm43YXhWRV9LeWlRQVRqcGcyV0pBWEhSbTVHT1JtMFlTRVlEeERORzRfWWwtbVk2MVpjS3FVb3dONkE0ckdYMDFrM25sRlZoRnVuQ1BLWGdIb3gwZ3pJQVpsTVg2bFQzUHhpOWltdEVPVGNCdEpyUFdtdFE?oc=5",
@@ -540,7 +555,7 @@
     "urgente": false
   },
   {
-    "id": 37,
+    "id": 38,
     "titulo": "Ministério da Saúde amplia parceria com hospitais de referência e Proadi terá R$ 3,95 bilhões para fortalecer o SUS",
     "veiculo": "GOV.BR",
     "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPUlBVQUQxbkRWUW5tY0V1WlJURXUwVVA1VVNmcENnT3ZYMnN5bkdOWHBIR19rTExJZXNMcDNmWDgtN2VZeFhYUVZtUVhIYXRrcjdOdWtDcnI3NC1oN1piaS1DVWpZeTVPUHNJbzZrMkE2VEo3WUdvbWNGTm9abXlRejRwWHJENzdWRHJRYlg5WTdJMWpCeU45RTQxd3d5Ty03TktUbTYzU0pYV3c3amxLbTd6aHVTRXRwbFd5aFpmTzdRTVVEUnRHWlI2QkVzODBnTThzOTg3UWRuM191cWxDbkxvMXNha3l5cmhfQlcwNnBsdVVJeFdLZGRPR2xCX1V6OFRVU1dMSQ?oc=5",
@@ -555,22 +570,22 @@
     "urgente": false
   },
   {
-    "id": 38,
-    "titulo": "É #FAKE que Lula anunciou corte de R$ 6 bilhões na Saúde e na Educação após eleição de 2026; vídeo foi exibido no ano retrasado",
-    "veiculo": "G1",
-    "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPZl9ld3gyYWh4VElTZnZ0clRjWDRRdVQ4X3NOQXlnYWtwNjc1WG1Hd053ZzV0V1J0bDB5UHc0NzdKZkowRG1CajhLRlpwLWZzR2kwMzJaYTVGcmx4VEVWeVV2bzlUalFRRldKcjhnaEZ5eUpyZ0tOV1lSVjl6dzI3ODNaUWgxdXdENVl5RlFPZEw2djhsZUFMeDF0YXFISEdWVVJROFBSX2xldmk4djdaU2lOWFN5bUIyc2Jib0lwSFU5R3RiT1k5MFdXbUJfZ0dtNlpHSVBDd2JDMmJKTFVMNGRQbTZYXzI0eWNic2xPQS1DbzFxeWtkWDVhTzBjZ2xOQkNqLWVyNERQaVI1akhBTdIBnwJBVV95cUxOa3RxUmRkazNkUW1BTEtLZl9uU3B6dUVpQkFxbDZDamlRb3c1dGN3QVQ5U09kT2NaemZjbnRraFhDYzhpc2ZuZlVIVTVvQWtHUmgxZ2pmZnZFNW9xc1N0Sk5fQjZOOEhjaWdncEoydGFkUDRNY1p3akpKNHZkVDQ0S1N4WTNEMEhuSG56YlNvUTlCQUU5TlhQWl96VldnZUZBVTUwZnZ3TnptSktEN3BGRFRTNDFrSGdHQlRLLVZxQ00zVU1sVm1MMXYyVGUyYVpTVVRTNHE3b2tCOTN1UlV5Ym43LXpFcjk2ZUc4TThaMEJvUWtwRTNDVXFmSHBVMTlzZlpQeWhSWjhsQTVjYmQ3UmQzcUdicFV0dzJ6ckVGWQ?oc=5",
-    "resumo": "É #FAKE que Lula anunciou corte de R$ 6 bilhões na Saúde e na Educação após eleição de 2026; vídeo foi exibido no ano retrasado  G1",
-    "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
-    "categoria": "eleicoes",
-    "categoria_label": "🗳️ Eleições & Campanhas",
+    "id": 39,
+    "titulo": "Governo Lula antecipa pagamento do Bolsa Família, e todos os beneficiários receberão reajuste antes do 2º turno",
+    "veiculo": "O GLOBO",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOWlQUnhkV2JRblJ0RlFnQ1BwUVdueWlLUVVUYXcxTE0tOXVJSjQ1SjZ2MkVxZFhvWGdrRUt1THM3b2s0cTdGWnhnUXNVVkRxNmRVQ29qRElCNkRpTHNDMjN0SE04UGpuM2ROYVc4Q0QwLXQzUmN5aVliQWMwMk15VDFjeFZ0YWRPWWRET0ZJRU9fSVdpODk0NEp1LVFDNEZ5ekFZNDJtODZ6ZjTSAboBQVVfeXFMUDE4YlhMWi1xRzY1WVEtV25kX1FvcTY1cTBCaDR1Uy1reHZfbk5OMlUtTVVJYTREeDFUZG9OOVVUSWJZM3AwLXB0RERCdHNsNlRmREQ1bjdRaWk0QlRic3JTY0FJV3RfUnNablJNbGU5eUFRc1c0MklIZU9VdXdKRi1lSGhoU0twa1JkU09BVkVFdUdJUEVaTDF4UW1TazAtQmpTM3FrUjRwMXVnSGdwaUpMcVFhQnV4Zl9n?oc=5",
+    "resumo": "Governo Lula antecipa pagamento do Bolsa Família, e todos os beneficiários receberão reajuste antes do 2º turno  O GLOBO",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
-    "data_dia": "2026-10-30",
-    "hora": "30/10 18:33",
-    "tempo_leitura": "2 min de leitura",
+    "data_dia": "2026-10-19",
+    "hora": "19/10 04:00",
+    "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 39,
+    "id": 40,
     "titulo": "Novas regras do Ministério da Saúde aumentam possibilidades de doação",
     "veiculo": "Agência Brasil",
     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWkF6OXZDZVNqd09Td3BGcktSZzlSLUg0bFZHVVhic2lpVXRNXzFRcDdUX1dPYVBtXzZOZ2VQdWg0WDFsTUxONUtxcnY2d05Lc0RfQ3RZMkg1cnFIVjNpaUh3cS0wYVlxUUJrU25HZkw5cEw2Q0lVQTZLaGF4YzNERzJvcGtZMUxhakladGk5UVN6TzhQZmVId2IxaXBvbS03YURIUGdVNmNka0RyQUxxbnRBZGE2aUVtUENQSFBsSnItODZLVXM0ckt3ZHNmOF9mNk01X3NFaFdSLXZF?oc=5",
@@ -585,47 +600,32 @@
     "urgente": false
   },
   {
-    "id": 40,
-    "titulo": "SUS amplia acesso à mamografia e ao tratamento do câncer de mama — Ministério da Saúde",
-    "veiculo": "GOV.BR",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQa0JrWnpFRnBfMjNmVnpwcFU1XzdXbDZSQWNtbjJHVzRYTTUzSlo0ZFRCbV96VVRlNHhpV0RzeVlEbnlRVE1NYmN6U2l1RkVsa3JLdlJyY0FjNHUzTVBtbXdwaDE5eWxibFdLS2xUdWFIMzVrTk83UVE2VENwWEZPekdnRGxYYkFBeXJtUlNrRERJUDZJS01XWFZGZlh2aVRieWdiUHE0SjJwVzdIQlhuS05MTzBxZUxvMEdQcmVwNFpobGJU?oc=5",
-    "resumo": "SUS amplia acesso à mamografia e ao tratamento do câncer de mama — Ministério da Saúde  GOV.BR",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
-    "regiao": "Nacional",
-    "data_dia": "2026-10-29",
-    "hora": "29/10 11:17",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
     "id": 41,
-    "titulo": "Eleições nos EUA podem limitar poder de Trump e influenciar ofensiva contra o Brasil",
-    "veiculo": "Brasil de Fato",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaEhnTERWb3FLN29mQm52bW1zdGtlT1BmNk9MQmdyVHJUaU1ndEdKcWRKUmdjbEdhZW1POFhHVGVKLXhwYmlmSjZabU9IckhaeG1ZRWFObXpTMHV1dUdQT3JoN1NMV2RQQVBCUkE4aExkNS12MUFiWUdYZFhQbWxxY29vYm84NUhDNnRsdXhFZUkybEhuZGJxM3hVdi1iTjZrYWxCV2FKQmJTYkhDLURkYXJFWURGal9Oem81aTVDRDE4T1J0Z1Bn?oc=5",
-    "resumo": "Eleições nos EUA podem limitar poder de Trump e influenciar ofensiva contra o Brasil  Brasil de Fato",
+    "titulo": "Janones encontra Cristina Kirchner na Argentina e discute apoio para derrotar Milei na campanha de 2027",
+    "veiculo": "Folha de S.Paulo",
+    "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxObG5vVkxnbTZROExQRWU5Uk5BRWY2eGFBZEVVSzBaRUUxSUN5bGNpUFpWQXBoQklpWTFFN3Rkc2hobG9iWUVHZlA3SE1mYXVjR1FYNmlfZHk5ancwdmpHakJjZDBJNFBPbmJKOVdIbzRNbmV1R1lqUGRpejlhYkMtU3pVR2Z3OHZwRVZJaVFRakFjT1BOMDV0b0NpZ0h6azFWX3F4c0FiMDUwVnFrSERzSTQ1eTdUSXpHNlljX0MxWWRXblFQZFJ4VTh0R1NPSjN0alRLdVpubHhlbFYwcmswa1RhSmhxS0FnS1hVWnlXLTN1OUlDVFN1dFpXQk53dw?oc=5",
+    "resumo": "Janones encontra Cristina Kirchner na Argentina e discute apoio para derrotar Milei na campanha de 2027  Folha de S.Paulo",
     "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
     "categoria": "eleicoes",
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-11-02",
-    "hora": "Há 9h",
+    "hora": "Há 3h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
     "id": 42,
-    "titulo": "MS: indígenas denunciam ameaças e violência após resultado de eleição",
-    "veiculo": "Agência Brasil",
-    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPb0hFMU5IRnNfdVZhaUFfRVZDR1d5VlE4LXBzMTdiZkRVUHdHYURBMFVZZ0lzbDFFeG5mYkEzMWdzVV9yQ1JlTGl0Z3NfMXkyOGhSVksxVnNFOVJRYjNTa2hReEZvQkN3aTNkWXpMQmlQZ2lmWnhQUDBPNi1nVlktT05ZdHZFMmVpUnVOb2JkZWd3NFR1V3h1b0xrVFVNc2tPWTBRZjUxS0VSRlV0c0ZmTXRQUHVwWlVvRGRUbjVxS1czUWN5cC0yMm5EQVdWWDNiTnN4Ri1hb1pUb0pNaFBwM3dyMGM2N213VkE?oc=5",
-    "resumo": "MS: indígenas denunciam ameaças e violência após resultado de eleição  Agência Brasil",
-    "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
-    "categoria": "eleicoes",
-    "categoria_label": "🗳️ Eleições & Campanhas",
-    "regiao": "Sul",
-    "data_dia": "2026-10-30",
-    "hora": "30/10 20:34",
+    "titulo": "Curso Biopoder Camponês fortalece agroecologia e autonomia das famílias em assentamento de Minas Gerais",
+    "veiculo": "mst.org.br",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONVc5NmM3ek1wdUtDek1GVmV6bVFtRGNxYXUxQWZkVkZ1OVNWYWdfZzJFZWZ3SktnSEhYbFM4YzRLRGhiNXVHZkhUSjRVbGc0dnEyX2RIVlhVaUEyRXhYamJzeVQtdmVLQVdicFdqX1AwVnh5bk1FWFVuTVpjZkRpMlJiN3JJV1c3TWIzUlZ4dG1EWnhMNm9xX1A2QV9QbHE5bUVqcHdzS1QwWF9MeGtPbTVEUktjNFZJbXVLVUFobVE1ZnNUVmxuNVRUVU4wR00?oc=5",
+    "resumo": "Curso Biopoder Camponês fortalece agroecologia e autonomia das famílias em assentamento de Minas Gerais  mst.org.br",
+    "imagem": "https://images.unsplash.com/photo-1531206715517-5c0ba140b2b8?w=800&q=80",
+    "categoria": "direitos",
+    "categoria_label": "✊ Direitos & Mobilização",
+    "regiao": "Sudeste",
+    "data_dia": "2026-11-02",
+    "hora": "Há 10h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   }
