@@ -10,9 +10,9 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-04",
-    "hora": "Há 1h",
+    "hora": "Há 8h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 2,
@@ -25,9 +25,9 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-11-04",
-    "hora": "Há 1h",
+    "hora": "Há 8h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 3,
@@ -40,9 +40,9 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Norte",
     "data_dia": "2026-11-04",
-    "hora": "Há 2h",
+    "hora": "Há 8h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 4,
@@ -55,9 +55,9 @@
     "categoria_label": "📈 Conquistas & Economia",
     "regiao": "Nacional",
     "data_dia": "2026-11-04",
-    "hora": "Há 2h",
+    "hora": "Há 9h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 5,
@@ -70,9 +70,9 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-11-04",
-    "hora": "Há 2h",
+    "hora": "Há 9h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 6,
@@ -85,9 +85,9 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-04",
-    "hora": "Há 2h",
+    "hora": "Há 9h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 7,
@@ -100,7 +100,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-04",
-    "hora": "Há 3h",
+    "hora": "Há 10h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -115,7 +115,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-11-04",
-    "hora": "Há 3h",
+    "hora": "Há 10h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -130,7 +130,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Sul",
     "data_dia": "2026-11-04",
-    "hora": "Há 3h",
+    "hora": "Há 10h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -145,7 +145,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-11-04",
-    "hora": "Há 3h",
+    "hora": "Há 10h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -160,7 +160,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-04",
-    "hora": "Há 4h",
+    "hora": "Há 11h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -175,7 +175,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Sudeste",
     "data_dia": "2026-11-04",
-    "hora": "Há 4h",
+    "hora": "Há 11h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -190,7 +190,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-04",
-    "hora": "Há 4h",
+    "hora": "Há 11h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -205,7 +205,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-11-04",
-    "hora": "Há 5h",
+    "hora": "Há 12h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -220,7 +220,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-11-04",
-    "hora": "Há 6h",
+    "hora": "Há 13h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -235,7 +235,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-04",
-    "hora": "Há 6h",
+    "hora": "Há 13h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -250,7 +250,7 @@
     "categoria_label": "📈 Conquistas & Economia",
     "regiao": "Nacional",
     "data_dia": "2026-11-04",
-    "hora": "Há 8h",
+    "hora": "Há 15h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -265,7 +265,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-04",
-    "hora": "Há 9h",
+    "hora": "Há 16h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -295,9 +295,9 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-11-04",
-    "hora": "Há 2h",
+    "hora": "Há 9h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 21,
@@ -310,9 +310,9 @@
     "categoria_label": "📈 Conquistas & Economia",
     "regiao": "Nacional",
     "data_dia": "2026-11-04",
-    "hora": "Há 2h",
+    "hora": "Há 9h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 22,
@@ -325,7 +325,7 @@
     "categoria_label": "📈 Conquistas & Economia",
     "regiao": "Nordeste",
     "data_dia": "2026-11-04",
-    "hora": "Há 4h",
+    "hora": "Há 11h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -340,7 +340,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-11-04",
-    "hora": "Há 4h",
+    "hora": "Há 11h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -355,7 +355,7 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-11-04",
-    "hora": "Há 5h",
+    "hora": "Há 12h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -370,7 +370,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-11-04",
-    "hora": "Há 6h",
+    "hora": "Há 13h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -385,7 +385,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Sudeste",
     "data_dia": "2026-11-04",
-    "hora": "Há 8h",
+    "hora": "Há 15h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -400,7 +400,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-04",
-    "hora": "Há 10h",
+    "hora": "Há 17h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -415,7 +415,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-11-04",
-    "hora": "Há 10h",
+    "hora": "Há 17h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -430,7 +430,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-11-04",
-    "hora": "Há 11h",
+    "hora": "Há 18h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -445,7 +445,7 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nordeste",
     "data_dia": "2026-11-04",
-    "hora": "Há 3h",
+    "hora": "Há 10h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -460,12 +460,42 @@
     "categoria_label": "📈 Conquistas & Economia",
     "regiao": "Nacional",
     "data_dia": "2026-11-04",
-    "hora": "Há 6h",
+    "hora": "Há 13h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
     "id": 32,
+    "titulo": "Itaú pede previsibilidade fiscal a Lula e grau de investimento",
+    "veiculo": "Acia Araçatuba",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaFhtVDVlb0k2aXZMaGNDZUhfNThDNWxkalAwUUpUM25YcEZyVnAtaHFqejRDbkNVSWpoeFl6VHZIOThuUEhDY2VraklwZG1KdWpIOXFibFFBaUVoUXZRSkJ4YWtVT1VNal9RTlB5OWN5UjI1bUdaOUZoTlUzd3U5R3JIb0RSaGtu?oc=5",
+    "resumo": "Itaú pede previsibilidade fiscal a Lula e grau de investimento  Acia Araçatuba",
+    "imagem": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
+    "categoria": "economia",
+    "categoria_label": "📈 Conquistas & Economia",
+    "regiao": "Nacional",
+    "data_dia": "2026-11-05",
+    "hora": "Há 5h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 33,
+    "titulo": "Governo Lula publica medida provisória do Imposto Seletivo",
+    "veiculo": "CartaCapital",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPM204cjZKOXZqck1vM2YxdlJhWXZCNjQwdXhVRExTYjMxQy1Nc1FwZmk0OURid2swVWMzV2pRYU9nbWlvZXljRlh2azRUbnJSR1NUMWZkYU1odjc0MlpYbnI2dFVjSmlqdkU5T3c2VzZDRmYydmt5RGNYMG5PTmhSbEUzWnlET1JGNnJvemFqYnpyMXVoQmVOazhCNTg0OVRfYXc?oc=5",
+    "resumo": "Governo Lula publica medida provisória do Imposto Seletivo  CartaCapital",
+    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
+    "categoria": "geral",
+    "categoria_label": "📢 Notícias do Povo",
+    "regiao": "Nacional",
+    "data_dia": "2026-11-04",
+    "hora": "Há 6h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 34,
     "titulo": "MPF e AGU celebram acordo contra desinformação na saúde",
     "veiculo": "Ministério Público Federal",
     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQekotdlVMdFAzNnRZQkZaRTcxMjdocGZVQkZjenhTMlA4ZklsR2Q1MHgwRloyOWs5c1Z3SFdfQ1BpTTlzZVpmTVFoOWJFXzVmOFdtVG1ORzR3OXJQdElpd2N6RkZhQ3F6TGxMQnVRNmh0cFg2UWltTmY1WXJPbjNLRjlBQjN4Y2l6MGtiVFJNWVprUkExQzB2X1ozWEQwYnRSbkpjckV5blU3TDg?oc=5",
@@ -475,27 +505,12 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-11-04",
-    "hora": "Há 11h",
+    "hora": "Há 18h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 33,
-    "titulo": "Press Release: Einstein e Ministério da Saúde desenvolvem plataforma de inteligência artificial",
-    "veiculo": "Einstein Hospital Israelita",
-    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNMlB4QWwyYnhONEI2UDUtR2lOMU01QXV4UUpjNk1hdEYzOVk5M0Etc0twRGo0VUZoZ3BzZ2ktb0x3c0xWQzFIM2w4YzFLSHpsM0I0dGJHVHcxZm4zXzRnUHFmS05lUXh3N3hWaElwQlZyMkxYRUx0d29BeWh0N2hfYmR0d0U1cTdFNTVKemRxRDF1aHkzR0FPTFVfX1JFZk1vZFhqV1pTbWFySll1cjdRVDBqMC1xTE93enpOUHZjeWhlNmE2OWpZbE1fMG4yQlVhTzBrcU16YXl2R0ZmLXNUMF8tcTQxYmgx?oc=5",
-    "resumo": "Press Release: Einstein e Ministério da Saúde desenvolvem plataforma de inteligência artificial  Einstein Hospital Israelita",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
-    "regiao": "Nacional",
-    "data_dia": "2026-11-04",
-    "hora": "Há 5h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 34,
+    "id": 35,
     "titulo": "Maluhy, do Itaú, pede previsibilidade fiscal a Lula e defende volta do grau de investimento",
     "veiculo": "NeoFeed",
     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOa05xRUdVdnYxMllpS2NaSkFaNlo5OThWZ1UwUjUxMnVSc2QyLW9qMjFLVEJ1NUo1QmFxcGsyRlNGVXZQSUI1dEhUSnFYa3ptSDFad05tNXRrRjZPZVBFRWMtcjFIb2R3azV3NWd6dmdlT3ZYM1JPQ2NKNUtrQkRtQ2NPbnVUYVRCTEE0TzNFLUliajk5WUpoY2tlMjU1MlBhUVpROHQ1YVRrT2ZTRkhtVUd0Ri1Vd0hUYlkwMGFudw?oc=5",
@@ -505,12 +520,27 @@
     "categoria_label": "📈 Conquistas & Economia",
     "regiao": "Nacional",
     "data_dia": "2026-11-04",
-    "hora": "Há 10h",
+    "hora": "Há 17h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 35,
+    "id": 36,
+    "titulo": "Press Release: Einstein e Ministério da Saúde desenvolvem plataforma de inteligência artificial",
+    "veiculo": "Einstein Hospital Israelita",
+    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNMlB4QWwyYnhONEI2UDUtR2lOMU01QXV4UUpjNk1hdEYzOVk5M0Etc0twRGo0VUZoZ3BzZ2ktb0x3c0xWQzFIM2w4YzFLSHpsM0I0dGJHVHcxZm4zXzRnUHFmS05lUXh3N3hWaElwQlZyMkxYRUx0d29BeWh0N2hfYmR0d0U1cTdFNTVKemRxRDF1aHkzR0FPTFVfX1JFZk1vZFhqV1pTbWFySll1cjdRVDBqMC1xTE93enpOUHZjeWhlNmE2OWpZbE1fMG4yQlVhTzBrcU16YXl2R0ZmLXNUMF8tcTQxYmgx?oc=5",
+    "resumo": "Press Release: Einstein e Ministério da Saúde desenvolvem plataforma de inteligência artificial  Einstein Hospital Israelita",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
+    "regiao": "Nacional",
+    "data_dia": "2026-11-04",
+    "hora": "Há 12h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 37,
     "titulo": "Brasil sedia reunião de cooperação para eliminar a malária no Escudo das Guianas — Ministério da Saúde",
     "veiculo": "Governo Federal",
     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdk1UWXMtUGd2WG02cVhYOV9qWk50LXJLaVNCNk9nMUtXVUJBQ2wtQ1R2M1dEelNIeWN1M1djcm1ZNmRtSWxndWNtOWVFWHJYdFJTUFdhRXROMHpZdXRQOWVvMTFDTUZuYlE3azlQRXpsUFhXbXdReU4wc2FrMXBhMzI3SU16Y0hyRWpmSkVOUFlXZ24zVTlOeERlZW5RZjZxOEpuLUZJLVV2TlpmbDZhWm5CNllWU2Z2c01YSVBOOHVONDBOUUpvUUdVOFlBa3l2c1ZOemRNYndjX0k?oc=5",
@@ -520,27 +550,12 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-11-04",
-    "hora": "Há 2h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": true
-  },
-  {
-    "id": 36,
-    "titulo": "Ouvidoria Itinerante do Ministério da Saúde visita pacientes em Itabuna",
-    "veiculo": "Prefeitura Municipal de Itabuna",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQLWxTX2ltbkR3dkJzNWlRbzhUcnBUS2tjTXV6Unh2M2kxdFl1R2w1TUI2ZC1zb0pfMTI4U2pBRUFHOWtrQldoS1ZEQTlKN2tQSXRrbmRRZHNpaC01OXN4VFJiWnZFeXlVVWdNWjI5SXhJQ2MyQzY3WDk2b3RORTFVRG5KVHZNdWliNElONHA4ZkZnbkNfTjRlNmZ3Z3hrMjk5RU80b3B0cHZ3MGVVLWlXcWxNMA?oc=5",
-    "resumo": "Ouvidoria Itinerante do Ministério da Saúde visita pacientes em Itabuna  Prefeitura Municipal de Itabuna",
-    "imagem": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
-    "categoria": "economia",
-    "categoria_label": "📈 Conquistas & Economia",
-    "regiao": "Nacional",
-    "data_dia": "2026-11-04",
-    "hora": "Há 10h",
+    "hora": "Há 9h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 37,
+    "id": 38,
     "titulo": "Prefeitura recebe novas ambulâncias do Ministério da Saúde para fortalecer o Samu Manaus",
     "veiculo": "Prefeitura de Manaus",
     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYVN6clZsQkd1d2dpbl9VZzljbWl3MGkzSmdVbEJyd0V3ZWNubVcySF82dGxkYnp1TXZZbnJtYjdRc3RDdTVpaUtfUTFZUkxSa1FFS2JFZEo5YnhlWlhzd3Z0MXFuYVlpVmY1ZUVqU3kzRWxrMWJnTE5UdV9FSUo2ODBYWWJUYTBFczY3TlBFWVhLUHZhMkRUcnBwOWxaUm5YN0wwQU9HYUdBSFd0WTVrUGp4T1IwRWVKaUJNUVFrS3RfWDE1U3k3ZlN3aGw4U2txalNGbE5lMzJJTHM?oc=5",
@@ -550,22 +565,7 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-11-03",
-    "hora": "Há 23h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 38,
-    "titulo": "Ministério da Saúde anuncia R$ 3,95 bilhões para projetos do Proadi",
-    "veiculo": "Medicina S/A",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9nR19RYjBZYnRsdW1fV2ROcGFickJucVV5Q004ZHluX2hBdVBnMm5IQW41OXVhZzBVajhKY3NJdE52VkNMb0JaYzI5OFhkdl94WnBvbF9JVjFmejBEU0xONjMtOTN1dw?oc=5",
-    "resumo": "Ministério da Saúde anuncia R$ 3,95 bilhões para projetos do Proadi  Medicina S/A",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
-    "regiao": "Nacional",
-    "data_dia": "2026-11-04",
-    "hora": "Há 13h",
+    "hora": "03/11 23:28",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -580,7 +580,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-04",
-    "hora": "Há 5h",
+    "hora": "Há 12h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -595,7 +595,7 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-11-04",
-    "hora": "Há 8h",
+    "hora": "Há 15h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -610,22 +610,22 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-11-04",
-    "hora": "Há 2h",
+    "hora": "Há 9h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 42,
-    "titulo": "“Nhe’ẽ – Vozes Originárias” celebra a cultura dos povos indígenas brasileiros",
-    "veiculo": "Prefeitura de Belo Horizonte",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdzhuVWFfMEpHeTEtTzRNUExjOTRPdTJVRE9wLU9rV2J6dVExMlVMcTFxY3J2d29ETFhIdUdFY3phZHc1Q0JKNHFzYXdlWVh4a0piR2VfWlJwZUVoRHlxVUs1S0Utald6TFUyS09ReWZNWUl0dHUtN1E5eThyRFVVaEVyam9QeWJ3MFM4NFlva3VXTjBkN21GY0dNVi1iN1VGN3NSUE4zZmkzYVZXYVE?oc=5",
-    "resumo": "“Nhe’ẽ – Vozes Originárias” celebra a cultura dos povos indígenas brasileiros  Prefeitura de Belo Horizonte",
+    "titulo": "MST se manifesta contra privatização do Ceasa em Alagoas",
+    "veiculo": "mst.org.br",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNXZtUEZLZkpfS3c3amhvRWZHdVAzOXlZaVMxalpTT2ZCOUI4bEZxRVBTQm1TSUNTSmRLUGFRUmZVUnh4ZUxhTmc0b2RmMXhaR2E4RGwzNzNfY193M1BKVnYtTklPeUZyUGNidHNxa2c1Sm5obmJjZkhOS1dYamFhbXlpMXJJQWdSTGxRRGJXOTE?oc=5",
+    "resumo": "MST se manifesta contra privatização do Ceasa em Alagoas  mst.org.br",
     "imagem": "https://images.unsplash.com/photo-1531206715517-5c0ba140b2b8?w=800&q=80",
     "categoria": "direitos",
     "categoria_label": "✊ Direitos & Mobilização",
-    "regiao": "Sudeste",
+    "regiao": "Nordeste",
     "data_dia": "2026-11-04",
-    "hora": "Há 7h",
+    "hora": "Há 14h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   }
