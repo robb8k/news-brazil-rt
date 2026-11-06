@@ -10,9 +10,9 @@
     "categoria_label": "✊ Direitos & Mobilização",
     "regiao": "Centro-Oeste",
     "data_dia": "2026-11-05",
-    "hora": "Há 1h",
+    "hora": "Há 8h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 2,
@@ -25,9 +25,9 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-05",
-    "hora": "Há 2h",
+    "hora": "Há 9h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 3,
@@ -40,9 +40,9 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Sudeste",
     "data_dia": "2026-11-05",
-    "hora": "Há 2h",
+    "hora": "Há 9h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 4,
@@ -55,9 +55,9 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-05",
-    "hora": "Há 2h",
+    "hora": "Há 9h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 5,
@@ -70,7 +70,7 @@
     "categoria_label": "📈 Conquistas & Economia",
     "regiao": "Nacional",
     "data_dia": "2026-11-05",
-    "hora": "Há 3h",
+    "hora": "Há 10h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -85,7 +85,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-05",
-    "hora": "Há 3h",
+    "hora": "Há 11h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -100,7 +100,7 @@
     "categoria_label": "✊ Direitos & Mobilização",
     "regiao": "Centro-Oeste",
     "data_dia": "2026-11-05",
-    "hora": "Há 3h",
+    "hora": "Há 11h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -115,7 +115,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-05",
-    "hora": "Há 4h",
+    "hora": "Há 11h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -130,7 +130,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-05",
-    "hora": "Há 5h",
+    "hora": "Há 13h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -145,7 +145,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-05",
-    "hora": "Há 6h",
+    "hora": "Há 13h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -160,7 +160,7 @@
     "categoria_label": "📈 Conquistas & Economia",
     "regiao": "Nacional",
     "data_dia": "2026-11-05",
-    "hora": "Há 6h",
+    "hora": "Há 13h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -175,7 +175,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-05",
-    "hora": "Há 7h",
+    "hora": "Há 14h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -190,7 +190,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-05",
-    "hora": "Há 8h",
+    "hora": "Há 15h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -265,7 +265,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-05",
-    "hora": "Há 4h",
+    "hora": "Há 11h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -280,7 +280,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Norte",
     "data_dia": "2026-11-05",
-    "hora": "Há 5h",
+    "hora": "Há 12h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -295,7 +295,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-11-05",
-    "hora": "Há 6h",
+    "hora": "Há 13h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -310,7 +310,7 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-11-05",
-    "hora": "Há 6h",
+    "hora": "Há 13h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -325,7 +325,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-05",
-    "hora": "Há 6h",
+    "hora": "Há 14h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -340,7 +340,7 @@
     "categoria_label": "✊ Direitos & Mobilização",
     "regiao": "Nacional",
     "data_dia": "2026-11-05",
-    "hora": "Há 8h",
+    "hora": "Há 15h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -355,7 +355,7 @@
     "categoria_label": "✊ Direitos & Mobilização",
     "regiao": "Nacional",
     "data_dia": "2026-11-05",
-    "hora": "Há 8h",
+    "hora": "Há 16h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -370,7 +370,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-05",
-    "hora": "Há 9h",
+    "hora": "Há 16h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -385,27 +385,42 @@
     "categoria_label": "📈 Conquistas & Economia",
     "regiao": "Nacional",
     "data_dia": "2026-11-05",
-    "hora": "Há 9h",
+    "hora": "Há 16h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
     "id": 27,
     "titulo": "Saúde antirracista: Ministério da Saúde participa da Campanha do Mês da Consciência Negra 2026",
-    "veiculo": "GOV.BR",
+    "veiculo": "Governo Federal",
     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPaEEyNjBYMWRtOVJhR242a2tKbG00TjBCcmg5RXhtTjBmVms5bmpmcWFNRjAxeDNuTkcta2JTaWJVTXRnTmxCc05jSU5fNHpvSEwyUV9VQ2pWZjRQbm5ZNnpTTThOQzIycFhkMWpOSWdScWtObG1meUNOal90NGkxdWMtakgzLUdsV1VUcjJXSWpickFya3FrMmZjNTFQQ2hadm5lcFpHSnBMOUpOMGtmUDNfQjhIS0dxTktDTk55a09oWTIxYWRJWFI1aTh2NEIzM2RGRTRpNFhVTWJTQmx6S2Fnc0VLUk1vcW9LZw?oc=5",
-    "resumo": "Saúde antirracista: Ministério da Saúde participa da Campanha do Mês da Consciência Negra 2026  GOV.BR",
+    "resumo": "Saúde antirracista: Ministério da Saúde participa da Campanha do Mês da Consciência Negra 2026  Governo Federal",
     "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
     "categoria": "eleicoes",
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-11-05",
-    "hora": "Há 7h",
+    "hora": "Há 14h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
     "id": 28,
+    "titulo": "Governo Lula prepara nova negociação por investimento da China no Fundo de Florestas",
+    "veiculo": "Folha de S.Paulo",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZ2xyak1tNFcwa1hSU2xDUHZFbktDeG93bUVVdF9zWDdVTnhIVm1ybXZWeFZGZ0kwVmZ1STdaYW9ZdnE0bXNwZjE3alpIcFJMV0FOZUtLeUVodUJ0UWRHWHJHTmhlcC1XZ0ZUZnlURkdVZ0dEbE9DaWREWDc5dEtKeHpMbkY3M0dYT3lVaUQ2dGRVY19OVDkzYml3NUZla1JSdXV4Rm5oN0FfSzZaVjlub3c0MkFGMDdUVjNKV1c3c3lic2tvMS0ybzIzWm4xc2RRa1FR?oc=5",
+    "resumo": "Governo Lula prepara nova negociação por investimento da China no Fundo de Florestas  Folha de S.Paulo",
+    "imagem": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
+    "categoria": "economia",
+    "categoria_label": "📈 Conquistas & Economia",
+    "regiao": "Nacional",
+    "data_dia": "2026-11-06",
+    "hora": "Há 1h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": true
+  },
+  {
+    "id": 29,
     "titulo": "Ministério da Saúde vai comprar até 20 mil doses da vacina contra mpox",
     "veiculo": "Agência Brasil",
     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMGsxX1JoNEVUTktObVZsLXlJaVZGQWxpeWpETHp0U0xBaVl0NnA5STdVY0dPbXppcDAyTTJpNTloandnSlpDQ3NRWTBKLU5VeTlhNjlBZXczSjdBWTVDblduQXMxYnJ5eUtJdEE2ZWFwS2otWTZnaGt1YlF5a09qVXptUFNqOXZuR1pQUmxPWnFrTlBUd185VjVoQ2V4Zk10YVY4b09HN0hMVEZQNUpKTVhsT2VOU0dHTERSY2N3?oc=5",
@@ -415,27 +430,42 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-11-05",
-    "hora": "Há 4h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 29,
-    "titulo": "Economia precisa estar \"arrumada\" para atrair investimento, diz Lula",
-    "veiculo": "CNN Brasil",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOWdJNGN2bHEyNklEclp0VjlIYnZYY0x6WGxyZGx1by05aHFRb2RfV0dnZXpzcjdQbEtmOEtxempUR042dU9tNFJVTGdENXRHaFlVdmhJejNHanhWSXJ5WFE4N1J5cnNORURZdXlaYlNfZ2hCblBtZzR1SldjYUw0eVp4dXpwRWhQUl9jUk9WMk1haDBEa1RWR0ZDck5zWjNQMmVrQmVXT3duOHZZWERuQVU3ZmJlc1VaQzVpMzNTeHBTUQ?oc=5",
-    "resumo": "Economia precisa estar \"arrumada\" para atrair investimento, diz Lula  CNN Brasil",
-    "imagem": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
-    "categoria": "economia",
-    "categoria_label": "📈 Conquistas & Economia",
-    "regiao": "Nacional",
-    "data_dia": "2026-11-05",
-    "hora": "Há 4h",
+    "hora": "Há 11h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
     "id": 30,
+    "titulo": "Lula fala em saúde fiscal e recebe economistas ligados ao PT",
+    "veiculo": "Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWmZ6cHVPM21KUkVmWnpvTHoyOWZwajFOOXE5SGlZVnJSM0FQcVJQNDNBR1ZFb2pRZ2VrNHFtT2h5d0tRUUJyS0RQZG1VRlZ5X0tjYUE1QTZyQUxUd2tjdjlRNVV6MTZneWF6WVdHdUhIWXp1eWJhWDFtY1F0NC1CZTJtUkpsUWdjSWo2bURPUWxUN1hFUV9zUjdaS3J4Z21jUHBRZTdOUHdzNHpSdGZkVjNuVy1pVDdVcVHSAcgBQVVfeXFMT1dCa0ppalNtUjA1cXp1dXgxRUFiNGNIOUI5OFBraHl1RU1scC05emZHUlFGcUotNEZwY0NnTWZYRUlza1dPZUxRMmpBZE1IUnFwR2FqZVQxVUwxYXJQQ0ktNmtfVDFYY0ZUT244LWdPNjYxTEt3UDJyeUVkODlXN0JVaUZWS2tBbmZQQmEyd3d2emFDSzIxVUtFUjkzV2w5VUdBMkgtMVdCN3dsaG85YXNIWndWV09KcGpRUWxpczhYUERJUWNvbGM?oc=5",
+    "resumo": "Lula fala em saúde fiscal e recebe economistas ligados ao PT  Valor Econômico",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
+    "regiao": "Nacional",
+    "data_dia": "2026-11-06",
+    "hora": "Há 1h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": true
+  },
+  {
+    "id": 31,
+    "titulo": "Economia precisa estar \"arrumada\" para atrair investimento, diz Lula",
+    "veiculo": "brasilagro.com.br",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQkZFUmNlckZPX0lCR0tfMlA2SHM0SmVaZ1hXajVpSDFraUM4T0VNWDN4NFdtVzI5V1ZYMjdWYTZSWlEzVjRqaTBYTnNKVklLdGkzMTdzbVAwNmJtQzdLWXBPSld5d3ZFUjhuQmJuNVhFUXNhMHF5Xy1mSW1panpZeXdrTGFFVTBfd2oxRHY5ZE81MXMxUUc5M2s5UGVDc3Z3b1FZUnNtWXR5ZVhnUUE?oc=5",
+    "resumo": "Economia precisa estar \"arrumada\" para atrair investimento, diz Lula  brasilagro.com.br",
+    "imagem": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
+    "categoria": "economia",
+    "categoria_label": "📈 Conquistas & Economia",
+    "regiao": "Nacional",
+    "data_dia": "2026-11-06",
+    "hora": "Há 1h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": true
+  },
+  {
+    "id": 32,
     "titulo": "Ministério da Saúde autoriza aquisição de 20 mil doses da vacina contra a Mpox",
     "veiculo": "CartaCapital",
     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeU9rSk1acjFOeV9odTR3eXhkdmxxSlJ3UlRVR1FqWTVYX2ljSlpxSjNFbzh0Z3pmZlNVdmFZY3k1SXdCNTk0aVBCcmlYZHlfQ3BBV2xCM1BvZUo1UURxZk9ORl92MEV6UTc4My0xWHN4OHFROHNzdF91RlFhQ2h0cVFDcmt6VHpUcEowTHlMdm5fRDFxcHBBb1BVbHNHcXBXXzdpb2ZsODZYemZFSWlyYkNFN2M5VUFs?oc=5",
@@ -445,72 +475,27 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-11-05",
-    "hora": "Há 4h",
+    "hora": "Há 11h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 31,
-    "titulo": "TSE admite ação do Novo contra chapa de Lula e Alckmin",
-    "veiculo": "Poder360",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdTNrMUk4cE82ODFGVjFFRlFrOGhsY0xGM0h1Q2Jldk1JQ1M5SlJoTmlyTHJJeUVkRzJsajNSZ1ZScmhBdFdkU193SWVDS1RtazhuVFJkb2ZxUjl2WjNZQi13R1N0SVJXNENJUGVONXhSV2JoNVp2YlRiT3lJMW95aFkxRml5dHFTZE56dThFMzREVU1fZWxUV2xlMC16dw?oc=5",
-    "resumo": "TSE admite ação do Novo contra chapa de Lula e Alckmin  Poder360",
-    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
-    "categoria": "geral",
-    "categoria_label": "📢 Notícias do Povo",
-    "regiao": "Nacional",
-    "data_dia": "2026-11-05",
-    "hora": "Há 2h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": true
-  },
-  {
-    "id": 32,
-    "titulo": "Prefeitura de Parintins, Ministério da Saúde e USP realizam visitas técnicas e comemoram 20 anos da Telemedicina no município",
-    "veiculo": "Prefeitura de Parintins",
-    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOTlh5bTBoNmxVN2hCT21yNGxpWjhJSUFyNHhSYzNjRDFlcUNVdEQxd0o2UkZ0THdPTVZ0cHNLYmJSMUlQRUc5NmRtSXFzNDd2b1BOWTVCR0pwaE1IMHo0cWFUZ0s0SzRmaWc0RzBlNzFjWUJ4WGxGUUF6azNMYWVUN1F5NFVBN1hlTS1xbUVWMVFDU21vaXdQZHBDVTRPT203V0d1OG1wT05SOVJUemUzTHFSdXF3dUJuOHpFeU0xQkRXZDR2T2JYRXU5VDdtVjJuYlJ3d2VRTXpxa1dyNUlaNkJBRzBjdHBCY3hmWXpEMUkwUQ?oc=5",
-    "resumo": "Prefeitura de Parintins, Ministério da Saúde e USP realizam visitas técnicas e comemoram 20 anos da Telemedicina no município  Prefeitura de Parintins",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
-    "regiao": "Nacional",
-    "data_dia": "2026-11-05",
-    "hora": "Há 3h",
-    "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
     "id": 33,
-    "titulo": "Mpox: Ministério da Saúde autoriza a compra de 20 mil doses de vacina",
-    "veiculo": "O GLOBO",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUDVIUVYwcG9FUDlmQTk4YWdjUVVhS0ZodEJxLUdSY2s4Ti1WNXhuV1FjRlJQcFVCWnBjNXhxd1RpTHNzcm05NWltdlZJWGlPNFlhNXA5WC03Q3pVS2pnME4ydHlkMTJkYmFmRUhaY0l6QjZDOC14c2dnTjhoak9qZ2NubC1lSi1PaHlieHZUYnYxZ0lYUEExajBNWHhNLWVFOFg5Snc5YmJtSnVyTEIxOGI5d2dxLW5RWUpfZ09KZDZrUdIB0AFBVV95cUxQUGFxbkIxbjdmUXltZEhzQWREWlZYNzFqYm1HYlQ0eGEzUWVibEdJbS1QM3UtSmVleTlORFVtUGFpNldNV0d2d1dwbmJDd2xKYjdyZ252TXA1QzY0Qjg1NnF6UXhkc09FSGRwNTZCbHpGbkxXM1MwaGhIWkRjVnpUUXlrU3JXR3laR29UUUFVbURhZ3BqQjFqZkdMVkh3Ml9mWmdubDl4R2tZbS0tMzkwN2dlZS1NNzhScDVOV2oxRGdheUlPUU42eW9YZzZERDNU?oc=5",
-    "resumo": "Mpox: Ministério da Saúde autoriza a compra de 20 mil doses de vacina  O GLOBO",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
-    "regiao": "Nacional",
-    "data_dia": "2026-11-05",
-    "hora": "Há 9h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 34,
     "titulo": "MTE e parceiros promovem oficina sobre juventude e trabalho com representantes de países da América Latina nesta sexta-feira (6), em São Paulo",
-    "veiculo": "GOV.BR",
+    "veiculo": "Governo Federal",
     "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOdVRyNFU2d0FYUHVzNG5qWWhSeXBIWktnUEZZQzlQM3BKZ1R2bW5FM05BaVdBSU9RWUI3ZHVaTEZXLWZwS2lkS2x4UFNXbElWSlp5QTkxSEIxeVYxOXBKSjBJd2Vfa2NTVEp1Vzh2aXFDMFB1dlgzbEhaa3NZQ0FUMk0xTXZQSmp2VXdsdVVTM09fTjFVekZLSjVwVldUVGZGT3FqcHR4aFdpUXBBTXZpSXZlVnljVEtZRDBkYkZTVHRYVktoaTIwbjBhNHVXTmJGcjR4Q1RKMDBPR3A1a19CTnJ1Sm1xMFFNR0tUNGhFR1gteXlkZjAwbGw2RjhvcEQ2VzZ5YzJVaGJwWlB2aTlWTGJrUmFtVUFpWGY4emxicC1aZDk5NlIyQ3pWRDU2emJjUndXZmx0QWVIU1VEZmc?oc=5",
-    "resumo": "MTE e parceiros promovem oficina sobre juventude e trabalho com representantes de países da América Latina nesta sexta-feira (6), em São Paulo  GOV.BR",
+    "resumo": "MTE e parceiros promovem oficina sobre juventude e trabalho com representantes de países da América Latina nesta sexta-feira (6), em São Paulo  Governo Federal",
     "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
     "categoria": "geral",
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Sudeste",
     "data_dia": "2026-11-05",
-    "hora": "Há 7h",
+    "hora": "Há 14h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
-    "id": 35,
+    "id": 34,
     "titulo": "Estudo analisa mudanças nas regras e na gestão do Mais Médicos entre 2013 e 2025 — Ministério da Saúde",
     "veiculo": "GOV.BR",
     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQcnE3azJmaTRRSExwYnljdFdQZXlVeGs4dTdpQlJibnFBUjBvcy1Jb1QzSklPTTNiY2podmY4RjZRVkhqTFhJdUQ4SVZfZFNCY3BfU3h1WXZWS256MXk0RVAxMXRVOWlKS0U3MzNud1NmMFU1X05tWHBPU1doQ2xPdUlva2Z1MXBfQkVKNmQyNlc5SUZiNnpteHhkZnRWc2dQOU9lUmhuZXVESnp1cGxncVR0ZHVJdWp5UUlOQW5GUlYyU053NlRNSlVYMDRZQ2JjMEhSci1sQk10bUE?oc=5",
@@ -525,7 +510,7 @@
     "urgente": false
   },
   {
-    "id": 36,
+    "id": 35,
     "titulo": "País gerou 1.248 mil empregos formais até setembro de 2026 — Ministério do Trabalho e Emprego",
     "veiculo": "GOV.BR",
     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVHZlWXpxckwxVWpQVzdKczdUcEVnMk9WT3ZtWGk5UVU3UWZpdjh0M1VXWmtlUVQ0OWh6ZUJjbEw2TE43NVJzekJoYTZvTjRlQU1BUmhFd3paTzQ5SzhUUmxQMXF1eUxEZGt5WEFuOHF3empwX2JicDFwUzh2NVZhQ2VNV09yNXNjUXhicXV3RlotZ3VHcDUwUmR4SjhwajhrT01ZLUU3VkZSdkNfTUE1OWhNOU1tZ1JhVDNBbDdWQTk4Nm55S0Zqb1BiV1RiWmJIckE?oc=5",
@@ -540,11 +525,11 @@
     "urgente": false
   },
   {
-    "id": 37,
+    "id": 36,
     "titulo": "Ministério da Saúde lança formação inédita para enfrentamento ao racismo e promoção da saúde da população negra",
-    "veiculo": "GOV.BR",
+    "veiculo": "Governo Federal",
     "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNQVM1bGxEbWZaSmQxUi1BRmFMT2lKWDJ6bEYyMTItbXRPY0ZJTFFwUjRWeU9wcFB4QW5RMW1rZk1UeC0zOG5xRFdQS1NhbWJwT3pfcER6NUQwQS0zS3BSdmFVdlAtRDZ0OE8tdTBRNDNNaktyS0taUE5kVmdsdDNIYW0ySnN5QnY1TDZaVkNiQ1QxN3RFNk9DMEd5NjkxYnd5aW1oNDlBaW44Zm1tNmZBUEJJdXl1TWJTV1NtMkhjTENiVVNCR28zQTg2bnhJa0VEOVg3ZF93RVJYRF9ZR25LTWI5OTAxRkhXR2kxRjFiODJUQlV5cjI5UHk2MkVmb281ZGtoSA?oc=5",
-    "resumo": "Ministério da Saúde lança formação inédita para enfrentamento ao racismo e promoção da saúde da população negra  GOV.BR",
+    "resumo": "Ministério da Saúde lança formação inédita para enfrentamento ao racismo e promoção da saúde da população negra  Governo Federal",
     "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
     "categoria": "social",
     "categoria_label": "🏛️ Políticas Públicas",
@@ -555,7 +540,7 @@
     "urgente": false
   },
   {
-    "id": 38,
+    "id": 37,
     "titulo": "Ministério da Saúde lança glossário com mais de 500 termos sobre dispositivos médicos conectados",
     "veiculo": "Governo Federal",
     "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOUXI4d3gzTlkyQUsxYVNIN1N1cUdrRzlFcGNxUHJnTThCTGUtVEFJUXZnRVFPUTBJM051eEd6Mm0zWjl2WUNQcV9QNzN3TC1rWm93dGxyNFNydkRiRkxodmlJRHR0alUwMW1hSXNZczB0UTlLa09wcDY3V2ZMeVIzWmJ6c2FFTl9CLTB2YXMxSXh1ckhmaVIwWTNIQjlvcVVTOExONFVIeE1HV2tZTFdUY1phdFhEMkdMWV9ZZEVBRWRFWTQxaFg3eGFRVThjdmMyT19MY0pyNFFxdFRtY0psUmlpTGlLQm1iRDJJYk0yTmI?oc=5",
@@ -570,7 +555,7 @@
     "urgente": false
   },
   {
-    "id": 39,
+    "id": 38,
     "titulo": "Ministério da Saúde promove 1º encontro intercultural entre parteiras, parteiros, lideranças e profissionais de saúde indígena do Ceará e do Piauí",
     "veiculo": "GOV.BR",
     "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPdUNNcy13LTNEN3hib1FrYWFrZEFqZ2lxM3ZGaGlxVHM3VmMwNzcteW04b1ZwLTZ2R1l2Y1IzeUZUbUNTdWM1X1RHSmJEeWEwR1d2Z1RfUHRYWUpiWkZWdmcweUZIeHJnekdHeFF4LWhaS2JYbjRkMk9Bbm9reG9wOWZyX2Y4M3E2LS1wcW4wS3lwNUFsam5KeWx2eDZQZWhqMU13SGlZZjN5Njk3Y2dSUkU2d3EzWFNYZktHS0VWU1FiR0hyeU4zcElIenZVX0dFODdzTzV6ZG9yWkVXTmhTVTlGMUhhajNoNjlxaVJEWDMzSEV2VHBoZjRqeTAzcWJLTzFpeENoRTFTUFBVdFZ2TktHVXh5QVZRVC1xb2luT3JHZXB0OVVvb2tPNm5KeVpn?oc=5",
@@ -585,7 +570,7 @@
     "urgente": false
   },
   {
-    "id": 40,
+    "id": 39,
     "titulo": "Brasil apresentará na COP31 modelo de resposta do SUS às emergências climáticas — Ministério da Saúde",
     "veiculo": "GOV.BR",
     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdW83d19WY0ZkZE1ObjNrTnRvQkdaa0diekpSd25vR1c0SExrdXZ0ODZJUEd0T0cwSjNDbmQwQ2FzZWJVYm8xNTR6OXA2cVFncUwxUXk4cWh6bUVheG5nOGwzdV9zRmlDVHVLTThRRXdVQ0ZxVXB4OFotQ3VpZHZBamYtZnR3NDdfZ2VGR2N6RkZnQ0hEUGItaWswd2Z2dXM1cjF2RFFCOVVYeFEzT3g2M2x3UURva3hGLUw5aDRUSDVubU9RUFo5ZHJJVDNRREhvODdsanJRN1p0UQ?oc=5",
@@ -600,6 +585,21 @@
     "urgente": false
   },
   {
+    "id": 40,
+    "titulo": "Brasil sedia reunião de cooperação para eliminar a malária no Escudo das Guianas — Ministério da Saúde",
+    "veiculo": "GOV.BR",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdk1UWXMtUGd2WG02cVhYOV9qWk50LXJLaVNCNk9nMUtXVUJBQ2wtQ1R2M1dEelNIeWN1M1djcm1ZNmRtSWxndWNtOWVFWHJYdFJTUFdhRXROMHpZdXRQOWVvMTFDTUZuYlE3azlQRXpsUFhXbXdReU4wc2FrMXBhMzI3SU16Y0hyRWpmSkVOUFlXZ24zVTlOeERlZW5RZjZxOEpuLUZJLVV2TlpmbDZhWm5CNllWU2Z2c01YSVBOOHVONDBOUUpvUUdVOFlBa3l2c1ZOemRNYndjX0k?oc=5",
+    "resumo": "Brasil sedia reunião de cooperação para eliminar a malária no Escudo das Guianas — Ministério da Saúde  GOV.BR",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
+    "regiao": "Nacional",
+    "data_dia": "2026-11-04",
+    "hora": "04/11 19:47",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
     "id": 41,
     "titulo": "Derrota histórica de Trump nas eleições legislativas dos EUA reflete desgaste econômico, analisa pesquisadora do INCT INEU",
     "veiculo": "Jornal da Unesp",
@@ -610,22 +610,22 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-11-05",
-    "hora": "Há 6h",
+    "hora": "Há 14h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
     "id": 42,
-    "titulo": "Primeira etapa da Especialização em Questão Agrária na América",
+    "titulo": "‘Matar essas pragas’: PF investiga denúncias de violência contra Indígenas durante e depois da eleição",
     "veiculo": "mst.org.br",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQejZlcUJlVXdZU1VKWExlcW5yTnJ2bnFxN0lXTzExdzc1al9feDVoaENZcndUYlg3eGFMU3FkcjZvbUI3cVhldVh3a1gxZEs2UlZjaTRnN2ctUDBKdVg4V1JYcXdyRFZKZ3l3cGRETjhnS0ZVa2J2cHo2TEl3aFB1VTAyNjl6TU4xSDNLS0YxQmFnM0dGNkFCbA?oc=5",
-    "resumo": "Primeira etapa da Especialização em Questão Agrária na América  mst.org.br",
-    "imagem": "https://images.unsplash.com/photo-1531206715517-5c0ba140b2b8?w=800&q=80",
-    "categoria": "direitos",
-    "categoria_label": "✊ Direitos & Mobilização",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOT1NxMmlHbnRaazZ4bC0zZFNMUXZ2LXBGbnFYWm50VjB0eElTaEYwbDlkT0VVWmZZb2JQMVpMbk9OYXNHWF9ZNUhkSTFCekoyX0VaajRjU3ozWHJwTGRLZEY2dGJaR1BiMGRqR3VUSm5ZRUhjZ09RVExveDVXd0ZCRTR4Y0JfSjRsVG1XdU5XeXlzVjhtUVR1MGQ3Vjg0cmxYenU3RTFlZXFsQ0ltb1JuakhPem92T3JhbGJ3WEtHSlhsODhENFpwTVJn?oc=5",
+    "resumo": "‘Matar essas pragas’: PF investiga denúncias de violência contra Indígenas durante e depois da eleição  mst.org.br",
+    "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
+    "categoria": "eleicoes",
+    "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
-    "data_dia": "2026-11-05",
-    "hora": "Há 5h",
+    "data_dia": "2026-11-03",
+    "hora": "03/11 17:19",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   }
