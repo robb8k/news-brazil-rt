@@ -1,6 +1,21 @@
 [
   {
     "id": 1,
+    "titulo": "Frente fria provoca queda de temperatura e risco de tempestades",
+    "veiculo": "Agência Brasil",
+    "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/frente-fria-provoca-queda-de-temperatura-e-risco-de-tempestades",
+    "resumo": "A passagem de uma frente fria pela região Centro-Sul pode provocar chuvas, trovoadas e ventos fortes na maior parte do país nos próximos dias.\n\nDe acordo com a previsão d...",
+    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
+    "categoria": "geral",
+    "categoria_label": "📢 Notícias do Povo",
+    "regiao": "Sul",
+    "data_dia": "2026-11-07",
+    "hora": "Há 3h",
+    "tempo_leitura": "2 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 2,
     "titulo": "Rio de Janeiro registra chuva intensa e rajadas de vento",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/rio-de-janeiro-registra-chuva-intensa-e-rajadas-de-vento",
@@ -10,12 +25,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Sudeste",
     "data_dia": "2026-11-07",
-    "hora": "Há 1h",
+    "hora": "Há 4h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 2,
+    "id": 3,
     "titulo": "Anvisa vai certificar insumos farmacêuticos ativos fabricados no país",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/anvisa-vai-certificar-insumos-farmaceuticos-ativos-fabricados-no-pais",
@@ -25,12 +40,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-07",
-    "hora": "Há 2h",
+    "hora": "Há 5h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 3,
+    "id": 4,
     "titulo": "TV Brasil transmite jogo entre Ferroviária e Paulista Sub-20 Petrobras",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/tv-brasil-transmite-jogo-entre-ferroviaria-e-paulista-sub-20-petrobras",
@@ -40,12 +55,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Sudeste",
     "data_dia": "2026-11-07",
-    "hora": "Há 2h",
+    "hora": "Há 5h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 4,
+    "id": 5,
     "titulo": "Brasil sofre goleada e termina em 4º lugar no Mundial Feminino Sub-17",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/brasil-sofre-goleada-e-termina-em-4o-lugar-no-mundial-feminino-sub-17",
@@ -55,12 +70,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-07",
-    "hora": "Há 2h",
+    "hora": "Há 5h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 5,
+    "id": 6,
     "titulo": "Covid-19: pelo menos 5 estados registram aumento de casos graves",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/covid-19-pelo-menos-5-estados-registram-aumento-de-casos-graves",
@@ -70,12 +85,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-07",
-    "hora": "Há 3h",
+    "hora": "Há 7h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
-    "id": 6,
+    "id": 7,
     "titulo": "Enem: confira as regras, os horários e os itens proibidos na prova",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-confira-regras-os-horarios-e-os-itens-proibidos-na-prova",
@@ -85,12 +100,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-07",
-    "hora": "Há 4h",
+    "hora": "Há 7h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
-    "id": 7,
+    "id": 8,
     "titulo": "Bombeiros continuam buscas em prédio que desabou no Brás",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/bombeiros-continuam-buscas-em-predio-que-desabou-no-bras",
@@ -100,12 +115,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-07",
-    "hora": "Há 4h",
+    "hora": "Há 8h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
-    "id": 8,
+    "id": 9,
     "titulo": "PGR pede suspensão de ações contra proibição de bets",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/pgr-pede-suspensao-de-acoes-contra-proibicao-de-bets",
@@ -115,12 +130,12 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-11-07",
-    "hora": "Há 5h",
+    "hora": "Há 8h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 9,
+    "id": 10,
     "titulo": "Professores comentam primeiro dia de provas ao vivo na Resenha do Enem",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/professores-comentam-primeiro-dia-de-provas-ao-vivo-na-resenha-do-enem",
@@ -130,22 +145,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-07",
-    "hora": "Há 5h",
-    "tempo_leitura": "2 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 10,
-    "titulo": "\"O Projeto\" denuncia colonialismo e cobra responsabilidade da Europa",
-    "veiculo": "Agência Brasil",
-    "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/o-projeto-denuncia-colonialismo-e-cobra-responsabilidade-da-europa",
-    "resumo": "“A sociedade ocidental vive um estado de absoluta ignorância, de não saber, de não ter que saber e não dever saber”, analisa a intelectual portuguesa Grada Kilomba, no do...",
-    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
-    "categoria": "geral",
-    "categoria_label": "📢 Notícias do Povo",
-    "regiao": "Nacional",
-    "data_dia": "2026-11-07",
-    "hora": "Há 6h",
+    "hora": "Há 8h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -301,6 +301,21 @@
   },
   {
     "id": 21,
+    "titulo": "Presidente de Israel escala rival de Netanyahu para formar novo governo",
+    "veiculo": "Vermelho",
+    "link": "https://vermelho.org.br/2026/11/07/presidente-de-israel-escala-rival-de-netanyahu-para-formar-novo-governo/?utm_source=rss&utm_medium=rss&utm_campaign=presidente-de-israel-escala-rival-de-netanyahu-para-formar-novo-governo",
+    "resumo": "O líder da oposição, Gadi Eisenkot, terá 28 dias para formar o novo governo. Para isso, serão necessárias o apoio de 61 das 120 cadeiras do parlamento\nO post Presidente d...",
+    "imagem": "https://vermelho.org.br/wp-content/uploads/2026/11/Israel-presidente.jpg",
+    "categoria": "geral",
+    "categoria_label": "📢 Notícias do Povo",
+    "regiao": "Nacional",
+    "data_dia": "2026-11-07",
+    "hora": "Há 1h",
+    "tempo_leitura": "2 min de leitura",
+    "urgente": true
+  },
+  {
+    "id": 22,
     "titulo": "Papa Leão XIV envia mensagem a Lula pela paz e unidade do Brasil",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/11/07/papa-leao-xiv-envia-mensagem-a-lula-pela-paz-e-unidade-do-brasil/?utm_source=rss&utm_medium=rss&utm_campaign=papa-leao-xiv-envia-mensagem-a-lula-pela-paz-e-unidade-do-brasil",
@@ -310,12 +325,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-07",
-    "hora": "Há 5h",
+    "hora": "Há 9h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
-    "id": 22,
+    "id": 23,
     "titulo": "Grupo de esquerda e de movimentos sociais brasileiros visita a China",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/11/07/grupo-de-esquerda-e-de-movimentos-sociais-brasileiros-visita-a-china/?utm_source=rss&utm_medium=rss&utm_campaign=grupo-de-esquerda-e-de-movimentos-sociais-brasileiros-visita-a-china",
@@ -325,12 +340,12 @@
     "categoria_label": "✊ Direitos & Mobilização",
     "regiao": "Nacional",
     "data_dia": "2026-11-07",
-    "hora": "Há 6h",
+    "hora": "Há 9h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
-    "id": 23,
+    "id": 24,
     "titulo": "Lula sanciona lei que exige exame nacional para o exercício da medicina",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/11/07/lula-sanciona-lei-que-exige-exame-nacional-para-o-exercicio-da-medicina/?utm_source=rss&utm_medium=rss&utm_campaign=lula-sanciona-lei-que-exige-exame-nacional-para-o-exercicio-da-medicina",
@@ -340,12 +355,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-07",
-    "hora": "Há 8h",
+    "hora": "Há 11h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
-    "id": 24,
+    "id": 25,
     "titulo": "Justiça Federal cassa decisão e proíbe funcionamento de 3 bets no país",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/11/07/justica-federal-cassa-decisao-e-proibe-funcionamento-de-3-bets-no-pais/?utm_source=rss&utm_medium=rss&utm_campaign=justica-federal-cassa-decisao-e-proibe-funcionamento-de-3-bets-no-pais",
@@ -355,12 +370,12 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-11-07",
-    "hora": "Há 9h",
+    "hora": "Há 12h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
-    "id": 25,
+    "id": 26,
     "titulo": "Lula levará à COP31 proposta para reduzir dependência de combustíveis fósseis",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/11/06/cop31-lula-levara-proposta-para-reduzir-dependencia-de-combustivel-fossil/?utm_source=rss&utm_medium=rss&utm_campaign=cop31-lula-levara-proposta-para-reduzir-dependencia-de-combustivel-fossil",
@@ -375,7 +390,7 @@
     "urgente": false
   },
   {
-    "id": 26,
+    "id": 27,
     "titulo": "Colapso do Ueno põe em xeque o modelo paraguaio exaltado por bolsonaristas",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/11/06/colapso-do-ueno-poe-em-xeque-o-modelo-paraguaio-exaltado-por-bolsonaristas/?utm_source=rss&utm_medium=rss&utm_campaign=colapso-do-ueno-poe-em-xeque-o-modelo-paraguaio-exaltado-por-bolsonaristas",
@@ -390,7 +405,7 @@
     "urgente": false
   },
   {
-    "id": 27,
+    "id": 28,
     "titulo": "AGU recorrerá de liberação de três bets por desembargadora envolvida em polêmicas",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/11/06/agu-recorrera-de-liberacao-de-tres-bets-por-desembargadora-envolvida-em-polemicas/?utm_source=rss&utm_medium=rss&utm_campaign=agu-recorrera-de-liberacao-de-tres-bets-por-desembargadora-envolvida-em-polemicas",
@@ -405,7 +420,7 @@
     "urgente": false
   },
   {
-    "id": 28,
+    "id": 29,
     "titulo": "Papa Leão XIV inicia viagem à América do Sul e reforça agenda social",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/11/06/papa-leao-xiv-inicia-viagem-a-america-do-sul-e-reforca-agenda-social/?utm_source=rss&utm_medium=rss&utm_campaign=papa-leao-xiv-inicia-viagem-a-america-do-sul-e-reforca-agenda-social",
@@ -420,32 +435,17 @@
     "urgente": false
   },
   {
-    "id": 29,
-    "titulo": "Ministro Flávio Dino diz que fim da escala 6×1 é intocável e convoca audiência no STF",
-    "veiculo": "Vermelho",
-    "link": "https://vermelho.org.br/2026/11/06/ministro-flavio-dino-diz-que-fim-da-escala-6x1-e-intocavel-e-convoca-audiencia-no-stf/?utm_source=rss&utm_medium=rss&utm_campaign=ministro-flavio-dino-diz-que-fim-da-escala-6x1-e-intocavel-e-convoca-audiencia-no-stf",
-    "resumo": "Ao chamar para a reunião, convocada no âmbito da ação da CNC, o ministro do STF deixou claro que o conteúdo da emenda não pode ser alterado ou negociado\nO post Ministro F...",
-    "imagem": "https://vermelho.org.br/wp-content/uploads/2026/04/flaviodino_Foto-Luiz-Silveira_STF.jpg",
-    "categoria": "geral",
-    "categoria_label": "📢 Notícias do Povo",
-    "regiao": "Nacional",
-    "data_dia": "2026-11-06",
-    "hora": "06/11 14:05",
-    "tempo_leitura": "2 min de leitura",
-    "urgente": false
-  },
-  {
     "id": 30,
     "titulo": "Ministério da Saúde inaugura unidade de saúde indígena no Pará",
-    "veiculo": "Governo Federal",
+    "veiculo": "GOV.BR",
     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTFhpU0JTQVlwTFB0UHhoWTM4WTVDX1VXd3AtLTljUUpiQTZXQkZvTF9hR0E2cEdIdnMxX0N2Ukd0dzRrcFBBYkxCTkx3TnZXX3pmbGNBOUlIZDRYdlBlUmUyY1BNY2dVdVB4TVQwczh0djJyMENpMDItZ2R6aDVIR1JMT2JPNFI4N0Z3VEFwdk1pZVh6ajh1Q25QTGRsa3ZjS3lQUE4xSzlqRUVsT3pkWHlwWnlYNHdLN2ZYYnFuZmRHaXM?oc=5",
-    "resumo": "Ministério da Saúde inaugura unidade de saúde indígena no Pará  Governo Federal",
+    "resumo": "Ministério da Saúde inaugura unidade de saúde indígena no Pará  GOV.BR",
     "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
     "categoria": "social",
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Norte",
     "data_dia": "2026-11-07",
-    "hora": "Há 7h",
+    "hora": "Há 10h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -460,7 +460,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-07",
-    "hora": "Há 7h",
+    "hora": "Há 10h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -475,12 +475,27 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-11-07",
-    "hora": "Há 7h",
+    "hora": "Há 10h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
     "id": 33,
+    "titulo": "Lula diz que economia precisa estar 'arrumada' para atrair investimentos",
+    "veiculo": "G1",
+    "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPbjhOX01ZZkcxRjlVVjBaOGFfM3RlSHhvYWo4N2E2aVVkb0xPaXk1MzhXeUo1N3BsMkJEZmNlbjBJYTNBcmFjUlA4Q20wU0RWWlUtZ1B5Z09HZ3pGZms2QWkxYXFpZ3g1OVQtRTh4b0NQUmVfRjE3amtRek1ndjFiaTRSY2U4WGgxc2g1OHFhOEIwOEtqYkxLUnlxdFZrTHZVMGZTUUtFZ1plbWxtbnlJZ1ZqelRnRmxjaEQ1ZHBSV1F5bnRKZC1ZR2c0QVhsTkpjUUlhY3Nlclhabi05WUR0ZkZGMUZVZFFNLXNOUzR4YUk1OUZkdGFQemFvWHJJWDA0MEtocTJ4WUzSAZcCQVVfeXFMTjNLYnFJNE9jTHA5TUloLWRZSE9RN3M0cVVCVzRVUzVXLXNGZm8wdWpBdUZ2VDZhTWdBUnlWMnRVVGRnNTZoMjdlUzI5aHRqS05DT2Z3MktzaGNEMGxvN0FtRXRpRG1mYWN0ckZTOHFweE5BalpwbDJCaXpkQy0xbXZndGFrMXdzREVDSjV4SGdtcFp2V1c2ZU1zd2lMRVR2UGZfSkZvZDdEZUlNd0Z0N3k5M3JhWU9FU0ZMeVc4SUpoRTRBWm5HRzQ3ajVzTkozOXVIVThVNzJIOHVCV2lrbHBuU3pZc2RQMjNZQ1dWNW9ZME9jZVpPS0kzb25lVjRNUTRtR3ZheldZODRVN21BNmtDaU5TY0Qw?oc=5",
+    "resumo": "Lula diz que economia precisa estar 'arrumada' para atrair investimentos  G1",
+    "imagem": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
+    "categoria": "economia",
+    "categoria_label": "📈 Conquistas & Economia",
+    "regiao": "Nacional",
+    "data_dia": "2026-11-05",
+    "hora": "05/11 18:08",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 34,
     "titulo": "Dia D de vacinação contra o sarampo mobiliza a tríplice fronteira neste sábado (7) — Ministério da Saúde",
     "veiculo": "Governo Federal",
     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPR2YzYzI5YTFjWEZOVmNBQnlxMkFlSnFlMTZfdXlKTXRlamg2MU03LUJNbFlsUUJYSno5bDhUYmtNOXc1M25waFFNRUpyNjFuT3NzVjNZc1BCdVdqVU9JQWExRmsxUWUxOVFCaHVYWDRwVGVkZjRXYzRvckw1cG1LaHkySXpCWWRnUGplbVVpLWFkS0Z5aTFQRThoZWNGeUJTUkMyTXhxSzkwT1dXVEE2c2JteGotLWtLazRfZU9DWFlnVXk0WXlhS2hwOW1mSXUtYl9WM2VJVWpwSFU?oc=5",
@@ -490,12 +505,27 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-11-07",
-    "hora": "Há 8h",
+    "hora": "Há 11h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
-    "id": 34,
+    "id": 35,
+    "titulo": "Vacinação focada em grupos mais vulneráveis é eficaz contra mpox",
+    "veiculo": "Agência Brasil",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcjdYOUVvMHpzTVhIV05WSF9KUUxwc2owdnQ0LUFmVEtNTjkyZWpIWkdDOTB6ZkxNM1ZmUWR3bWlIUDh1cVJHSkFlS2FzdXFTWlhpVURIVHZWU1lYZDJuWkNfQ0lKWVZEc1VSZFJ2VENpeWUxMzJvaE0yanB1YjVIZldUZkFqR1NYckxvdklkamdpb3d2MDhoaGZ6NUk4T3JmeHoxSlNUVFptbzJMWG1PNg?oc=5",
+    "resumo": "Vacinação focada em grupos mais vulneráveis é eficaz contra mpox  Agência Brasil",
+    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
+    "categoria": "geral",
+    "categoria_label": "📢 Notícias do Povo",
+    "regiao": "Nacional",
+    "data_dia": "2026-11-07",
+    "hora": "Há 13h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 36,
     "titulo": "Fiocruz e Ministério da Saúde relatam aumento de casos e internações por Covid-19",
     "veiculo": "CBN",
     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSkZuSUNDZUVOSGlaQV9TcDI3UUJWX01XSEsyTWNkbkkybTNVckRMbFZPNUxMWTdQNlBDc0hQVDZaZFowRjJPUXphSFJFeHVGRDJ2bXJDdGF0LW0tOTNPaWtySWV6UDZlYkhoOUtjNlZfd3FGRENyUmM3UG95WHY1aDI5N21aMHVKckJuaFBjVmxobVlBSVZaMktaQjFNZDlvTEVxcGVuemJ4UV83aV90eTZSdWYwb0xiR1pKcmg0Q3pnUFNWcjJsNFBLT1FSUmvSAd4BQVVfeXFMUGtlczNIWTJPUFN1UXAxMkcwOGxYemdxUXk1ZEE5VHZwRi1CRy1MMU1wVnRld0RYa3JiekhyazVwWldIbk10SGJNM2d3TEpnQzFwS3dTVGlfVUtiZWY4VTNqSFBRMXdZMzlxTjBOTElJMnhKZ2l2dEpMekQ0ZXhXdjlNRjJfT25xNHg5bnd4TW1pbzQxNHQzZjh2bUxKT0N0X1dQZmpPR3ptcGYybzNrRGxEYnVSbjgyUTBDZmdOQTVUa2dWU0pmbVNpX3BDWUdNWjhyXzdKelM3cENBd0Nn?oc=5",
@@ -505,52 +535,22 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-11-07",
-    "hora": "Há 7h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 35,
-    "titulo": "Lula, Dr. Luizinho e Padilha festejam marco histórico na saúde",
-    "veiculo": "Metrópoles",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOd05TTjA3RHFjV1pnZkpka2xnSXZRMWp1THhqSGZOTFFzWnczSDR3MGhiOVJ2NzNPR01jNy1zUlMtZWpjQVlBZlJmLUZZN0VBOHFsc2tzMjlGMlh2eG9pb2dPV0ZuenJUYmF4SV9QMmdXM0tWbHc1OGl3MEFGN3pBeXpNWGJHZFVtaXAtd0FpbnY2VnlZZ2JTcDVLXzRNd3ZsT1FJNEIzWE1KWjlWaGZB?oc=5",
-    "resumo": "Lula, Dr. Luizinho e Padilha festejam marco histórico na saúde  Metrópoles",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
-    "regiao": "Nacional",
-    "data_dia": "2026-11-07",
-    "hora": "Há 5h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 36,
-    "titulo": "Ministério da Saúde vai comprar até 20 mil doses da vacina contra mpox",
-    "veiculo": "Agência Brasil",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMGsxX1JoNEVUTktObVZsLXlJaVZGQWxpeWpETHp0U0xBaVl0NnA5STdVY0dPbXppcDAyTTJpNTloandnSlpDQ3NRWTBKLU5VeTlhNjlBZXczSjdBWTVDblduQXMxYnJ5eUtJdEE2ZWFwS2otWTZnaGt1YlF5a09qVXptUFNqOXZuR1pQUmxPWnFrTlBUd185VjVoQ2V4Zk10YVY4b09HN0hMVEZQNUpKTVhsT2VOU0dHTERSY2N3?oc=5",
-    "resumo": "Ministério da Saúde vai comprar até 20 mil doses da vacina contra mpox  Agência Brasil",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
-    "regiao": "Nacional",
-    "data_dia": "2026-11-05",
-    "hora": "05/11 19:03",
+    "hora": "Há 10h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
     "id": 37,
-    "titulo": "Lula sanciona lei que fortalece avaliação da formação médica e torna Enamed requisito para exercício da profissão",
+    "titulo": "Ministério da Saúde lança novo Regimento Interno com foco em inovação e saúde digital",
     "veiculo": "Governo Federal",
-    "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNSUNJbE5IbkNpME5CTHdtV0FPMy1JbHlEYS1lRnF5RlZWa3o2MEZyOGlhaXVpU1NVUTJKQVlMaVZoeTNnSnJmYlhaOEdwM2xMY2JGbTJWR1Z6RTZwd0I4bUlkcnNtRGZFcDJ4SG1lVERmWUNvWldfSXd3NE9KYmZsbGVoc21BRktweGIweUdwWlhxZjR2UzBnRkVBMFA5TnNRU2Y2akV2N0hvYk9Rb1B0S2NyOG5LNC1QUVNwWnA0OF9fXzROLXZiVGFtZlU0SDdQYXdkNDJZVmpfeGs5dzV6LXVxVDVCZ1haZ1lkVWxqNUhqZ2xqVWFNUE9fSHhUVTV0ak5zNGxPMA?oc=5",
-    "resumo": "Lula sanciona lei que fortalece avaliação da formação médica e torna Enamed requisito para exercício da profissão  Governo Federal",
-    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
-    "categoria": "geral",
-    "categoria_label": "📢 Notícias do Povo",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOalNwR0FxbG9LQ2NfN0xfbHNxNks5dHExdnR5R3pHQnVJNEtTUGd6ZWJIYmdHd01sY1paX1RkS0l2aEMxTUVpRkRQY1ZVVW5wTXVhbnJVOXFyZGdOcGZQN0w5c05tY2N4NWxrV3FwVHZLY3FnVl9TN1BLUHlsX2R6Zy1ldzh1NkJwaWRYdDdZSUtwdVQzb0steEJrME5zU1BLWURTVV8tTVhaT0ZHcGE1eWtMRlV2ekFDa2V6eGVCTE5hSmVGSzYtZmFMSk1qUXZGQl9KcVc4dkEwcDQwUXdZNmx3?oc=5",
+    "resumo": "Ministério da Saúde lança novo Regimento Interno com foco em inovação e saúde digital  Governo Federal",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
-    "data_dia": "2026-11-06",
-    "hora": "06/11 19:03",
+    "data_dia": "2026-11-05",
+    "hora": "05/11 16:23",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -571,21 +571,6 @@
   },
   {
     "id": 39,
-    "titulo": "Ministério da Saúde lança novo Regimento Interno com foco em inovação e saúde digital",
-    "veiculo": "Governo Federal",
-    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOalNwR0FxbG9LQ2NfN0xfbHNxNks5dHExdnR5R3pHQnVJNEtTUGd6ZWJIYmdHd01sY1paX1RkS0l2aEMxTUVpRkRQY1ZVVW5wTXVhbnJVOXFyZGdOcGZQN0w5c05tY2N4NWxrV3FwVHZLY3FnVl9TN1BLUHlsX2R6Zy1ldzh1NkJwaWRYdDdZSUtwdVQzb0steEJrME5zU1BLWURTVV8tTVhaT0ZHcGE1eWtMRlV2ekFDa2V6eGVCTE5hSmVGSzYtZmFMSk1qUXZGQl9KcVc4dkEwcDQwUXdZNmx3?oc=5",
-    "resumo": "Ministério da Saúde lança novo Regimento Interno com foco em inovação e saúde digital  Governo Federal",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
-    "regiao": "Nacional",
-    "data_dia": "2026-11-05",
-    "hora": "05/11 16:23",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 40,
     "titulo": "Dois anos do Novo Acordo do Rio Doce: ações de saúde chegam R$ 825,6 milhões repassados a 49 municípios",
     "veiculo": "Governo Federal",
     "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNaFFjN2JMYnd2YTlrWml0bEd1NEpTRDU5WXJHVy1CYldnT3RmMl9qSThvcFppQmRGcGtyOGdkX2gzekdHMGh0cmlfZjVkV2h5M2FsTV9kNEdTWmNFRW1vYzNhM0xuSHZ4MVlWRTA4OHRRS1ZtcEg1dW0tMFJUQjZVblRvYnhoQnYtMnFJQmNFeE4wUWswX0ZaZGxWMG9RN0pFbkVmWDl1dXVLTFIwX1NlQko5X19xWkdjcDdGT3VSVlNiNEFiRWVjTHd4WEdDeGJjVk1zMWFDMGswS09aQnc3STVzbDZIMzBkdU5icWE5YloyUHlaaERv?oc=5",
@@ -600,6 +585,21 @@
     "urgente": false
   },
   {
+    "id": 40,
+    "titulo": "Ministério da Saúde autoriza aquisição de 20 mil doses da vacina contra mpox por meio da Opas",
+    "veiculo": "GOV.BR",
+    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQS0N5dzhRRW9fcmpQckJ4NUlOa29vYkladnRjeURPNkVvM1JkcmtRY3E1bUc5YmIzaTc5NXFENnBGMHJxSWdtcThKaEFRMVVYTlgyUHQtYllieGVUNmFmYURiVFV3Z2FRZE1OcW5vSUtMRnZ4dldPTkVZV2dSb0pVMEhZQ184UkxBdkdfWmZmTHVNUkxWZksxQWFQS1NwMmt5Vk5qOEd0Q2pBWS1MRXpXdFB6VGxGYm9uMU9tN29mOXJ1S3BQWUNWWmVYOUc3a2NQT1VJRjJKRTNQdjBIWG01czNYUnpOMVVfLUdDUQ?oc=5",
+    "resumo": "Ministério da Saúde autoriza aquisição de 20 mil doses da vacina contra mpox por meio da Opas  GOV.BR",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
+    "regiao": "Nacional",
+    "data_dia": "2026-11-05",
+    "hora": "05/11 10:25",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
     "id": 41,
     "titulo": "PT quer excluir PL do bloco de apoio à reeleição de Motta na Câmara",
     "veiculo": "Poder360",
@@ -610,7 +610,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-11-07",
-    "hora": "Há 4h",
+    "hora": "Há 7h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -625,8 +625,8 @@
     "categoria_label": "📈 Conquistas & Economia",
     "regiao": "Nacional",
     "data_dia": "2026-11-07",
-    "hora": "Há 2h",
+    "hora": "Há 6h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   }
 ]
