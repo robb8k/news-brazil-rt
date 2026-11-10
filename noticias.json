@@ -1,6 +1,36 @@
 [
   {
     "id": 1,
+    "titulo": "Enap promove evento para discutir inovação na gestão pública",
+    "veiculo": "Agência Brasil",
+    "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/enap-promove-evento-para-discutir-inovacao-na-gestao-publica",
+    "resumo": "A Escola Nacional de Administração Pública (Enap) promove, de hoje (10) até quinta-feira (12) a Semana de Inovação 2026. Serão três dias de palestras, oficinas, mesas-red...",
+    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
+    "categoria": "geral",
+    "categoria_label": "📢 Notícias do Povo",
+    "regiao": "Nacional",
+    "data_dia": "2026-11-10",
+    "hora": "Há 40 min",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": true
+  },
+  {
+    "id": 2,
+    "titulo": "Judiciário e MPU querem R$ 533 milhões para pagar penduricalhos",
+    "veiculo": "Agência Brasil",
+    "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/judiciario-e-mpu-querem-r-533-milhoes-para-pagar-penduricalhos",
+    "resumo": "O Poder Judiciário e o Ministério Público da União (MPU) informaram ao Supremo Tribunal Federal (STF) que precisam de R$ 533 milhões extras para realizar o pagamento das ...",
+    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
+    "categoria": "geral",
+    "categoria_label": "📢 Notícias do Povo",
+    "regiao": "Nacional",
+    "data_dia": "2026-11-09",
+    "hora": "Há 9h",
+    "tempo_leitura": "2 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 3,
     "titulo": "Chuvas deixam feridos, desabrigados e casas destelhadas no Sul",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/chuvas-deixam-feridos-desabrigados-e-casas-destelhadas-no-sul",
@@ -10,12 +40,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Sul",
     "data_dia": "2026-11-09",
-    "hora": "Há 3h",
+    "hora": "Há 10h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 2,
+    "id": 4,
     "titulo": "STF: ministro Fachin arquiva inquérito das Fake News",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/stf-ministro-fachin-arquiva-inquerito-das-fake-news",
@@ -25,12 +55,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-09",
-    "hora": "Há 3h",
+    "hora": "Há 11h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 3,
+    "id": 5,
     "titulo": "COP31 pode consolidar legado brasileiro na agenda climática",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/cop31-pode-consolidar-legado-brasileiro-na-agenda-climatica",
@@ -40,12 +70,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-09",
-    "hora": "Há 3h",
+    "hora": "Há 11h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 4,
+    "id": 6,
     "titulo": "Bolsa sobe 2,22% e registra maior alta diária desde outubro",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/bolsa-sobe-222-e-registra-maior-alta-diaria-desde-outubro",
@@ -55,12 +85,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-09",
-    "hora": "Há 4h",
+    "hora": "Há 11h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
-    "id": 5,
+    "id": 7,
     "titulo": "Justiça suspende regra que ampliou aceitação de VR e VA em maquininhas",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/justica-suspende-regra-que-ampliou-aceitacao-de-vr-e-va-em-maquininhas",
@@ -70,12 +100,12 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-11-09",
-    "hora": "Há 4h",
+    "hora": "Há 11h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
-    "id": 6,
+    "id": 8,
     "titulo": "Aneel propõe Tarifa Hora Certa para reduzir valor em função do horário",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/aneel-propoe-tarifa-hora-certa-para-reduzir-valor-em-funcao-do-horario",
@@ -85,12 +115,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-09",
-    "hora": "Há 4h",
+    "hora": "Há 12h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
-    "id": 7,
+    "id": 9,
     "titulo": "Enem 2026: saiba quem tem direito à reaplicação do exame",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/enem-2026-saiba-quem-tem-direito-a-reaplicacao-do-exame",
@@ -100,12 +130,12 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-11-09",
-    "hora": "Há 4h",
+    "hora": "Há 12h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
-    "id": 8,
+    "id": 10,
     "titulo": "Caixa apresenta nova identidade visual após quase 30 anos",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/caixa-apresenta-nova-identidade-visual-apos-quase-30-anos",
@@ -115,38 +145,8 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-09",
-    "hora": "Há 4h",
+    "hora": "Há 12h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 9,
-    "titulo": "Brasil conquista 4 ouros em olimpíada latino-americana de astronomia",
-    "veiculo": "Agência Brasil",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/brasil-conquista-4-ouros-em-olimpiada-latino-americana-de-astronomia",
-    "resumo": "Quatro estudantes brasileiros, sendo três de Fortaleza e um de São Paulo, conquistaram a medalha de ouro na Olimpíada Latino-Americana de Astronomia e Astronáutica (OLAA)...",
-    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
-    "categoria": "geral",
-    "categoria_label": "📢 Notícias do Povo",
-    "regiao": "Sudeste",
-    "data_dia": "2026-11-09",
-    "hora": "Há 4h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 10,
-    "titulo": "Classe C: número de famílias sem dinheiro guardado cai de 61% para 29%",
-    "veiculo": "Agência Brasil",
-    "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/classe-c-numero-de-familias-sem-dinheiro-guardado-cai-de-61-para-29",
-    "resumo": "A parcela de famílias da classe C sem nenhuma reserva financeira caiu de 61% (em 2016) para 29% (neste ano), conforme revelou uma pesquisa divulgada nesta segunda (6) pel...",
-    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
-    "categoria": "geral",
-    "categoria_label": "📢 Notícias do Povo",
-    "regiao": "Nacional",
-    "data_dia": "2026-11-09",
-    "hora": "Há 5h",
-    "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
@@ -160,7 +160,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-09",
-    "hora": "Há 3h",
+    "hora": "Há 11h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -175,7 +175,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-09",
-    "hora": "Há 4h",
+    "hora": "Há 11h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -190,7 +190,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-11-09",
-    "hora": "Há 4h",
+    "hora": "Há 12h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -205,7 +205,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Norte",
     "data_dia": "2026-11-09",
-    "hora": "Há 6h",
+    "hora": "Há 13h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -220,7 +220,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-09",
-    "hora": "Há 6h",
+    "hora": "Há 14h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -235,7 +235,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-09",
-    "hora": "Há 7h",
+    "hora": "Há 14h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -310,7 +310,7 @@
     "categoria_label": "🌿 Meio Ambiente",
     "regiao": "Sudeste",
     "data_dia": "2026-11-09",
-    "hora": "Há 6h",
+    "hora": "Há 14h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -325,7 +325,7 @@
     "categoria_label": "📈 Conquistas & Economia",
     "regiao": "Nacional",
     "data_dia": "2026-11-09",
-    "hora": "Há 7h",
+    "hora": "Há 14h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -340,7 +340,7 @@
     "categoria_label": "📈 Conquistas & Economia",
     "regiao": "Nacional",
     "data_dia": "2026-11-09",
-    "hora": "Há 7h",
+    "hora": "Há 15h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -355,7 +355,7 @@
     "categoria_label": "📈 Conquistas & Economia",
     "regiao": "Sul",
     "data_dia": "2026-11-09",
-    "hora": "Há 10h",
+    "hora": "Há 17h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -370,7 +370,7 @@
     "categoria_label": "📈 Conquistas & Economia",
     "regiao": "Nacional",
     "data_dia": "2026-11-09",
-    "hora": "Há 11h",
+    "hora": "Há 18h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -385,7 +385,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-09",
-    "hora": "Há 11h",
+    "hora": "Há 19h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -400,7 +400,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-11-09",
-    "hora": "Há 11h",
+    "hora": "Há 19h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -415,7 +415,7 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-11-09",
-    "hora": "Há 12h",
+    "hora": "Há 20h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -430,7 +430,7 @@
     "categoria_label": "✊ Direitos & Mobilização",
     "regiao": "Nordeste",
     "data_dia": "2026-11-09",
-    "hora": "Há 12h",
+    "hora": "Há 20h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -460,7 +460,7 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-11-09",
-    "hora": "Há 4h",
+    "hora": "Há 12h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -475,27 +475,12 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-11-09",
-    "hora": "Há 5h",
+    "hora": "Há 13h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
     "id": 33,
-    "titulo": "Saúde repassa R$ 524 mil para conter casos de sarampo no Amazonas",
-    "veiculo": "Agência Brasil",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOelJ0bF8zTmF1cHRtOGh6X1ViWTRUUWNIVkFzTWdmb0ZZdlo1dWk2R19hdUs5QjJ3c0tGWFdSTUxUc1FwYkJMTEU1dFp6WXQ3MnkyWnZOLWk2QUt3V3dUSlNGbVF5eE5QTEZPeEZhbEROM3RLS0VoeFlaNHRUb25BNXJWYjhHNVZKQmpwSVdnRDhZSE5JYUE4a0VwUW5IODhGY3k5aEl6cEdBXzRwTld3WEdtQ3hURDZxR3JF?oc=5",
-    "resumo": "Saúde repassa R$ 524 mil para conter casos de sarampo no Amazonas  Agência Brasil",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
-    "regiao": "Norte",
-    "data_dia": "2026-11-09",
-    "hora": "Há 14h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 34,
     "titulo": "MPF apura possível falha do Ministério da Saúde na distribuição de vacinas contra mpox",
     "veiculo": "Ministério Público Federal",
     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZGlpbjk4djEtVm5MN20taTdCOHhUWUtNalhJcmJPM0dxWVZNQnB1bTVqLTJTc3hqdkVWLVdKRTVrRFZRZl9jSXh6Q0d4d1hxQ2Q3bWR3TVZia0ZXSkN1YXd0VEV4VlM5enRDM0dYSm9VOFVuNnE2SUNOVV9oeFRISzJJSThKQXFpalRXdlJPRUhza3c1bmx5MlNxWjg4TE1oUzlJb1BacUlwU2dLdDc1M2pUeGVYU0pqWXdCcGVJb2ZMMmNiNWw1LWVPT1hvWmh4NWp6LQ?oc=5",
@@ -505,7 +490,22 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-11-09",
-    "hora": "Há 10h",
+    "hora": "Há 18h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 34,
+    "titulo": "Saúde repassa R$ 524 mil para conter casos de sarampo no Amazonas",
+    "veiculo": "Agência Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOelJ0bF8zTmF1cHRtOGh6X1ViWTRUUWNIVkFzTWdmb0ZZdlo1dWk2R19hdUs5QjJ3c0tGWFdSTUxUc1FwYkJMTEU1dFp6WXQ3MnkyWnZOLWk2QUt3V3dUSlNGbVF5eE5QTEZPeEZhbEROM3RLS0VoeFlaNHRUb25BNXJWYjhHNVZKQmpwSVdnRDhZSE5JYUE4a0VwUW5IODhGY3k5aEl6cEdBXzRwTld3WEdtQ3hURDZxR3JF?oc=5",
+    "resumo": "Saúde repassa R$ 524 mil para conter casos de sarampo no Amazonas  Agência Brasil",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
+    "regiao": "Norte",
+    "data_dia": "2026-11-09",
+    "hora": "Há 21h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -520,7 +520,7 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-11-09",
-    "hora": "Há 6h",
+    "hora": "Há 14h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -535,27 +535,12 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nordeste",
     "data_dia": "2026-11-09",
-    "hora": "Há 6h",
+    "hora": "Há 14h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
     "id": 37,
-    "titulo": "Comitiva do Ministério da Saúde visita obras do Governo Federal em Parintins",
-    "veiculo": "Prefeitura de Parintins",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOEszXzZ6cTFTWWU4OGdORzAtU0lsYmQ1ZVRjODlzN3dla0ZhV3hqdGJXdWdNd1lkZzV5c3RrbVV6bi1OdjVNbWdJbFM4TEhDa25VcFpuSVN1TTlCeUl4SHhORXo1VTk2ZjA1YnFpMFBIX2RRbmhVNUV1UmFib015Mkt6dGFzRXBIZG96dms4eG81VE1ZTFJuOThZdFJTVUZRc0ZuRnYwX29pazdGWmEzSXZB?oc=5",
-    "resumo": "Comitiva do Ministério da Saúde visita obras do Governo Federal em Parintins  Prefeitura de Parintins",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
-    "regiao": "Nacional",
-    "data_dia": "2026-11-09",
-    "hora": "Há 13h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 38,
     "titulo": "A Prefeitura de Mogi das Cruzes recebeu do Ministério da Saúde uma nova Unidade Móvel de Rua (UMR), destinada ao atendimento de pessoas em situação de rua e de outros grupos em condições de vulnerabilidade social. Segundo a administração muni",
     "veiculo": "Instagram",
     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1oVzZwQ3BjYlh4cThrZ2tkN0E2M3A1NVMtVVlJV3BmXy1QMU1tblFOVHFWU0JHejBjZ24zN3ZNLUhpb2pyWG1NS29wSXBXbk0ybXc?oc=5",
@@ -565,9 +550,24 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-11-09",
-    "hora": "Há 1h",
+    "hora": "Há 9h",
     "tempo_leitura": "3 min de leitura",
-    "urgente": true
+    "urgente": false
+  },
+  {
+    "id": 38,
+    "titulo": "Comitiva do Ministério da Saúde visita obras do Governo Federal em Parintins",
+    "veiculo": "Prefeitura de Parintins",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOEszXzZ6cTFTWWU4OGdORzAtU0lsYmQ1ZVRjODlzN3dla0ZhV3hqdGJXdWdNd1lkZzV5c3RrbVV6bi1OdjVNbWdJbFM4TEhDa25VcFpuSVN1TTlCeUl4SHhORXo1VTk2ZjA1YnFpMFBIX2RRbmhVNUV1UmFib015Mkt6dGFzRXBIZG96dms4eG81VE1ZTFJuOThZdFJTVUZRc0ZuRnYwX29pazdGWmEzSXZB?oc=5",
+    "resumo": "Comitiva do Ministério da Saúde visita obras do Governo Federal em Parintins  Prefeitura de Parintins",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
+    "regiao": "Nacional",
+    "data_dia": "2026-11-09",
+    "hora": "Há 21h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
   },
   {
     "id": 39,
@@ -580,7 +580,7 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-11-09",
-    "hora": "Há 9h",
+    "hora": "Há 16h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -595,7 +595,7 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-11-09",
-    "hora": "Há 12h",
+    "hora": "Há 20h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -610,7 +610,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Sul",
     "data_dia": "2026-11-09",
-    "hora": "Há 6h",
+    "hora": "Há 14h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -625,7 +625,7 @@
     "categoria_label": "✊ Direitos & Mobilização",
     "regiao": "Nacional",
     "data_dia": "2026-11-09",
-    "hora": "Há 12h",
+    "hora": "Há 20h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   }
