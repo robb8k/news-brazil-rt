@@ -1,6 +1,21 @@
 [
   {
     "id": 1,
+    "titulo": "TSE multa Meta em R$ 7,5 milhões por descumprir decisão nas eleições",
+    "veiculo": "Agência Brasil",
+    "link": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-11/tse-multa-meta-em-r-75-milhoes-por-descumprir-decisao-nas-eleicoes",
+    "resumo": "Por unanimidade, o Tribunal Superior Eleitoral (TSE) decidiu nesta terça-feira (10) multar a Meta em R$ 7,5 milhões por entregar informações incompletas sobre as acusaçõe...",
+    "imagem": "https://cdn.jsdelivr.net/gh/sergiosdlima/assets-ebc@1.0.0/public/thumbs/thumb_1200x600_agbrasil.png",
+    "categoria": "eleicoes",
+    "categoria_label": "🗳️ Eleições & Campanhas",
+    "regiao": "Nacional",
+    "data_dia": "2026-11-10",
+    "hora": "Há 8h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 2,
     "titulo": "Petrobras tem lucro de R$ 39,8 bilhões no 3º trimestre, alta de 21,5%",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/petrobras-tem-lucro-de-r-398-bilhoes-alta-de-215",
@@ -10,12 +25,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-10",
-    "hora": "Há 2h",
+    "hora": "Há 9h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 2,
+    "id": 3,
     "titulo": "Bolão de Iturama (MG) leva R$ 3,2 milhões na Mega-Sena",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/bolao-de-iturama-mg-leva-r-32-milhoes-na-mega-sena",
@@ -25,12 +40,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-10",
-    "hora": "Há 2h",
+    "hora": "Há 9h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 3,
+    "id": 4,
     "titulo": "Relator defende redução da maioridade penal com prisões separadas",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/relator-defende-reducao-da-maioridade-penal-com-prisoes-separadas",
@@ -40,12 +55,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-10",
-    "hora": "Há 3h",
+    "hora": "Há 10h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 4,
+    "id": 5,
     "titulo": "Dólar sobe 1,46% e fecha no maior valor em 15 meses",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/dolar-sobe-146-e-fecha-no-maior-valor-em-15-meses",
@@ -55,12 +70,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-10",
-    "hora": "Há 3h",
+    "hora": "Há 10h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
-    "id": 5,
+    "id": 6,
     "titulo": "Lula e presidente da Turquia se reúnem e falam de comércio bilateral",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/lula-e-presidente-da-turquia-se-reunem-e-falam-de-comercio-bilateral",
@@ -70,12 +85,12 @@
     "categoria_label": "🌿 Meio Ambiente",
     "regiao": "Nacional",
     "data_dia": "2026-11-10",
-    "hora": "Há 3h",
+    "hora": "Há 10h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
-    "id": 6,
+    "id": 7,
     "titulo": "Nova plataforma do MDIC identificará oportunidades de comércio com UE",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/nova-plataforma-do-mdic-identificara-oportunidades-de-comercio-com-ue",
@@ -85,12 +100,12 @@
     "categoria_label": "📈 Conquistas & Economia",
     "regiao": "Nacional",
     "data_dia": "2026-11-10",
-    "hora": "Há 3h",
+    "hora": "Há 10h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 7,
+    "id": 8,
     "titulo": "Brasileiros encontram fake news com frequência, diz pesquisa",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/brasileiros-encontram-fake-news-com-frequencia-diz-pesquisa",
@@ -100,12 +115,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-10",
-    "hora": "Há 3h",
+    "hora": "Há 10h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 8,
+    "id": 9,
     "titulo": "Instituto Evandro Chagas comemora 90 anos com congresso científico",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/saude/noticia/2026-11/instituto-evandro-chagas-comemora-90-anos-com-congresso-cientifico",
@@ -115,12 +130,12 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-11-10",
-    "hora": "Há 3h",
+    "hora": "Há 11h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
-    "id": 9,
+    "id": 10,
     "titulo": "WTA Finals: após vitória na estreia, dupla de Stefani joga na quarta",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/wta-finals-apos-vitoria-na-estreia-dupla-de-stefani-joga-na-quarta",
@@ -130,22 +145,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-10",
-    "hora": "Há 4h",
-    "tempo_leitura": "2 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 10,
-    "titulo": "MEC aprova diretrizes para uso de IA em cada etapa da educação",
-    "veiculo": "Agência Brasil",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/mec-aprova-diretrizes-para-uso-de-ia-em-cada-etapa-da-educacao",
-    "resumo": "O Ministério da Educação (MEC) aprovou nesta terça-feira (10) o parecer do Conselho Nacional de Educação (CNE) que estabelece diretrizes para o uso da inteligência artifi...",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
-    "regiao": "Nacional",
-    "data_dia": "2026-11-10",
-    "hora": "Há 4h",
+    "hora": "Há 11h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -160,7 +160,7 @@
     "categoria_label": "✊ Direitos & Mobilização",
     "regiao": "Sul",
     "data_dia": "2026-11-10",
-    "hora": "Há 4h",
+    "hora": "Há 12h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -175,7 +175,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-10",
-    "hora": "Há 5h",
+    "hora": "Há 12h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -190,7 +190,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-10",
-    "hora": "Há 5h",
+    "hora": "Há 12h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -205,7 +205,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-10",
-    "hora": "Há 6h",
+    "hora": "Há 13h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -220,7 +220,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-11-10",
-    "hora": "Há 6h",
+    "hora": "Há 13h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -235,7 +235,7 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-11-10",
-    "hora": "Há 7h",
+    "hora": "Há 14h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -250,7 +250,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-10",
-    "hora": "Há 8h",
+    "hora": "Há 15h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -265,7 +265,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nordeste",
     "data_dia": "2026-11-10",
-    "hora": "Há 8h",
+    "hora": "Há 15h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -280,7 +280,7 @@
     "categoria_label": "✊ Direitos & Mobilização",
     "regiao": "Nacional",
     "data_dia": "2026-11-10",
-    "hora": "Há 8h",
+    "hora": "Há 15h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -295,7 +295,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-11-10",
-    "hora": "Há 8h",
+    "hora": "Há 15h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -310,7 +310,7 @@
     "categoria_label": "📈 Conquistas & Economia",
     "regiao": "Nacional",
     "data_dia": "2026-11-10",
-    "hora": "Há 3h",
+    "hora": "Há 10h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -325,7 +325,7 @@
     "categoria_label": "✊ Direitos & Mobilização",
     "regiao": "Nacional",
     "data_dia": "2026-11-10",
-    "hora": "Há 4h",
+    "hora": "Há 11h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -340,7 +340,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-10",
-    "hora": "Há 6h",
+    "hora": "Há 13h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -355,7 +355,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-11-10",
-    "hora": "Há 7h",
+    "hora": "Há 14h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -370,7 +370,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-10",
-    "hora": "Há 7h",
+    "hora": "Há 14h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -385,7 +385,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-10",
-    "hora": "Há 8h",
+    "hora": "Há 15h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -400,7 +400,7 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-11-10",
-    "hora": "Há 9h",
+    "hora": "Há 16h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -415,7 +415,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-10",
-    "hora": "Há 11h",
+    "hora": "Há 18h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -430,7 +430,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-10",
-    "hora": "Há 12h",
+    "hora": "Há 20h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -445,7 +445,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-10",
-    "hora": "Há 12h",
+    "hora": "Há 20h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -460,12 +460,27 @@
     "categoria_label": "📈 Conquistas & Economia",
     "regiao": "Nacional",
     "data_dia": "2026-11-10",
-    "hora": "Há 3h",
+    "hora": "Há 10h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
     "id": 32,
+    "titulo": "Judiciário reserva R$ 2 bilhões para reajuste vetado por Lula e reconhece dificuldade para bancar aumento nos próximos anos",
+    "veiculo": "O GLOBO",
+    "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQOUU1MFdyeVVQRk5aVTRLRXVpbFJxbXlYSFB3bUk4Z1I1eFVzU0pqOTNtVGxuZ1lRSTZDWlBtNnFsbi0zeUNjS09vVHk5Ukp1a2pSbWRIR3F1TmJJYTZ5N2N5eHRvSlg3UmhOU2hLZGE1UXpKLUxRVlF4VVB2R0piTzZvMHMzYmFGNHQ2TFN3MXh6Q2JkaDlOdGJfUWtGdU9yRElhT0pQVXg0bmx3M1NaRjd5el9nOHlhSUl3NjU0NmV3SEpsV0o3MnFaNGlJc2M4d2w1UGlCcXVNc2o5VmhHdTVfR0x2TXg2UWEwYTJ0c2pNMzJFZWtVQUw2Y1NSTGZyX18tNUZ5eHd0VHVjOVHSAZwCQVVfeXFMT0NySUkwQVE5ZWM2bEZuZ0I2dFVWejlqa25DM3FzZG0tRVpHeE44WE9iZ0pyNXF6RzF5Q2lTOEhSaFA2RFFhUEsxdjQ1ZmJEZHZ4dVV0M05xUU5tRFpQOHZwQXRkR2hnTlNmaG5sd0RQOUY4ZlA0SmhERzhYMEoxeE95WFA5TUlyRjR4WVNCS180cGpVMGh5cXZOS3NYc2ZoMDByamR0NzJyLVlNQWtPM1FGc1Z3SU52MlJKV1JuSGxLaHRCcXU2YnduNm5BOHpwR0p2MkZOVGZJVmJiaTUwYV9IZWg5Z1pacDhiUFc4QWwtSUhuaUNpX2hYdWdTU05EdWk4Q1h5eWFTb01fMGlkbUF3b3QtM21XdmJnYXQ?oc=5",
+    "resumo": "Judiciário reserva R$ 2 bilhões para reajuste vetado por Lula e reconhece dificuldade para bancar aumento nos próximos anos  O GLOBO",
+    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
+    "categoria": "geral",
+    "categoria_label": "📢 Notícias do Povo",
+    "regiao": "Nacional",
+    "data_dia": "2026-11-11",
+    "hora": "Há 2h",
+    "tempo_leitura": "2 min de leitura",
+    "urgente": true
+  },
+  {
+    "id": 33,
     "titulo": "JT e Ministério do Trabalho e Emprego firmam acordo para intercâmbio de informações trabalhistas",
     "veiculo": "TST",
     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQVlxaE1vV0NnLVdCakMtMlpTOTA2S0p1dWwxNFE4VUQzU3Faanc1bGctR3Nfb0I5R29yLVQ3Yk9uSFB1OWlGZVJGdWk5UFV6ZzY1cGJ0R1ByaFN3VzcyQ24wUEdDTk9mdXhyeThMbUMzSDRldHpOb2VabGF4QjAtdnI3cHR1UGFtWDMtYWdNZnlLYTdFcWFQNmdKR3ZsY2RvWmNZTUFBS2lwQ2VtaHBUTEE5eFUyTmNEYlRFcmhEQUFGbEpkMm1sZWsweG1TX2NnTEN3Xw?oc=5",
@@ -475,12 +490,12 @@
     "categoria_label": "📈 Conquistas & Economia",
     "regiao": "Nacional",
     "data_dia": "2026-11-10",
-    "hora": "Há 8h",
+    "hora": "Há 15h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 33,
+    "id": 34,
     "titulo": "COMUNICADO: Secretaria de Saúde de Campina Grande envia ofício ao Ministério da Saúde por pendência no repasse para pagamento de prestadores de serviços",
     "veiculo": "Prefeitura de Campina Grande",
     "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQWHNfd2NUZWFla3NkMWNnd3FiajZGcVQwQ3pPOXhYS0NQcEJFeGM4RVFRaVFldDJiYXNRcEVvaGlZQzlQR1VCMERldTlHVWZRMmE2YzQ2MFUwVVBoVnJHS3J1M18zaFNjWUptTmphQUNXTzhJRlhmeHNsc3M1b2w2d01LTjhlcG5qUXFmNUxGU0dOZHZSX3pKVEY1M1pFYnRaT2gtY3dpbVB1TzVHQW41RjUwSlViaUNOMU9PZVk5VzFPMHlvTjkxSjYyRk0tcC1hVlN4X21HMVZFeGtoZk9fODNNMGlULTlEZFFLTTJJRHR6RzNLMWExYlIzeG04b0dkdkVkenEyMTlyOGN4eVdLajB3?oc=5",
@@ -490,12 +505,12 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-11-10",
-    "hora": "Há 8h",
+    "hora": "Há 15h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
-    "id": 34,
+    "id": 35,
     "titulo": "Governo Lula reforça combate a golpes para proteger beneficiários do Bolsa Família e CadÚnico",
     "veiculo": "Partido dos Trabalhadores",
     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObk5oUU5WT29uWGhrZ1pZTUlIa21sNl8wTnFzN3hEVlRPNzhTU2x6S0NCZ3VrWHUweTBLZjVodHhseE5meE9MaHJEbjBfTDVxTGRNSjJDektPSGpySGZLTmJ5N1EyUXhyV1N1bUhHb3B3VHZibS1zRGdJZ0dfd0dvZHBiWXR1VmxqV0h4WGtDVndNOEdUeE0xOXdXQdIBowFBVV95cUxPNXlGbVRwRElpVV9ZdktNSFBQQ1BsLVQ0V0lPckhkMHVXZFN2Yk1BbG9sUk1JelBnb0xkT3V4ZzIxV2ozVmJNX3IzelJISmNSdm9GVUFrOFEzUEZvZ2ptb2lfUXI5b1NIWGI3MlVYLUNzTG91bUxvSFRfUmtYOVc0dEFBOWgyb1hTT3ByRlpqblp0aThsY1ExRTJiMV9BNjc3RW8w?oc=5",
@@ -505,12 +520,12 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-11-10",
-    "hora": "Há 10h",
+    "hora": "Há 17h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 35,
+    "id": 36,
     "titulo": "Covid-19: casos e óbitos seguem em queda no Brasil — Ministério da Saúde",
     "veiculo": "Governo Federal",
     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSjF4bC1CYzkzU1ppZUNMVkZ2NU1iaUprbEZGUUZFX2F6UDBBcGJ4MXdsUVM3YWlwckZsajZub2pQajBLcFdjOWpxekxTd2MxX2ZvNnMwTUw3LV82TDZVMkNXUDFlc2l0OGF5VWJ1SVk1cG5lMW5YbUY3dU1McDJZWTE2UVZPTEtzcTgyN2kxRUhodVlzcElfYVVoNHotYWNPOWdEb3ZsSl90c0pieFY5Mk5R?oc=5",
@@ -520,57 +535,12 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-11-10",
-    "hora": "Há 5h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 36,
-    "titulo": "Tesouraço no SUS? Na COP31, Padilha diz que a blindagem da saúde se chama Lula",
-    "veiculo": "Exame",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVzRqYklBaVFWenEwaUJQVWc2ZEpvNkQzV21lVUpuR0dYZUdUYWFFZG5LOEc4MldRYUplczJsMkdhbWNHZGVZOXliTUNXd0RPMEVfWUJPUTJjWkNWME9WWUoyRTlWbFQwMjlUbFRWdm1JQUxqUGFXYVhVQk1EdnhFUXltcEtJN2JVVEtsTDYwMEMzMThab1I2RWcwVXFLa1pTSDZ0NA?oc=5",
-    "resumo": "Tesouraço no SUS? Na COP31, Padilha diz que a blindagem da saúde se chama Lula  Exame",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
-    "regiao": "Nacional",
-    "data_dia": "2026-11-10",
-    "hora": "Há 7h",
+    "hora": "Há 12h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
     "id": 37,
-    "titulo": "Jader Filho propõe a Lula ampliar Minha Casa Minha Vida para 4 milhões de moradias",
-    "veiculo": "Vero Notícias",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN1hPcEJONk1Id0haR2oyNWRNbWd2NXdiT3pOY3d5U21STnFkVGxZdWE1Nm9FZXRvWm52VEd4bUt3NWdRWnZwZ1Q5cUc5MXhuZkJ3dlVPLTJRSnVTREhWbjBOVFNZNjg5TXJtN0RJMHdqNkdHNHFyb2t1MzlUOFlweFozbWxWR19BZ2ZpMm41OF9VZjVmRG1QUktKRnoyMlluWnNBX2lGRzU1dy1LcEptOG5VNU45dWE2?oc=5",
-    "resumo": "Jader Filho propõe a Lula ampliar Minha Casa Minha Vida para 4 milhões de moradias  Vero Notícias",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
-    "regiao": "Nacional",
-    "data_dia": "2026-11-10",
-    "hora": "Há 11h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 38,
-    "titulo": "Ministério da Saúde Alerta para Alta de Covid-19 em 18 Estados",
-    "veiculo": "Forbes Brasil",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOU3FSOFJkYlJKZlM0R3d6RDlWOE5NMmRQMGhSOW15MlRlT29KR3RmRUZWSl82Tzk2VUc3UjFkZm5sMVN3dmVoVzlMMjhuTFNyUWV5endIaUFNdTFBaVRsR093dVZSZ1ViVkNJeVdNb0s1QjZGUVl2MWRGWGVWNWxRNy1PYV8wNXgzVEl6a2FVcUNxTEtXalhPWWVHUGhSR2tPZ193MmMxNDNrZw?oc=5",
-    "resumo": "Ministério da Saúde Alerta para Alta de Covid-19 em 18 Estados  Forbes Brasil",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
-    "regiao": "Nacional",
-    "data_dia": "2026-11-10",
-    "hora": "Há 10h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 39,
     "titulo": "Mostra reúne boas práticas do Ministério Público na defesa do direito à saúde",
     "veiculo": "Conselho Nacional do Ministério Público (CNMP)",
     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQU0Y3blhENzVWSlVMTHQtSGg4N05xLVBzSnBPOV9SdGJXNzFYZTVJcFRmRVBTNHdyTnZ3T3dlcmtSV2pKLUkwc2U1bEI2VmVPXzVQQ24yY29WbU5tYWRZdUFUbS0xNUQ4b29hbEstTlZzOXJ6X3ZTMkVkSjNrSnVUcEU2V3JEUDhLTU9Ed1hnWW5fQUhtXzNXSUlnV0g5a3RXbzVEOGhMMzdwU1JTdzBUUVczT3MwZlVFNnUtT2R4R01mLW9Hck4yQ0ZKOA?oc=5",
@@ -585,7 +555,22 @@
     "urgente": false
   },
   {
-    "id": 40,
+    "id": 38,
+    "titulo": "O silêncio dos inocentes: as vítimas da demora do Ministério da Saúde em adotar vacina materna contra o VSR",
+    "veiculo": "Gazeta do Povo",
+    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNd0FqeXU2WlhtNzA3bno3NkpORm43aU1SZjJrb0dHcmxrRlRuVEFDN1NncTNtWWxnX1ZXZk1tamRQR1VZdHkwT1BIdzZsUlBIYjBMR0N6Ty1EMkNxU3RCNWQ4amF0alBOcnlfMnl1X2NLTVY1dGt3SFBuX005T1NjcUJSTWZxeTltaldBeWVoeXBuOXNSR3VmczBYX0d5eGR5YTljdk1hNWVKLTNLTG4zT3BfNUpyOGZRc08xTTdvVWxaNVU2Yl94bGp3djVOTDNrdG13aGJJWEtyVkJuX0pzb3U1cHEzVVdCMnZj?oc=5",
+    "resumo": "O silêncio dos inocentes: as vítimas da demora do Ministério da Saúde em adotar vacina materna contra o VSR  Gazeta do Povo",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
+    "regiao": "Nacional",
+    "data_dia": "2026-11-11",
+    "hora": "Há 58 min",
+    "tempo_leitura": "2 min de leitura",
+    "urgente": true
+  },
+  {
+    "id": 39,
     "titulo": "MPF apura possível falha do Ministério da Saúde na distribuição de vacinas contra mpox",
     "veiculo": "Ministério Público Federal",
     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZGlpbjk4djEtVm5MN20taTdCOHhUWUtNalhJcmJPM0dxWVZNQnB1bTVqLTJTc3hqdkVWLVdKRTVrRFZRZl9jSXh6Q0d4d1hxQ2Q3bWR3TVZia0ZXSkN1YXd0VEV4VlM5enRDM0dYSm9VOFVuNnE2SUNOVV9oeFRISzJJSThKQXFpalRXdlJPRUhza3c1bmx5MlNxWjg4TE1oUzlJb1BacUlwU2dLdDc1M2pUeGVYU0pqWXdCcGVJb2ZMMmNiNWw1LWVPT1hvWmh4NWp6LQ?oc=5",
@@ -600,18 +585,33 @@
     "urgente": false
   },
   {
+    "id": 40,
+    "titulo": "Tesouraço no SUS? Na COP31, Padilha diz que a blindagem da saúde se chama Lula",
+    "veiculo": "Exame",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVzRqYklBaVFWenEwaUJQVWc2ZEpvNkQzV21lVUpuR0dYZUdUYWFFZG5LOEc4MldRYUplczJsMkdhbWNHZGVZOXliTUNXd0RPMEVfWUJPUTJjWkNWME9WWUoyRTlWbFQwMjlUbFRWdm1JQUxqUGFXYVhVQk1EdnhFUXltcEtJN2JVVEtsTDYwMEMzMThab1I2RWcwVXFLa1pTSDZ0NA?oc=5",
+    "resumo": "Tesouraço no SUS? Na COP31, Padilha diz que a blindagem da saúde se chama Lula  Exame",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
+    "regiao": "Nacional",
+    "data_dia": "2026-11-10",
+    "hora": "Há 14h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
     "id": 41,
-    "titulo": "Cleitinho busca se aproximar de Lula e do PT em Minas após apoio a Flávio Bolsonaro na campanha",
-    "veiculo": "O GLOBO",
-    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPQnl3YzhnQjZUUGN2eXJ1X29jcVdsTGdqZTRkcmw3THV1WHUwTG5vck40X2xQVDFxYnNfRmpFaTF4Xy1CMjZJbUdmdGZWWXRkT1VJV2l2X0I0NUdyZjJseU5HcUpSQ19FMjZhNHF0XzVobzRpa1k3bW5iTi1ZcWhVb3ZLMFBnTDJYc2Q4NGN0cXJLTTc1NzhNN0NwSS16a1E2S3g3aEU1Sm5hdVpHbEtNLW5wWHdfZlA1YkZqQXZGYndrSllBWWJxVTJGZGZMT3VOa2pia25uOUVsem12Y3QyOXR1dElkQzJTTnfSAfgBQVVfeXFMTXZhMGhiSEk4aXF2eWRlWjMwS2JkOVFjSmhOek50NE40TTAzd0F1YmNCQi1Pdm9qUkdsdWp1eWxySG9YV3dXUkVoWmFmaUlGSmlLVXA3RzVOMV8zNkg1Rkl0MGU0eml1OTNmTWd4Ui05cW5RU3lrbWJockpUTG9vVk5aV2ttRV94bGVsLVpiSEFsZkhMcjZIWmJqMmZHdEQ4UDNUY0YzMXBnbFA4eXNQSGdFblh1OUpvU1RyY3oxaXF3NXN2NmhaNzdIZ2piSDdZOUtEMXJyUWNKRVp3YnZtc3FJdURUc2ladVJXeXRQVzlkNzQzeWdOeTA?oc=5",
-    "resumo": "Cleitinho busca se aproximar de Lula e do PT em Minas após apoio a Flávio Bolsonaro na campanha  O GLOBO",
+    "titulo": "Após derrota nas eleições, republicanos elegem novo líder na Câmara",
+    "veiculo": "Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOXzFWQkl2RkpmWFMyWUh4U19rNUFZRENLSUVLeWl2b3VaSEwyVW10cUlNVmRldHNLV1dfbDBoaWNoUy0tbVk1b2tzQmxtS0FmVy1meFRCWmRvd2hIcGlDYmZ2V0hESFNwd2ZEUmhKTl9qdG9PMkIxNWF6VDJ2LVNQaEk4U1ZuOXdzR2FKTzV0U1UwSzFQVjVFejdfbFI3RGw1Z0s0OW5iWmMxQ3FsSDFhVGJRdGk5aGvSAcYBQVVfeXFMT0hBbkpZMVhDQk9rVmZqR1RHaFJNRXFPVURoNElxakQ0RDlBY3FYcDhPRlhWMGR2RU1COVM1R0pFNlVjNjlJU0pJNWRhckZvTVZGVWd1eENrYUtCTjkyUlZ2UGR1elNCN1NjZlM5Rmdnc0ViR2NRS1NGaldkbVNvcVd1YjFhWVFFdHZOTHJ5NmozNWF1eTdTczJHVDdkLWdnTXZ1cldjLS1IUjhyYVFyOXNkZE04SGoxUnp4ckpLc2ZHZ3o0SlhB?oc=5",
+    "resumo": "Após derrota nas eleições, republicanos elegem novo líder na Câmara  Valor Econômico",
     "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
     "categoria": "eleicoes",
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-11-10",
-    "hora": "Há 8h",
-    "tempo_leitura": "2 min de leitura",
+    "hora": "Há 13h",
+    "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
@@ -625,7 +625,7 @@
     "categoria_label": "✊ Direitos & Mobilização",
     "regiao": "Nacional",
     "data_dia": "2026-11-10",
-    "hora": "Há 9h",
+    "hora": "Há 16h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   }
