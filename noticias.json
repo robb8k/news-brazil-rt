@@ -10,9 +10,9 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Centro-Oeste",
     "data_dia": "2026-11-13",
-    "hora": "Há 1h",
+    "hora": "Há 8h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 2,
@@ -25,9 +25,9 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-11-13",
-    "hora": "Há 1h",
+    "hora": "Há 8h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 3,
@@ -40,9 +40,9 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-11-13",
-    "hora": "Há 2h",
+    "hora": "Há 8h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 4,
@@ -55,9 +55,9 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Sul",
     "data_dia": "2026-11-13",
-    "hora": "Há 2h",
+    "hora": "Há 9h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 5,
@@ -70,7 +70,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-13",
-    "hora": "Há 3h",
+    "hora": "Há 10h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -85,7 +85,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-13",
-    "hora": "Há 3h",
+    "hora": "Há 10h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -100,7 +100,7 @@
     "categoria_label": "📈 Conquistas & Economia",
     "regiao": "Nacional",
     "data_dia": "2026-11-13",
-    "hora": "Há 4h",
+    "hora": "Há 11h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -115,7 +115,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-13",
-    "hora": "Há 5h",
+    "hora": "Há 11h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -130,7 +130,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-13",
-    "hora": "Há 5h",
+    "hora": "Há 11h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -145,7 +145,7 @@
     "categoria_label": "✊ Direitos & Mobilização",
     "regiao": "Nacional",
     "data_dia": "2026-11-13",
-    "hora": "Há 4h",
+    "hora": "Há 11h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -160,7 +160,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-11-13",
-    "hora": "Há 4h",
+    "hora": "Há 11h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -175,7 +175,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-13",
-    "hora": "Há 4h",
+    "hora": "Há 11h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -190,7 +190,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-11-13",
-    "hora": "Há 5h",
+    "hora": "Há 12h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -205,7 +205,7 @@
     "categoria_label": "📈 Conquistas & Economia",
     "regiao": "Nacional",
     "data_dia": "2026-11-13",
-    "hora": "Há 6h",
+    "hora": "Há 13h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -220,7 +220,7 @@
     "categoria_label": "✊ Direitos & Mobilização",
     "regiao": "Nacional",
     "data_dia": "2026-11-13",
-    "hora": "Há 6h",
+    "hora": "Há 13h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -235,7 +235,7 @@
     "categoria_label": "✊ Direitos & Mobilização",
     "regiao": "Nacional",
     "data_dia": "2026-11-13",
-    "hora": "Há 7h",
+    "hora": "Há 14h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -250,7 +250,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-11-13",
-    "hora": "Há 10h",
+    "hora": "Há 16h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -265,7 +265,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-13",
-    "hora": "Há 10h",
+    "hora": "Há 17h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -280,7 +280,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-13",
-    "hora": "Há 10h",
+    "hora": "Há 17h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -295,7 +295,7 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-11-13",
-    "hora": "Há 12h",
+    "hora": "Há 18h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -310,7 +310,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-11-13",
-    "hora": "Há 12h",
+    "hora": "Há 19h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -325,7 +325,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-11-13",
-    "hora": "Há 10h",
+    "hora": "Há 17h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -340,7 +340,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-13",
-    "hora": "Há 8h",
+    "hora": "Há 15h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -355,7 +355,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-13",
-    "hora": "Há 11h",
+    "hora": "Há 18h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -370,7 +370,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-13",
-    "hora": "Há 10h",
+    "hora": "Há 17h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -385,7 +385,7 @@
     "categoria_label": "📈 Conquistas & Economia",
     "regiao": "Nacional",
     "data_dia": "2026-11-13",
-    "hora": "Há 9h",
+    "hora": "Há 16h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -400,7 +400,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-13",
-    "hora": "Há 6h",
+    "hora": "Há 13h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -415,7 +415,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-13",
-    "hora": "Há 8h",
+    "hora": "Há 14h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -430,27 +430,42 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-13",
-    "hora": "Há 7h",
+    "hora": "Há 14h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
     "id": 30,
     "titulo": "Brasil fortalece cooperação internacional entre hospitais públicos universitários das Américas — Ministério da Saúde",
-    "veiculo": "Governo Federal",
+    "veiculo": "GOV.BR",
     "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQUVhDNXFNRXM0SWI5VEh6VktHRk55aXNGMGZDMDNtQnB4WHQ5MW1IaWpMSFFoODVwSVRTdzRhUjNlMjRHUFpIUW1ld0R3cHFHUjUtajhERFZIYXYzbmRWN24tT2Y0Q01ibnV3Vlkxc1g1NXZnR3RFZ2NLaS1kWVVLRk5zcE9xU1A0Z01ySGxZQlZmMndNZENZUmVDWnlmOHBwZHFGWXNub3drSDh1MXh6OTltUk1mdl9CTXd3ZWtET2xtT0tvaGl1Z2pYYUpOTGV3TUtnRzBrMkRaSWxPUEZXbUE1b1lwMFVTVGJDOGx3?oc=5",
-    "resumo": "Brasil fortalece cooperação internacional entre hospitais públicos universitários das Américas — Ministério da Saúde  Governo Federal",
+    "resumo": "Brasil fortalece cooperação internacional entre hospitais públicos universitários das Américas — Ministério da Saúde  GOV.BR",
     "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
     "categoria": "social",
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-11-13",
-    "hora": "Há 3h",
+    "hora": "Há 9h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
     "id": 31,
+    "titulo": "Estudantes criam 'Exército da Pós' para cobrar Lula por reajuste em bolsas",
+    "veiculo": "UOL Educação",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeXFGd2VWRXFqNmVNRVpzeU9HTlVtcDI5eUU1Y3BTdTRZa0ZfZnpNdC1zNzRiS2FFZDdJOGYteXpiZkZvaVVsbmJ5bmt6Q3Nxa3RHYWIxTlpCZ0VLT3lnaHZHMVdLck12eENRUWRQaU9nZmZHYjRlRW1ZdG5fM2kyR2ZXRms1SjVGWFBPNzRpcm5aNWszTGNnZVZlLUpHRHVodnVoeEM4dHNRQnotdk96Ynd4WDRyTWhMV2RzblltT04tQjg?oc=5",
+    "resumo": "Estudantes criam 'Exército da Pós' para cobrar Lula por reajuste em bolsas  UOL Educação",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
+    "regiao": "Nacional",
+    "data_dia": "2026-11-14",
+    "hora": "Há 38 min",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": true
+  },
+  {
+    "id": 32,
     "titulo": "Ajuste fiscal do governo pode tirar R$ 10 bi do SUS",
     "veiculo": "Outras Palavras",
     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOWY3dVBYcnJfY3BOQjlnTjBVMnJiUnFaR3U5dUxLZmtSUGZBaS1zbjhNdFJTQ1FNNE5oMUhsNzZPSnl3eTVNanRjT2VFZVhORGlmNVhZRTZpS1RtWTVCSGFuTnVPamdGME5hbm9xVktKRFhtV0k5YzIzWXBndDM4eFM0dnR3dFl1ZmtvRkdKNzZtOTA?oc=5",
@@ -460,12 +475,12 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-11-13",
-    "hora": "Há 7h",
+    "hora": "Há 14h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 32,
+    "id": 33,
     "titulo": "Ministério facilita acesso a atendimento de saúde mental no aplicativo Meu SUS Digital",
     "veiculo": "Agência Gov",
     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYThJcEFUdkJJbnR2Rlg4VmUtb3M5VFlTc3dfNmxuU1hVSHBBdEU5SVk4WEEyckxVU2Q5R3RZenVMWDFjdnA2TDQtOVZXSXlYQTdJbzNSUGd2NGQ2R1dfWXY5VXkzdU9yQ080RzBLN0xtWmNuSmo0bVY3MTY5bzdDOGZJNXByU29HVVpsQnhvTDRqVDJTai1MVzdxWEJJQy1TakxaTkZqT2JYNS1zT3JaTzE0MW1KcVRodlhiZTJFeEFoLVg0THUtNVJTVG0zNkk?oc=5",
@@ -475,22 +490,7 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-11-13",
-    "hora": "Há 7h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 33,
-    "titulo": "Unidade básica de saúde com tecnologia sustentável beneficia indígenas no Pará — Ministério da Saúde",
-    "veiculo": "Governo Federal",
-    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUjZSVjdGN2xPbWxLRWhSdUpFZnlEUXJRU3ZFUTR1ZU5iOUZHNTYyZ3RrNXFIR3ZWVGJLUk9iTXBOdzNMbkhrcUF3UWUwZDdjeDBaQXlRZXVaTG1zT19QanoxRHhEd0tNSmZVRlpIblNPbW5UN0l3Qm1QZ2dicnlwOUhPQVZIcC03aDZSSGFPaTZOdVRlVlotUlRMNUo5NFBqWGhMM1VJS0dBbHBXTHFZZHdvUllfaW5UT3RGOEtzcXpmUVVkcXRWcm5pcWgwSk1CbGdzV05VVlU?oc=5",
-    "resumo": "Unidade básica de saúde com tecnologia sustentável beneficia indígenas no Pará — Ministério da Saúde  Governo Federal",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
-    "regiao": "Norte",
-    "data_dia": "2026-11-13",
-    "hora": "Há 5h",
+    "hora": "Há 14h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -511,25 +511,25 @@
   },
   {
     "id": 35,
-    "titulo": "Rouquidão de Lula: o que pode explicar a voz falha do presidente, dos efeitos do câncer à cirurgia de 2022",
-    "veiculo": "G1",
-    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxObFBuYWU0aDlqMWtxZDc1bllyNEZjaGhmVmp5end1RkpzSkNtRWhBdDB2X1hjQ3RnRVk2Z21SS2JNNVotdDhvLWVtUHpCUXhMT19NaGZfZ1hZT0lSOGhRb0QtYXFXV3JsSkVnSU9FU2NyWm1sLWJlVTdrRDA2R0tDNmN1Y2E5SW1CVEQ1QlZrcElmVjZ0X2cwcWQxSEhYZVBkMzVOdGpqX0k1NmFLQm5jZHJ2RmhtVDZaZFN1eVM5NDNSdnlkdGNDczJtNzB4VTlVajJNNXhpQlRIbmZ6QjNMMDZPQ2w4R0ZMd3FKa9IB-wFBVV95cUxOR3BFaUVFcFdSSlFuMmFFMXFpWE5Kc0ljclBqelk2alhGYVFESDRTR3gtY29JbFAwYnhEZU5ldHp4bDhBaE1RM0trVk1oQlpGbXBnSUp6bDdDZy0yY0VjenY1QlA4UDJUNExrRzZRRjRrdlhDSG9INUc1c3duOThzdXg2bW1UUnVnb2J0dzJCU2lid2xrejV2bjh4bmFZVmtxeEtzNm5MNFhwUFpfeXBDT2xHazZSWUZXdGNHeFNHTHN4REVWZUZZQnA2emNVRFZRMlJCVGNsdmpOZzI5QzR6dENOTnBqeXBRTGNqUlQ4azVuZWhhNFoxdm1aTQ?oc=5",
-    "resumo": "Rouquidão de Lula: o que pode explicar a voz falha do presidente, dos efeitos do câncer à cirurgia de 2022  G1",
-    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
-    "categoria": "geral",
-    "categoria_label": "📢 Notícias do Povo",
-    "regiao": "Nacional",
+    "titulo": "Unidade básica de saúde com tecnologia sustentável beneficia indígenas no Pará — Ministério da Saúde",
+    "veiculo": "GOV.BR",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUjZSVjdGN2xPbWxLRWhSdUpFZnlEUXJRU3ZFUTR1ZU5iOUZHNTYyZ3RrNXFIR3ZWVGJLUk9iTXBOdzNMbkhrcUF3UWUwZDdjeDBaQXlRZXVaTG1zT19QanoxRHhEd0tNSmZVRlpIblNPbW5UN0l3Qm1QZ2dicnlwOUhPQVZIcC03aDZSSGFPaTZOdVRlVlotUlRMNUo5NFBqWGhMM1VJS0dBbHBXTHFZZHdvUllfaW5UT3RGOEtzcXpmUVVkcXRWcm5pcWgwSk1CbGdzV05VVlU?oc=5",
+    "resumo": "Unidade básica de saúde com tecnologia sustentável beneficia indígenas no Pará — Ministério da Saúde  GOV.BR",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
+    "regiao": "Norte",
     "data_dia": "2026-11-13",
-    "hora": "Há 21h",
-    "tempo_leitura": "2 min de leitura",
+    "hora": "Há 12h",
+    "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
     "id": 36,
-    "titulo": "Ajuste fiscal de Lula terá cortes em saúde e educação, diz Flávio",
-    "veiculo": "Poder360",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORlUzZVJ6d1RsRVVoSUpDb0xOU2dRbkM3STY2UEhCOFJReXI3bHVlY0o2b2tyS0lLUFVvNTZjX1B6MXJQZzM2S2lvcDJQNjFIZ1ZIUTYyS3UxNjhMWXNSQlpuTGdHaElsTEwyNkFpWlRTTDNkV0k0WUl0bTdEYVM4SldRT0x3bXF4dURJT19pUVdMMHVNc18yM2VzSkd2WDh6M25HS1JxX3ZxOHFwaThKamFRZw?oc=5",
-    "resumo": "Ajuste fiscal de Lula terá cortes em saúde e educação, diz Flávio  Poder360",
+    "titulo": "Em conferência internacional, Massuda apresenta hospitais universitários como ativos estratégicos do SUS",
+    "veiculo": "GOV.BR",
+    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOR2I0V2FUcjBrYTlhb2V1SzMwRUNGQlRjZ0J2NE9pd0FzdmtsaDdNSHJWRjVRUlkzUlJSX285X28yRldPRThPRFpoSEhsend6R0tTV3pVWWJCT1AwdjhueWZfOTRNcTR3NC1TRDEzZXFZbC1YRk1Zdm9hbEhvYXdLT0RiZVV4aFRCSm9wOXV0bEoyQ2k1SVRCLTliSk03bm8wQ2VWNjRrQWgwWWk3UVctVm1fbVpVWXFvRVdQcUVXeWVMelBST0QtQlVSZC1zSVVPVHJJTWl4dDNDRmVaZldDUGJEZDcxMXIxVl9zaS1EY2FxNFRjNjV5azJR?oc=5",
+    "resumo": "Em conferência internacional, Massuda apresenta hospitais universitários como ativos estratégicos do SUS  GOV.BR",
     "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
     "categoria": "social",
     "categoria_label": "🏛️ Políticas Públicas",
@@ -541,21 +541,6 @@
   },
   {
     "id": 37,
-    "titulo": "Em conferência internacional, Massuda apresenta hospitais universitários como ativos estratégicos do SUS",
-    "veiculo": "Governo Federal",
-    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOR2I0V2FUcjBrYTlhb2V1SzMwRUNGQlRjZ0J2NE9pd0FzdmtsaDdNSHJWRjVRUlkzUlJSX285X28yRldPRThPRFpoSEhsend6R0tTV3pVWWJCT1AwdjhueWZfOTRNcTR3NC1TRDEzZXFZbC1YRk1Zdm9hbEhvYXdLT0RiZVV4aFRCSm9wOXV0bEoyQ2k1SVRCLTliSk03bm8wQ2VWNjRrQWgwWWk3UVctVm1fbVpVWXFvRVdQcUVXeWVMelBST0QtQlVSZC1zSVVPVHJJTWl4dDNDRmVaZldDUGJEZDcxMXIxVl9zaS1EY2FxNFRjNjV5azJR?oc=5",
-    "resumo": "Em conferência internacional, Massuda apresenta hospitais universitários como ativos estratégicos do SUS  Governo Federal",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
-    "regiao": "Nacional",
-    "data_dia": "2026-11-13",
-    "hora": "Há 12h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 38,
     "titulo": "MTE promove Circuito de Oportunidades em Nilópolis (RJ) nos dias 16 e 17 de novembro",
     "veiculo": "Governo Federal",
     "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQNmFQNkJFWkNoYzNaWTQwa2J3UlZoR3BmZTBMRTJVNExsVWZabFBvUk5zdS1WTDFlWUhZRzVUSVZlN01LaUxHWXdYRk1OUWFLX3dsU2VFcHVtaDR5cnlhVTNmWjlZM2RiU0Q0MmpTTmpJOUZTTVpGcFg3czZBN3dmQkxSczVYMUxxclk5Y3RyQ3lNeWJ4NTJvVGxNVXh4T01zdlNOdmFvNlhPMDk0bHFQZnh6TFEwNkZqNFRFUGljM2FBeFJ4MGJMbjVsVnAtNFB1WWZUVW55cjFaUmNrY09EbzViNEZRdXVnYlJnYmtlWFJaZw?oc=5",
@@ -565,27 +550,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-13",
-    "hora": "Há 7h",
+    "hora": "Há 14h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 39,
-    "titulo": "Conselho Nacional de Saúde inicia comemorações de nove décadas de luta pela democracia e pelo direito à saúde",
-    "veiculo": "Ministério da Saúde",
-    "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxQLV9pZVhISjNJU2RvSlJNRTJ2dHhCYjlpaURkdHNCOUc0OFh0TWhHRXlUbEZwcW5HS3pqVWxzOHNRWmxXZ0RudWFLcGM2dG9Odm04c09RSXZXSjJfNVhSZGFMLUZscWhnZGloRC1KT1JLc1JjbEJ6MDRqdThjMDM3bV9EY3NPb2ZGOG80TUNuenlQaXRuQ0RDQnBYd0tQX2xield2SFhEa3p2SzNudVRnYVdwQlliZ3p3SFRsd21aTnhZcVpLT1lvc1R4MEJUT05SeDFVQ1FDWENJVGkzOWxlbmxDVktoNmpGNEticDBLWlZQWGFIbEZtb2RzZWp0OW1ObVZWcWxyMGl1TFpLcEtZY2NwOTJNelgzZUdPcnln?oc=5",
-    "resumo": "Conselho Nacional de Saúde inicia comemorações de nove décadas de luta pela democracia e pelo direito à saúde  Ministério da Saúde",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
-    "regiao": "Nacional",
-    "data_dia": "2026-11-13",
-    "hora": "Há 7h",
-    "tempo_leitura": "2 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 40,
+    "id": 38,
     "titulo": "SUS ultrapassa 1 milhão de procedimentos para tratamento do câncer de próstata — Ministério da Saúde",
     "veiculo": "Governo Federal",
     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONHJuXzRrVnJLeXp2SkJQdWZPWTNtMDdIYUNNMHRiOTBYRVdVNlRvWHJkcGw1Vm1WXzF4cUdYdndzZkhoVXJ0SF9qMm9kNktZVmJaRVA3bXZzTG5iVjFnRU5GSEp2dlFOT3VHRTBCbjRtUWlIbVBfRzRVdS1pa1pSNGRxb0IxWjlqb29TcVd0dWdUamJidGsyWHJpWmd6dF9Kb0xJeHdCeEpOOGloWHc4OFdMd21WcVVsZlhRREtwbzd5Y2VhU2Nwdm8ybDFXQkM3NmY3aWE4NGE?oc=5",
@@ -600,32 +570,62 @@
     "urgente": false
   },
   {
+    "id": 39,
+    "titulo": "Conselho Nacional de Saúde inicia comemorações de nove décadas de luta pela democracia e pelo direito à saúde",
+    "veiculo": "Ministério da Saúde",
+    "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxQLV9pZVhISjNJU2RvSlJNRTJ2dHhCYjlpaURkdHNCOUc0OFh0TWhHRXlUbEZwcW5HS3pqVWxzOHNRWmxXZ0RudWFLcGM2dG9Odm04c09RSXZXSjJfNVhSZGFMLUZscWhnZGloRC1KT1JLc1JjbEJ6MDRqdThjMDM3bV9EY3NPb2ZGOG80TUNuenlQaXRuQ0RDQnBYd0tQX2xield2SFhEa3p2SzNudVRnYVdwQlliZ3p3SFRsd21aTnhZcVpLT1lvc1R4MEJUT05SeDFVQ1FDWENJVGkzOWxlbmxDVktoNmpGNEticDBLWlZQWGFIbEZtb2RzZWp0OW1ObVZWcWxyMGl1TFpLcEtZY2NwOTJNelgzZUdPcnln?oc=5",
+    "resumo": "Conselho Nacional de Saúde inicia comemorações de nove décadas de luta pela democracia e pelo direito à saúde  Ministério da Saúde",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
+    "regiao": "Nacional",
+    "data_dia": "2026-11-13",
+    "hora": "Há 14h",
+    "tempo_leitura": "2 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 40,
+    "titulo": "Ministério da Saúde defende integração entre setores público e privado para fortalecer o SUS durante o Rio Health Forum 2026",
+    "veiculo": "Governo Federal",
+    "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPYnR2andMUmxzRDBpRjBHTWJOUFNYdEhhYks1cUFoLVQ2WjNqVl9TeU9zaERZVlZrb0s5ZEl3S3htRGpDM3dyV1lNV3A1VlhrZEhibnY5OXN1ak5Ib2MzX3RacmhnaDdES0c3eU9ZSHl5Qk5VRTVuZVIwdGlBajJnbGotdHBhVDhXZnpacVhveDVOaXNmV0Nfa1RZUlhoNERhZHp4UnpseWV2cW9qSEhKekZFTVBLUUpLUWVxdUpfdlZsbFJMNEZ6MDQ1OW5DTWFSS3RRbXpCMGs4aGRYM3U0V3Z5Yi1tNHcyYmUtekpOTmdnRzRhcDUyNjZmLWlTQmxNUE42U014dHdRQlhLeVotbFczZlpqUQ?oc=5",
+    "resumo": "Ministério da Saúde defende integração entre setores público e privado para fortalecer o SUS durante o Rio Health Forum 2026  Governo Federal",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
+    "regiao": "Nacional",
+    "data_dia": "2026-11-11",
+    "hora": "11/11 16:53",
+    "tempo_leitura": "2 min de leitura",
+    "urgente": false
+  },
+  {
     "id": 41,
-    "titulo": "Bancada do PT apresenta projeto para taxar \"super-ricos\" e títulos isentos",
-    "veiculo": "CNN Brasil",
-    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdlB1V3EzV0ZWQnd2UVVMM3pFR1dWemRwN2d5UUtZM1dmLV9oanpLNHRTSl9BVVNhdGEyTDBDTjczWFhkeEVzLUpHQW44TnlaREljc1V6cnZ4STlUUm01TEtwVDNLS0NxZXhYR09wdzhLODlURWhNMkd1ckZkcHd2azVfU2k4cE91Ql9yVWROaEVqRTFra3VEbXpmSWxxaVF3bGdmVklveC0zWVkwYUFwV2tWUDF6WW1EbEtPSUxqX19aZm54Wnl1TThBZDY?oc=5",
-    "resumo": "Bancada do PT apresenta projeto para taxar \"super-ricos\" e títulos isentos  CNN Brasil",
+    "titulo": "Diretório Nacional do PT discute ajuste fiscal em meio a incômodo no partido e na militância",
+    "veiculo": "JOTA Info",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMldlVW1pbWhRMHI4Z0VZTzhOcm5EVnd6Zk1VSXBJZkh5cVFJVDk0b0NJczl5Z0ZDd0l5QVNwSVBSLXJhb2pFUmJydWZ2TE9RbHB0VlVQcDJJOEhFUURxenRISXNNa3Y2aV9WX2t4S3UzX2piZU4xVmRPTGRWdWFFSVp3RV9pSGFmdGctQlowUDBmYUZCdHhsY2FoUkN4Nk9jcV9lZWlPX1NlZDZadzhMNUJLM0xfb29HOXlUc09BNXFIRmRW?oc=5",
+    "resumo": "Diretório Nacional do PT discute ajuste fiscal em meio a incômodo no partido e na militância  JOTA Info",
     "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
     "categoria": "geral",
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-13",
-    "hora": "Há 2h",
+    "hora": "Há 12h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 42,
-    "titulo": "Mais de 11 mil hectares são destinados à reforma agrária em cinco estados",
-    "veiculo": "GOV.BR",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOX0VSeGQtUVJXT2VBMG9FbXcxY195NGxjUmVJT29aNm9mUVEta19GY0RjdE5DLUN3WEZibnhrYkhBM0Q1bFBmajZkX3FrNHNQaGZaaFNSTUhGZm9zYTljTjlvVVJ6YVRyekx0Uy02Ty1wYmNfSm9DVnQ0V2tBOWdRZjg2TFpOMFQzdThocnVCQUxhNVpHVWFTbExWS1V1MWh2MGo3dExueTA5X2VUVFRjVHg4d1dNemw3U3Jfd0xXZw?oc=5",
-    "resumo": "Mais de 11 mil hectares são destinados à reforma agrária em cinco estados  GOV.BR",
-    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
-    "categoria": "geral",
-    "categoria_label": "📢 Notícias do Povo",
+    "titulo": "MST se despede de Isaías Vedovatto, liderança histórica da ocupação da Fazenda Anonni",
+    "veiculo": "mst.org.br",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNGF0UEVzQ3B4RHU0NzJwZEZZNmNlc3M4SzhPSnQzLS15aVg2eVdBMWV6MUI5Si1mODNweXNJZUR6WEUwbVh1Y3JJTmREVVl1bzNkMW5HREhNQVFlcjd2Rjl5RkJfU3pkTDBqY3dZejhpOU81MHByMFk3NmJuREhKT1Niel9OQTl5WnE1Mkljdm1ZNDc0UVYwcDFaN0R2Y1IweWJaNlA1X29ES0toUFViUGJ5bTRldw?oc=5",
+    "resumo": "MST se despede de Isaías Vedovatto, liderança histórica da ocupação da Fazenda Anonni  mst.org.br",
+    "imagem": "https://images.unsplash.com/photo-1531206715517-5c0ba140b2b8?w=800&q=80",
+    "categoria": "direitos",
+    "categoria_label": "✊ Direitos & Mobilização",
     "regiao": "Nacional",
     "data_dia": "2026-11-13",
-    "hora": "Há 5h",
+    "hora": "Há 20h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   }
