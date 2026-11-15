@@ -10,9 +10,9 @@
     "categoria_label": "🌿 Meio Ambiente",
     "regiao": "Nacional",
     "data_dia": "2026-11-14",
-    "hora": "Há 2h",
+    "hora": "Há 6h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 2,
@@ -25,9 +25,9 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-11-14",
-    "hora": "Há 2h",
+    "hora": "Há 6h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 3,
@@ -40,7 +40,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-11-14",
-    "hora": "Há 4h",
+    "hora": "Há 7h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -55,7 +55,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Sudeste",
     "data_dia": "2026-11-14",
-    "hora": "Há 4h",
+    "hora": "Há 8h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -70,7 +70,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-14",
-    "hora": "Há 4h",
+    "hora": "Há 8h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -85,7 +85,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-14",
-    "hora": "Há 5h",
+    "hora": "Há 9h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -100,7 +100,7 @@
     "categoria_label": "🌿 Meio Ambiente",
     "regiao": "Sul",
     "data_dia": "2026-11-14",
-    "hora": "Há 6h",
+    "hora": "Há 9h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -115,7 +115,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-14",
-    "hora": "Há 6h",
+    "hora": "Há 10h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -130,7 +130,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-14",
-    "hora": "Há 7h",
+    "hora": "Há 10h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -145,7 +145,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-14",
-    "hora": "Há 8h",
+    "hora": "Há 12h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -460,7 +460,7 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-11-14",
-    "hora": "Há 15h",
+    "hora": "Há 14h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -481,18 +481,18 @@
   },
   {
     "id": 33,
-    "titulo": "Estado de SP lidera casos de Mpox no Brasil com 398 registros, aponta Ministério da Saúde",
+    "titulo": "Lula cancela discurso e declaração à imprensa nas Filipinas por causa de rouquidão",
     "veiculo": "G1",
-    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMjcyckF4SHM4NWRiQnUtYnBIbUNZZy1PWTFIMzY1ZVJEWWhmM0twbGt4bW1mUUlBc2FzZ1hHQTVZMkZ2V3d6TVVXTHlid0d1NTFjT3RiT21TTnpKRFhoNWxhcVIyTXJyaEdxQzZ4d2swbW53Z0k2N25HZlZuN2FQTTQ2blZRLTVvc09VQzlFODl6eDJLUk9TWG55Z3RrdkhTU1lRUmhRZDBBd1NJUWdIRlVnb2JPdXlzM2lTRE85ZXlxRm05SnREdm9fMFUyZm95T2QwZDR3UXhoS251c3phTtIB7wFBVV95cUxPMjJyYUZYcnFTYTg5b0pzYUFtNXdCU0pyb0d0dklaMUFqSGJwSHcxMFVHWUdzdC11OWExY2ZWTVZDOWV6ZWdVeWFhWE9sUy16WG91bjNITFh5SFlOeFBGY0E4VWN6d1prY1dZNFF3cmItQWdyenRTZkF3VGZvOFJDYVdGa1JBNHoxaGlxT1hZS1RJWDRuME45WFlnbEtGVldVa21NSVBLRnoxVWVRWmVFSmlISk41dnBBTERMNmlIemVxT1pMc1BId2tXSVJYSG0zaXc2MW42NDlmZ2g3eURiNy1fWnMyNERZYzYtc1BBdw?oc=5",
-    "resumo": "Estado de SP lidera casos de Mpox no Brasil com 398 registros, aponta Ministério da Saúde  G1",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUTZ2UFR0X1RIUE1vWHNjSEFuRVliQXFVdXdrN2VycDBaWGluQ3NMQmJ5OEVWcXYyOXZwV3Z4R0NMNnpBV3ozclBiVHFzOEdvbDJmcmUwVnFRSFZPVzVCbHltdFJTLVJWMUFfWG9SMEdnc2FVRHJ1UzI1NjRabWVydDFCbTlrbDZ3cENwaEg0b29la3dsbFh3cjZUaHhEblJjQ1V6YWZHczJuXzVPRzNhRU1aQ0NaQVEtYTNmM2M3WUxqWjlkVm9BTEw5enlMNm4zaU800gHiAUFVX3lxTE1mY3lRWEkzVjdBVkh5QjZ1NjUtdTdOSmQ1cUYxQUZrblNrSFVVb1JZOF9fUjVGQkxpYUVodTh1eHpNSzRBejBkcjhoY2lIS2ZPZ0lpblZYTVV2aTZmNko1V2tGYW9ZUFo1MFVUY0dVWWJyenVPb0dwcndCVzVfajNNZWFGcnAyUzBRTVFfdEJrSE5lZjJvVDNzSFF6UXlKU1FZUEo1cnROYTRySElTcVZKLWs5NTVkM0RCYmt6LU95OWxjeWpaVGxVUzluMTNhSExpbHQyVUxiWk1Yd1BRRUd4NUE?oc=5",
+    "resumo": "Lula cancela discurso e declaração à imprensa nas Filipinas por causa de rouquidão  G1",
+    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
+    "categoria": "geral",
+    "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-14",
-    "hora": "Há 1h",
+    "hora": "Há 9h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 34,
@@ -541,18 +541,18 @@
   },
   {
     "id": 37,
-    "titulo": "Rouquidão de Lula: o que pode explicar a voz falha do presidente, dos efeitos do câncer à cirurgia de 2022",
+    "titulo": "Ministério da Saúde confirma a primeira morte por Mpox no Brasil; saiba os sintomas da doença",
     "veiculo": "G1",
-    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxObFBuYWU0aDlqMWtxZDc1bllyNEZjaGhmVmp5end1RkpzSkNtRWhBdDB2X1hjQ3RnRVk2Z21SS2JNNVotdDhvLWVtUHpCUXhMT19NaGZfZ1hZT0lSOGhRb0QtYXFXV3JsSkVnSU9FU2NyWm1sLWJlVTdrRDA2R0tDNmN1Y2E5SW1CVEQ1QlZrcElmVjZ0X2cwcWQxSEhYZVBkMzVOdGpqX0k1NmFLQm5jZHJ2RmhtVDZaZFN1eVM5NDNSdnlkdGNDczJtNzB4VTlVajJNNXhpQlRIbmZ6QjNMMDZPQ2w4R0ZMd3FKa9IB-wFBVV95cUxOR3BFaUVFcFdSSlFuMmFFMXFpWE5Kc0ljclBqelk2alhGYVFESDRTR3gtY29JbFAwYnhEZU5ldHp4bDhBaE1RM0trVk1oQlpGbXBnSUp6bDdDZy0yY0VjenY1QlA4UDJUNExrRzZRRjRrdlhDSG9INUc1c3duOThzdXg2bW1UUnVnb2J0dzJCU2lid2xrejV2bjh4bmFZVmtxeEtzNm5MNFhwUFpfeXBDT2xHazZSWUZXdGNHeFNHTHN4REVWZUZZQnA2emNVRFZRMlJCVGNsdmpOZzI5QzR6dENOTnBqeXBRTGNqUlQ4azVuZWhhNFoxdm1aTQ?oc=5",
-    "resumo": "Rouquidão de Lula: o que pode explicar a voz falha do presidente, dos efeitos do câncer à cirurgia de 2022  G1",
-    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
-    "categoria": "geral",
-    "categoria_label": "📢 Notícias do Povo",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMlF2dkdoNmtrOWlUZVN1dlJxcndybjc5VjA1MlE2ZlZUZEJXbURCaEc4dThiTmxySW5aWnVpY3hIMTdvQmJ5empJZHc4UE5aQ2VHVDNFZWxIXzdGbWhkbjFqVUtUODJjNDJZY3g4RUpXdDY1YndhdUx3ZU9iYlYzaXNwbjZYeTZhU1d4clVTVGlXRktlWHJENGFJd0lVUlBKa1Ewa0RjblNNQktpa2p4YmNBbElyU1ZyZlpjWFN3Y2FYRS10cVlwaUUxWDc4T1cwYjJQeno3R0JoU1doSkUtVS1NZDVwSGdWcmfSAfgBQVVfeXFMUHZWV2JOTHg3ZkNHeFJvQW9fUElpUnd0RURtZnVYT3N4VkxGazA2M09DVjZiUGZGMm10Z1llcXNNVzhNN1NqRDJwYTgyNHNwRWRSdmZ1bjQzWXBpRXdyLURucENQUkxwVWdMZzRyVmZzZXFjallsS0pMM0xHbFZINEVlU05MeXEtWUJSR3ZHVWZqenF2TDY2YTRVaGF0VDExQXV5RnBWR05qWTQxQ08yQVlaRUtOQ2Rwa05taU9KS1c0MlhVcVFoeHZvWThjVDFkaTBoaGhab1pOMUlwbi1ieUNEM0VrT29HeDRCWXVYWFpHWnpnRGFoeGo?oc=5",
+    "resumo": "Ministério da Saúde confirma a primeira morte por Mpox no Brasil; saiba os sintomas da doença  G1",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
-    "data_dia": "2026-11-13",
-    "hora": "13/11 02:00",
-    "tempo_leitura": "2 min de leitura",
-    "urgente": false
+    "data_dia": "2026-11-14",
+    "hora": "Há 2h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": true
   },
   {
     "id": 38,
@@ -571,6 +571,21 @@
   },
   {
     "id": 39,
+    "titulo": "Rouquidão de Lula: o que pode explicar a voz falha do presidente, dos efeitos do câncer à cirurgia de 2022",
+    "veiculo": "G1",
+    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxObFBuYWU0aDlqMWtxZDc1bllyNEZjaGhmVmp5end1RkpzSkNtRWhBdDB2X1hjQ3RnRVk2Z21SS2JNNVotdDhvLWVtUHpCUXhMT19NaGZfZ1hZT0lSOGhRb0QtYXFXV3JsSkVnSU9FU2NyWm1sLWJlVTdrRDA2R0tDNmN1Y2E5SW1CVEQ1QlZrcElmVjZ0X2cwcWQxSEhYZVBkMzVOdGpqX0k1NmFLQm5jZHJ2RmhtVDZaZFN1eVM5NDNSdnlkdGNDczJtNzB4VTlVajJNNXhpQlRIbmZ6QjNMMDZPQ2w4R0ZMd3FKa9IB-wFBVV95cUxOR3BFaUVFcFdSSlFuMmFFMXFpWE5Kc0ljclBqelk2alhGYVFESDRTR3gtY29JbFAwYnhEZU5ldHp4bDhBaE1RM0trVk1oQlpGbXBnSUp6bDdDZy0yY0VjenY1QlA4UDJUNExrRzZRRjRrdlhDSG9INUc1c3duOThzdXg2bW1UUnVnb2J0dzJCU2lid2xrejV2bjh4bmFZVmtxeEtzNm5MNFhwUFpfeXBDT2xHazZSWUZXdGNHeFNHTHN4REVWZUZZQnA2emNVRFZRMlJCVGNsdmpOZzI5QzR6dENOTnBqeXBRTGNqUlQ4azVuZWhhNFoxdm1aTQ?oc=5",
+    "resumo": "Rouquidão de Lula: o que pode explicar a voz falha do presidente, dos efeitos do câncer à cirurgia de 2022  G1",
+    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
+    "categoria": "geral",
+    "categoria_label": "📢 Notícias do Povo",
+    "regiao": "Nacional",
+    "data_dia": "2026-11-13",
+    "hora": "13/11 02:00",
+    "tempo_leitura": "2 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 40,
     "titulo": "Unidade básica de saúde com tecnologia sustentável beneficia indígenas no Pará — Ministério da Saúde",
     "veiculo": "Governo Federal",
     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUjZSVjdGN2xPbWxLRWhSdUpFZnlEUXJRU3ZFUTR1ZU5iOUZHNTYyZ3RrNXFIR3ZWVGJLUk9iTXBOdzNMbkhrcUF3UWUwZDdjeDBaQXlRZXVaTG1zT19QanoxRHhEd0tNSmZVRlpIblNPbW5UN0l3Qm1QZ2dicnlwOUhPQVZIcC03aDZSSGFPaTZOdVRlVlotUlRMNUo5NFBqWGhMM1VJS0dBbHBXTHFZZHdvUllfaW5UT3RGOEtzcXpmUVVkcXRWcm5pcWgwSk1CbGdzV05VVlU?oc=5",
@@ -585,32 +600,17 @@
     "urgente": false
   },
   {
-    "id": 40,
-    "titulo": "Ferramenta digital para avaliar vulnerabilidade clínico-funcional de pessoas idosas é incorporada ao trabalho de agentes comunitários de saúde — Ministério da Saúde",
-    "veiculo": "Governo Federal",
-    "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNb1RPNVlnV1FpckVNcjJmaWd6SW95OEktdmtvS0MtWG4wSjNXcUVWdjVKV3hacl93RHAzWHlBQ3ZTbFNoZlJkUHBXaTRFNUdUSm1PV3p3cDNiMFFjX29TZmIycGlnOFZ1dUg2aVY1SDNDTEM5TUt4ZkRWM180VVkzcVJjcExqazREZ05jel9rQWswRF8wT2VCWWJlRGtobTZER2FxWWRUTUVyRnhOSUxEaExEejVxa3FRZkpWaV9GbFNNQ0tZYXpxaFRUcjg2LUJzWVFZdE1rUjhSd2I5V1N4V1plYzl4YWZlUVBBS28yejUtVkg4TGpnYlg5ZFQxN1VjWVM0djhYRXpRUTEwSWF1M2RGRVBHMTlPYUtfYXZSSFg2a2gtOXRqUnVJQS1Fdw?oc=5",
-    "resumo": "Ferramenta digital para avaliar vulnerabilidade clínico-funcional de pessoas idosas é incorporada ao trabalho de agentes comunitários de saúde — Ministério da Saúde  Gove...",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
-    "regiao": "Nacional",
-    "data_dia": "2026-11-11",
-    "hora": "11/11 10:03",
-    "tempo_leitura": "2 min de leitura",
-    "urgente": false
-  },
-  {
     "id": 41,
-    "titulo": "PT, PC do B e Psol articulam pacote contra ajuste fiscal de Lula",
-    "veiculo": "Poder360",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNT001NTJ0NnJKNmVTcTBaOUp2eUZxN3FiS0o3SzlJaVNGWkhiMzVzUFZLYzQ1bUlHWU55Z0RZLUhUcVFDWlVpeW9QcTgtLUZwMTZVTWR3SlR2N0lINjBtR1daamFyZE9lQ1FTWFFkR0pFSHJFNW10X3ZSQlU1R3VsMzZzNUNkTkhXVXJPQTB4dkZWT1lTT085dGVHaWN1aWY0aUJtemlKNDBoeV9R?oc=5",
-    "resumo": "PT, PC do B e Psol articulam pacote contra ajuste fiscal de Lula  Poder360",
-    "imagem": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
-    "categoria": "economia",
-    "categoria_label": "📈 Conquistas & Economia",
+    "titulo": "Uma nova nação brasileira está sendo imaginada com avanço dos evangélicos, diz filósofo Paulo Arantes",
+    "veiculo": "BBC",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5PakxlRUZzVVNSWjhJelVGbTZmRTFVZC1uU1NwMUJqQVhzZ2JmMDJDaDdPS3ExeG1RbnVWQmFQUEZmVnZPczFtal9oS2UxTEp2LTE4X1NTWGtOU0tKOVNXaHBNSdIBaEFVX3lxTE1wYUl3UFpTQTFZTXNiOVlseHRYRWdicjUweEFqQTg0VV8zdW5xdEpVQkd2ejBEcFpfUHZkSFVaNmYxMEpIWjFfc2pHX0ZCZm9Cbk9RVEJGYVlnNDU1WVRrdEVkMDhyUWRy?oc=5",
+    "resumo": "Uma nova nação brasileira está sendo imaginada com avanço dos evangélicos, diz filósofo Paulo Arantes  BBC",
+    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
+    "categoria": "geral",
+    "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-14",
-    "hora": "Há 6h",
+    "hora": "Há 15h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -625,7 +625,7 @@
     "categoria_label": "✊ Direitos & Mobilização",
     "regiao": "Nacional",
     "data_dia": "2026-11-14",
-    "hora": "Há 7h",
+    "hora": "Há 11h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   }
