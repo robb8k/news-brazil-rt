@@ -10,9 +10,9 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-18",
-    "hora": "Há 1h",
+    "hora": "Há 9h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 2,
@@ -25,9 +25,9 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-18",
-    "hora": "Há 2h",
+    "hora": "Há 9h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 3,
@@ -40,9 +40,9 @@
     "categoria_label": "✊ Direitos & Mobilização",
     "regiao": "Nacional",
     "data_dia": "2026-11-18",
-    "hora": "Há 2h",
+    "hora": "Há 9h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 4,
@@ -55,9 +55,9 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nordeste",
     "data_dia": "2026-11-18",
-    "hora": "Há 2h",
+    "hora": "Há 9h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 5,
@@ -70,9 +70,9 @@
     "categoria_label": "✊ Direitos & Mobilização",
     "regiao": "Nacional",
     "data_dia": "2026-11-18",
-    "hora": "Há 2h",
+    "hora": "Há 9h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 6,
@@ -85,9 +85,9 @@
     "categoria_label": "🌿 Meio Ambiente",
     "regiao": "Norte",
     "data_dia": "2026-11-18",
-    "hora": "Há 2h",
+    "hora": "Há 10h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 7,
@@ -100,9 +100,9 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-18",
-    "hora": "Há 2h",
+    "hora": "Há 10h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 8,
@@ -115,7 +115,7 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Sudeste",
     "data_dia": "2026-11-18",
-    "hora": "Há 3h",
+    "hora": "Há 10h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -130,27 +130,12 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Sudeste",
     "data_dia": "2026-11-18",
-    "hora": "Há 3h",
+    "hora": "Há 11h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
     "id": 10,
-    "titulo": "PRF inicia operação para garantir a segurança nas estradas no feriadão",
-    "veiculo": "Agência Brasil",
-    "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/prf-inicia-operacao-para-garantir-seguranca-nas-estradas-no-feriadao",
-    "resumo": "A Polícia Rodoviária Federal (PRF) inicia nesta quinta-feira (19) a Operação Dia da Consciência Negra 2026. As ações seguem até domingo (22), em razão do aumento no movim...",
-    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
-    "categoria": "geral",
-    "categoria_label": "📢 Notícias do Povo",
-    "regiao": "Nacional",
-    "data_dia": "2026-11-18",
-    "hora": "Há 4h",
-    "tempo_leitura": "2 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 11,
     "titulo": "Futuros desobedientes e a inteligência popular nas cidades",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/outras-cidades/futuros-desobedientes-e-a-inteligencia-popular-nas-cidades/",
@@ -160,12 +145,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-18",
-    "hora": "Há 2h",
+    "hora": "Há 9h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 12,
+    "id": 11,
     "titulo": "Yuk Hui: Quem teme a Tecnodiversidade?",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/tecnologiaemdisputa/yuk-hui-quem-teme-tecnodiversidade/",
@@ -175,12 +160,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-18",
-    "hora": "Há 3h",
+    "hora": "Há 10h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 13,
+    "id": 12,
     "titulo": "Israel depois das urnas",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/geopoliticaeguerra/israel-depois-das-urnas/",
@@ -190,12 +175,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-18",
-    "hora": "Há 3h",
+    "hora": "Há 10h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 14,
+    "id": 13,
     "titulo": "Soberania não começa nem termina no data center",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/descolonizacoes/soberania-nao-comeca-nem-termina-no-data-center/",
@@ -205,12 +190,12 @@
     "categoria_label": "📈 Conquistas & Economia",
     "regiao": "Nacional",
     "data_dia": "2026-11-18",
-    "hora": "Há 3h",
+    "hora": "Há 11h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 15,
+    "id": 14,
     "titulo": "Por uma revolução digital no MinC",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/tecnologiaemdisputa/por-uma-revolucao-digital-no-minc/",
@@ -220,12 +205,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-18",
-    "hora": "Há 4h",
+    "hora": "Há 11h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 16,
+    "id": 15,
     "titulo": "A virada da juventude: o que a esquerda não entende",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/movimentoserebeldias/a-virada-da-juventude-o-que-a-esquerda-nao-entende/",
@@ -235,12 +220,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-18",
-    "hora": "Há 4h",
+    "hora": "Há 11h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
-    "id": 17,
+    "id": 16,
     "titulo": "Gerenciar a crise não é opção: a esquerda diante do colapso do liberalismo",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/leia-tambem/gerenciar-a-crise-nao-e-opcao-a-esquerda-diante-do-colapso-do-liberalismo/",
@@ -250,12 +235,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-18",
-    "hora": "Há 7h",
+    "hora": "Há 15h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
-    "id": 18,
+    "id": 17,
     "titulo": "Por uma macroeconomia do desenvolvimento histórico-estruturalista brasileiro",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/leia-tambem/por-uma-macroeconomia-do-desenvolvimento-historico-estruturalista-brasileira/",
@@ -265,12 +250,12 @@
     "categoria_label": "📈 Conquistas & Economia",
     "regiao": "Nacional",
     "data_dia": "2026-11-18",
-    "hora": "Há 7h",
+    "hora": "Há 15h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 19,
+    "id": 18,
     "titulo": "Brasil: a grande estratégia e seus obstáculos",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/crise-brasileira/brasil-grande-estrategia-e-seus-obstaculos/",
@@ -285,7 +270,7 @@
     "urgente": false
   },
   {
-    "id": 20,
+    "id": 19,
     "titulo": "A Faria Lima quer o estelionato eleitoral",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/mercadovsdemocracia/a-faria-lima-quer-o-estelionato-eleitoral/",
@@ -300,7 +285,7 @@
     "urgente": false
   },
   {
-    "id": 21,
+    "id": 20,
     "titulo": "EUA levam 14 dias para definir Senado: indígena do Alasca é eleita",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/11/18/eua-levam-14-dias-para-definir-senado-indigena-do-alasca-e-eleita/?utm_source=rss&utm_medium=rss&utm_campaign=eua-levam-14-dias-para-definir-senado-indigena-do-alasca-e-eleita",
@@ -310,12 +295,12 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-11-18",
-    "hora": "Há 1h",
+    "hora": "Há 8h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 22,
+    "id": 21,
     "titulo": "Câmara se junta ao Senado e refuta ação do PDT que pede recálculo das sobras eleitorais",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/11/18/camara-se-junta-ao-senado-e-refuta-acao-do-pdt-que-pede-recalculo-das-sobras-eleitorais/?utm_source=rss&utm_medium=rss&utm_campaign=camara-se-junta-ao-senado-e-refuta-acao-do-pdt-que-pede-recalculo-das-sobras-eleitorais",
@@ -325,12 +310,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-18",
-    "hora": "Há 1h",
+    "hora": "Há 8h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 23,
+    "id": 22,
     "titulo": "Vacina russa contra o câncer faz metástases desaparecerem em primeiro paciente",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/11/18/vacina-russa-contra-o-cancer-faz-metastases-desaparecerem-em-primeiro-paciente/?utm_source=rss&utm_medium=rss&utm_campaign=vacina-russa-contra-o-cancer-faz-metastases-desaparecerem-em-primeiro-paciente",
@@ -340,12 +325,12 @@
     "categoria_label": "📈 Conquistas & Economia",
     "regiao": "Nacional",
     "data_dia": "2026-11-18",
-    "hora": "Há 1h",
+    "hora": "Há 9h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 24,
+    "id": 23,
     "titulo": "Senado conclui votação do ajuste fiscal; PCdoB apresentará emenda na Câmara",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/11/18/senado-conclui-votacao-do-ajuste-fiscal-pcdob-apresentara-emenda-na-camara/?utm_source=rss&utm_medium=rss&utm_campaign=senado-conclui-votacao-do-ajuste-fiscal-pcdob-apresentara-emenda-na-camara",
@@ -355,12 +340,12 @@
     "categoria_label": "📈 Conquistas & Economia",
     "regiao": "Nacional",
     "data_dia": "2026-11-18",
-    "hora": "Há 2h",
+    "hora": "Há 9h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
-    "id": 25,
+    "id": 24,
     "titulo": "Gaspari reafirma continuidade da tortura e extermínio em 1976 com Chacina da Lapa",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/11/18/gaspari-reafirma-continuidade-da-tortura-e-exterminio-em-1976-com-chacina-da-lapa/?utm_source=rss&utm_medium=rss&utm_campaign=gaspari-reafirma-continuidade-da-tortura-e-exterminio-em-1976-com-chacina-da-lapa",
@@ -370,12 +355,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Norte",
     "data_dia": "2026-11-18",
-    "hora": "Há 3h",
+    "hora": "Há 11h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
-    "id": 26,
+    "id": 25,
     "titulo": "Lula assina nesta quinta-feira (19) decreto para regulamentar redução da jornada e escala 5×2",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/11/18/lula-assina-decreto-para-regulamentar-reducao-da-jornada-e-escala-5x2/?utm_source=rss&utm_medium=rss&utm_campaign=lula-assina-decreto-para-regulamentar-reducao-da-jornada-e-escala-5x2",
@@ -385,12 +370,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-18",
-    "hora": "Há 4h",
+    "hora": "Há 11h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
-    "id": 27,
+    "id": 26,
     "titulo": "Desemprego cai em oito estados no 3º trimestre e chega a 5,2%, aponta IBGE",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/11/18/desemprego-cai-em-oito-estados-e-fica-estavel-em-18-aponta-ibge/?utm_source=rss&utm_medium=rss&utm_campaign=desemprego-cai-em-oito-estados-e-fica-estavel-em-18-aponta-ibge",
@@ -400,12 +385,12 @@
     "categoria_label": "📈 Conquistas & Economia",
     "regiao": "Nordeste",
     "data_dia": "2026-11-18",
-    "hora": "Há 4h",
+    "hora": "Há 12h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
-    "id": 28,
+    "id": 27,
     "titulo": "Primeira derrota de Netanyahu após eleição põe opositor no comando do parlamento",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/11/18/primeira-derrota-de-netanyahu-apos-eleicao-poe-opositor-no-comando-da-knesset/?utm_source=rss&utm_medium=rss&utm_campaign=primeira-derrota-de-netanyahu-apos-eleicao-poe-opositor-no-comando-da-knesset",
@@ -415,12 +400,12 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-11-18",
-    "hora": "Há 10h",
+    "hora": "Há 17h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
-    "id": 29,
+    "id": 28,
     "titulo": "Senado rebate ação do PDT que pode mudar composição do Legislativo",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/11/18/senado-rebate-acao-do-pdt-que-pode-mudar-composicao-do-legislativo/?utm_source=rss&utm_medium=rss&utm_campaign=senado-rebate-acao-do-pdt-que-pode-mudar-composicao-do-legislativo",
@@ -430,12 +415,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Sul",
     "data_dia": "2026-11-18",
-    "hora": "Há 10h",
+    "hora": "Há 18h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
-    "id": 30,
+    "id": 29,
     "titulo": "Xi recebe Trump com pompa e reforça parceria com Putin às vésperas da reunião trilateral",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/11/18/xi-recebe-trump-com-pompa-em-shenzhen-e-reforca-parceria-com-putin-as-vesperas-da-reuniao-trilateral/?utm_source=rss&utm_medium=rss&utm_campaign=xi-recebe-trump-com-pompa-em-shenzhen-e-reforca-parceria-com-putin-as-vesperas-da-reuniao-trilateral",
@@ -445,12 +430,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-18",
-    "hora": "Há 10h",
+    "hora": "Há 18h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
-    "id": 31,
+    "id": 30,
     "titulo": "Encontro nacional reúne projetos de apoio à formação em saúde e à permanência estudantil — Ministério da Saúde",
     "veiculo": "GOV.BR",
     "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUFRiYWljWUE5eXBLYWhVUWZtUlo0ZjRCYmZsRGRlSHg2dzU5bVZpRHRaREFPYmxSa1QwWGRITmZxQjJLYmhhV0gtWnJnUGJvOFh2T0EwR1pWbnZKbGU0UWpqQnJvN0NtcjZHd2ZHWVNkRzhFWk8tb3RMY3ozRGI5S1JfYW55d3FnaS1sdjdfSUlYenhEWXhSdHpybkVsWlM5SDRXN1I4dThOT041TnRiSUpObW5oSk0yQnJ5bi1mVDNkTTh0RFJKRVcyMUxHYTM3MC0yOFF0SkVDRXdmLXlPcTNjYnZBdw?oc=5",
@@ -460,57 +445,27 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-11-18",
-    "hora": "Há 4h",
+    "hora": "Há 11h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 31,
+    "titulo": "SMS recebe profissionais do Ministério da Saúde do Uruguai para intercâmbio técnico em Vigilância de Zoonoses",
+    "veiculo": "Prefeitura de São Paulo",
+    "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQOEhIYUs2U1FJcWdPdFFzQ0ZScE1lZTRpYUk1a3lnUW5SdWQ0RWw5LTJvR3p1NTlEWlFPT0MyeVJqdGI0TG9HNUloQ3MwZkQxVTlOc0I5N0RtS2toOHZGQUN3U3dDcThiWEJ5eUJzcnk0dk83cGpLc0RrekR2WjJ0YVNHaHZVRXMteDBEd2dMbDFyV1M5XzBtU0kzc1hsNjc0YUpjS2ZXbVdwQjRKU0phbWhHbDRscEVnQnBZeG9RZ3NBRHJmZlhpWF9fWUtpa3hoaFlOVDF0ZEh1cC1jVGRMeEIzVV9TZk1WX3ZpMl9BaHFkYmtDWG45Y01xcUp4N0pCSThKN2JB?oc=5",
+    "resumo": "SMS recebe profissionais do Ministério da Saúde do Uruguai para intercâmbio técnico em Vigilância de Zoonoses  Prefeitura de São Paulo",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
+    "regiao": "Sudeste",
+    "data_dia": "2026-11-18",
+    "hora": "Há 15h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
     "id": 32,
-    "titulo": "SMS recebe profissionais do Ministério da Saúde do Uruguai para intercâmbio técnico em Vigilância de Zoonoses",
-    "veiculo": "Prefeitura",
-    "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQOEhIYUs2U1FJcWdPdFFzQ0ZScE1lZTRpYUk1a3lnUW5SdWQ0RWw5LTJvR3p1NTlEWlFPT0MyeVJqdGI0TG9HNUloQ3MwZkQxVTlOc0I5N0RtS2toOHZGQUN3U3dDcThiWEJ5eUJzcnk0dk83cGpLc0RrekR2WjJ0YVNHaHZVRXMteDBEd2dMbDFyV1M5XzBtU0kzc1hsNjc0YUpjS2ZXbVdwQjRKU0phbWhHbDRscEVnQnBZeG9RZ3NBRHJmZlhpWF9fWUtpa3hoaFlOVDF0ZEh1cC1jVGRMeEIzVV9TZk1WX3ZpMl9BaHFkYmtDWG45Y01xcUp4N0pCSThKN2JB?oc=5",
-    "resumo": "SMS recebe profissionais do Ministério da Saúde do Uruguai para intercâmbio técnico em Vigilância de Zoonoses  Prefeitura",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
-    "regiao": "Nacional",
-    "data_dia": "2026-11-18",
-    "hora": "Há 8h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 33,
-    "titulo": "Ministério da Saúde envia ao município do Rio mais mil frascos de vacina contra mpox",
-    "veiculo": "GOV.BR",
-    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQbl9qdXR0TUdTNkZIT2JIU0dOeEd5Y1VDSE5YZ0pZaGhHWTVWNFFtMEdYS2pDQXFTWURiRkh4TEdHaHd5Z19tWDRtSmYtRnBhR0VFZkJLNWdua1U0WUUta2RER0Vma25vV0lkb3RDNU1pdG5UU0ZUNER2WHM1dFRNdFhjUE1uQTJNeFNkTl9WSHR2YzVVTl9naVJJSDRIZFFvNnZxY3JuOFAwRklNdGVLZlFjXzZJbFU2cWxnMUVEcEhaNUkxQ2w0cVoxZE1OSDFiOFpuNGtobHphVllkNVhsTw?oc=5",
-    "resumo": "Ministério da Saúde envia ao município do Rio mais mil frascos de vacina contra mpox  GOV.BR",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
-    "regiao": "Nacional",
-    "data_dia": "2026-11-18",
-    "hora": "Há 8h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 34,
-    "titulo": "Mais de 5 mil pessoas são vacinadas contra mpox no Rio, e estoques se esgotam; Ministério da Saúde envia novas doses",
-    "veiculo": "O GLOBO",
-    "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPb2tmYWhsUzg1aG5QRk1OVUpjOXVJcXpFMXZhLTJPU2RhWlVkQTRWY3RGWmVXMEV3cWpRSFdnZXdqeXFmT1REbEE2X1E2NjhKS1ROdWloV1BVMzdpVXVVUjJSY3NHZ2hTaUx6ZmpHZi1nRzBLT3pQc0hGZkZPT3M2Y0VWSHVuMGxIYWV2dkllN2txYkFMbEpaLTdTUmw2WHh3YmdEczlaRFF0WnV4SkwwRG9RcWljd2FEU0UxaDRxZmI4aDNMRDZNSjctTnBjNmFsbDhfRjAzTWJfSzg0VVlRdXBEdDNpUnIzSk1IMU5FUldldXFLbDEySmFPUGjSAYsCQVVfeXFMTk92QzlGR2hEUmZtZk43eFpzZGtYSWd2Z3FUV1M0ZFg3TkdpcDA3bGd6V0ZFZF9YeURCNUVQOEpDaUhvS2I0OGdNWGVJUTY3X2lZZWNKbVNpczZNeTc5ZGUyc2RqSnVRVHRtbE45RDZPdWY1Y1h1OFVycTRrQzF0MmNjSW05azFLU2JIcmhaMTkwMVFEeDl0SndvQXVqejRZeHpZay1rNElaVWVUQkJKYlFBLUNSWEpmTGpWRmxuZVRPZXNkcnlGQjh1cmE0MnQtMTFSYU0tYXctSGw0a1ZUUllhdzIxa0VZNTNrVjZUdmd0YWswdTRoY0VCeGNELTVnV1FucFB3bmJhajBr?oc=5",
-    "resumo": "Mais de 5 mil pessoas são vacinadas contra mpox no Rio, e estoques se esgotam; Ministério da Saúde envia novas doses  O GLOBO",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
-    "regiao": "Nacional",
-    "data_dia": "2026-11-18",
-    "hora": "Há 3h",
-    "tempo_leitura": "2 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 35,
     "titulo": "A verdade sobre o ajuste fiscal de Lula: combate a privilégios e proteção social",
     "veiculo": "Partido dos Trabalhadores",
     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObXdPLUJjVjk1SzJZblBYUkNZc2h5aTFTQTZOU0hwOTlPcmpBVlZoWUFKZFJQd2RCWEZwWEk3TFpENGhoa0ljTEl5QkUzOFNVN24tUXBHX2s2aTZOYl9GREJfU2dEbEVfVmhwWnNlb2h4WjdHX1BvbENXRndqVmNvS3ZNNl9LYkpJVXgzeWpJMDlHazd6ZHVLYWRvTTNXcVnSAacBQVVfeXFMUGJoMHRjQnp6cUJuQUo4dzZMMnY2RUctNFJBMHVWLVhoZ3RZN3lCakZWQWQwaVJZQ2kxNV9wZFFOTkJhOHZnQ0RpbXlJVzJhaFdvSFBaTEtReFNTaVRwV0xteG5kVl9yWlBieU16a2JvM29aTXBGNV8zaUJNVGZFNG1xazEtS2Vwck40YTRDVDl3TUVxZktrVkx0ajE1ckV2MERVYjMyUDA?oc=5",
@@ -525,26 +480,11 @@
     "urgente": false
   },
   {
-    "id": 36,
-    "titulo": "Ministério da Saúde apresenta quatro projetos de inovação para o SUS",
-    "veiculo": "Afya | Home",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQnVKN3BRQmprbWU3LUl3UENiVlVrYlNEVzdIUmk3RjhJc0dkMlJYRWdtUWgzMjQ5R2l4LXE3YkRmY255bWxtZ0l5VW12WllYQ3FYRm0xb3Y3OWJCb3RPT0JIZDNOaWtsRHNHbmRCOWNqWGdIeWhIUDdkbXlWQ1Z2V29oazk0WlZIYlNFRndfNjg3TjVTWWoyN1YzZ3FyT1M3VGhF?oc=5",
-    "resumo": "Ministério da Saúde apresenta quatro projetos de inovação para o SUS  Afya | Home",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
-    "regiao": "Nacional",
-    "data_dia": "2026-11-18",
-    "hora": "Há 7h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 37,
-    "titulo": "Novos complexos da Fiocruz e do INCA preveem R$ 10 bilhões para ampliar produção de vacinas e fortalecer atendimento oncológico — Ministério da Saúde",
-    "veiculo": "GOV.BR",
-    "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNa01XRVhwYXFmdHpqYUlNWXJOMlBoN0JweXJOV0lULWNCV2wyOUJCeWhFMmkxWF9LMFNtUDcyRENhc2hwSG5IZ3g1eEwxRmNGX2NROVptZ2t5NVR3SE1jb1BmRFJuSDJBNTRXNm1wUW5hdDZEbnNQdWdydlJsV0doME9QSG1tUTdncmpvazB1ZlQxdXRMV0l6WGNVR245OU5ScHB0ZHdUc1JxclJmcURvT2JfUkg0cVNPTEI4bW1GNGFPU1ZVY05kazJGdkt5WmJFaEQtaE1TTzFhNVh2Zml2ZmJNRGZhY0lRRmVSM1NMV1JEOHVPWXV6MjY4MWdRbnRoZ2pIbWx3?oc=5",
-    "resumo": "Novos complexos da Fiocruz e do INCA preveem R$ 10 bilhões para ampliar produção de vacinas e fortalecer atendimento oncológico — Ministério da Saúde  GOV.BR",
+    "id": 33,
+    "titulo": "Mais de 5 mil pessoas são vacinadas contra mpox no Rio, e estoques se esgotam; Ministério da Saúde envia novas doses",
+    "veiculo": "O GLOBO",
+    "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPb2tmYWhsUzg1aG5QRk1OVUpjOXVJcXpFMXZhLTJPU2RhWlVkQTRWY3RGWmVXMEV3cWpRSFdnZXdqeXFmT1REbEE2X1E2NjhKS1ROdWloV1BVMzdpVXVVUjJSY3NHZ2hTaUx6ZmpHZi1nRzBLT3pQc0hGZkZPT3M2Y0VWSHVuMGxIYWV2dkllN2txYkFMbEpaLTdTUmw2WHh3YmdEczlaRFF0WnV4SkwwRG9RcWljd2FEU0UxaDRxZmI4aDNMRDZNSjctTnBjNmFsbDhfRjAzTWJfSzg0VVlRdXBEdDNpUnIzSk1IMU5FUldldXFLbDEySmFPUGjSAYsCQVVfeXFMTk92QzlGR2hEUmZtZk43eFpzZGtYSWd2Z3FUV1M0ZFg3TkdpcDA3bGd6V0ZFZF9YeURCNUVQOEpDaUhvS2I0OGdNWGVJUTY3X2lZZWNKbVNpczZNeTc5ZGUyc2RqSnVRVHRtbE45RDZPdWY1Y1h1OFVycTRrQzF0MmNjSW05azFLU2JIcmhaMTkwMVFEeDl0SndvQXVqejRZeHpZay1rNElaVWVUQkJKYlFBLUNSWEpmTGpWRmxuZVRPZXNkcnlGQjh1cmE0MnQtMTFSYU0tYXctSGw0a1ZUUllhdzIxa0VZNTNrVjZUdmd0YWswdTRoY0VCeGNELTVnV1FucFB3bmJhajBr?oc=5",
+    "resumo": "Mais de 5 mil pessoas são vacinadas contra mpox no Rio, e estoques se esgotam; Ministério da Saúde envia novas doses  O GLOBO",
     "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
     "categoria": "social",
     "categoria_label": "🏛️ Políticas Públicas",
@@ -555,7 +495,82 @@
     "urgente": false
   },
   {
+    "id": 34,
+    "titulo": "Ministério da Saúde envia ao município do Rio mais mil frascos de vacina contra mpox",
+    "veiculo": "GOV.BR",
+    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQbl9qdXR0TUdTNkZIT2JIU0dOeEd5Y1VDSE5YZ0pZaGhHWTVWNFFtMEdYS2pDQXFTWURiRkh4TEdHaHd5Z19tWDRtSmYtRnBhR0VFZkJLNWdua1U0WUUta2RER0Vma25vV0lkb3RDNU1pdG5UU0ZUNER2WHM1dFRNdFhjUE1uQTJNeFNkTl9WSHR2YzVVTl9naVJJSDRIZFFvNnZxY3JuOFAwRklNdGVLZlFjXzZJbFU2cWxnMUVEcEhaNUkxQ2w0cVoxZE1OSDFiOFpuNGtobHphVllkNVhsTw?oc=5",
+    "resumo": "Ministério da Saúde envia ao município do Rio mais mil frascos de vacina contra mpox  GOV.BR",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
+    "regiao": "Nacional",
+    "data_dia": "2026-11-18",
+    "hora": "Há 15h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 35,
+    "titulo": "Ministério da Saúde apresenta quatro projetos de inovação para o SUS",
+    "veiculo": "Afya | Home",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQnVKN3BRQmprbWU3LUl3UENiVlVrYlNEVzdIUmk3RjhJc0dkMlJYRWdtUWgzMjQ5R2l4LXE3YkRmY255bWxtZ0l5VW12WllYQ3FYRm0xb3Y3OWJCb3RPT0JIZDNOaWtsRHNHbmRCOWNqWGdIeWhIUDdkbXlWQ1Z2V29oazk0WlZIYlNFRndfNjg3TjVTWWoyN1YzZ3FyT1M3VGhF?oc=5",
+    "resumo": "Ministério da Saúde apresenta quatro projetos de inovação para o SUS  Afya | Home",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
+    "regiao": "Nacional",
+    "data_dia": "2026-11-18",
+    "hora": "Há 14h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 36,
+    "titulo": "Em plano enviado ao presidente Lula, ABC e SBPC propõem elevar investimento em ciência a 3% do PIB até 2040 - ABC",
+    "veiculo": "Academia Brasileira de Ciências",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTkc2RDJJYWllMHJONEdKNFVrVUxHZXF6QmM3U1FuUjRGendyek40RU5NU3NoZzRMaXNlM1B2LU84ZUZCMGxRd1d4bDlfT2JfeWNFWVBfS0M1Ml8wTUFnVjh4VWpKZkc4bzVpeW9ELXdpNnFyMk85d2NadlVLeURBZ0hmZVVGZ25BcTdxaWhIT0NIOE1tOUlxQ3B5Q19rWUxkWUhCcUQ4QnZhWEV2V1Jha3JGd1d6d1hTbVFlNVp3VGNCUHRwQmowYWpKZFFPVnhEd21UMmE0bGk?oc=5",
+    "resumo": "Em plano enviado ao presidente Lula, ABC e SBPC propõem elevar investimento em ciência a 3% do PIB até 2040  ABC - Academia Brasileira de Ciências",
+    "imagem": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
+    "categoria": "economia",
+    "categoria_label": "📈 Conquistas & Economia",
+    "regiao": "Nacional",
+    "data_dia": "2026-11-17",
+    "hora": "17/11 13:15",
+    "tempo_leitura": "2 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 37,
+    "titulo": "Ministério envia vacina contra mpox ao Rio, que está com aplicação suspensa por falta de doses",
+    "veiculo": "G1",
+    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOamNLUm5QcFFwb2dSdnlwUXQxWlhTdVNESlRqbGZQeDllMzNxM2k5alA2dWZodFlHTlEtbXJ1X1VIU29iNUdzZGtTazFVRjlueUJaX3ZZVmQxSHgxZjJuUDV3aFJOX3JVcF9kQmJwNWlIWjR0azY0R2NpWk11cGFtR2FSRTdtWXM5eDBlQU1DSXpYMnRYai03WmdESGdyQ3U3eU96ZS04V2dYTi14OWhpZm1hMmFkRWxpTmVBOVZyM0xsT2V2XzBqaHNVMlY2V2Vsc1NvWldqWUlKTW43SWgtclBfcGN4MlZwUnlhSEZJYkEyZ2ZK0gGDAkFVX3lxTE9fWDhKRi1lU3pZWVdhWkV5Y0hGeEdlUVd0b2hnWkg2NVdZTzJ3Tk9VNEM0R0swS050TlpxNVdlTVdPZ3lPb2lfUGVpWW9JX1NhU3hkc2J2aWlBUUpfR3ljaDhIUjFNSUpNZnAtVGpzd0k4M1M5Y0g1MnNqejNISTk5cE9nOWVzRDVTOWNnWUxERUt1SGJJTlZSZWNobnB1bkVqQ0FnbW02c3FRUl8wbXhnZUpkTTBQYjhVTXAtS2lEQllkUmtTSmNWVDFVYzN5QTJObnAxNmVHUVJrWEhOUlpxeW1scEJKVEVScUlIWHNjeDhrSGMtblhOcEtCV3FEUlIwb1E?oc=5",
+    "resumo": "Ministério envia vacina contra mpox ao Rio, que está com aplicação suspensa por falta de doses  G1",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
+    "regiao": "Nacional",
+    "data_dia": "2026-11-18",
+    "hora": "Há 13h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
     "id": 38,
+    "titulo": "Novos complexos da Fiocruz e do INCA preveem R$ 10 bilhões para ampliar produção de vacinas e fortalecer atendimento oncológico — Ministério da Saúde",
+    "veiculo": "GOV.BR",
+    "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNa01XRVhwYXFmdHpqYUlNWXJOMlBoN0JweXJOV0lULWNCV2wyOUJCeWhFMmkxWF9LMFNtUDcyRENhc2hwSG5IZ3g1eEwxRmNGX2NROVptZ2t5NVR3SE1jb1BmRFJuSDJBNTRXNm1wUW5hdDZEbnNQdWdydlJsV0doME9QSG1tUTdncmpvazB1ZlQxdXRMV0l6WGNVR245OU5ScHB0ZHdUc1JxclJmcURvT2JfUkg0cVNPTEI4bW1GNGFPU1ZVY05kazJGdkt5WmJFaEQtaE1TTzFhNVh2Zml2ZmJNRGZhY0lRRmVSM1NMV1JEOHVPWXV6MjY4MWdRbnRoZ2pIbWx3?oc=5",
+    "resumo": "Novos complexos da Fiocruz e do INCA preveem R$ 10 bilhões para ampliar produção de vacinas e fortalecer atendimento oncológico — Ministério da Saúde  GOV.BR",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
+    "regiao": "Nacional",
+    "data_dia": "2026-11-18",
+    "hora": "Há 19h",
+    "tempo_leitura": "2 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 39,
     "titulo": "Parceria entre MDHC e Ministério da Saúde promove formação em reparação em saúde e direitos humanos",
     "veiculo": "GOV.BR",
     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPUmt3WVpHU0FxT0xtMWhTdEhuS2JtZnhkdWhzVGMyMlN4aWdTZUFLb0k2eTBrRWhMMXpaMG5mVFpabGJQM2g2am41QUxfcnkyU3RPbDl6RG9CMGsxSm05V2ZDNmI0bGdYWXItYUQyc0swOWJCZzBMbFFlX3BySTJoUUswWlM1SUYtcnB4blJ4VURCMmZlNmNtTFhZNmpuVnR0VmNXY2NveWxkUklwTG04THZXUHZjUjU0OHVsdDZGQ0RHLTA0R3p1cmdpdEVieDhFbTlFM2prWm1leTBzZkdZUkYtY3hSWmg0WlpB?oc=5",
@@ -565,38 +580,23 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-11-18",
-    "hora": "Há 5h",
+    "hora": "Há 13h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 39,
-    "titulo": "Casos e óbitos por mpox no Brasil estão cerca de 90% abaixo dos registrados em 2022 — Ministério da Saúde",
-    "veiculo": "GOV.BR",
-    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOaEEtODZaSHZvbXo5b1RGazNHV2RSOFNMaGpSMWJfcWJhTHUxeXBSbXBwVnNmMVRMbWpmRlhUVnlxaVJMd1FJRUZSWkFsSDNuUkNib0xjbkJLYlIydGdXN2FSZXA0RkZwV0cyVzdLeHEtZTZGMlVrb3JTcFlsa3VjUy1CTDFXZTZxNGNqdFlPNndwbW9LUnBVSHppN0Rfc3ZyZXRDZjVWeEdyRF9kX1dYYmlwbUhSdk1KNC1PVjZIZFVaYWhHeG5vMGJxdzJtWlpYLWRzVGkwS292MVYxMEE?oc=5",
-    "resumo": "Casos e óbitos por mpox no Brasil estão cerca de 90% abaixo dos registrados em 2022 — Ministério da Saúde  GOV.BR",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
-    "regiao": "Nacional",
-    "data_dia": "2026-11-16",
-    "hora": "16/11 18:51",
-    "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
     "id": 40,
-    "titulo": "Novas tecnologias no SUS fortalecem autonomia sanitária do Brasil, reitera Padilha durante Congresso da Rebrats",
+    "titulo": "Força Nacional do SUS completa 15 anos com mais de 10 milhões de pessoas beneficiadas em todo o Brasil",
     "veiculo": "GOV.BR",
-    "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOa0k4Wm9md2JzMUxYWFNjNmJyM0Fjb3haSFpSZGZPeTRoWWVlYTgySnNndnExWTllQzRZMWFEalRQRkdxN2N1enZlbzdJZXRUVTVlZWZIQ0hEd2l6MXZ0UkQ4WE9PbDRMcEs3YkFBQW91RmZ1d3NIOVo1N3FFX0lyOWtnZVJlWkRNQzM0UzM0TFZmaGpzTmpQRDQwZjA1YVVBdFNVZWhyLXFYX3NpVnJ5NWZ0amFuV0xoUllyeDMxT2dIZmZEZnc5QmtPRTQ0ajAwLXRwV2dBN1VtWlpxc09OSHh3azR0MTVfVlhOZXRhRktUWkljRVIyQjlDQVAzazZTN1Vv?oc=5",
-    "resumo": "Novas tecnologias no SUS fortalecem autonomia sanitária do Brasil, reitera Padilha durante Congresso da Rebrats  GOV.BR",
+    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOTnVveUNUSTBobWJkUDdyU0RrRlBoQ3R1Qnh3U21fMXYyaktQdVY3TnYxZmx2dVBhVTVWVVJhcG5Nc2NTeVJFMkxRcG1XOER6M1ZCYnRvMHY2REdmNk5fejlOMkE1M2ttRC1FVFV5NlpjQ1FDOWVrTFRiZEplVjdiZlg0dkJ4U1FmUnVTZnUyc09FWWJId3EzaUoxVUg0ZVV3Y0s1Q2IybEJOQkJGM3hyVEpJellwVFNuZnBTbllQMm9jTDJYZTY0WnJiTlk2OEVRTFRRVFh4Y0dRZ2praG1xcVZCaElQa0tzWC1FamxfUktsMldoN2pxVw?oc=5",
+    "resumo": "Força Nacional do SUS completa 15 anos com mais de 10 milhões de pessoas beneficiadas em todo o Brasil  GOV.BR",
     "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
     "categoria": "social",
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
-    "data_dia": "2026-11-16",
-    "hora": "16/11 19:07",
-    "tempo_leitura": "1 min de leitura",
+    "data_dia": "2026-11-17",
+    "hora": "17/11 19:50",
+    "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
@@ -625,7 +625,7 @@
     "categoria_label": "✊ Direitos & Mobilização",
     "regiao": "Nacional",
     "data_dia": "2026-11-18",
-    "hora": "Há 4h",
+    "hora": "Há 11h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   }
