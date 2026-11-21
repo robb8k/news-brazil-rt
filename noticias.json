@@ -1,126 +1,141 @@
 [
   {
     "id": 1,
-    "titulo": "Portugal estreia com vitória de virada na Copa do Mundo de vela no RJ",
+    "titulo": "Ernesto Xavier é o convidado do Conversa com o Autor deste domingo",
     "veiculo": "Agência Brasil",
-    "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/portugal-estreia-com-vitoria-de-virada-na-copa-do-mundo-de-vela-no-rj",
-    "resumo": "Portugal, Estônia, Lituânia e Uruguai venceram a estreia na primeira fase da Copa do Mundo de vela na Baía de Guanabara, no Rio de Janeiro. Primeira competição internacio...",
-    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
-    "categoria": "geral",
-    "categoria_label": "📢 Notícias do Povo",
-    "regiao": "Sudeste",
-    "data_dia": "2026-11-20",
-    "hora": "Há 7h",
+    "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/ernesto-xavier-e-o-convidado-do-conversa-com-o-autor-deste-domingo",
+    "resumo": "O Conversa com o Autor, da Rádio MEC, recebe no episódio deste domingo (22), às 12h30, o escritor, jornalista, ator, roteirista e mestre em Antropologia pela Universidade...",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
+    "regiao": "Nacional",
+    "data_dia": "2026-11-21",
+    "hora": "Há 55 min",
     "tempo_leitura": "2 min de leitura",
-    "urgente": false
+    "urgente": true
   },
   {
     "id": 2,
-    "titulo": "RS: ex-vereador está entre as vítimas da tempestade em Tupanciretã",
+    "titulo": "Lula presta solidariedade à cidade gaúcha devastada por tempestade",
     "veiculo": "Agência Brasil",
-    "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/rs-ex-vereador-esta-entre-vitimas-da-tempestade-em-tupancireta",
-    "resumo": "O temporal que devastou a cidade de Tupanciretã, no Rio Grande do Sul, na madrugada desta sexta-feira (20), resultou na morte do ex-vereador e ex-presidente da Câmara Mun...",
+    "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/lula-presta-solidariedade-cidade-gaucha-devastada-por-tempestade",
+    "resumo": "O presidente Luiz Inácio Lula da Silva prestou solidariedade neste sábado (21) aos atingidos pelas tempestades no Rio Grande do Sul. O temporal devastou a cidade de Tupan...",
     "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
     "categoria": "geral",
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Sul",
-    "data_dia": "2026-11-20",
-    "hora": "Há 10h",
-    "tempo_leitura": "2 min de leitura",
-    "urgente": false
+    "data_dia": "2026-11-21",
+    "hora": "Há 1h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": true
   },
   {
     "id": 3,
-    "titulo": "Renda de 73% de negras vítimas de violência é de até 2 salários mínimo",
+    "titulo": "Governo terá novas ações para combater casamento infantil",
     "veiculo": "Agência Brasil",
-    "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/renda-de-73-de-negras-vitimas-de-violencia-e-de-ate-2-salarios-minimo",
-    "resumo": "A vulnerabilidade socioeconômica de mulheres em situação de violência doméstica ou familiar é maior entre as vítimas negras do que entre brancas. Do total de mulheres neg...",
+    "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/governo-tera-novas-acoes-para-combater-casamento-infantil",
+    "resumo": "Ações preventivas em escolas e unidades de saúde, agilização do fluxo de denúncias e capacitação de mais profissionais para rede de apoio fazem parte do protocolo que o g...",
     "imagem": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=800&q=80",
     "categoria": "economia",
     "categoria_label": "📈 Conquistas & Economia",
     "regiao": "Nacional",
-    "data_dia": "2026-11-20",
-    "hora": "Há 10h",
-    "tempo_leitura": "2 min de leitura",
-    "urgente": false
+    "data_dia": "2026-11-21",
+    "hora": "Há 1h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": true
   },
   {
     "id": 4,
-    "titulo": "Filme Camisas Negras retrata luta do Vasco contra o racismo em 1923",
+    "titulo": "Temporais provocam alagamentos e danos em imóveis no estado de SP",
     "veiculo": "Agência Brasil",
-    "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/filme-camisas-negras-retrata-luta-do-vasco-contra-o-racismo-em-1923",
-    "resumo": "Entrou em cartaz nesta semana nos cinemas do Rio de Janeiro e de São Paulo o filme “Camisas Negras”, um misto de documentário e ficção, que traz para as telas a história ...",
+    "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/temporais-provocam-alagamentos-e-danos-em-imoveis-no-estado-de-sp",
+    "resumo": "Fortes chuvas atingiram o município de Aparecida (SP), nesta sexta-feira (20), provocando alagamentos em diversas vias e residências, quedas de árvores e danos em estrutu...",
     "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
     "categoria": "geral",
     "categoria_label": "📢 Notícias do Povo",
-    "regiao": "Sudeste",
-    "data_dia": "2026-11-20",
-    "hora": "Há 11h",
-    "tempo_leitura": "2 min de leitura",
-    "urgente": false
+    "regiao": "Nacional",
+    "data_dia": "2026-11-21",
+    "hora": "Há 1h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": true
   },
   {
     "id": 5,
-    "titulo": "Sociedade civil diz que COP31 poderá ser a pior da história",
+    "titulo": "Sem Censura, da TV Brasil, conquista novamente Prêmio Melhores do Ano",
     "veiculo": "Agência Brasil",
-    "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/sociedade-civil-diz-que-cop31-podera-ser-pior-da-historia",
-    "resumo": "A poucas horas do encerramento da 31ª Conferência das Nações Unidas sobre Mudanças Climáticas (COP31), em Antália, no sul da Turquia, organizações da sociedade civil de t...",
+    "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/sem-censura-da-tv-brasil-conquista-novamente-premio-melhores-do-ano",
+    "resumo": "O programa Sem Censura, apresentado por Cissa Guimarães na TV Brasil, venceu pelo terceiro ano consecutivo o Prêmio Melhores do Ano NaTelinha. A tradicional roda de conve...",
+    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
+    "categoria": "geral",
+    "categoria_label": "📢 Notícias do Povo",
+    "regiao": "Nacional",
+    "data_dia": "2026-11-21",
+    "hora": "Há 1h",
+    "tempo_leitura": "2 min de leitura",
+    "urgente": true
+  },
+  {
+    "id": 6,
+    "titulo": "Terremoto de magnitude 6,8 graus atinge o Peru",
+    "veiculo": "Agência Brasil",
+    "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/terremoto-de-magnitude-68-graus-atinge-o-peru",
+    "resumo": "Um terremoto de magnitude 6,8 atingiu o centro do Peru nessa sexta-feira (20), informou o Centro Alemão de Pesquisa em Geociências. O tremor levou algumas pessoas na capi...",
+    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
+    "categoria": "geral",
+    "categoria_label": "📢 Notícias do Povo",
+    "regiao": "Nacional",
+    "data_dia": "2026-11-21",
+    "hora": "Há 2h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": true
+  },
+  {
+    "id": 7,
+    "titulo": "Tempestade no Rio Grande do Sul afeta 19,6 mil pessoas em 33 cidades",
+    "veiculo": "Agência Brasil",
+    "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/tempestade-no-rio-grande-do-sul-afeta-196-mil-pessoas-em-33-cidades",
+    "resumo": "A Defesa Civil do Rio Grande do Sul informou, nesta manhã de sábado (21), que as tempestades no Estado nos últimos dias afetaram pelo menos 19.663 pessoas em 33 município...",
     "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
     "categoria": "geral",
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Sul",
-    "data_dia": "2026-11-20",
-    "hora": "Há 11h",
+    "data_dia": "2026-11-21",
+    "hora": "Há 2h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 6,
-    "titulo": "Bolsonaro é internado com quadro de dor e distensão abdominal",
-    "veiculo": "Agência Brasil",
-    "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/bolsonaro-e-internado-com-quadro-de-dor-e-distens%C3%A3o-abdominal",
-    "resumo": "O ex-presidente Jair Bolsonaro passou mal nesta sexta-feira (20) e foi levado ao Hospital DF Star, em Brasília, para receber atendimento médico. A ocorrência foi confirma...",
-    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
-    "categoria": "geral",
-    "categoria_label": "📢 Notícias do Povo",
-    "regiao": "Centro-Oeste",
-    "data_dia": "2026-11-20",
-    "hora": "Há 11h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 7,
-    "titulo": "Homenagens lembram legado de Zumbi e desafios da juventude negra",
-    "veiculo": "Agência Brasil",
-    "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11homenagens-lembram-legado-de-zumbi-e-desafios-da-juventude-negra",
-    "resumo": "A estátua de Zumbi dos Palmares, instalada no centro da cidade do Rio de Janeiro, completa 40 anos em 2026. A data é celebrada com lavagem do monumento, roda de capoeira ...",
-    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
-    "categoria": "geral",
-    "categoria_label": "📢 Notícias do Povo",
-    "regiao": "Sudeste",
-    "data_dia": "2026-11-20",
-    "hora": "Há 12h",
-    "tempo_leitura": "2 min de leitura",
-    "urgente": false
+    "urgente": true
   },
   {
     "id": 8,
-    "titulo": "Denúncias de racismo chegam ao maior número da série histórica",
+    "titulo": "Dossiê mapeia desafios do ensino de matemática e sugere soluções",
     "veiculo": "Agência Brasil",
-    "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/denuncias-de-racismo-chegam-ao-maior-numero-da-serie-historica",
-    "resumo": "O Ministério dos Direitos Humanos e da Cidadania contabilizou que, neste ano, o Disque 100 já recebeu 3.270 denúncias de racismo contra pessoas pretas ou pardas. Esse núm...",
-    "imagem": "https://images.unsplash.com/photo-1531206715517-5c0ba140b2b8?w=800&q=80",
-    "categoria": "direitos",
-    "categoria_label": "✊ Direitos & Mobilização",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/dossie-mapeia-desafios-do-ensino-de-matematica-e-sugere-solucoes",
+    "resumo": "A aprendizagem é um direito de todos e todas no Brasil. A afirmação está no “Dossiê Aprendizagens em Matemática: Evidências, políticas e estratégias”, publicado pelo Obse...",
+    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
+    "categoria": "geral",
+    "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
-    "data_dia": "2026-11-20",
-    "hora": "Há 12h",
+    "data_dia": "2026-11-21",
+    "hora": "Há 2h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": true
+  },
+  {
+    "id": 9,
+    "titulo": "70% dos cursos de pedagogia dedicam apenas 2,5% da grade horária",
+    "veiculo": "Agência Brasil",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/70-dos-cursos-de-pedagogia-dedicam-apenas-25-da-grade-horaria",
+    "resumo": "O pedagogo é o primeiro professor de Matemática de uma criança no Brasil. Porém, 70,6% dos cursos presenciais de pedagogia destinam para formação matemática dos futuros p...",
+    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
+    "categoria": "geral",
+    "categoria_label": "📢 Notícias do Povo",
+    "regiao": "Nacional",
+    "data_dia": "2026-11-21",
+    "hora": "Há 3h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
-    "id": 9,
+    "id": 10,
     "titulo": "A universidade na era do conhecimento aberto",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/alemdamercadoria/a-universidade-na-era-do-conhecimento-aberto/",
@@ -135,7 +150,7 @@
     "urgente": false
   },
   {
-    "id": 10,
+    "id": 11,
     "titulo": "O saque verde da biodiversidade brasileira",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/terraeantropoceno/o-saque-verde-da-biodiversidade-brasileira/",
@@ -150,7 +165,7 @@
     "urgente": false
   },
   {
-    "id": 11,
+    "id": 12,
     "titulo": "Novembro Negro: ser antirracista não basta",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/descolonizacoes/novembro-negro-ser-antirracista-nao-basta/",
@@ -165,7 +180,7 @@
     "urgente": false
   },
   {
-    "id": 12,
+    "id": 13,
     "titulo": "E o Grammy Latino escanteou… a América Latina",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/poeticas/e-o-grammy-latino-escanteou-a-america-latina/",
@@ -180,7 +195,7 @@
     "urgente": false
   },
   {
-    "id": 13,
+    "id": 14,
     "titulo": "Cinema: Afetos e classe no capitalismo tardio",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/poeticas/cinema-afetos-e-classe-no-capitalismo-tardio/",
@@ -195,7 +210,7 @@
     "urgente": false
   },
   {
-    "id": 14,
+    "id": 15,
     "titulo": "Como recalibrar a esquerda?",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/leia-tambem/como-recalibrar-a-esquerda/",
@@ -210,7 +225,7 @@
     "urgente": false
   },
   {
-    "id": 15,
+    "id": 16,
     "titulo": "O que a equipe econômica não conta a Lula",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/mercadovsdemocracia/o-que-a-equipe-economica-nao-conta-a-lula/",
@@ -225,7 +240,7 @@
     "urgente": false
   },
   {
-    "id": 16,
+    "id": 17,
     "titulo": "Manifesto: Sociologia e Filosofia de volta à escola",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/alemdamercadoria/manifesto-sociologia-e-filosofia-de-volta-a-escola/",
@@ -240,7 +255,7 @@
     "urgente": false
   },
   {
-    "id": 17,
+    "id": 18,
     "titulo": "Futuros desobedientes e a inteligência popular nas cidades",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/outras-cidades/futuros-desobedientes-e-a-inteligencia-popular-nas-cidades/",
@@ -255,7 +270,7 @@
     "urgente": false
   },
   {
-    "id": 18,
+    "id": 19,
     "titulo": "Yuk Hui: Quem teme a Tecnodiversidade?",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/tecnologiaemdisputa/yuk-hui-quem-teme-tecnodiversidade/",
@@ -270,7 +285,7 @@
     "urgente": false
   },
   {
-    "id": 19,
+    "id": 20,
     "titulo": "Mobilizações pedem mulher negra no STF e reparação pela igualdade racial",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/11/20/mobilizacoes-pedem-mulher-negra-no-stf-e-reparacao-pela-igualdade-racial/?utm_source=rss&utm_medium=rss&utm_campaign=mobilizacoes-pedem-mulher-negra-no-stf-e-reparacao-pela-igualdade-racial",
@@ -280,12 +295,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-20",
-    "hora": "Há 8h",
+    "hora": "Há 15h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
-    "id": 20,
+    "id": 21,
     "titulo": "Governo Lula mobiliza equipes para atender vítimas de tempestade em Tupanciretã (RS)",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/11/20/governo-lula-mobiliza-equipes-para-atender-vitimas-de-tempestade-em-tupancireta-rs/?utm_source=rss&utm_medium=rss&utm_campaign=governo-lula-mobiliza-equipes-para-atender-vitimas-de-tempestade-em-tupancireta-rs",
@@ -295,12 +310,12 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-11-20",
-    "hora": "Há 11h",
+    "hora": "Há 19h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
-    "id": 21,
+    "id": 22,
     "titulo": "Memorial da América Latina homenageia Olga, Prestes e Quilombo Saracura",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/11/20/memorial-da-america-latina-homenageia-olga-prestes-e-quilombo-saracura/?utm_source=rss&utm_medium=rss&utm_campaign=memorial-da-america-latina-homenageia-olga-prestes-e-quilombo-saracura",
@@ -310,12 +325,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Sudeste",
     "data_dia": "2026-11-20",
-    "hora": "Há 12h",
+    "hora": "Há 19h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 22,
+    "id": 23,
     "titulo": "Lula e parlamentares reafirmam compromissos no Dia da Consciência Negra",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/11/20/lula-e-parlamentares-reafirmam-compromissos-no-dia-da-consciencia-negra/?utm_source=rss&utm_medium=rss&utm_campaign=lula-e-parlamentares-reafirmam-compromissos-no-dia-da-consciencia-negra",
@@ -325,12 +340,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-20",
-    "hora": "Há 14h",
+    "hora": "Há 21h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
-    "id": 23,
+    "id": 24,
     "titulo": "Alice Portugal apresenta proposta para combater violência política nas universidades",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/11/20/alice-portugal-apresenta-proposta-para-combater-violencia-politica-nas-universidades/?utm_source=rss&utm_medium=rss&utm_campaign=alice-portugal-apresenta-proposta-para-combater-violencia-politica-nas-universidades",
@@ -340,12 +355,12 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nordeste",
     "data_dia": "2026-11-20",
-    "hora": "Há 16h",
+    "hora": "20/11 12:59",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 24,
+    "id": 25,
     "titulo": "Lula visita Raoni e assina portaria da terra indígena Kapôt Nhinore",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/11/19/lula-visita-raoni-e-assina-portaria-da-terra-indigena-kapot-nhinore/?utm_source=rss&utm_medium=rss&utm_campaign=lula-visita-raoni-e-assina-portaria-da-terra-indigena-kapot-nhinore",
@@ -360,7 +375,7 @@
     "urgente": false
   },
   {
-    "id": 25,
+    "id": 26,
     "titulo": "Governo Lula convoca seminário para ampliar participação popular no Orçamento",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/11/19/governo-lula-convoca-seminario-para-ampliar-participacao-popular-no-orcamento/?utm_source=rss&utm_medium=rss&utm_campaign=governo-lula-convoca-seminario-para-ampliar-participacao-popular-no-orcamento",
@@ -375,7 +390,7 @@
     "urgente": false
   },
   {
-    "id": 26,
+    "id": 27,
     "titulo": "Olívia Santana: vitória de Lula exige mobilização e avanço na luta antirracista",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/11/19/olivia-santana-vitoria-de-lula-exige-mobilizacao-e-avanco-na-luta-antirracista/?utm_source=rss&utm_medium=rss&utm_campaign=olivia-santana-vitoria-de-lula-exige-mobilizacao-e-avanco-na-luta-antirracista",
@@ -390,7 +405,7 @@
     "urgente": false
   },
   {
-    "id": 27,
+    "id": 28,
     "titulo": "Rachel Barros destaca ações de combate ao racismo no Brasil",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/11/19/rachel-barros-destaca-acoes-de-combate-ao-racismo-no-pais/?utm_source=rss&utm_medium=rss&utm_campaign=rachel-barros-destaca-acoes-de-combate-ao-racismo-no-pais",
@@ -405,7 +420,7 @@
     "urgente": false
   },
   {
-    "id": 28,
+    "id": 29,
     "titulo": "PSB e PDT oficializam federação com 21 deputados federais e 5 senadores",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/11/19/psb-e-pdt-oficializam-federacao-com-21-deputados-federais-e-5-senadores/?utm_source=rss&utm_medium=rss&utm_campaign=psb-e-pdt-oficializam-federacao-com-21-deputados-federais-e-5-senadores",
@@ -420,7 +435,7 @@
     "urgente": false
   },
   {
-    "id": 29,
+    "id": 30,
     "titulo": "Ministro da Saúde participa de reunião do Mercosul para fortalecer cooperação regional em saúde",
     "veiculo": "Governo Federal",
     "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNbm5KdkxlRmhXXzJvYmRPZUJVRTM5RTdlSHl4aEJDdXBsN2t2VkMyYXlBa2RqOTRjR0g2NGRrakpyVWpUUlJYWVVyTXlMVFF5MmhQSFBvMWtVUXZjb05YbkZPOFNoOFNuNm5kUTlaQTBoVmRLVUlQMjRoMHpHWTlrVjRSSkQtcW96SURIRE5qdHNOZFV4ZGdfcWVLcnI0Yzd5MDJyZWlZOUN2R2x2anlFQUlBNHJKb1Z5RlBNQ0FfVE54RExCLXZwOHFMRkxvdTVhYXhEdXcxTC1UdTZCQnR3TzRLd0JpRE9RM1B4aXNGUQ?oc=5",
@@ -430,57 +445,27 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Sul",
     "data_dia": "2026-11-20",
-    "hora": "Há 18h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 30,
-    "titulo": "Após tempestade, Governo Lula libera recursos e envia Força Nacional do SUS ao RS",
-    "veiculo": "TVT News",
-    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE13ZGxscG90ZjVSYVZLX1pWQS1tbFppU2NJc3hib1lETjZKQkFsY2c2c1JvZTlwa1ZGeUlnTmVELUNvVWJwWGFzbExOeFlSODdLLUNiRVljd0xJWUxBbWpJb093R1AwbmJSTFJmTjZmXzFuaDhiRi1Leml3?oc=5",
-    "resumo": "Após tempestade, Governo Lula libera recursos e envia Força Nacional do SUS ao RS  TVT News",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
-    "regiao": "Nacional",
-    "data_dia": "2026-11-20",
-    "hora": "Há 13h",
+    "hora": "20/11 11:29",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
     "id": 31,
-    "titulo": "Ministério da Saúde envia Força Nacional do SUS para o RS após tragédia deixar 3 mortos e ao menos 60 feridos",
-    "veiculo": "G1",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOXU3RkJ5WjVQZWF4NDlFdXRpZUJtZDg1bkJRYnQ0Q1pMbFQ3eTZmdnRQQmtocll0dVpjdjdkYk8tUDVTYTZDcGI4N1dlTENEQ0JuQk1VS1pmYVNWVk5tUjFibGdtNFltWnZaSVhEUk13Y0E2S2FwTzhpamxOeUFUSEZ0dlV2Ylo3MHZETEk4WG5EMzlDZW9YZmlLZHpCd0N4S2FWU1FJWURxUzk3NWFGSXZNaHBTY3dNTG95eGFidXE2UdIB0AFBVV95cUxPLV9tMVF2MDJkZ083WWRGZjlSTmw2TE5BVEVWY3RSajg2ZkFBOUJrWV9pTm9EM1R4WHpGRVBibGcwT2VkNk1hdXJfVHIxai1hMlRJa2ViNHdnNEx4U09qOHpuUGJibGpQQ01YSGFpZXFEWVpOdWpDSlFSRTNnbGZkbE00eXZ2UC1Kc3NlY1RWM3Y1emJTWkxWLUJldUpSc0kxQWR3OTNsX1FKd2xWRnNXWkFNX3R6TE82YjB5T2QtaTh5eDI4TGJxNXpkQngxQVFN?oc=5",
-    "resumo": "Ministério da Saúde envia Força Nacional do SUS para o RS após tragédia deixar 3 mortos e ao menos 60 feridos  G1",
+    "titulo": "Lula rebate críticas ao ajuste fiscal, diz que não fará cortes em educação e saúde e elogia Moretti",
+    "veiculo": "Valor Econômico",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPanRXc1NXUlJ2bkZwMjdxaS1YVVlUbWptdU1LZUFEZXVDQXdHeEFvYlJSdmtMSklWQl9oMXI2UEE4SFJFMjJnNzM4bURpUUtzNG5qcFctQU1JaWdRNjRTMHN4N3BKMGUwekZNQWplc0FzOV9JOTM1cTJCalhoSTJHU0tpZ1Vvc1QxeU1URXlqYmZaMEJBRkFuNjBWZUwzM29nR19xb2J5LVJuSGtuQi1mV1FIcmZ3eUdlR0dNSW05Wklpc29tUTl3V091RFFtN055VFRkT2NoSkdUbDBpSk9kd0ZmVk_SAfMBQVVfeXFMTVVuNmNFekdacUREWmM4MTFReWVWQnQxMFRhZ21jd2IydjFCTWtNZXEwZ1lRbVNPYlNqa3hkQ25ja0ZnemdDNnhBc3hHSzhRY094a1JMcHl3UHB2WlNEbi1jQ3h6Q0RpWXhDTF9Ub091SU9TLTE5b2N0dkhnMFJxaG0xeUppaTVJN3RxQWJlSHpRSXdvNXBVc0xXUFEzdTRIRG5TWTBEVEZMb2NZY0g3XzBtdmtCWWJ5RkpvN1VMY3lOZ1dxT2VpR0dsRWY1WXJVQVBfVTVTZmw2R05YalJRRXZVX20zQ2phMmdVVUJVR3lUT3RJ?oc=5",
+    "resumo": "Lula rebate críticas ao ajuste fiscal, diz que não fará cortes em educação e saúde e elogia Moretti  Valor Econômico",
     "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
     "categoria": "social",
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
-    "data_dia": "2026-11-20",
-    "hora": "Há 11h",
+    "data_dia": "2026-11-21",
+    "hora": "Há 1h",
     "tempo_leitura": "2 min de leitura",
-    "urgente": false
+    "urgente": true
   },
   {
     "id": 32,
-    "titulo": "Ministério das Cidades entrega 624 moradias do Minha Casa, Minha Vida em Botucatu (SP)",
-    "veiculo": "Agência Gov",
-    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRjJNSU9KRWhxUjlpVl9VU2hWZ29Oc195VkhBOFlPVE1uWlZlUlhITEJaNzF6Vk41N0x3SXhSRkZNRU1uaGxqUGdaOFFIakZseFB1Wm01aDZBUTNRQkhPX2ltN1UzVzRaSXA1cnk1b0tvTmpyanEzcnozSVRpUThYTXVhY201a2l6RDNtRTQ3RUZXa3BaVzhxYjhDUzh0cEU3dGMyVVY4RTlBTjFRMVFOODkwWUxnS2M4dkNjODEwOE1MT3prXy1FRg?oc=5",
-    "resumo": "Ministério das Cidades entrega 624 moradias do Minha Casa, Minha Vida em Botucatu (SP)  Agência Gov",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
-    "regiao": "Nacional",
-    "data_dia": "2026-11-19",
-    "hora": "19/11 16:41",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 33,
     "titulo": "Ministério da Saúde distribui 5,590 mil kits para fortalecer a avaliação do crescimento infantil",
     "veiculo": "Governo Federal",
     "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPMzg4STNFTDEyLTFuMXh5N2FCcnBmMkNwbFFnS0F4SVpjTkFrZmo1clBTQ1ZMNlkwbTU2OUhuWl9qNldSQU1IVDlDcTU3bWdPelV0SUdxQ2V2QW80SHh6OTlqdjkxQkxHOWRoV1YtTS03TmFIRTdPQk1rSXRXeTYwU1ZHSWItN3BwYkhjNWpCR2VORXFPazZwVC1WVE1nTEN5aFB6S2UweHd5ZWJkUlNEaFJWUHJxUWlmZjhfWXFINlV4UHJONTVSTDJZeURhSjlicGppbXZyMmtMbFJCajBxajFKaVd6VGI3MUNZWV8wbUE?oc=5",
@@ -495,22 +480,22 @@
     "urgente": false
   },
   {
-    "id": 34,
-    "titulo": "CIT reforça integração da saúde e cooperação nos municípios de fronteira — Ministério da Saúde",
+    "id": 33,
+    "titulo": "Ministério da Saúde entrega unidade móvel do Consultório na Rua a Foz do Iguaçu",
     "veiculo": "Governo Federal",
-    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTkV1UXo4UG9tdGV5ZDFaYkkxTlRQSHdMM1hKVm1OclIzbHJQc1JMdDU3djNLZm1YR2pKalRfbFFXYVBkc3hpUW41WTJBWXV3M2JRbnBXb3RCblVXajl1VXd4N0xuUExIdENhcXRiVWc3dEhEU1hheG93T0ZMS3gxajdYRE5QODlWV0s0MDBsM0R2V3NOZ1BZWUN0LUlMbEhleUtIUl9JdkJNU0w0MFRNak1qX3pibWl1VjFSTHFIWlZydEktWXhKMzhrRlRJc0Ry?oc=5",
-    "resumo": "CIT reforça integração da saúde e cooperação nos municípios de fronteira — Ministério da Saúde  Governo Federal",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNU0kyUnhXQkpjTkRKNl9SbHYtTTdtczB0cUVQb3hvcU9UZU9LX25IY3BxaTctRHhDVWpuOHZHTHlfbEJFUXVweFBVZlAwWXlZYzltMXB6X0pCSnowVndhbVpIc0gtVkZ5T0lwckVpajZBbDFvazBUamNXNUo5NXA2VElNRy1vam9VRWh5NDlYcHFkNlpfcG42WlZka0xKaUZoaEl2ZHdSY1NvRG1mal90dl9pYndHbmR5VzVnTl9WWDhULVVtQ0EzcFdqNFhlbU5lNERVWmpGbXFsQQ?oc=5",
+    "resumo": "Ministério da Saúde entrega unidade móvel do Consultório na Rua a Foz do Iguaçu  Governo Federal",
     "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
     "categoria": "social",
     "categoria_label": "🏛️ Políticas Públicas",
-    "regiao": "Nacional",
+    "regiao": "Sul",
     "data_dia": "2026-11-19",
-    "hora": "19/11 16:06",
+    "hora": "19/11 15:46",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 35,
+    "id": 34,
     "titulo": "Governo do Brasil regulamenta jornada de trabalho na escala 5x2 — Ministério do Trabalho e Emprego",
     "veiculo": "Governo Federal",
     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNajVpNTFYd3JhSFhVN0JrdEUxRjRmdFhRTnlobzJpVmEyQVBuVGhXR3VxNXB1ZFVnMFEydm1jSlhmb1J0cWpnRnR2dUloYkNwR2tlZ21TUGxva2oxRGVDNWtzQzNDYVJpSkR6TDBnU2FLLVUtdHIwX1kybThBMXduRUxlYzZzUHJJdzQtN0haRWN5TmM0M3ZtS1M4UnhCOVZqMmstU3B1aHZRTHRoM1R4RHJEX09ud1dnUDNobVh0V2h4OTRVSkV0MXhrbU9BNHFUZzlMZWN3T0c?oc=5",
@@ -525,7 +510,52 @@
     "urgente": false
   },
   {
+    "id": 35,
+    "titulo": "Força Nacional do SUS segue para Tupanciretã (RS) para assistência à população atingida por tempestade",
+    "veiculo": "www.gov.br",
+    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQSzRMZzV3UXZiSkRaQTNLLTJmem1fbXJSLXNqOVZZMXIyQnJGdjl0YkFYWGZoMURLY25BOHI1WGxmbEdoaUJtOHJjTGQwNnAwZEI4MF9ZRW0tUHVEMFp3ZFR1eDJ0eXdqekhYcmdFMFRRTmNwQUlEdk5HMFQtcXlnOHJOUWd4NjhZSUVFVXh1OHRPc2Z0SkhRSVo0MFMtbThWWXB5NXRxTU9kTUp5WXZsRmt1bW5QeVZlX2IyQjNIOUkzaUczMmpRZlY2UHJOTkdRVExsVUZDZU1TRFZnOEtXSUx1R0JPUU1venV5UkxyZXYyM2daRlVpRGNn?oc=5",
+    "resumo": "Força Nacional do SUS segue para Tupanciretã (RS) para assistência à população atingida por tempestade  www.gov.br",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
+    "regiao": "Nacional",
+    "data_dia": "2026-11-20",
+    "hora": "Há 21h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
     "id": 36,
+    "titulo": "CIT reforça integração da saúde e cooperação nos municípios de fronteira — Ministério da Saúde",
+    "veiculo": "GOV.BR",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTkV1UXo4UG9tdGV5ZDFaYkkxTlRQSHdMM1hKVm1OclIzbHJQc1JMdDU3djNLZm1YR2pKalRfbFFXYVBkc3hpUW41WTJBWXV3M2JRbnBXb3RCblVXajl1VXd4N0xuUExIdENhcXRiVWc3dEhEU1hheG93T0ZMS3gxajdYRE5QODlWV0s0MDBsM0R2V3NOZ1BZWUN0LUlMbEhleUtIUl9JdkJNU0w0MFRNak1qX3pibWl1VjFSTHFIWlZydEktWXhKMzhrRlRJc0Ry?oc=5",
+    "resumo": "CIT reforça integração da saúde e cooperação nos municípios de fronteira — Ministério da Saúde  GOV.BR",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
+    "regiao": "Nacional",
+    "data_dia": "2026-11-19",
+    "hora": "19/11 16:06",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 37,
+    "titulo": "Força Nacional do SUS completa 15 anos com mais de 10 milhões de pessoas beneficiadas em todo o Brasil",
+    "veiculo": "Governo Federal",
+    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOTnVveUNUSTBobWJkUDdyU0RrRlBoQ3R1Qnh3U21fMXYyaktQdVY3TnYxZmx2dVBhVTVWVVJhcG5Nc2NTeVJFMkxRcG1XOER6M1ZCYnRvMHY2REdmNk5fejlOMkE1M2ttRC1FVFV5NlpjQ1FDOWVrTFRiZEplVjdiZlg0dkJ4U1FmUnVTZnUyc09FWWJId3EzaUoxVUg0ZVV3Y0s1Q2IybEJOQkJGM3hyVEpJellwVFNuZnBTbllQMm9jTDJYZTY0WnJiTlk2OEVRTFRRVFh4Y0dRZ2praG1xcVZCaElQa0tzWC1FamxfUktsMldoN2pxVw?oc=5",
+    "resumo": "Força Nacional do SUS completa 15 anos com mais de 10 milhões de pessoas beneficiadas em todo o Brasil  Governo Federal",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
+    "regiao": "Nacional",
+    "data_dia": "2026-11-17",
+    "hora": "17/11 19:50",
+    "tempo_leitura": "2 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 38,
     "titulo": "Novos complexos da Fiocruz e do INCA preveem R$ 10 bilhões para ampliar produção de vacinas e fortalecer atendimento oncológico — Ministério da Saúde",
     "veiculo": "Governo Federal",
     "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNa01XRVhwYXFmdHpqYUlNWXJOMlBoN0JweXJOV0lULWNCV2wyOUJCeWhFMmkxWF9LMFNtUDcyRENhc2hwSG5IZ3g1eEwxRmNGX2NROVptZ2t5NVR3SE1jb1BmRFJuSDJBNTRXNm1wUW5hdDZEbnNQdWdydlJsV0doME9QSG1tUTdncmpvazB1ZlQxdXRMV0l6WGNVR245OU5ScHB0ZHdUc1JxclJmcURvT2JfUkg0cVNPTEI4bW1GNGFPU1ZVY05kazJGdkt5WmJFaEQtaE1TTzFhNVh2Zml2ZmJNRGZhY0lRRmVSM1NMV1JEOHVPWXV6MjY4MWdRbnRoZ2pIbWx3?oc=5",
@@ -540,11 +570,11 @@
     "urgente": false
   },
   {
-    "id": 37,
+    "id": 39,
     "titulo": "Ministério da Saúde lança guia para avaliação de dispositivos médicos implantáveis no SUS",
-    "veiculo": "Governo Federal",
+    "veiculo": "GOV.BR",
     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQ2FMa2JLRTdnLUxYUEU2UTNrbkgwbVI3U3J6dlRteUpKQlgySWlacXpPc1h2SERhQjlMYmZSTDdxcWhRRzZmYzFvUkpKUHhkS2tBTWlVNmpOblZpTXNGR2FHQ0pQcHdzNTNSakhlTWduWUt3VEZndkFuWWxiS2Fwc2toZlIxR1QyVzlJM0pQX01ucDZTNkZGY0dwRzRtX3ZNTE5NMUFtRXkwSTBiZU5NU28yOWJFWkVzZjRQeTB5TDNtdEVKV0dOekxXcUpTWUpFSU5vTg?oc=5",
-    "resumo": "Ministério da Saúde lança guia para avaliação de dispositivos médicos implantáveis no SUS  Governo Federal",
+    "resumo": "Ministério da Saúde lança guia para avaliação de dispositivos médicos implantáveis no SUS  GOV.BR",
     "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
     "categoria": "social",
     "categoria_label": "🏛️ Políticas Públicas",
@@ -555,11 +585,11 @@
     "urgente": false
   },
   {
-    "id": 38,
+    "id": 40,
     "titulo": "Fortalecimento da participação indígena na gestão da saúde é pauta de encontro — Ministério da Saúde",
-    "veiculo": "GOV.BR",
+    "veiculo": "Governo Federal",
     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbTZ4RmREdDNUdXRFd29xdWItaW1XRmUyS0tnYVFTOVI5U2MyczRqeUwtYnJGaEVUeU53aFVHOGxVSFRtOW8tOVpIYk1SRm5YUXd6M2VBWmtBa1RKNDdGVFlyODIzRVBsbG15OXphbjF0OFVDXzZxWmc5OXMyOEY4eVRFLWlaRmZONmltaGFuMHQydnp1RHNUcGI2SmNuRDc0V2R6azV2TXZWaVAwbVlqNHVZZFJhcE50T3puaXhLZ2lhZGlGRzlMSFd1THhYc2JIZUQ3TWhoLVg?oc=5",
-    "resumo": "Fortalecimento da participação indígena na gestão da saúde é pauta de encontro — Ministério da Saúde  GOV.BR",
+    "resumo": "Fortalecimento da participação indígena na gestão da saúde é pauta de encontro — Ministério da Saúde  Governo Federal",
     "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
     "categoria": "social",
     "categoria_label": "🏛️ Políticas Públicas",
@@ -567,36 +597,6 @@
     "data_dia": "2026-11-19",
     "hora": "19/11 18:06",
     "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 39,
-    "titulo": "No Paraná, Sesai destaca articulação para fortalecimento da atenção à saúde indígena — Ministério da Saúde",
-    "veiculo": "Governo Federal",
-    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWWJtbXF5OTZZb29LVzEzT3pnOXAzRjFUcF9lQTZIVzJZemF0cElaRGVTZFNmaXN5aDFFZFljX1RJRzlXZk1mUnVVMkVTcC1vel9xSHhLbkFFQlRpWGZ6ajg2VlNvYTM0N2FfQjJYUlhoRXkzWnVpNmo5VGgyYWtVQkJIM0V1aTBsUFFTeVZBbWRuQndqTkVCeTRuWWdWMlNRNVBKRXhhZk4wamozR1BQd3RySm92WUdja0c5amJ0d0F1VVIzRWg3Vzc5Wk9xUGtaV3Nub2ZYMTVlVVNuWnRZ?oc=5",
-    "resumo": "No Paraná, Sesai destaca articulação para fortalecimento da atenção à saúde indígena — Ministério da Saúde  Governo Federal",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
-    "regiao": "Sul",
-    "data_dia": "2026-11-19",
-    "hora": "19/11 18:32",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 40,
-    "titulo": "Encontro nacional reúne projetos de apoio à formação em saúde e à permanência estudantil — Ministério da Saúde",
-    "veiculo": "Governo Federal",
-    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUFRiYWljWUE5eXBLYWhVUWZtUlo0ZjRCYmZsRGRlSHg2dzU5bVZpRHRaREFPYmxSa1QwWGRITmZxQjJLYmhhV0gtWnJnUGJvOFh2T0EwR1pWbnZKbGU0UWpqQnJvN0NtcjZHd2ZHWVNkRzhFWk8tb3RMY3ozRGI5S1JfYW55d3FnaS1sdjdfSUlYenhEWXhSdHpybkVsWlM5SDRXN1I4dThOT041TnRiSUpObW5oSk0yQnJ5bi1mVDNkTTh0RFJKRVcyMUxHYTM3MC0yOFF0SkVDRXdmLXlPcTNjYnZBdw?oc=5",
-    "resumo": "Encontro nacional reúne projetos de apoio à formação em saúde e à permanência estudantil — Ministério da Saúde  Governo Federal",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
-    "regiao": "Nacional",
-    "data_dia": "2026-11-18",
-    "hora": "18/11 17:06",
-    "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
@@ -610,9 +610,9 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-21",
-    "hora": "Há 2h",
+    "hora": "Há 10h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": true
+    "urgente": false
   },
   {
     "id": 42,
@@ -625,7 +625,7 @@
     "categoria_label": "✊ Direitos & Mobilização",
     "regiao": "Nordeste",
     "data_dia": "2026-11-20",
-    "hora": "Há 14h",
+    "hora": "Há 22h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   }
