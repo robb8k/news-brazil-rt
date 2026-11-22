@@ -1,6 +1,111 @@
 [
   {
     "id": 1,
+    "titulo": "Com impasse sobre combustíveis fósseis, COP31 termina sem acordo final",
+    "veiculo": "Agência Brasil",
+    "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/com-impasse-sobre-combustiveis-fosseis-cop31-termina-sem-acordo-final",
+    "resumo": "A 31ª Conferência das Nações Unidas sobre Mudança do Clima (COP31), realizada em Antália, na Turquia, terminou neste domingo (22) sem a elaboração de um acordo final. \n\nO...",
+    "imagem": "https://images.unsplash.com/photo-1448375240586-882707db888b?w=800&q=80",
+    "categoria": "ambiente",
+    "categoria_label": "🌿 Meio Ambiente",
+    "regiao": "Nacional",
+    "data_dia": "2026-11-22",
+    "hora": "Há 54 min",
+    "tempo_leitura": "2 min de leitura",
+    "urgente": true
+  },
+  {
+    "id": 2,
+    "titulo": "Chuvas no RS afetam mais de 25 mil pessoas em 42 cidades",
+    "veiculo": "Agência Brasil",
+    "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/chuvas-no-rs-afetam-mais-de-25-mil-pessoas-em-42-cidades",
+    "resumo": "As chuvas que atingem Rio Grande do Sul desde a sexta-feira (20) afetaram mais de 25 mil pessoas, segundo informou a Defesa Civil do estado neste domingo (22). Foram regi...",
+    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
+    "categoria": "geral",
+    "categoria_label": "📢 Notícias do Povo",
+    "regiao": "Sul",
+    "data_dia": "2026-11-22",
+    "hora": "Há 1h",
+    "tempo_leitura": "2 min de leitura",
+    "urgente": true
+  },
+  {
+    "id": 3,
+    "titulo": "Após temporal, governo reconhece calamidade pública em Tupanciretã",
+    "veiculo": "Agência Brasil",
+    "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/apos-temporal-governo-reconhece-calamidade-publica-em-tupancireta",
+    "resumo": "O governo federal reconheceu o estado de calamidade pública na cidade de Tupanciretã, no Rio Grande do Sul, devastada por uma tempestade, na madrugada desta sexta-feira (...",
+    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
+    "categoria": "geral",
+    "categoria_label": "📢 Notícias do Povo",
+    "regiao": "Sul",
+    "data_dia": "2026-11-22",
+    "hora": "Há 2h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": true
+  },
+  {
+    "id": 4,
+    "titulo": "Boca Juniors vence Sul-Americana sobre o Atlético-MG",
+    "veiculo": "Agência Brasil",
+    "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/boca-juniors-vence-sul-americana-sobre-o-atletico-mg",
+    "resumo": "Derrota por 2 a 0 para os argentinos frustra torcida do Galo e deixa equipe com quatro vice-campeonatos em Copas desde 2024: duas Sul-Americanas, uma Libertadores e uma C...",
+    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
+    "categoria": "geral",
+    "categoria_label": "📢 Notícias do Povo",
+    "regiao": "Sul",
+    "data_dia": "2026-11-22",
+    "hora": "Há 2h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": true
+  },
+  {
+    "id": 5,
+    "titulo": "Brasil vence Canadá e volta à elite da Billie Jean King Cup",
+    "veiculo": "Agência Brasil",
+    "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/brasil-vence-canada-e-volta-elite-da-billie-jean-king-cup",
+    "resumo": "Com vitória decisiva da jovem Naná, equipe brasileira supera o Canadá e se classifica para os Qualifiers da Copa do Mundo de tênis feminino em 2027.\n\nPela primeira vez na...",
+    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
+    "categoria": "geral",
+    "categoria_label": "📢 Notícias do Povo",
+    "regiao": "Nacional",
+    "data_dia": "2026-11-22",
+    "hora": "Há 2h",
+    "tempo_leitura": "2 min de leitura",
+    "urgente": true
+  },
+  {
+    "id": 6,
+    "titulo": "MEC apresenta programa Toda Matemática em evento nacional no Maranhão",
+    "veiculo": "Agência Brasil",
+    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/mec-apresenta-programa-toda-matematica-em-evento-nacional-no-maranhao",
+    "resumo": "Equações de 1º grau, frações, as quatro operações básicas da Matemática (adição, subtração, multiplicação e divisão), potência e quadrado perfeito, números decimais, razã...",
+    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
+    "categoria": "geral",
+    "categoria_label": "📢 Notícias do Povo",
+    "regiao": "Nordeste",
+    "data_dia": "2026-11-22",
+    "hora": "Há 3h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 7,
+    "titulo": "Serviço Geológico do Brasil traz retorno de R$ 14 por real investido",
+    "veiculo": "Agência Brasil",
+    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/servico-geologico-do-brasil-traz-retorno-de-r-14-por-real-investido",
+    "resumo": "A cada R$ 1 investido no Serviço Geológico do Brasil (SGB) em 2025, R$ 14,47 voltaram à sociedade em forma de lucro social. O resultado representa um retorno estimado em ...",
+    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
+    "categoria": "geral",
+    "categoria_label": "📢 Notícias do Povo",
+    "regiao": "Sul",
+    "data_dia": "2026-11-22",
+    "hora": "Há 4h",
+    "tempo_leitura": "2 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 8,
     "titulo": "Dez vezes Flamengo",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/dez-vezes-flamengo",
@@ -10,147 +115,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Sul",
     "data_dia": "2026-11-21",
-    "hora": "Há 10h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 2,
-    "titulo": "Sobe para 4 o número de mortos em Tupanciretã, no Sul",
-    "veiculo": "Agência Brasil",
-    "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/sobe-para-4-o-numero-de-mortos-em-tupancireta-no-sul",
-    "resumo": "Morreu neste sábado (21) a quarta vítima da tempestade que devastou a cidade de Tupanciretã, no Rio Grande do Sul, na madrugada desta sexta-feira (20). A vítima é um home...",
-    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
-    "categoria": "geral",
-    "categoria_label": "📢 Notícias do Povo",
-    "regiao": "Sul",
-    "data_dia": "2026-11-21",
-    "hora": "Há 10h",
-    "tempo_leitura": "2 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 3,
-    "titulo": "Deputada Talíria Petrone é ameaçada de morte e violência sexual",
-    "veiculo": "Agência Brasil",
-    "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/deputada-taliria-petrone-e-ameacada-de-morte-e-violencia-sexual",
-    "resumo": "A deputada federal Talíria Petrone (Psol- RJ) recebeu ameaça de morte às vésperas do Dia da Consciência Negra, lembrado nessa sexta sexta-feira (20). \n\nSegundo a parlamen...",
-    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
-    "categoria": "geral",
-    "categoria_label": "📢 Notícias do Povo",
-    "regiao": "Nacional",
-    "data_dia": "2026-11-21",
-    "hora": "Há 10h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 4,
-    "titulo": "Flamengo empata com Palmeiras e é campeão brasileiro de 2026",
-    "veiculo": "Agência Brasil",
-    "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/flamengo-empata-com-palmeiras-e-e-campeao-brasileiro-de-2026",
-    "resumo": "O Flamengo é campeão brasileiro de 2026. O Palmeiras até tentou, mas não conseguiu vencer o rival nesta tarde em São Paulo no NuBank Parque, pela 36ª rodada. Com o placar...",
-    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
-    "categoria": "geral",
-    "categoria_label": "📢 Notícias do Povo",
-    "regiao": "Sudeste",
-    "data_dia": "2026-11-21",
-    "hora": "Há 11h",
-    "tempo_leitura": "2 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 5,
-    "titulo": "Força Nacional do SUS avalia instalar posto médico em Tupanciretã",
-    "veiculo": "Agência Brasil",
-    "link": "https://agenciabrasil.ebc.com.br/geral/noticia/2026-11/forca-nacional-do-sus-avalia-instalar-posto-medico-em-tupancireta",
-    "resumo": "Devastada por um forte temporal na madrugada dessa sexta-feira (20), a cidade de Tupanciretã, na região central do Rio Grande do Sul, pode receber um Posto Médico Avançad...",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
-    "regiao": "Sul",
-    "data_dia": "2026-11-21",
-    "hora": "Há 11h",
-    "tempo_leitura": "2 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 6,
-    "titulo": "Mostra apresenta legado de Milton Santos para pensar o Brasil",
-    "veiculo": "Agência Brasil",
-    "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/mostra-apresenta-legado-de-milton-santos-para-pensar-o-brasil",
-    "resumo": "O Museu da História e da Cultura Afro-Brasileira (Muhcab), que fica na região conhecida por Pequena África, na zona portuária da cidade do Rio de Janeiro, exibe a mostra ...",
-    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
-    "categoria": "geral",
-    "categoria_label": "📢 Notícias do Povo",
-    "regiao": "Sudeste",
-    "data_dia": "2026-11-21",
-    "hora": "Há 11h",
-    "tempo_leitura": "2 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 7,
-    "titulo": "Brasil vence Irlanda por 2 a 1 em estreia na Copa do Mundo Sub-17",
-    "veiculo": "Agência Brasil",
-    "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/brasil-vence-irlanda-por-2-1-em-estreia-na-copa-do-mundo-sub-17",
-    "resumo": "A Seleção Brasileira passou pela Irlanda por 2 a 1, neste sábado (21), em Doha (Catar). A vitória verde e amarela marcou a estreia da seleção na Copa do Mundo Sub-17.\n\nRo...",
-    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
-    "categoria": "geral",
-    "categoria_label": "📢 Notícias do Povo",
-    "regiao": "Nacional",
-    "data_dia": "2026-11-21",
-    "hora": "Há 13h",
-    "tempo_leitura": "2 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 8,
-    "titulo": "Cocal dos Alves: como a matemática mudou destino de município do Piauí",
-    "veiculo": "Agência Brasil",
-    "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/cocal-dos-alves-como-matematica-mudou-destino-de-municipio-do-piaui",
-    "resumo": "Cocal dos Alves, no sertão do Piauí, é conhecida nacionalmente como a \"capital da matemática\" pelo desempenho histórico de seus estudantes em competições científicas, pri...",
-    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
-    "categoria": "geral",
-    "categoria_label": "📢 Notícias do Povo",
-    "regiao": "Nordeste",
-    "data_dia": "2026-11-21",
-    "hora": "Há 13h",
+    "hora": "Há 18h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
     "id": 9,
-    "titulo": "Manifestantes marcham em Lisboa contra aumento no custo de vida",
-    "veiculo": "Agência Brasil",
-    "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/manifestantes-marcham-em-lisboa-contra-aumento-no-custo-de-vida",
-    "resumo": "Milhares de pessoas marcharam pelo centro de Lisboa neste sábado (21), apesar da chuva forte, para protestar contra o aumento vertiginoso do custo de vida, o agravamento ...",
-    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
-    "categoria": "geral",
-    "categoria_label": "📢 Notícias do Povo",
-    "regiao": "Nacional",
-    "data_dia": "2026-11-21",
-    "hora": "Há 13h",
-    "tempo_leitura": "2 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 10,
-    "titulo": "Pigossi e Stefani deixam Brasil na frente do Canadá na Billie Jean",
-    "veiculo": "Agência Brasil",
-    "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/pigossi-e-stefani-deixam-brasil-na-frente-do-canada-na-billie-jean",
-    "resumo": "Laura Pigossi e Luisa Stefani venceram Ariana Arseneault e Gabriela Dabrowski, por 2 sets a 0, e deixaram o Brasil em vantagem na fase de Playoffs da Billie Jean King Cup...",
-    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
-    "categoria": "geral",
-    "categoria_label": "📢 Notícias do Povo",
-    "regiao": "Nacional",
-    "data_dia": "2026-11-21",
-    "hora": "Há 13h",
-    "tempo_leitura": "2 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 11,
     "titulo": "A universidade na era do conhecimento aberto",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/alemdamercadoria/a-universidade-na-era-do-conhecimento-aberto/",
@@ -165,7 +135,7 @@
     "urgente": false
   },
   {
-    "id": 12,
+    "id": 10,
     "titulo": "O saque verde da biodiversidade brasileira",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/terraeantropoceno/o-saque-verde-da-biodiversidade-brasileira/",
@@ -180,7 +150,7 @@
     "urgente": false
   },
   {
-    "id": 13,
+    "id": 11,
     "titulo": "Novembro Negro: ser antirracista não basta",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/descolonizacoes/novembro-negro-ser-antirracista-nao-basta/",
@@ -195,7 +165,7 @@
     "urgente": false
   },
   {
-    "id": 14,
+    "id": 12,
     "titulo": "E o Grammy Latino escanteou… a América Latina",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/poeticas/e-o-grammy-latino-escanteou-a-america-latina/",
@@ -210,7 +180,7 @@
     "urgente": false
   },
   {
-    "id": 15,
+    "id": 13,
     "titulo": "Cinema: Afetos e classe no capitalismo tardio",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/poeticas/cinema-afetos-e-classe-no-capitalismo-tardio/",
@@ -225,7 +195,7 @@
     "urgente": false
   },
   {
-    "id": 16,
+    "id": 14,
     "titulo": "Como recalibrar a esquerda?",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/leia-tambem/como-recalibrar-a-esquerda/",
@@ -240,7 +210,7 @@
     "urgente": false
   },
   {
-    "id": 17,
+    "id": 15,
     "titulo": "O que a equipe econômica não conta a Lula",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/mercadovsdemocracia/o-que-a-equipe-economica-nao-conta-a-lula/",
@@ -255,7 +225,7 @@
     "urgente": false
   },
   {
-    "id": 18,
+    "id": 16,
     "titulo": "Manifesto: Sociologia e Filosofia de volta à escola",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/alemdamercadoria/manifesto-sociologia-e-filosofia-de-volta-a-escola/",
@@ -270,7 +240,7 @@
     "urgente": false
   },
   {
-    "id": 19,
+    "id": 17,
     "titulo": "Futuros desobedientes e a inteligência popular nas cidades",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/outras-cidades/futuros-desobedientes-e-a-inteligencia-popular-nas-cidades/",
@@ -285,7 +255,7 @@
     "urgente": false
   },
   {
-    "id": 20,
+    "id": 18,
     "titulo": "Yuk Hui: Quem teme a Tecnodiversidade?",
     "veiculo": "Outras Palavras",
     "link": "https://outraspalavras.net/tecnologiaemdisputa/yuk-hui-quem-teme-tecnodiversidade/",
@@ -300,7 +270,7 @@
     "urgente": false
   },
   {
-    "id": 21,
+    "id": 19,
     "titulo": "Lula articulou reunião entre Xi, Putin e Trump: ‘Falei mais de uma hora e meia com cada um deles’",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/11/21/lula-articulou-reuniao-entre-xi-putin-e-trump-falei-mais-de-uma-hora-e-meia-com-cada-um-deles/?utm_source=rss&utm_medium=rss&utm_campaign=lula-articulou-reuniao-entre-xi-putin-e-trump-falei-mais-de-uma-hora-e-meia-com-cada-um-deles",
@@ -310,12 +280,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-21",
-    "hora": "Há 12h",
+    "hora": "Há 20h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
-    "id": 22,
+    "id": 20,
     "titulo": "Volkswagen tenta reverter condenações por trabalho escravo na ditadura",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/11/21/volkswagen-tenta-reverter-condenacoes-por-trabalho-escravo-na-ditadura/?utm_source=rss&utm_medium=rss&utm_campaign=volkswagen-tenta-reverter-condenacoes-por-trabalho-escravo-na-ditadura",
@@ -325,12 +295,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-21",
-    "hora": "Há 14h",
+    "hora": "Há 22h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 23,
+    "id": 21,
     "titulo": "Mobilizações pedem mulher negra no STF e reparação pela igualdade racial",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/11/20/mobilizacoes-pedem-mulher-negra-no-stf-e-reparacao-pela-igualdade-racial/?utm_source=rss&utm_medium=rss&utm_campaign=mobilizacoes-pedem-mulher-negra-no-stf-e-reparacao-pela-igualdade-racial",
@@ -345,7 +315,7 @@
     "urgente": false
   },
   {
-    "id": 24,
+    "id": 22,
     "titulo": "Governo Lula mobiliza equipes para atender vítimas de tempestade em Tupanciretã (RS)",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/11/20/governo-lula-mobiliza-equipes-para-atender-vitimas-de-tempestade-em-tupancireta-rs/?utm_source=rss&utm_medium=rss&utm_campaign=governo-lula-mobiliza-equipes-para-atender-vitimas-de-tempestade-em-tupancireta-rs",
@@ -360,7 +330,7 @@
     "urgente": false
   },
   {
-    "id": 25,
+    "id": 23,
     "titulo": "Memorial da América Latina homenageia Olga, Prestes e Quilombo Saracura",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/11/20/memorial-da-america-latina-homenageia-olga-prestes-e-quilombo-saracura/?utm_source=rss&utm_medium=rss&utm_campaign=memorial-da-america-latina-homenageia-olga-prestes-e-quilombo-saracura",
@@ -375,7 +345,7 @@
     "urgente": false
   },
   {
-    "id": 26,
+    "id": 24,
     "titulo": "Lula e parlamentares reafirmam compromissos no Dia da Consciência Negra",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/11/20/lula-e-parlamentares-reafirmam-compromissos-no-dia-da-consciencia-negra/?utm_source=rss&utm_medium=rss&utm_campaign=lula-e-parlamentares-reafirmam-compromissos-no-dia-da-consciencia-negra",
@@ -390,7 +360,7 @@
     "urgente": false
   },
   {
-    "id": 27,
+    "id": 25,
     "titulo": "Alice Portugal apresenta proposta para combater violência política nas universidades",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/11/20/alice-portugal-apresenta-proposta-para-combater-violencia-politica-nas-universidades/?utm_source=rss&utm_medium=rss&utm_campaign=alice-portugal-apresenta-proposta-para-combater-violencia-politica-nas-universidades",
@@ -405,7 +375,7 @@
     "urgente": false
   },
   {
-    "id": 28,
+    "id": 26,
     "titulo": "Lula visita Raoni e assina portaria da terra indígena Kapôt Nhinore",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/11/19/lula-visita-raoni-e-assina-portaria-da-terra-indigena-kapot-nhinore/?utm_source=rss&utm_medium=rss&utm_campaign=lula-visita-raoni-e-assina-portaria-da-terra-indigena-kapot-nhinore",
@@ -420,7 +390,7 @@
     "urgente": false
   },
   {
-    "id": 29,
+    "id": 27,
     "titulo": "Governo Lula convoca seminário para ampliar participação popular no Orçamento",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/11/19/governo-lula-convoca-seminario-para-ampliar-participacao-popular-no-orcamento/?utm_source=rss&utm_medium=rss&utm_campaign=governo-lula-convoca-seminario-para-ampliar-participacao-popular-no-orcamento",
@@ -435,7 +405,7 @@
     "urgente": false
   },
   {
-    "id": 30,
+    "id": 28,
     "titulo": "Olívia Santana: vitória de Lula exige mobilização e avanço na luta antirracista",
     "veiculo": "Vermelho",
     "link": "https://vermelho.org.br/2026/11/19/olivia-santana-vitoria-de-lula-exige-mobilizacao-e-avanco-na-luta-antirracista/?utm_source=rss&utm_medium=rss&utm_campaign=olivia-santana-vitoria-de-lula-exige-mobilizacao-e-avanco-na-luta-antirracista",
@@ -450,7 +420,7 @@
     "urgente": false
   },
   {
-    "id": 31,
+    "id": 29,
     "titulo": "Força Nacional do SUS mobiliza equipes para atender população atingida por temporal no Rio Grande do Sul",
     "veiculo": "Governo Federal",
     "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNcVAwandTQTd6M1Y1R0s5NnhtSnUzRUhPSFNFWmZGT2daNlM3ZXhVMjdUYk4zSVdxSUdSaEtfSjNSR3JNbmdxZEQzZVJvMHNLYndjNjBETE94SDFKSnBxMVB1ZWZPOThZenUtYUxLN0hzMTJmTVM3cUZXN2JLSkdZZEFDTnZWdFlWamRwR0NzZDRzc2FOdzNSakttbndHM1l2X2hObU5EQmZLS0dXajRHVWgwSU0ycFlmVzFBc081QVMzRzFqaWV1SzN0N1dsQ19MektJcDc0Y1ViN0xCRmhhRFRzc0dEcmJvR042eUFNVDB2cExwWDVrOUwxaw?oc=5",
@@ -460,16 +430,31 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Sul",
     "data_dia": "2026-11-21",
-    "hora": "Há 14h",
+    "hora": "Há 22h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 32,
+    "id": 30,
+    "titulo": "Após temporal, governo federal envia força-tarefa ao Rio Grande do Sul",
+    "veiculo": "TV Brasil |",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTGNib0wyR0JQODVaMHQ0X3FmQ0d1M3k2b2VYT3o1eE1RNGw5cDRmRnRQVmtHZWZRRzh3TXhXd3ByRWx2ZWsxSHQ1TENVb1F3RlJ0bFo0OXNsNmZKdmdZRU15dlZMblpNSlJ3b3ltS21TSjJGcFlGWHFlZGJnUUpuSEtia1VjZVdnLUJaZWhMUkhnUkJPSXVaMUNKYUY2azRzSl9mSEQyRjV1MmhNRkpHTHBnVWFaQWhJZVJDaVZR?oc=5",
+    "resumo": "Após temporal, governo federal envia força-tarefa ao Rio Grande do Sul  TV Brasil |",
+    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
+    "categoria": "geral",
+    "categoria_label": "📢 Notícias do Povo",
+    "regiao": "Sul",
+    "data_dia": "2026-11-21",
+    "hora": "Há 18h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 31,
     "titulo": "Ministério da Saúde distribui 5,590 mil kits para fortalecer a avaliação do crescimento infantil",
-    "veiculo": "Governo Federal",
+    "veiculo": "GOV.BR",
     "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPMzg4STNFTDEyLTFuMXh5N2FCcnBmMkNwbFFnS0F4SVpjTkFrZmo1clBTQ1ZMNlkwbTU2OUhuWl9qNldSQU1IVDlDcTU3bWdPelV0SUdxQ2V2QW80SHh6OTlqdjkxQkxHOWRoV1YtTS03TmFIRTdPQk1rSXRXeTYwU1ZHSWItN3BwYkhjNWpCR2VORXFPazZwVC1WVE1nTEN5aFB6S2UweHd5ZWJkUlNEaFJWUHJxUWlmZjhfWXFINlV4UHJONTVSTDJZeURhSjlicGppbXZyMmtMbFJCajBxajFKaVd6VGI3MUNZWV8wbUE?oc=5",
-    "resumo": "Ministério da Saúde distribui 5,590 mil kits para fortalecer a avaliação do crescimento infantil  Governo Federal",
+    "resumo": "Ministério da Saúde distribui 5,590 mil kits para fortalecer a avaliação do crescimento infantil  GOV.BR",
     "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
     "categoria": "social",
     "categoria_label": "🏛️ Políticas Públicas",
@@ -480,7 +465,7 @@
     "urgente": false
   },
   {
-    "id": 33,
+    "id": 32,
     "titulo": "Governo do Brasil regulamenta jornada de trabalho na escala 5x2 — Ministério do Trabalho e Emprego",
     "veiculo": "Governo Federal",
     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNajVpNTFYd3JhSFhVN0JrdEUxRjRmdFhRTnlobzJpVmEyQVBuVGhXR3VxNXB1ZFVnMFEydm1jSlhmb1J0cWpnRnR2dUloYkNwR2tlZ21TUGxva2oxRGVDNWtzQzNDYVJpSkR6TDBnU2FLLVUtdHIwX1kybThBMXduRUxlYzZzUHJJdzQtN0haRWN5TmM0M3ZtS1M4UnhCOVZqMmstU3B1aHZRTHRoM1R4RHJEX09ud1dnUDNobVh0V2h4OTRVSkV0MXhrbU9BNHFUZzlMZWN3T0c?oc=5",
@@ -495,7 +480,7 @@
     "urgente": false
   },
   {
-    "id": 34,
+    "id": 33,
     "titulo": "CIT reforça integração da saúde e cooperação nos municípios de fronteira — Ministério da Saúde",
     "veiculo": "GOV.BR",
     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTkV1UXo4UG9tdGV5ZDFaYkkxTlRQSHdMM1hKVm1OclIzbHJQc1JMdDU3djNLZm1YR2pKalRfbFFXYVBkc3hpUW41WTJBWXV3M2JRbnBXb3RCblVXajl1VXd4N0xuUExIdENhcXRiVWc3dEhEU1hheG93T0ZMS3gxajdYRE5QODlWV0s0MDBsM0R2V3NOZ1BZWUN0LUlMbEhleUtIUl9JdkJNU0w0MFRNak1qX3pibWl1VjFSTHFIWlZydEktWXhKMzhrRlRJc0Ry?oc=5",
@@ -506,6 +491,21 @@
     "regiao": "Nacional",
     "data_dia": "2026-11-19",
     "hora": "19/11 16:06",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 34,
+    "titulo": "Fortalecimento da participação indígena na gestão da saúde é pauta de encontro — Ministério da Saúde",
+    "veiculo": "Governo Federal",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbTZ4RmREdDNUdXRFd29xdWItaW1XRmUyS0tnYVFTOVI5U2MyczRqeUwtYnJGaEVUeU53aFVHOGxVSFRtOW8tOVpIYk1SRm5YUXd6M2VBWmtBa1RKNDdGVFlyODIzRVBsbG15OXphbjF0OFVDXzZxWmc5OXMyOEY4eVRFLWlaRmZONmltaGFuMHQydnp1RHNUcGI2SmNuRDc0V2R6azV2TXZWaVAwbVlqNHVZZFJhcE50T3puaXhLZ2lhZGlGRzlMSFd1THhYc2JIZUQ3TWhoLVg?oc=5",
+    "resumo": "Fortalecimento da participação indígena na gestão da saúde é pauta de encontro — Ministério da Saúde  Governo Federal",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
+    "regiao": "Nacional",
+    "data_dia": "2026-11-19",
+    "hora": "19/11 18:06",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -526,51 +526,6 @@
   },
   {
     "id": 36,
-    "titulo": "Força Nacional do SUS completa 15 anos com mais de 10 milhões de pessoas beneficiadas em todo o Brasil",
-    "veiculo": "Governo Federal",
-    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOTnVveUNUSTBobWJkUDdyU0RrRlBoQ3R1Qnh3U21fMXYyaktQdVY3TnYxZmx2dVBhVTVWVVJhcG5Nc2NTeVJFMkxRcG1XOER6M1ZCYnRvMHY2REdmNk5fejlOMkE1M2ttRC1FVFV5NlpjQ1FDOWVrTFRiZEplVjdiZlg0dkJ4U1FmUnVTZnUyc09FWWJId3EzaUoxVUg0ZVV3Y0s1Q2IybEJOQkJGM3hyVEpJellwVFNuZnBTbllQMm9jTDJYZTY0WnJiTlk2OEVRTFRRVFh4Y0dRZ2praG1xcVZCaElQa0tzWC1FamxfUktsMldoN2pxVw?oc=5",
-    "resumo": "Força Nacional do SUS completa 15 anos com mais de 10 milhões de pessoas beneficiadas em todo o Brasil  Governo Federal",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
-    "regiao": "Nacional",
-    "data_dia": "2026-11-17",
-    "hora": "17/11 19:50",
-    "tempo_leitura": "2 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 37,
-    "titulo": "Fortalecimento da participação indígena na gestão da saúde é pauta de encontro — Ministério da Saúde",
-    "veiculo": "Governo Federal",
-    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbTZ4RmREdDNUdXRFd29xdWItaW1XRmUyS0tnYVFTOVI5U2MyczRqeUwtYnJGaEVUeU53aFVHOGxVSFRtOW8tOVpIYk1SRm5YUXd6M2VBWmtBa1RKNDdGVFlyODIzRVBsbG15OXphbjF0OFVDXzZxWmc5OXMyOEY4eVRFLWlaRmZONmltaGFuMHQydnp1RHNUcGI2SmNuRDc0V2R6azV2TXZWaVAwbVlqNHVZZFJhcE50T3puaXhLZ2lhZGlGRzlMSFd1THhYc2JIZUQ3TWhoLVg?oc=5",
-    "resumo": "Fortalecimento da participação indígena na gestão da saúde é pauta de encontro — Ministério da Saúde  Governo Federal",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
-    "regiao": "Nacional",
-    "data_dia": "2026-11-19",
-    "hora": "19/11 18:06",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 38,
-    "titulo": "Ministério da Saúde lança guia para avaliação de dispositivos médicos implantáveis no SUS",
-    "veiculo": "GOV.BR",
-    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQ2FMa2JLRTdnLUxYUEU2UTNrbkgwbVI3U3J6dlRteUpKQlgySWlacXpPc1h2SERhQjlMYmZSTDdxcWhRRzZmYzFvUkpKUHhkS2tBTWlVNmpOblZpTXNGR2FHQ0pQcHdzNTNSakhlTWduWUt3VEZndkFuWWxiS2Fwc2toZlIxR1QyVzlJM0pQX01ucDZTNkZGY0dwRzRtX3ZNTE5NMUFtRXkwSTBiZU5NU28yOWJFWkVzZjRQeTB5TDNtdEVKV0dOekxXcUpTWUpFSU5vTg?oc=5",
-    "resumo": "Ministério da Saúde lança guia para avaliação de dispositivos médicos implantáveis no SUS  GOV.BR",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
-    "regiao": "Nacional",
-    "data_dia": "2026-11-19",
-    "hora": "19/11 11:55",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 39,
     "titulo": "No Paraná, Sesai destaca articulação para fortalecimento da atenção à saúde indígena — Ministério da Saúde",
     "veiculo": "Governo Federal",
     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWWJtbXF5OTZZb29LVzEzT3pnOXAzRjFUcF9lQTZIVzJZemF0cElaRGVTZFNmaXN5aDFFZFljX1RJRzlXZk1mUnVVMkVTcC1vel9xSHhLbkFFQlRpWGZ6ajg2VlNvYTM0N2FfQjJYUlhoRXkzWnVpNmo5VGgyYWtVQkJIM0V1aTBsUFFTeVZBbWRuQndqTkVCeTRuWWdWMlNRNVBKRXhhZk4wamozR1BQd3RySm92WUdja0c5amJ0d0F1VVIzRWg3Vzc5Wk9xUGtaV3Nub2ZYMTVlVVNuWnRZ?oc=5",
@@ -585,7 +540,7 @@
     "urgente": false
   },
   {
-    "id": 40,
+    "id": 37,
     "titulo": "Encontro nacional reúne projetos de apoio à formação em saúde e à permanência estudantil — Ministério da Saúde",
     "veiculo": "Governo Federal",
     "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUFRiYWljWUE5eXBLYWhVUWZtUlo0ZjRCYmZsRGRlSHg2dzU5bVZpRHRaREFPYmxSa1QwWGRITmZxQjJLYmhhV0gtWnJnUGJvOFh2T0EwR1pWbnZKbGU0UWpqQnJvN0NtcjZHd2ZHWVNkRzhFWk8tb3RMY3ozRGI5S1JfYW55d3FnaS1sdjdfSUlYenhEWXhSdHpybkVsWlM5SDRXN1I4dThOT041TnRiSUpObW5oSk0yQnJ5bi1mVDNkTTh0RFJKRVcyMUxHYTM3MC0yOFF0SkVDRXdmLXlPcTNjYnZBdw?oc=5",
@@ -597,6 +552,51 @@
     "data_dia": "2026-11-18",
     "hora": "18/11 17:06",
     "tempo_leitura": "2 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 38,
+    "titulo": "Força Nacional do SUS segue para Tupanciretã (RS) para assistência à população atingida por tempestade",
+    "veiculo": "www.gov.br",
+    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQSzRMZzV3UXZiSkRaQTNLLTJmem1fbXJSLXNqOVZZMXIyQnJGdjl0YkFYWGZoMURLY25BOHI1WGxmbEdoaUJtOHJjTGQwNnAwZEI4MF9ZRW0tUHVEMFp3ZFR1eDJ0eXdqekhYcmdFMFRRTmNwQUlEdk5HMFQtcXlnOHJOUWd4NjhZSUVFVXh1OHRPc2Z0SkhRSVo0MFMtbThWWXB5NXRxTU9kTUp5WXZsRmt1bW5QeVZlX2IyQjNIOUkzaUczMmpRZlY2UHJOTkdRVExsVUZDZU1TRFZnOEtXSUx1R0JPUU1venV5UkxyZXYyM2daRlVpRGNn?oc=5",
+    "resumo": "Força Nacional do SUS segue para Tupanciretã (RS) para assistência à população atingida por tempestade  www.gov.br",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
+    "regiao": "Nacional",
+    "data_dia": "2026-11-20",
+    "hora": "20/11 15:45",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 39,
+    "titulo": "Ministério da Saúde envia ao município do Rio mais mil frascos de vacina contra mpox",
+    "veiculo": "Governo Federal",
+    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQbl9qdXR0TUdTNkZIT2JIU0dOeEd5Y1VDSE5YZ0pZaGhHWTVWNFFtMEdYS2pDQXFTWURiRkh4TEdHaHd5Z19tWDRtSmYtRnBhR0VFZkJLNWdua1U0WUUta2RER0Vma25vV0lkb3RDNU1pdG5UU0ZUNER2WHM1dFRNdFhjUE1uQTJNeFNkTl9WSHR2YzVVTl9naVJJSDRIZFFvNnZxY3JuOFAwRklNdGVLZlFjXzZJbFU2cWxnMUVEcEhaNUkxQ2w0cVoxZE1OSDFiOFpuNGtobHphVllkNVhsTw?oc=5",
+    "resumo": "Ministério da Saúde envia ao município do Rio mais mil frascos de vacina contra mpox  Governo Federal",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
+    "regiao": "Nacional",
+    "data_dia": "2026-11-18",
+    "hora": "18/11 13:11",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 40,
+    "titulo": "Ministério das Cidades entrega 624 moradias do Minha Casa, Minha Vida em Botucatu (SP)",
+    "veiculo": "www.gov.br",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE03U2hzbWVfRTMyTzNVVE1va2NtbnNoZXFUM25iS1BVT2NPV2hkWnhRa0x5bkdiSHUyWTBKMWxIaXpvSW1iUDhXLV9uYnpmVjRmY2l4cVQwV1ZUdVBoV3hVN1c1VGIyUGxhcUg4Ull1V0FmY2M5Zk54TlRBWHM?oc=5",
+    "resumo": "Ministério das Cidades entrega 624 moradias do Minha Casa, Minha Vida em Botucatu (SP)  www.gov.br",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
+    "regiao": "Nacional",
+    "data_dia": "2026-11-19",
+    "hora": "19/11 16:41",
+    "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
@@ -616,16 +616,16 @@
   },
   {
     "id": 42,
-    "titulo": "Acampamento 8 de Março recebe curso de gestão administrativa e financeira camponesa e campanha “MST Contra as Violências”",
+    "titulo": "Dia da Música: Não se festeja porque a vida é boa",
     "veiculo": "mst.org.br",
-    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUVNLTmM3MGRYQk0xVXhIc0lrbF94eDZEcDIxX2c5TXdoTEZuZzJJTS1BTzN3ZUZYSUVpR3U2YWV4b2FITkJJcGJIQlROcmQtQndxekVLZThFcGt2SllzYjA3dzlDZFFLSVVndWJSeVp0YXZNbDJTOE1naXJvUEhaVGZJRUtlUktKMHFSVUFwRlQ5cy1ZZjFLSW14am9xaEdLS3k0dF9JcWtMWW5oOHpvc2dSTl8wNmZFbXJZV3l3MkJ2Z1FhM1R0MnNfeTNvYU5LdENKaFN2MmtscVZxRmw5U3gzTzM?oc=5",
-    "resumo": "Acampamento 8 de Março recebe curso de gestão administrativa e financeira camponesa e campanha “MST Contra as Violências”  mst.org.br",
-    "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
-    "categoria": "eleicoes",
-    "categoria_label": "🗳️ Eleições & Campanhas",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQS1F3ZzhEYjRhcXJZMzFyYnlxeUxsS0kzcnRxSW9zUVA4X0xRa3JMMk9kQ3l5N1d4b2VBRUNYamVHMkR3a0xzdzNDRW5RYnVnWWNJTVlBdWFYanc1ZjFaQ0ZMTEd5aktMR0ZzXzAxUkJwT3VwR1VQSUZxLXdTRUdGQllWaU9kZw?oc=5",
+    "resumo": "Dia da Música: Não se festeja porque a vida é boa  mst.org.br",
+    "imagem": "https://images.unsplash.com/photo-1531206715517-5c0ba140b2b8?w=800&q=80",
+    "categoria": "direitos",
+    "categoria_label": "✊ Direitos & Mobilização",
     "regiao": "Nacional",
-    "data_dia": "2026-11-21",
-    "hora": "Há 18h",
+    "data_dia": "2026-11-22",
+    "hora": "Há 3h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   }
