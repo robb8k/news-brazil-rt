@@ -1,6 +1,36 @@
 [
   {
     "id": 1,
+    "titulo": "Sebrae abre inscrições para empreendedores negros",
+    "veiculo": "Agência Brasil",
+    "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/sebrae-abre-inscricoes-para-empreendedores-negros",
+    "resumo": "O Serviço Brasileiro de Apoio às Micro e Pequenas Empresas (Sebrae) está com inscrições abertas para formar um grupo de empreendedores para atuar numa plataforma digital ...",
+    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
+    "categoria": "geral",
+    "categoria_label": "📢 Notícias do Povo",
+    "regiao": "Nacional",
+    "data_dia": "2026-11-23",
+    "hora": "Há 1h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": true
+  },
+  {
+    "id": 2,
+    "titulo": "Thaís Lima e Evelin são convocadas para última Data Fifa de 2026",
+    "veiculo": "Agência Brasil",
+    "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/thais-lima-e-evelin-sao-convocadas-para-ultima-data-fifa-de-2026",
+    "resumo": "A Confederação Brasileira de Futebol anunciou neste final de semana mais duas mudanças no grupo da Seleção Feminina para a última Data Fifa de 2026. Serão dois amistosos ...",
+    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
+    "categoria": "geral",
+    "categoria_label": "📢 Notícias do Povo",
+    "regiao": "Nacional",
+    "data_dia": "2026-11-22",
+    "hora": "Há 12h",
+    "tempo_leitura": "2 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 3,
     "titulo": "Escolas já podem se inscrever para a Olitef 2027",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-11/escolas-ja-podem-se-inscrever-para-olitef-2027",
@@ -10,12 +40,12 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-11-22",
-    "hora": "Há 4h",
+    "hora": "Há 13h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 2,
+    "id": 4,
     "titulo": "Temporais atingem 46 municípios e mais de 25 mil pessoas no RS",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/temporais-atingem-46-municipios-e-mais-de-25-mil-pessoas-no-rs",
@@ -25,12 +55,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Sul",
     "data_dia": "2026-11-22",
-    "hora": "Há 5h",
+    "hora": "Há 13h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
-    "id": 3,
+    "id": 5,
     "titulo": "“Não vamos recuar”, promete organizador de parada LGBTI+ do Rio",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-11/nao-vamos-recuar-promete-organizador-de-parada-lgbti-do-rio",
@@ -40,12 +70,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-22",
-    "hora": "Há 5h",
+    "hora": "Há 13h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 4,
+    "id": 6,
     "titulo": "Nova plataforma de streaming exibirá filmes de países do Brics",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/cultura/noticia/2026-11/nova-plataforma-de-streaming-exibira-filmes-de-paises-do-brics",
@@ -55,12 +85,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Sul",
     "data_dia": "2026-11-22",
-    "hora": "Há 6h",
+    "hora": "Há 15h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 5,
+    "id": 7,
     "titulo": "Simpósio de matemática premia professores e expõe soluções de ensino",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/educacao/noticia/2026-11/simposio-de-matematica-premia-professores-e-expoe-solucoes-de-ensino",
@@ -70,12 +100,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Nacional",
     "data_dia": "2026-11-22",
-    "hora": "Há 6h",
+    "hora": "Há 15h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
-    "id": 6,
+    "id": 8,
     "titulo": "Tempestades no Paraná deixam mais de 250 casas danificadas",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-11/tempestades-no-parana-deixam-mais-de-250-casas-danificadas",
@@ -85,12 +115,12 @@
     "categoria_label": "📢 Notícias do Povo",
     "regiao": "Sul",
     "data_dia": "2026-11-22",
-    "hora": "Há 7h",
+    "hora": "Há 15h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 7,
+    "id": 9,
     "titulo": "Último dia do Mundial de taekwondo paralímpico tem bronze brasileiro",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/ultimo-dia-do-mundial-de-taekwondo-paralimpico-tem-bronze-brasileiro",
@@ -100,12 +130,12 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Centro-Oeste",
     "data_dia": "2026-11-22",
-    "hora": "Há 7h",
+    "hora": "Há 15h",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
   {
-    "id": 8,
+    "id": 10,
     "titulo": "COP não terminava sem acordo desde 2009",
     "veiculo": "Agência Brasil",
     "link": "https://agenciabrasil.ebc.com.br/internacional/noticia/2026-11/cop-nao-terminava-sem-acordo-desde-2009",
@@ -115,38 +145,8 @@
     "categoria_label": "🌿 Meio Ambiente",
     "regiao": "Nacional",
     "data_dia": "2026-11-22",
-    "hora": "Há 8h",
+    "hora": "Há 16h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 9,
-    "titulo": "Bolsonaro segue internado na UTI sem previsão de alta",
-    "veiculo": "Agência Brasil",
-    "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/bolsonaro-segue-internado-na-uti-sem-previsao-de-alta",
-    "resumo": "O ex-presidente da República Jair Messias Bolsonaro segue internado em uma unidade de terapia intensiva (UTI), sem previsão de alta, no Hospital DF Star, em Brasília, com...",
-    "imagem": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=800&q=80",
-    "categoria": "geral",
-    "categoria_label": "📢 Notícias do Povo",
-    "regiao": "Centro-Oeste",
-    "data_dia": "2026-11-22",
-    "hora": "Há 8h",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 10,
-    "titulo": "Futebol feminino: São Paulo é campeão do Paulistão F Petrobras Sub-17",
-    "veiculo": "Agência Brasil",
-    "link": "https://agenciabrasil.ebc.com.br/esportes/noticia/2026-11/futebol-feminino-sao-paulo-e-campeao-do-paulistao-f-petrobras-sub-17",
-    "resumo": "O São Paulo é campeão do Paulistão F Petrobras Sub-17 de 2026. Em final única disputada na manhã de domingo (22), em Jaú, interior de São Paulo, e com transmissão ao vivo...",
-    "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
-    "categoria": "eleicoes",
-    "categoria_label": "🗳️ Eleições & Campanhas",
-    "regiao": "Sudeste",
-    "data_dia": "2026-11-22",
-    "hora": "Há 9h",
-    "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
@@ -310,7 +310,7 @@
     "categoria_label": "🗳️ Eleições & Campanhas",
     "regiao": "Nacional",
     "data_dia": "2026-11-22",
-    "hora": "Há 4h",
+    "hora": "Há 13h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -325,7 +325,7 @@
     "categoria_label": "🏛️ Políticas Públicas",
     "regiao": "Nacional",
     "data_dia": "2026-11-22",
-    "hora": "Há 7h",
+    "hora": "Há 16h",
     "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
@@ -466,21 +466,6 @@
   },
   {
     "id": 32,
-    "titulo": "Ministério da Saúde informa: encontro nacional reúne projetos de apoio à formação em saúde e à permanência estudantil",
-    "veiculo": "Agência Aids",
-    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVTFKUXlONHJyeEF1a2pqY05ITGFwVnhGMkkxN3B0WjBZWThuQmlrSkFCNFR3Yy1iWWc2WEFqU2FrUk53WDcteGgta3Z1a05XaEE0blBUd0M3V093dHZZRWpwdW9hOXE2WUwySkZwTE0xTjZqRnBrVFZUNmdnMjctc1JGanVDRDNfQ2R0eGhydktqd1l2c1M0RGF1aV9iZExwbFFibE9vc2xYdllBb1RXOG4telM0XzNoTl9NaTVZcGZUTWNZUlFKRURQcjlDUEpJRnNuUmcxQjg2Q2VqY1dQMkh1YldqZ0U3?oc=5",
-    "resumo": "Ministério da Saúde informa: encontro nacional reúne projetos de apoio à formação em saúde e à permanência estudantil  Agência Aids",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
-    "regiao": "Nacional",
-    "data_dia": "2026-11-22",
-    "hora": "Há 11h",
-    "tempo_leitura": "2 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 33,
     "titulo": "Força Nacional do SUS avalia instalar posto médico em Tupanciretã",
     "veiculo": "Agência Brasil",
     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQ214Uy1Xdm5JUjNpNFJZZnl2a0RlZkdHc0xrenFkX2pWRjZBOWFyN19OS0lLNEdod0tjSnJzaktwem5STm0tYVRFU3l4anAyUTB4aVFUQUY2UTRnU1pqSURHems0blRBeGQyRDNxZXFucVMyeHo0YWxfUUF6Zk9SWjIwMFkyWWc2SDdBRVNGeWRwdTEwaEI2SlJ0RnFpdVI4eHZhU1BCQTUyT0dUOHFOVkJ5VmY0RTc2QzhOVA?oc=5",
@@ -492,6 +477,21 @@
     "data_dia": "2026-11-21",
     "hora": "21/11 18:28",
     "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 33,
+    "titulo": "De olho na capilaridade do Minha Casa, Minha Vida: PT, MDB, PSD, PP e Republicanos disputam Ministério das Cidades",
+    "veiculo": "O GLOBO",
+    "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQWGI2NDFzSC1wVU5EZ2JSXzZQbFJ5SW04ME9sZlducE9TcGhUR2thdWc5cUxPR083aG4taC1fbHpaTDFmYkx2X3lDa0RCUE5RVF93TDc4R184bF9RZkhfdEZ4U3l1Q2NnVl93ZXVaTUItT2g3S1lLV05JQlNfTjVTaXBIVVZKUUNzTlR2bUpaZ01pTTl6ZjdqcDVHdVhCVkhpUDF1MlhDYzgxRUxNR1p6ZXc2M211V0s1MmxtRG83NjVEeGlyVGxnRDZ0WHJUWFlWbEMzVHZYLVNoMUI3U1R3SFBmSmN1eWFaMkU2WndiaUZ2ZFBPREs4NE5mRTXSAYsCQVVfeXFMTmxyaC1xakU3dEVrS1hQcEVyencyNjVScmhodFZKbjNpdWIyeVhtVlFsN3VvZFJDZU1xNTd4Zmc0QjVmeGhyYkRRUlB5cS1oRmpNWjh3ZW1RWG1TSHRlbWd2dDZDYWh2SDBEX2NoZE03UDVuNExHc3hicS1IS1ZPOGhaeWpmbHRjQUx2NDNSWjluTTV6dFZlaGI0Rl9MdkRsSWJiSHZrMXNhU2VQTW1tdnNfcGt2TDdXQzRQenFJcE1fUUhVWW4yUHZKekRYQm5LaEpLQ2YxTThYYlZPa29oamVlVHpxMThHNW45QkczSU9vUW9wSUxjZnNkUVI5VzlHcEdvWVJGamZJclNr?oc=5",
+    "resumo": "De olho na capilaridade do Minha Casa, Minha Vida: PT, MDB, PSD, PP e Republicanos disputam Ministério das Cidades  O GLOBO",
+    "imagem": "https://images.unsplash.com/photo-1540910419892-4a36d2c3266c?w=800&q=80",
+    "categoria": "eleicoes",
+    "categoria_label": "🗳️ Eleições & Campanhas",
+    "regiao": "Nacional",
+    "data_dia": "2026-11-20",
+    "hora": "20/11 03:30",
+    "tempo_leitura": "2 min de leitura",
     "urgente": false
   },
   {
@@ -511,6 +511,36 @@
   },
   {
     "id": 35,
+    "titulo": "PT deve controlar Saúde, Educação e ministérios robustos do governo Lula 4",
+    "veiculo": "Brasil 247",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSHgtbExXa0RQWHJvMUdYS2V6eS10V3B0c0pSeHBRQUpFN21qeTg4RHNfZXNtNHpjbURBNHhJcmw5QU96U2ZXdk9aeVFnZUlZUFdfd3p5cWVHb2Y1Q0I1Uy0tdnBUeE42TkRwSXVjU0dvM2l0S2g2bFhZQm80MXlpMGRBT2E0dWthX1N6OGU4WnBlQUo5dTNnaU5oWXVGQ0hveWJON0RQVlpYdw?oc=5",
+    "resumo": "PT deve controlar Saúde, Educação e ministérios robustos do governo Lula 4  Brasil 247",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
+    "regiao": "Nacional",
+    "data_dia": "2026-11-23",
+    "hora": "Há 6h",
+    "tempo_leitura": "1 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 36,
+    "titulo": "Ministério da Saúde informa: encontro nacional reúne projetos de apoio à formação em saúde e à permanência estudantil",
+    "veiculo": "Agência Aids",
+    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVTFKUXlONHJyeEF1a2pqY05ITGFwVnhGMkkxN3B0WjBZWThuQmlrSkFCNFR3Yy1iWWc2WEFqU2FrUk53WDcteGgta3Z1a05XaEE0blBUd0M3V093dHZZRWpwdW9hOXE2WUwySkZwTE0xTjZqRnBrVFZUNmdnMjctc1JGanVDRDNfQ2R0eGhydktqd1l2c1M0RGF1aV9iZExwbFFibE9vc2xYdllBb1RXOG4telM0XzNoTl9NaTVZcGZUTWNZUlFKRURQcjlDUEpJRnNuUmcxQjg2Q2VqY1dQMkh1YldqZ0U3?oc=5",
+    "resumo": "Ministério da Saúde informa: encontro nacional reúne projetos de apoio à formação em saúde e à permanência estudantil  Agência Aids",
+    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
+    "categoria": "social",
+    "categoria_label": "🏛️ Políticas Públicas",
+    "regiao": "Nacional",
+    "data_dia": "2026-11-22",
+    "hora": "Há 20h",
+    "tempo_leitura": "2 min de leitura",
+    "urgente": false
+  },
+  {
+    "id": 37,
     "titulo": "Ministério da Saúde distribui 5,590 mil kits para fortalecer a avaliação do crescimento infantil",
     "veiculo": "Governo Federal",
     "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPMzg4STNFTDEyLTFuMXh5N2FCcnBmMkNwbFFnS0F4SVpjTkFrZmo1clBTQ1ZMNlkwbTU2OUhuWl9qNldSQU1IVDlDcTU3bWdPelV0SUdxQ2V2QW80SHh6OTlqdjkxQkxHOWRoV1YtTS03TmFIRTdPQk1rSXRXeTYwU1ZHSWItN3BwYkhjNWpCR2VORXFPazZwVC1WVE1nTEN5aFB6S2UweHd5ZWJkUlNEaFJWUHJxUWlmZjhfWXFINlV4UHJONTVSTDJZeURhSjlicGppbXZyMmtMbFJCajBxajFKaVd6VGI3MUNZWV8wbUE?oc=5",
@@ -525,7 +555,7 @@
     "urgente": false
   },
   {
-    "id": 36,
+    "id": 38,
     "titulo": "Ministério da Saúde entrega unidade móvel do Consultório na Rua a Foz do Iguaçu",
     "veiculo": "Governo Federal",
     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNU0kyUnhXQkpjTkRKNl9SbHYtTTdtczB0cUVQb3hvcU9UZU9LX25IY3BxaTctRHhDVWpuOHZHTHlfbEJFUXVweFBVZlAwWXlZYzltMXB6X0pCSnowVndhbVpIc0gtVkZ5T0lwckVpajZBbDFvazBUamNXNUo5NXA2VElNRy1vam9VRWh5NDlYcHFkNlpfcG42WlZka0xKaUZoaEl2ZHdSY1NvRG1mal90dl9pYndHbmR5VzVnTl9WWDhULVVtQ0EzcFdqNFhlbU5lNERVWmpGbXFsQQ?oc=5",
@@ -540,7 +570,7 @@
     "urgente": false
   },
   {
-    "id": 37,
+    "id": 39,
     "titulo": "Governo do Brasil regulamenta jornada de trabalho na escala 5x2 — Ministério do Trabalho e Emprego",
     "veiculo": "Governo Federal",
     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNajVpNTFYd3JhSFhVN0JrdEUxRjRmdFhRTnlobzJpVmEyQVBuVGhXR3VxNXB1ZFVnMFEydm1jSlhmb1J0cWpnRnR2dUloYkNwR2tlZ21TUGxva2oxRGVDNWtzQzNDYVJpSkR6TDBnU2FLLVUtdHIwX1kybThBMXduRUxlYzZzUHJJdzQtN0haRWN5TmM0M3ZtS1M4UnhCOVZqMmstU3B1aHZRTHRoM1R4RHJEX09ud1dnUDNobVh0V2h4OTRVSkV0MXhrbU9BNHFUZzlMZWN3T0c?oc=5",
@@ -555,7 +585,7 @@
     "urgente": false
   },
   {
-    "id": 38,
+    "id": 40,
     "titulo": "CIT reforça integração da saúde e cooperação nos municípios de fronteira — Ministério da Saúde",
     "veiculo": "GOV.BR",
     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTkV1UXo4UG9tdGV5ZDFaYkkxTlRQSHdMM1hKVm1OclIzbHJQc1JMdDU3djNLZm1YR2pKalRfbFFXYVBkc3hpUW41WTJBWXV3M2JRbnBXb3RCblVXajl1VXd4N0xuUExIdENhcXRiVWc3dEhEU1hheG93T0ZMS3gxajdYRE5QODlWV0s0MDBsM0R2V3NOZ1BZWUN0LUlMbEhleUtIUl9JdkJNU0w0MFRNak1qX3pibWl1VjFSTHFIWlZydEktWXhKMzhrRlRJc0Ry?oc=5",
@@ -566,36 +596,6 @@
     "regiao": "Nacional",
     "data_dia": "2026-11-19",
     "hora": "19/11 16:06",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 39,
-    "titulo": "Força Nacional do SUS segue para Tupanciretã (RS) para assistência à população atingida por tempestade",
-    "veiculo": "www.gov.br",
-    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQSzRMZzV3UXZiSkRaQTNLLTJmem1fbXJSLXNqOVZZMXIyQnJGdjl0YkFYWGZoMURLY25BOHI1WGxmbEdoaUJtOHJjTGQwNnAwZEI4MF9ZRW0tUHVEMFp3ZFR1eDJ0eXdqekhYcmdFMFRRTmNwQUlEdk5HMFQtcXlnOHJOUWd4NjhZSUVFVXh1OHRPc2Z0SkhRSVo0MFMtbThWWXB5NXRxTU9kTUp5WXZsRmt1bW5QeVZlX2IyQjNIOUkzaUczMmpRZlY2UHJOTkdRVExsVUZDZU1TRFZnOEtXSUx1R0JPUU1venV5UkxyZXYyM2daRlVpRGNn?oc=5",
-    "resumo": "Força Nacional do SUS segue para Tupanciretã (RS) para assistência à população atingida por tempestade  www.gov.br",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
-    "regiao": "Nacional",
-    "data_dia": "2026-11-20",
-    "hora": "20/11 15:45",
-    "tempo_leitura": "1 min de leitura",
-    "urgente": false
-  },
-  {
-    "id": 40,
-    "titulo": "Ministério da Saúde envia ao município do Rio mais mil frascos de vacina contra mpox",
-    "veiculo": "Governo Federal",
-    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQbl9qdXR0TUdTNkZIT2JIU0dOeEd5Y1VDSE5YZ0pZaGhHWTVWNFFtMEdYS2pDQXFTWURiRkh4TEdHaHd5Z19tWDRtSmYtRnBhR0VFZkJLNWdua1U0WUUta2RER0Vma25vV0lkb3RDNU1pdG5UU0ZUNER2WHM1dFRNdFhjUE1uQTJNeFNkTl9WSHR2YzVVTl9naVJJSDRIZFFvNnZxY3JuOFAwRklNdGVLZlFjXzZJbFU2cWxnMUVEcEhaNUkxQ2w0cVoxZE1OSDFiOFpuNGtobHphVllkNVhsTw?oc=5",
-    "resumo": "Ministério da Saúde envia ao município do Rio mais mil frascos de vacina contra mpox  Governo Federal",
-    "imagem": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=800&q=80",
-    "categoria": "social",
-    "categoria_label": "🏛️ Políticas Públicas",
-    "regiao": "Nacional",
-    "data_dia": "2026-11-18",
-    "hora": "18/11 13:11",
     "tempo_leitura": "1 min de leitura",
     "urgente": false
   },
@@ -616,17 +616,17 @@
   },
   {
     "id": 42,
-    "titulo": "Dia da Música: Não se festeja porque a vida é boa",
-    "veiculo": "mst.org.br",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQS1F3ZzhEYjRhcXJZMzFyYnlxeUxsS0kzcnRxSW9zUVA4X0xRa3JMMk9kQ3l5N1d4b2VBRUNYamVHMkR3a0xzdzNDRW5RYnVnWWNJTVlBdWFYanc1ZjFaQ0ZMTEd5aktMR0ZzXzAxUkJwT3VwR1VQSUZxLXdTRUdGQllWaU9kZw?oc=5",
-    "resumo": "Dia da Música: Não se festeja porque a vida é boa  mst.org.br",
+    "titulo": "Agenda da semana: Câmara vota ajuste fiscal de Lula e STF debate direitos indígenas",
+    "veiculo": "Agência Pública",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdVVwV2w4T0RFRkRQT3MyTmtEdWdWLVk2VGNSWEU4RnFyc09MNTdOTEtYOUVSLThFMkJNVDZQLVVMeDE3RkZiRlJyU2s1Y2tOTGpSY3hVTWtiN0F1cEdSNXJtNXhTNHJUR3NBTkZPZGpRRVFOTk9UUUJSTGl3YUFvandLbnFjampTRGc1TDRZNnRlaEprSEhlTEQzdjBWak0zTlFhdlNyZTlwaEtYVEHSAbMBQVVfeXFMTy1uYXdLbGJZTmhEcy1HMnk5T3lsNzFzdVNGQldlX3hkUlQtOVZ2c1FfVWRJX0dMRnNUYVZpcDFIRzQySGpfMmdyeTFIQ3ZDOWN4cVE0Tkl1TERZTTM2YkF1RU1HTU5NeUYyelFmTjhxT05Qek16UmJ5MXA3b2sta1M3Q2Fodk1pUldBZzlnLUxiblBMWFBYbEZpaGduQjNEd3djS1NNaTkyYWlLbFI3RkF6SG8?oc=5",
+    "resumo": "Agenda da semana: Câmara vota ajuste fiscal de Lula e STF debate direitos indígenas  Agência Pública",
     "imagem": "https://images.unsplash.com/photo-1531206715517-5c0ba140b2b8?w=800&q=80",
     "categoria": "direitos",
     "categoria_label": "✊ Direitos & Mobilização",
     "regiao": "Nacional",
-    "data_dia": "2026-11-22",
-    "hora": "Há 13h",
+    "data_dia": "2026-11-23",
+    "hora": "Há 2h",
     "tempo_leitura": "1 min de leitura",
-    "urgente": false
+    "urgente": true
   }
 ]
